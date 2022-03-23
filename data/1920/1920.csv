@@ -1,0 +1,1299 @@
+Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
+1920,Antwerp,Aquatics,Diving,"PRIESTE, Harry",USA,Men,10M Platform,Bronze
+1920,Antwerp,Aquatics,Diving,"PINKSTON, Clarence",USA,Men,10M Platform,Gold
+1920,Antwerp,Aquatics,Diving,"ADLERZ, Erik",SWE,Men,10M Platform,Silver
+1920,Antwerp,Aquatics,Diving,"OLLIVIER, Eva",SWE,Women,10M Platform,Bronze
+1920,Antwerp,Aquatics,Diving,"FRYLAND CLAUSEN, Stefani",DEN,Women,10M Platform,Gold
+1920,Antwerp,Aquatics,Diving,"ARMSTRONG, Beatrix Eileen",GBR,Women,10M Platform,Silver
+1920,Antwerp,Aquatics,Diving,"BALBACH, Louis James",USA,Men,3M Springboard,Bronze
+1920,Antwerp,Aquatics,Diving,"KUEHN, Louis",USA,Men,3M Springboard,Gold
+1920,Antwerp,Aquatics,Diving,"PINKSTON, Clarence",USA,Men,3M Springboard,Silver
+1920,Antwerp,Aquatics,Diving,"PAYNE, Thelma",USA,Women,3M Springboard,Bronze
+1920,Antwerp,Aquatics,Diving,"RIGGIN, Aileen",USA,Women,3M Springboard,Gold
+1920,Antwerp,Aquatics,Diving,"WAINWRIGHT, Helen",USA,Women,3M Springboard,Silver
+1920,Antwerp,Aquatics,Diving,"JANSSON, John",SWE,Men,Plain High Diving,Bronze
+1920,Antwerp,Aquatics,Diving,"WALLMAN, Arvid",SWE,Men,Plain High Diving,Gold
+1920,Antwerp,Aquatics,Diving,"SKOGLUND, Nils",SWE,Men,Plain High Diving,Silver
+1920,Antwerp,Aquatics,Swimming,"BLITZ, Gerard",BEL,Men,100M Backstroke,Bronze
+1920,Antwerp,Aquatics,Swimming,"KEALOHA, Warren Paoa",USA,Men,100M Backstroke,Gold
+1920,Antwerp,Aquatics,Swimming,"KEGERIS, Raymond",USA,Men,100M Backstroke,Silver
+1920,Antwerp,Aquatics,Swimming,"HARRIS, William",USA,Men,100M Freestyle,Bronze
+1920,Antwerp,Aquatics,Swimming,"KAHANAMOKU, Duke Paoa",USA,Men,100M Freestyle,Gold
+1920,Antwerp,Aquatics,Swimming,"KEALOHA, Pua Kela",USA,Men,100M Freestyle,Silver
+1920,Antwerp,Aquatics,Swimming,"SCHROTH, Frances",USA,Women,100M Freestyle,Bronze
+1920,Antwerp,Aquatics,Swimming,"BLEIBTREY, Ethelda",USA,Women,100M Freestyle,Gold
+1920,Antwerp,Aquatics,Swimming,"GUEST, Irene",USA,Women,100M Freestyle,Silver
+1920,Antwerp,Aquatics,Swimming,"BEAUREPAIRE, Frank E.",AUS,Men,1500M Freestyle,Bronze
+1920,Antwerp,Aquatics,Swimming,"ROSS, Norman",USA,Men,1500M Freestyle,Gold
+1920,Antwerp,Aquatics,Swimming,"VERNOT, George",CAN,Men,1500M Freestyle,Silver
+1920,Antwerp,Aquatics,Swimming,"AALTONEN, Arvo Ossian",FIN,Men,200M Breaststroke,Bronze
+1920,Antwerp,Aquatics,Swimming,"MALMROT, Hakan",SWE,Men,200M Breaststroke,Gold
+1920,Antwerp,Aquatics,Swimming,"HENNING, Tor",SWE,Men,200M Breaststroke,Silver
+1920,Antwerp,Aquatics,Swimming,"AALTONEN, Arvo Ossian",FIN,Men,400M Breaststroke,Bronze
+1920,Antwerp,Aquatics,Swimming,"MALMROT, Hakan",SWE,Men,400M Breaststroke,Gold
+1920,Antwerp,Aquatics,Swimming,"HENNING, Tor",SWE,Men,400M Breaststroke,Silver
+1920,Antwerp,Aquatics,Swimming,"VERNOT, George",CAN,Men,400M Freestyle,Bronze
+1920,Antwerp,Aquatics,Swimming,"ROSS, Norman",USA,Men,400M Freestyle,Gold
+1920,Antwerp,Aquatics,Swimming,"LANGER, Ludy",USA,Men,400M Freestyle,Silver
+1920,Antwerp,Aquatics,Swimming,"SCHROTH, Frances",USA,Women,400M Freestyle,Bronze
+1920,Antwerp,Aquatics,Swimming,"BLEIBTREY, Ethelda",USA,Women,400M Freestyle,Gold
+1920,Antwerp,Aquatics,Swimming,"WOODBRIDGE, Margaret",USA,Women,400M Freestyle,Silver
+1920,Antwerp,Aquatics,Swimming,"BERG, Aina",SWE,Women,4X100M Freestyle Relay,Bronze
+1920,Antwerp,Aquatics,Swimming,"GYLLING, Jane",SWE,Women,4X100M Freestyle Relay,Bronze
+1920,Antwerp,Aquatics,Swimming,"MACHNOW, Emy",SWE,Women,4X100M Freestyle Relay,Bronze
+1920,Antwerp,Aquatics,Swimming,"NILSSON, Karin",SWE,Women,4X100M Freestyle Relay,Bronze
+1920,Antwerp,Aquatics,Swimming,"BLEIBTREY, Ethelda",USA,Women,4X100M Freestyle Relay,Gold
+1920,Antwerp,Aquatics,Swimming,"GUEST, Irene",USA,Women,4X100M Freestyle Relay,Gold
+1920,Antwerp,Aquatics,Swimming,"SCHROTH, Frances",USA,Women,4X100M Freestyle Relay,Gold
+1920,Antwerp,Aquatics,Swimming,"WOODBRIDGE, Margaret",USA,Women,4X100M Freestyle Relay,Gold
+1920,Antwerp,Aquatics,Swimming,"JAMES, Hilda",GBR,Women,4X100M Freestyle Relay,Silver
+1920,Antwerp,Aquatics,Swimming,"JEANS, Constance Mabel",GBR,Women,4X100M Freestyle Relay,Silver
+1920,Antwerp,Aquatics,Swimming,"MAC KENZIE, Grace",GBR,Women,4X100M Freestyle Relay,Silver
+1920,Antwerp,Aquatics,Swimming,"RADCLIFFE, Charlotte",GBR,Women,4X100M Freestyle Relay,Silver
+1920,Antwerp,Aquatics,Swimming,"ANNISON, Harold Edward",GBR,Men,4X200M Freestyle Relay,Bronze
+1920,Antwerp,Aquatics,Swimming,"PETER, Edward Percival",GBR,Men,4X200M Freestyle Relay,Bronze
+1920,Antwerp,Aquatics,Swimming,"SAVAGE, Leslie",GBR,Men,4X200M Freestyle Relay,Bronze
+1920,Antwerp,Aquatics,Swimming,"TAYLOR, Henry",GBR,Men,4X200M Freestyle Relay,Bronze
+1920,Antwerp,Aquatics,Swimming,"KAHANAMOKU, Duke Paoa",USA,Men,4X200M Freestyle Relay,Gold
+1920,Antwerp,Aquatics,Swimming,"KEALOHA, Pua Kela",USA,Men,4X200M Freestyle Relay,Gold
+1920,Antwerp,Aquatics,Swimming,"MCGILLIVRAY, Perry",USA,Men,4X200M Freestyle Relay,Gold
+1920,Antwerp,Aquatics,Swimming,"ROSS, Norman",USA,Men,4X200M Freestyle Relay,Gold
+1920,Antwerp,Aquatics,Swimming,"BEAUREPAIRE, Frank E.",AUS,Men,4X200M Freestyle Relay,Silver
+1920,Antwerp,Aquatics,Swimming,"HAY, Henry",AUS,Men,4X200M Freestyle Relay,Silver
+1920,Antwerp,Aquatics,Swimming,"HERALD, William",AUS,Men,4X200M Freestyle Relay,Silver
+1920,Antwerp,Aquatics,Swimming,"STEDMAN, Ivan",AUS,Men,4X200M Freestyle Relay,Silver
+1920,Antwerp,Aquatics,Water polo,"ANDERSSON, Erik",SWE,Men,Water Polo,Bronze
+1920,Antwerp,Aquatics,Water polo,"ANDERSSON, Robert T.",SWE,Men,Water Polo,Bronze
+1920,Antwerp,Aquatics,Water polo,"ANDERSSON, Vilhelm",SWE,Men,Water Polo,Bronze
+1920,Antwerp,Aquatics,Water polo,"BACKLUND, Nils",SWE,Men,Water Polo,Bronze
+1920,Antwerp,Aquatics,Water polo,"BERGQVIST, Erik",SWE,Men,Water Polo,Bronze
+1920,Antwerp,Aquatics,Water polo,"GUMPEL, Max",SWE,Men,Water Polo,Bronze
+1920,Antwerp,Aquatics,Water polo,"HANSSON, Pontus",SWE,Men,Water Polo,Bronze
+1920,Antwerp,Aquatics,Water polo,"JULIN, Harald S.A.",SWE,Men,Water Polo,Bronze
+1920,Antwerp,Aquatics,Water polo,"NAUMANN, Theodor",SWE,Men,Water Polo,Bronze
+1920,Antwerp,Aquatics,Water polo,"BUGBEE, Charles",GBR,Men,Water Polo,Gold
+1920,Antwerp,Aquatics,Water polo,"DEAN, William Henry",GBR,Men,Water Polo,Gold
+1920,Antwerp,Aquatics,Water polo,"JONES, Christopher",GBR,Men,Water Polo,Gold
+1920,Antwerp,Aquatics,Water polo,"PEACOCK, William",GBR,Men,Water Polo,Gold
+1920,Antwerp,Aquatics,Water polo,"PURCELL, Noel M.",GBR,Men,Water Polo,Gold
+1920,Antwerp,Aquatics,Water polo,"RADMILOVIC, Paul",GBR,Men,Water Polo,Gold
+1920,Antwerp,Aquatics,Water polo,"SMITH, Charles Sydney",GBR,Men,Water Polo,Gold
+1920,Antwerp,Aquatics,Water polo,"BAUWENS, René",BEL,Men,Water Polo,Silver
+1920,Antwerp,Aquatics,Water polo,"BLITZ, Gerard",BEL,Men,Water Polo,Silver
+1920,Antwerp,Aquatics,Water polo,"BLITZ, Maurice",BEL,Men,Water Polo,Silver
+1920,Antwerp,Aquatics,Water polo,"DEWIN, Pierre",BEL,Men,Water Polo,Silver
+1920,Antwerp,Aquatics,Water polo,"DURANT, Albert",BEL,Men,Water Polo,Silver
+1920,Antwerp,Aquatics,Water polo,"GAILLY, Paul",BEL,Men,Water Polo,Silver
+1920,Antwerp,Aquatics,Water polo,"NIJS, Pierre",BEL,Men,Water Polo,Silver
+1920,Antwerp,Aquatics,Water polo,"PLETINCX, Joseph",BEL,Men,Water Polo,Silver
+1920,Antwerp,Archery,Archery,"FLAMAND, Firmin",BEL,Men,Fixed Bird Target Large Birds,Bronze
+1920,Antwerp,Archery,Archery,"CLOETENS, Edmond",BEL,Men,Fixed Bird Target Large Birds,Gold
+1920,Antwerp,Archery,Archery,"VAN DE PERCK, Louis",BEL,Men,Fixed Bird Target Large Birds,Silver
+1920,Antwerp,Archery,Archery,"CLOETENS, Edmond",BEL,Men,Fixed Bird Target Large Birds Teams,Gold
+1920,Antwerp,Archery,Archery,"FLAMAND, Firmin",BEL,Men,Fixed Bird Target Large Birds Teams,Gold
+1920,Antwerp,Archery,Archery,"HERMANS, Joseph",BEL,Men,Fixed Bird Target Large Birds Teams,Gold
+1920,Antwerp,Archery,Archery,"VAN DE PERCK, Louis",BEL,Men,Fixed Bird Target Large Birds Teams,Gold
+1920,Antwerp,Archery,Archery,"VAN DE VERRE, Auguste",BEL,Men,Fixed Bird Target Large Birds Teams,Gold
+1920,Antwerp,Archery,Archery,"VAN MOER, Edmond",BEL,Men,Fixed Bird Target Large Birds Teams,Gold
+1920,Antwerp,Archery,Archery,"CLOETENS, Edmond",BEL,Men,"Fixed Bird Target Small Bird, Teams",Gold
+1920,Antwerp,Archery,Archery,"FLAMAND, Firmin",BEL,Men,"Fixed Bird Target Small Bird, Teams",Gold
+1920,Antwerp,Archery,Archery,"HERMANS, Joseph",BEL,Men,"Fixed Bird Target Small Bird, Teams",Gold
+1920,Antwerp,Archery,Archery,"VAN DE PERCK, Louis",BEL,Men,"Fixed Bird Target Small Bird, Teams",Gold
+1920,Antwerp,Archery,Archery,"VAN DE VERRE, Auguste",BEL,Men,"Fixed Bird Target Small Bird, Teams",Gold
+1920,Antwerp,Archery,Archery,"VAN MOER, Edmond",BEL,Men,"Fixed Bird Target Small Bird, Teams",Gold
+1920,Antwerp,Archery,Archery,"HERMANS, Joseph",BEL,Men,Fixed Bird Target Small Birds,Bronze
+1920,Antwerp,Archery,Archery,"VAN MOER, Edmond",BEL,Men,Fixed Bird Target Small Birds,Gold
+1920,Antwerp,Archery,Archery,"VAN DE PERCK, Louis",BEL,Men,Fixed Bird Target Small Birds,Silver
+1920,Antwerp,Archery,Archery,"BRULE, Julien Louis",FRA,Men,Moving Bird Target 28M Teams,Bronze
+1920,Antwerp,Archery,Archery,"EPIN, Léon",FRA,Men,Moving Bird Target 28M Teams,Bronze
+1920,Antwerp,Archery,Archery,"FAUVEL, Pascal",FRA,Men,Moving Bird Target 28M Teams,Bronze
+1920,Antwerp,Archery,Archery,"GRISOT, EugÃ¨ne G.",FRA,Men,Moving Bird Target 28M Teams,Bronze
+1920,Antwerp,Archery,Archery,"LEROY, Paul",FRA,Men,Moving Bird Target 28M Teams,Bronze
+1920,Antwerp,Archery,Archery,"MABELLON, Artur",FRA,Men,Moving Bird Target 28M Teams,Bronze
+1920,Antwerp,Archery,Archery,"QUENTIN, Léonce Gaston",FRA,Men,Moving Bird Target 28M Teams,Bronze
+1920,Antwerp,Archery,Archery,"RICHEZ, Eugène",FRA,Men,Moving Bird Target 28M Teams,Bronze
+1920,Antwerp,Archery,Archery,"DE BROUWER, Petrus Godefridus",NED,Men,Moving Bird Target 28M Teams,Gold
+1920,Antwerp,Archery,Archery,"PACKBIERS, Jan Joseph",NED,Men,Moving Bird Target 28M Teams,Gold
+1920,Antwerp,Archery,Archery,"THEEUWES, Adrianus Cornelis",NED,Men,Moving Bird Target 28M Teams,Gold
+1920,Antwerp,Archery,Archery,"VAN BUSSELL, Hendrikus",NED,Men,Moving Bird Target 28M Teams,Gold
+1920,Antwerp,Archery,Archery,"VAN GASTEL, Johannes Jacobus",NED,Men,Moving Bird Target 28M Teams,Gold
+1920,Antwerp,Archery,Archery,"VAN GESTEL, Jan-Babtiest-Jozef",NED,Men,Moving Bird Target 28M Teams,Gold
+1920,Antwerp,Archery,Archery,"VAN MERRIENBOER, Adrianus",NED,Men,Moving Bird Target 28M Teams,Gold
+1920,Antwerp,Archery,Archery,"WILLEMS, Theodorus B.",NED,Men,Moving Bird Target 28M Teams,Gold
+1920,Antwerp,Archery,Archery,"ALLAERT, Alphonse",BEL,Men,Moving Bird Target 28M Teams,Silver
+1920,Antwerp,Archery,Archery,"DE KNIBBER, Edmond",BEL,Men,Moving Bird Target 28M Teams,Silver
+1920,Antwerp,Archery,Archery,"DE MAYER, Jérome",BEL,Men,Moving Bird Target 28M Teams,Silver
+1920,Antwerp,Archery,Archery,"DELCON, Louis",BEL,Men,Moving Bird Target 28M Teams,Silver
+1920,Antwerp,Archery,Archery,"FIERENS, Louis",BEL,Men,Moving Bird Target 28M Teams,Silver
+1920,Antwerp,Archery,Archery,"VAN BEECK, Louis",BEL,Men,Moving Bird Target 28M Teams,Silver
+1920,Antwerp,Archery,Archery,"VAN INNIS, Hubert",BEL,Men,Moving Bird Target 28M Teams,Silver
+1920,Antwerp,Archery,Archery,"VAN THIELT, Pierre",BEL,Men,Moving Bird Target 28M Teams,Silver
+1920,Antwerp,Archery,Archery,"ALLAERT, Alphonse",BEL,Men,Moving Bird Target 33M Teams,Gold
+1920,Antwerp,Archery,Archery,"DE KNIBBER, Edmond",BEL,Men,Moving Bird Target 33M Teams,Gold
+1920,Antwerp,Archery,Archery,"DE MAYER, Jérome",BEL,Men,Moving Bird Target 33M Teams,Gold
+1920,Antwerp,Archery,Archery,"DELCON, Louis",BEL,Men,Moving Bird Target 33M Teams,Gold
+1920,Antwerp,Archery,Archery,"FIERENS, Louis",BEL,Men,Moving Bird Target 33M Teams,Gold
+1920,Antwerp,Archery,Archery,"VAN BEECK, Louis",BEL,Men,Moving Bird Target 33M Teams,Gold
+1920,Antwerp,Archery,Archery,"VAN INNIS, Hubert",BEL,Men,Moving Bird Target 33M Teams,Gold
+1920,Antwerp,Archery,Archery,"VAN THIELT, Pierre",BEL,Men,Moving Bird Target 33M Teams,Gold
+1920,Antwerp,Archery,Archery,"BRULE, Julien Louis",FRA,Men,Moving Bird Target 33M Teams,Silver
+1920,Antwerp,Archery,Archery,"EPIN, Léon",FRA,Men,Moving Bird Target 33M Teams,Silver
+1920,Antwerp,Archery,Archery,"FAUVEL, Pascal",FRA,Men,Moving Bird Target 33M Teams,Silver
+1920,Antwerp,Archery,Archery,"GRISOT, EugÃ¨ne G.",FRA,Men,Moving Bird Target 33M Teams,Silver
+1920,Antwerp,Archery,Archery,"LEROY, Paul",FRA,Men,Moving Bird Target 33M Teams,Silver
+1920,Antwerp,Archery,Archery,"MABELLON, Artur",FRA,Men,Moving Bird Target 33M Teams,Silver
+1920,Antwerp,Archery,Archery,"QUENTIN, Léonce Gaston",FRA,Men,Moving Bird Target 33M Teams,Silver
+1920,Antwerp,Archery,Archery,"RICHEZ, Eugène",FRA,Men,Moving Bird Target 33M Teams,Silver
+1920,Antwerp,Archery,Archery,"ALLAERT, Alphonse",BEL,Men,Moving Bird Target 50M Teams,Gold
+1920,Antwerp,Archery,Archery,"DE KNIBBER, Edmond",BEL,Men,Moving Bird Target 50M Teams,Gold
+1920,Antwerp,Archery,Archery,"DE MAYER, Jérome",BEL,Men,Moving Bird Target 50M Teams,Gold
+1920,Antwerp,Archery,Archery,"DELCON, Louis",BEL,Men,Moving Bird Target 50M Teams,Gold
+1920,Antwerp,Archery,Archery,"FIERENS, Louis",BEL,Men,Moving Bird Target 50M Teams,Gold
+1920,Antwerp,Archery,Archery,"VAN BEECK, Louis",BEL,Men,Moving Bird Target 50M Teams,Gold
+1920,Antwerp,Archery,Archery,"VAN INNIS, Hubert",BEL,Men,Moving Bird Target 50M Teams,Gold
+1920,Antwerp,Archery,Archery,"VAN THIELT, Pierre",BEL,Men,Moving Bird Target 50M Teams,Gold
+1920,Antwerp,Archery,Archery,"BRULE, Julien Louis",FRA,Men,Moving Bird Target 50M Teams,Silver
+1920,Antwerp,Archery,Archery,"EPIN, Léon",FRA,Men,Moving Bird Target 50M Teams,Silver
+1920,Antwerp,Archery,Archery,"FAUVEL, Pascal",FRA,Men,Moving Bird Target 50M Teams,Silver
+1920,Antwerp,Archery,Archery,"GRISOT, EugÃ¨ne G.",FRA,Men,Moving Bird Target 50M Teams,Silver
+1920,Antwerp,Archery,Archery,"LEROY, Paul",FRA,Men,Moving Bird Target 50M Teams,Silver
+1920,Antwerp,Archery,Archery,"MABELLON, Artur",FRA,Men,Moving Bird Target 50M Teams,Silver
+1920,Antwerp,Archery,Archery,"QUENTIN, Léonce Gaston",FRA,Men,Moving Bird Target 50M Teams,Silver
+1920,Antwerp,Archery,Archery,"RICHEZ, Eugène",FRA,Men,Moving Bird Target 50M Teams,Silver
+1920,Antwerp,Archery,Archery,"VAN INNIS, Hubert",BEL,Men,"Moving Bird Target, 28M",Gold
+1920,Antwerp,Archery,Archery,"QUENTIN, Léonce Gaston",FRA,Men,"Moving Bird Target, 28M",Silver
+1920,Antwerp,Archery,Archery,"VAN INNIS, Hubert",BEL,Men,"Moving Bird Target, 33M",Gold
+1920,Antwerp,Archery,Archery,"BRULE, Julien Louis",FRA,Men,"Moving Bird Target, 33M",Silver
+1920,Antwerp,Archery,Archery,"BRULE, Julien Louis",FRA,Men,"Moving Bird Target, 50M",Gold
+1920,Antwerp,Archery,Archery,"VAN INNIS, Hubert",BEL,Men,"Moving Bird Target, 50M",Silver
+1920,Antwerp,Athletics,Athletics,"WILSON, James",GBR,Men,10000M,Bronze
+1920,Antwerp,Athletics,Athletics,"NURMI, Paavo",FIN,Men,10000M,Gold
+1920,Antwerp,Athletics,Athletics,"GUILLEMOT, Joseph",FRA,Men,10000M,Silver
+1920,Antwerp,Athletics,Athletics,"GUNN, Charles",GBR,Men,10000M Walk,Bronze
+1920,Antwerp,Athletics,Athletics,"FRIGERIO, Ugo",ITA,Men,10000M Walk,Gold
+1920,Antwerp,Athletics,Athletics,"PEARMAN, Joseph",USA,Men,10000M Walk,Silver
+1920,Antwerp,Athletics,Athletics,"EDWARD, Harry",GBR,Men,100M,Bronze
+1920,Antwerp,Athletics,Athletics,"PADDOCK, Charles",USA,Men,100M,Gold
+1920,Antwerp,Athletics,Athletics,"KIRKSEY, Morris",USA,Men,100M,Silver
+1920,Antwerp,Athletics,Athletics,"MURRAY, Frederick",USA,Men,110M Hurdles,Bronze
+1920,Antwerp,Athletics,Athletics,"THOMSON, Earl",CAN,Men,110M Hurdles,Gold
+1920,Antwerp,Athletics,Athletics,"BARRON, Harold",USA,Men,110M Hurdles,Silver
+1920,Antwerp,Athletics,Athletics,"SHIELDS, Marion Lawrence",USA,Men,1500M,Bronze
+1920,Antwerp,Athletics,Athletics,"HILL, Albert",GBR,Men,1500M,Gold
+1920,Antwerp,Athletics,Athletics,"NOEL-BAKER, Philipp John",GBR,Men,1500M,Silver
+1920,Antwerp,Athletics,Athletics,"EDWARD, Harry",GBR,Men,200M,Bronze
+1920,Antwerp,Athletics,Athletics,"WOODRING, Allen",USA,Men,200M,Gold
+1920,Antwerp,Athletics,Athletics,"PADDOCK, Charles",USA,Men,200M,Silver
+1920,Antwerp,Athletics,Athletics,"AMBROSINI, Ernesto",ITA,Men,3000M Steeplechase,Bronze
+1920,Antwerp,Athletics,Athletics,"HODGE, Percy",GBR,Men,3000M Steeplechase,Gold
+1920,Antwerp,Athletics,Athletics,"FLYNN, Patrick",USA,Men,3000M Steeplechase,Silver
+1920,Antwerp,Athletics,Athletics,"BACKMAN, Erik",SWE,Men,3000M Team,Bronze
+1920,Antwerp,Athletics,Athletics,"LUNDGREN, Sven",SWE,Men,3000M Team,Bronze
+1920,Antwerp,Athletics,Athletics,"WIDE, Edvin",SWE,Men,3000M Team,Bronze
+1920,Antwerp,Athletics,Athletics,"BROWN, Horace Hallock",USA,Men,3000M Team,Gold
+1920,Antwerp,Athletics,Athletics,"DRESSER, Ivan",USA,Men,3000M Team,Gold
+1920,Antwerp,Athletics,Athletics,"SCHARDT, Arlie Alfred",USA,Men,3000M Team,Gold
+1920,Antwerp,Athletics,Athletics,"BLEWITT, Charles Edward",GBR,Men,3000M Team,Silver
+1920,Antwerp,Athletics,Athletics,"HILL, Albert",GBR,Men,3000M Team,Silver
+1920,Antwerp,Athletics,Athletics,"SEAGROVE, William Raymond",GBR,Men,3000M Team,Silver
+1920,Antwerp,Athletics,Athletics,"REMER, Richard Frederick",USA,Men,3000M Walk,Bronze
+1920,Antwerp,Athletics,Athletics,"FRIGERIO, Ugo",ITA,Men,3000M Walk,Gold
+1920,Antwerp,Athletics,Athletics,"PARKER, George",AUS,Men,3000M Walk,Silver
+1920,Antwerp,Athletics,Athletics,"ENGDAHL, Nils",SWE,Men,400M,Bronze
+1920,Antwerp,Athletics,Athletics,"RUDD, Bevil Gordon D'Urban",RSA,Men,400M,Gold
+1920,Antwerp,Athletics,Athletics,"BUTLER, Guy Montagu",GBR,Men,400M,Silver
+1920,Antwerp,Athletics,Athletics,"DESCH, August George",USA,Men,400M Hurdles,Bronze
+1920,Antwerp,Athletics,Athletics,"LOOMIS, Frank",USA,Men,400M Hurdles,Gold
+1920,Antwerp,Athletics,Athletics,"NORTON, John Kelley",USA,Men,400M Hurdles,Silver
+1920,Antwerp,Athletics,Athletics,"HOLMSTRÖM, Agne",SWE,Men,4X100M Relay,Bronze
+1920,Antwerp,Athletics,Athletics,"MALM, Sven",SWE,Men,4X100M Relay,Bronze
+1920,Antwerp,Athletics,Athletics,"PETERSSON, R. William E.",SWE,Men,4X100M Relay,Bronze
+1920,Antwerp,Athletics,Athletics,"SANDSTRÖM, Nils",SWE,Men,4X100M Relay,Bronze
+1920,Antwerp,Athletics,Athletics,"KIRKSEY, Morris",USA,Men,4X100M Relay,Gold
+1920,Antwerp,Athletics,Athletics,"MURCHISON, Loren",USA,Men,4X100M Relay,Gold
+1920,Antwerp,Athletics,Athletics,"PADDOCK, Charles",USA,Men,4X100M Relay,Gold
+1920,Antwerp,Athletics,Athletics,"SCHOLZ, Jackson",USA,Men,4X100M Relay,Gold
+1920,Antwerp,Athletics,Athletics,"ALI KAHN, Emile",FRA,Men,4X100M Relay,Silver
+1920,Antwerp,Athletics,Athletics,"LORAIN, René",FRA,Men,4X100M Relay,Silver
+1920,Antwerp,Athletics,Athletics,"MOURLON, René",FRA,Men,4X100M Relay,Silver
+1920,Antwerp,Athletics,Athletics,"TIRARD, René",FRA,Men,4X100M Relay,Silver
+1920,Antwerp,Athletics,Athletics,"ANDRE, Georges",FRA,Men,4X400M Relay,Bronze
+1920,Antwerp,Athletics,Athletics,"DELVART, Maurice",FRA,Men,4X400M Relay,Bronze
+1920,Antwerp,Athletics,Athletics,"DEVAUX, Jean André",FRA,Men,4X400M Relay,Bronze
+1920,Antwerp,Athletics,Athletics,"FERY, Gaston",FRA,Men,4X400M Relay,Bronze
+1920,Antwerp,Athletics,Athletics,"AINSWORTH-DAVIS, John Creyghton",GBR,Men,4X400M Relay,Gold
+1920,Antwerp,Athletics,Athletics,"BUTLER, Guy Montagu",GBR,Men,4X400M Relay,Gold
+1920,Antwerp,Athletics,Athletics,"GRIFFITHS, Cecil Richmond",GBR,Men,4X400M Relay,Gold
+1920,Antwerp,Athletics,Athletics,"LINDSAY, Robert Alexander",GBR,Men,4X400M Relay,Gold
+1920,Antwerp,Athletics,Athletics,"DAVEL, Harry",RSA,Men,4X400M Relay,Silver
+1920,Antwerp,Athletics,Athletics,"OLDFIELD, Clarence Winston",RSA,Men,4X400M Relay,Silver
+1920,Antwerp,Athletics,Athletics,"OOSTERLAAK, Jack",RSA,Men,4X400M Relay,Silver
+1920,Antwerp,Athletics,Athletics,"RUDD, Bevil Gordon D'Urban",RSA,Men,4X400M Relay,Silver
+1920,Antwerp,Athletics,Athletics,"BACKMAN, Erik",SWE,Men,5000M,Bronze
+1920,Antwerp,Athletics,Athletics,"GUILLEMOT, Joseph",FRA,Men,5000M,Gold
+1920,Antwerp,Athletics,Athletics,"NURMI, Paavo",FIN,Men,5000M,Silver
+1920,Antwerp,Athletics,Athletics,"LIND, Carl Johan",SWE,Men,56LB Weight Throw (25.4KG),Bronze
+1920,Antwerp,Athletics,Athletics,"MCDONALD, Patrick",USA,Men,56LB Weight Throw (25.4KG),Gold
+1920,Antwerp,Athletics,Athletics,"RYAN, Patrick",USA,Men,56LB Weight Throw (25.4KG),Silver
+1920,Antwerp,Athletics,Athletics,"RUDD, Bevil Gordon D'Urban",RSA,Men,800M,Bronze
+1920,Antwerp,Athletics,Athletics,"HILL, Albert",GBR,Men,800M,Gold
+1920,Antwerp,Athletics,Athletics,"EBY, Earl",USA,Men,800M,Silver
+1920,Antwerp,Athletics,Athletics,"LIIMATAINEN, Heikki",FIN,Men,Cross Country Individual,Bronze
+1920,Antwerp,Athletics,Athletics,"NURMI, Paavo",FIN,Men,Cross Country Individual,Gold
+1920,Antwerp,Athletics,Athletics,"BACKMAN, Erik",SWE,Men,Cross Country Individual,Silver
+1920,Antwerp,Athletics,Athletics,"BACKMAN, Erik",SWE,Men,Cross Country Team,Bronze
+1920,Antwerp,Athletics,Athletics,"EKMAN, Hilding",SWE,Men,Cross Country Team,Bronze
+1920,Antwerp,Athletics,Athletics,"MATTSSON, Gustaf",SWE,Men,Cross Country Team,Bronze
+1920,Antwerp,Athletics,Athletics,"KOSKENNIEMI, Frederik Teudor",FIN,Men,Cross Country Team,Gold
+1920,Antwerp,Athletics,Athletics,"LIIMATAINEN, Heikki",FIN,Men,Cross Country Team,Gold
+1920,Antwerp,Athletics,Athletics,"NURMI, Paavo",FIN,Men,Cross Country Team,Gold
+1920,Antwerp,Athletics,Athletics,"HEGARTY, Frank",GBR,Men,Cross Country Team,Silver
+1920,Antwerp,Athletics,Athletics,"NICHOLS, Alfred Hubert",GBR,Men,Cross Country Team,Silver
+1920,Antwerp,Athletics,Athletics,"WILSON, James",GBR,Men,Cross Country Team,Silver
+1920,Antwerp,Athletics,Athletics,"OHLSON, Bertil",SWE,Men,Decathlon,Bronze
+1920,Antwerp,Athletics,Athletics,"LÖVLAND, Helge Andreas",NOR,Men,Decathlon,Gold
+1920,Antwerp,Athletics,Athletics,"HAMILTON, Brutus Kerr",USA,Men,Decathlon,Silver
+1920,Antwerp,Athletics,Athletics,"POPE, Augustus",USA,Men,Discus Throw,Bronze
+1920,Antwerp,Athletics,Athletics,"NIKLANDER, Elmer Konstantin",FIN,Men,Discus Throw,Gold
+1920,Antwerp,Athletics,Athletics,"TAIPALE, Armas Rudolf",FIN,Men,Discus Throw,Silver
+1920,Antwerp,Athletics,Athletics,"BENNET, Basil",USA,Men,Hammer Throw,Bronze
+1920,Antwerp,Athletics,Athletics,"RYAN, Patrick",USA,Men,Hammer Throw,Gold
+1920,Antwerp,Athletics,Athletics,"LIND, Carl Johan",SWE,Men,Hammer Throw,Silver
+1920,Antwerp,Athletics,Athletics,"EKELUND, Bo",SWE,Men,High Jump,Bronze
+1920,Antwerp,Athletics,Athletics,"LANDON, Richmond",USA,Men,High Jump,Gold
+1920,Antwerp,Athletics,Athletics,"MULLER, Harold",USA,Men,High Jump,Silver
+1920,Antwerp,Athletics,Athletics,"JAALE-JOHANSSON, Paavo",FIN,Men,Javelin Throw,Bronze
+1920,Antwerp,Athletics,Athletics,"MYYRÄ, Jonni",FIN,Men,Javelin Throw,Gold
+1920,Antwerp,Athletics,Athletics,"PELTONEN, Urho Pellervo",FIN,Men,Javelin Throw,Silver
+1920,Antwerp,Athletics,Athletics,"ABRAHAMSSON, Erik",SWE,Men,Long Jump,Bronze
+1920,Antwerp,Athletics,Athletics,"PETERSSON, R. William E.",SWE,Men,Long Jump,Gold
+1920,Antwerp,Athletics,Athletics,"JOHNSON, Carl",USA,Men,Long Jump,Silver
+1920,Antwerp,Athletics,Athletics,"ARRI, Valerio",ITA,Men,Marathon,Bronze
+1920,Antwerp,Athletics,Athletics,"KOLEHMAINEN, Hannes",FIN,Men,Marathon,Gold
+1920,Antwerp,Athletics,Athletics,"LOSSMANN, Jüri",EST,Men,Marathon,Silver
+1920,Antwerp,Athletics,Athletics,"LAHTINEN, Hugo Jalmari",FIN,Men,Pentathlon,Bronze
+1920,Antwerp,Athletics,Athletics,"LEHTONEN, Eero Reino",FIN,Men,Pentathlon,Gold
+1920,Antwerp,Athletics,Athletics,"BRADLEY, Everett Lewis",USA,Men,Pentathlon,Silver
+1920,Antwerp,Athletics,Athletics,"MYERS, Edwin",USA,Men,Pole Vault,Bronze
+1920,Antwerp,Athletics,Athletics,"FOSS, Frank",USA,Men,Pole Vault,Gold
+1920,Antwerp,Athletics,Athletics,"PETERSEN, Henry",DEN,Men,Pole Vault,Silver
+1920,Antwerp,Athletics,Athletics,"LIVERSEDGE, Harry",USA,Men,Shot Put,Bronze
+1920,Antwerp,Athletics,Athletics,"PÖRHÖLÄ, Frans Wilhelmi",FIN,Men,Shot Put,Gold
+1920,Antwerp,Athletics,Athletics,"NIKLANDER, Elmer Konstantin",FIN,Men,Shot Put,Silver
+1920,Antwerp,Athletics,Athletics,"ALMLÖF, Erik",SWE,Men,Triple Jump,Bronze
+1920,Antwerp,Athletics,Athletics,"TUULOS, Vilho Immanuel",FIN,Men,Triple Jump,Gold
+1920,Antwerp,Athletics,Athletics,"JANSSON, Folke",SWE,Men,Triple Jump,Silver
+1920,Antwerp,Boxing,Boxing,"CUTHBERTSON, William",GBR,Men,- 50.8KG (Flyweight),Bronze
+1920,Antwerp,Boxing,Boxing,"DI GENARO, Frank",USA,Men,- 50.8KG (Flyweight),Gold
+1920,Antwerp,Boxing,Boxing,"PETERSEN, Anders",DEN,Men,- 50.8KG (Flyweight),Silver
+1920,Antwerp,Boxing,Boxing,"ELUERE, Albert Xavier",FRA,Men,+ 79.38KG (Heavyweight),Bronze
+1920,Antwerp,Boxing,Boxing,"RAWSON, Ronald",GBR,Men,+ 79.38KG (Heavyweight),Gold
+1920,Antwerp,Boxing,Boxing,"PETEERSEN, Sören",DEN,Men,+ 79.38KG (Heavyweight),Silver
+1920,Antwerp,Boxing,Boxing,"MCKENZIE, James",GBR,Men,50.8 - 53.52KG (Bantamweight),Bronze
+1920,Antwerp,Boxing,Boxing,"WALKER, Clarence Leonard",RSA,Men,50.8 - 53.52KG (Bantamweight),Gold
+1920,Antwerp,Boxing,Boxing,"GRAHAM, Clifford John",CAN,Men,50.8 - 53.52KG (Bantamweight),Silver
+1920,Antwerp,Boxing,Boxing,"GARZENA, Edoardo",ITA,Men,53.52 - 57.15KG (Featherweight),Bronze
+1920,Antwerp,Boxing,Boxing,"FRITSCH, Paul",FRA,Men,53.52 - 57.15KG (Featherweight),Gold
+1920,Antwerp,Boxing,Boxing,"GACHET, Jean",FRA,Men,53.52 - 57.15KG (Featherweight),Silver
+1920,Antwerp,Boxing,Boxing,"NEWTON, Clarence",CAN,Men,57.15 - 61.24KG (Lightweight),Bronze
+1920,Antwerp,Boxing,Boxing,"MOSBERG, Samuel",USA,Men,57.15 - 61.24KG (Lightweight),Gold
+1920,Antwerp,Boxing,Boxing,"JOHANSEN, Gotfred",DEN,Men,57.15 - 61.24KG (Lightweight),Silver
+1920,Antwerp,Boxing,Boxing,"COLBERG, Frederick William",USA,Men,61.24 - 66.68KG (Welterweight),Bronze
+1920,Antwerp,Boxing,Boxing,"SCHNEIDER, Julius Gustav Albert",CAN,Men,61.24 - 66.68KG (Welterweight),Gold
+1920,Antwerp,Boxing,Boxing,"IRELAND, Alexander",GBR,Men,61.24 - 66.68KG (Welterweight),Silver
+1920,Antwerp,Boxing,Boxing,"HERSCOVITCH, Montgomery Hart",CAN,Men,66.68 - 72.57KG (Middleweight),Bronze
+1920,Antwerp,Boxing,Boxing,"MALLIN, Harry William",GBR,Men,66.68 - 72.57KG (Middleweight),Gold
+1920,Antwerp,Boxing,Boxing,"PRUD'HOMME, George Arthur",CAN,Men,66.68 - 72.57KG (Middleweight),Silver
+1920,Antwerp,Boxing,Boxing,"FRANKS, Harold",GBR,Men,72.57 - 79.38KG (Light-Heavyweight),Bronze
+1920,Antwerp,Boxing,Boxing,"EAGAN, Edward",USA,Men,72.57 - 79.38KG (Light-Heavyweight),Gold
+1920,Antwerp,Boxing,Boxing,"SÖRSDAL, Sverre",NOR,Men,72.57 - 79.38KG (Light-Heavyweight),Silver
+1920,Antwerp,Cycling,Cycling Road,"CANTELOUBE, Fernand",FRA,Men,Individual Time Trial,Bronze
+1920,Antwerp,Cycling,Cycling Road,"STENQVIST, Harry",SWE,Men,Individual Time Trial,Gold
+1920,Antwerp,Cycling,Cycling Road,"KALTENBRUN, Henry Justaves",RSA,Men,Individual Time Trial,Silver
+1920,Antwerp,Cycling,Cycling Road,"DE BUINNE, Albert",BEL,Men,Team Time Trial,Bronze
+1920,Antwerp,Cycling,Cycling Road,"JANSSENS, Jean",BEL,Men,Team Time Trial,Bronze
+1920,Antwerp,Cycling,Cycling Road,"VERCRUYSSE, André",BEL,Men,Team Time Trial,Bronze
+1920,Antwerp,Cycling,Cycling Road,"WYCKMANS, Albert",BEL,Men,Team Time Trial,Bronze
+1920,Antwerp,Cycling,Cycling Road,"CANTELOUBE, Fernand",FRA,Men,Team Time Trial,Gold
+1920,Antwerp,Cycling,Cycling Road,"DETREILLE, Georges",FRA,Men,Team Time Trial,Gold
+1920,Antwerp,Cycling,Cycling Road,"GOBILLOT, Marcel",FRA,Men,Team Time Trial,Gold
+1920,Antwerp,Cycling,Cycling Road,"SOUCHARD, Achille",FRA,Men,Team Time Trial,Gold
+1920,Antwerp,Cycling,Cycling Road,"LUNDBERG, Sigfrid",SWE,Men,Team Time Trial,Silver
+1920,Antwerp,Cycling,Cycling Road,"MALM, Ragnar",SWE,Men,Team Time Trial,Silver
+1920,Antwerp,Cycling,Cycling Road,"PERSSON, Axel Wilhelm",SWE,Men,Team Time Trial,Silver
+1920,Antwerp,Cycling,Cycling Road,"STENQVIST, Harry",SWE,Men,Team Time Trial,Silver
+1920,Antwerp,Cycling,Cycling Track,"DE VRENG, Frans",NED,Men,2000M Tandem,Bronze
+1920,Antwerp,Cycling,Cycling Track,"IKELAAR, Petrus Gerardus",NED,Men,2000M Tandem,Bronze
+1920,Antwerp,Cycling,Cycling Track,"LANCE, Thomas Glasson",GBR,Men,2000M Tandem,Gold
+1920,Antwerp,Cycling,Cycling Track,"RYAN, Harry Edgar",GBR,Men,2000M Tandem,Gold
+1920,Antwerp,Cycling,Cycling Track,"SMITH, William R.",RSA,Men,2000M Tandem,Silver
+1920,Antwerp,Cycling,Cycling Track,"WALKER, James R.",RSA,Men,2000M Tandem,Silver
+1920,Antwerp,Cycling,Cycling Track,"IKELAAR, Petrus Gerardus",NED,Men,50KM,Bronze
+1920,Antwerp,Cycling,Cycling Track,"GEORGE, Henry",BEL,Men,50KM,Gold
+1920,Antwerp,Cycling,Cycling Track,"ALDEN, Cyril Albert",GBR,Men,50KM,Silver
+1920,Antwerp,Cycling,Cycling Track,"RYAN, Harry Edgar",GBR,Men,Sprint Indivual,Bronze
+1920,Antwerp,Cycling,Cycling Track,"PEETERS, Mauritius",NED,Men,Sprint Indivual,Gold
+1920,Antwerp,Cycling,Cycling Track,"JOHNSON, Horace Thomas",GBR,Men,Sprint Indivual,Silver
+1920,Antwerp,Cycling,Cycling Track,"GOOSEN, Harry W.",RSA,Men,Team Pursuit (4000M),Bronze
+1920,Antwerp,Cycling,Cycling Track,"KALTENBRUN, Henry Justaves",RSA,Men,Team Pursuit (4000M),Bronze
+1920,Antwerp,Cycling,Cycling Track,"SMITH, William R.",RSA,Men,Team Pursuit (4000M),Bronze
+1920,Antwerp,Cycling,Cycling Track,"WALKER, James R.",RSA,Men,Team Pursuit (4000M),Bronze
+1920,Antwerp,Cycling,Cycling Track,"CARLI, Arnaldo",ITA,Men,Team Pursuit (4000M),Gold
+1920,Antwerp,Cycling,Cycling Track,"FERRARIO, Ruggero",ITA,Men,Team Pursuit (4000M),Gold
+1920,Antwerp,Cycling,Cycling Track,"GIORGETTI, Franco",ITA,Men,Team Pursuit (4000M),Gold
+1920,Antwerp,Cycling,Cycling Track,"MAGNANI, Primo",ITA,Men,Team Pursuit (4000M),Gold
+1920,Antwerp,Cycling,Cycling Track,"ALDEN, Cyril Albert",GBR,Men,Team Pursuit (4000M),Silver
+1920,Antwerp,Cycling,Cycling Track,"JOHNSON, Horace Thomas",GBR,Men,Team Pursuit (4000M),Silver
+1920,Antwerp,Cycling,Cycling Track,"STEWART, William George",GBR,Men,Team Pursuit (4000M),Silver
+1920,Antwerp,Cycling,Cycling Track,"WHITE, Albert",GBR,Men,Team Pursuit (4000M),Silver
+1920,Antwerp,Equestrian,Dressage,"LUNDBLAD, Janne",SWE,Men,Individual,Gold
+1920,Antwerp,Equestrian,Eventing,"BONVALET, Jules",BEL,Men,Team,Bronze
+1920,Antwerp,Equestrian,Eventing,"LINTS, Oswald G. H.",BEL,Men,Team,Bronze
+1920,Antwerp,Equestrian,Eventing,"MISONNE, Jacques",BEL,Men,Team,Bronze
+1920,Antwerp,Equestrian,Eventing,"MOEREMANS D'EMAUS, Roger",BEL,Men,Team,Bronze
+1920,Antwerp,Equestrian,Eventing,"DYRSCH, Gustaf",SWE,Men,Team,Gold
+1920,Antwerp,Equestrian,Eventing,"LUNDSTRÖM, Age",SWE,Men,Team,Gold
+1920,Antwerp,Equestrian,Eventing,"MÖRNER, Helmer",SWE,Men,Team,Gold
+1920,Antwerp,Equestrian,Eventing,"VON BRAUN, Georg",SWE,Men,Team,Gold
+1920,Antwerp,Equestrian,Eventing,"ASINARI, Carlo",ITA,Men,Team,Silver
+1920,Antwerp,Equestrian,Eventing,"CACCIANDRA, Giulio",ITA,Men,Team,Silver
+1920,Antwerp,Equestrian,Eventing,"CAFFARATTI, Ettore",ITA,Men,Team,Silver
+1920,Antwerp,Equestrian,Eventing,"SPIGHI, Garibaldi",ITA,Men,Team,Silver
+1920,Antwerp,Equestrian,Jumping,"LEWENHAUPT, Carl Gustaf",SWE,Men,Individual,Bronze
+1920,Antwerp,Equestrian,Jumping,"LEQUIO DI ASSABA, Tommaso",ITA,Men,Individual,Gold
+1920,Antwerp,Equestrian,Jumping,"VALERIO, Alessandro",ITA,Men,Individual,Silver
+1920,Antwerp,Equestrian,Jumping,"ALVISI, Alessandro",ITA,Men,Team,Bronze
+1920,Antwerp,Equestrian,Jumping,"CACCIANDRA, Giulio",ITA,Men,Team,Bronze
+1920,Antwerp,Equestrian,Jumping,"CAFFARATTI, Ettore",ITA,Men,Team,Bronze
+1920,Antwerp,Equestrian,Jumping,"SPIGHI, Garibaldi",ITA,Men,Team,Bronze
+1920,Antwerp,Equestrian,Jumping,"DE KÖNIG, Claës",SWE,Men,Team,Gold
+1920,Antwerp,Equestrian,Jumping,"MARTIN, Frank",SWE,Men,Team,Gold
+1920,Antwerp,Equestrian,Jumping,"NORLING, Lars Daniel",SWE,Men,Team,Gold
+1920,Antwerp,Equestrian,Jumping,"VON ROSEN, Hans",SWE,Men,Team,Gold
+1920,Antwerp,Equestrian,Jumping,"COUMANS, André",BEL,Men,Team,Silver
+1920,Antwerp,Equestrian,Jumping,"DE BRIE, Thierry",BEL,Men,Team,Silver
+1920,Antwerp,Equestrian,Jumping,"DE GAIFFIER D'HESTROY, Hermann",BEL,Men,Team,Silver
+1920,Antwerp,Equestrian,Jumping,"D'OULTROMENT, Herman",BEL,Men,Team,Silver
+1920,Antwerp,Equestrian,Vaulting,"FINET, T.",BEL,Men,Figure Riding Individual,Bronze
+1920,Antwerp,Equestrian,Vaulting,"BOUCKAERT, T.",BEL,Men,Figure Riding Individual,Gold
+1920,Antwerp,Equestrian,Vaulting,FIELD,FRA,Men,Figure Riding Individual,Silver
+1920,Antwerp,Equestrian,Vaulting,"GREEN, Carl",SWE,Men,Figure Riding Team,Bronze
+1920,Antwerp,Equestrian,Vaulting,"MÄRTENSSON, Anders",SWE,Men,Figure Riding Team,Bronze
+1920,Antwerp,Equestrian,Vaulting,"NILSSON, Oskar",SWE,Men,Figure Riding Team,Bronze
+1920,Antwerp,Equestrian,Vaulting,"BOUCKAERT, T.",BEL,Men,Figure Riding Team,Gold
+1920,Antwerp,Equestrian,Vaulting,"FINET, T.",BEL,Men,Figure Riding Team,Gold
+1920,Antwerp,Equestrian,Vaulting,VAN CAUWENBERG,BEL,Men,Figure Riding Team,Gold
+1920,Antwerp,Equestrian,Vaulting,VAN RANST,BEL,Men,Figure Riding Team,Gold
+1920,Antwerp,Equestrian,Vaulting,VAN SCHAUWBROECK,BEL,Men,Figure Riding Team,Gold
+1920,Antwerp,Equestrian,Vaulting,CAUCHY,FRA,Men,Figure Riding Team,Silver
+1920,Antwerp,Equestrian,Vaulting,FIELD,FRA,Men,Figure Riding Team,Silver
+1920,Antwerp,Equestrian,Vaulting,SALINS,FRA,Men,Figure Riding Team,Silver
+1920,Antwerp,Fencing,Fencing,"BUCHARD, Gustave",FRA,Men,Épée Individual,Bronze
+1920,Antwerp,Fencing,Fencing,"MASSARD, Armand",FRA,Men,Épée Individual,Gold
+1920,Antwerp,Fencing,Fencing,"LIPPMANN, Alexandre",FRA,Men,Épée Individual,Silver
+1920,Antwerp,Fencing,Fencing,"AMSON, Gaston",FRA,Men,Épée Team,Bronze
+1920,Antwerp,Fencing,Fencing,"BUCHARD, Gustave",FRA,Men,Épée Team,Bronze
+1920,Antwerp,Fencing,Fencing,"CASANOVA, Georges",FRA,Men,Épée Team,Bronze
+1920,Antwerp,Fencing,Fencing,"LIPPMANN, Alexandre",FRA,Men,Épée Team,Bronze
+1920,Antwerp,Fencing,Fencing,"MASSARD, Armand",FRA,Men,Épée Team,Bronze
+1920,Antwerp,Fencing,Fencing,"MOREAU, Emile",FRA,Men,Épée Team,Bronze
+1920,Antwerp,Fencing,Fencing,"TROMBERT, Georges",FRA,Men,Épée Team,Bronze
+1920,Antwerp,Fencing,Fencing,"ABELARDO, Olivier",ITA,Men,Épée Team,Gold
+1920,Antwerp,Fencing,Fencing,"ALLOCHIO, Antonio",ITA,Men,Épée Team,Gold
+1920,Antwerp,Fencing,Fencing,"BOZZA, Tullio",ITA,Men,Épée Team,Gold
+1920,Antwerp,Fencing,Fencing,"CANOVA, Giovanni",ITA,Men,Épée Team,Gold
+1920,Antwerp,Fencing,Fencing,"CONSTANTINO, Tommaso",ITA,Men,Épée Team,Gold
+1920,Antwerp,Fencing,Fencing,"MARRAZZI, Andrea",ITA,Men,Épée Team,Gold
+1920,Antwerp,Fencing,Fencing,"NADI, Aldo",ITA,Men,Épée Team,Gold
+1920,Antwerp,Fencing,Fencing,"NADI, Nedo",ITA,Men,Épée Team,Gold
+1920,Antwerp,Fencing,Fencing,"THAON DI REVEL, Paolo",ITA,Men,Épée Team,Gold
+1920,Antwerp,Fencing,Fencing,"URBANI, Dino",ITA,Men,Épée Team,Gold
+1920,Antwerp,Fencing,Fencing,"ANSPACH, Paul",BEL,Men,Épée Team,Silver
+1920,Antwerp,Fencing,Fencing,"BOIN, Victor",BEL,Men,Épée Team,Silver
+1920,Antwerp,Fencing,Fencing,"DE CRAECKER, Joseph",BEL,Men,Épée Team,Silver
+1920,Antwerp,Fencing,Fencing,"DE MONTIGNY, Fernand",BEL,Men,Épée Team,Silver
+1920,Antwerp,Fencing,Fencing,"DE WEE, Maurice",BEL,Men,Épée Team,Silver
+1920,Antwerp,Fencing,Fencing,"GEVERS, Ernest",BEL,Men,Épée Team,Silver
+1920,Antwerp,Fencing,Fencing,"GOBLET D'AVIELLA, Félix",BEL,Men,Épée Team,Silver
+1920,Antwerp,Fencing,Fencing,"LE HARDY DE BEAULIEU, Philippe",BEL,Men,Épée Team,Silver
+1920,Antwerp,Fencing,Fencing,"TOM, Léon",BEL,Men,Épée Team,Silver
+1920,Antwerp,Fencing,Fencing,"DUCRET, Roger François",FRA,Men,Foil Individual,Bronze
+1920,Antwerp,Fencing,Fencing,"NADI, Nedo",ITA,Men,Foil Individual,Gold
+1920,Antwerp,Fencing,Fencing,"CATTIAU, Philippe",FRA,Men,Foil Individual,Silver
+1920,Antwerp,Fencing,Fencing,"BRECKINRIDGE, Henry Cabell",USA,Men,Foil Team,Bronze
+1920,Antwerp,Fencing,Fencing,"HONEYCUTT, Francis Webster",USA,Men,Foil Team,Bronze
+1920,Antwerp,Fencing,Fencing,"LYON, Arthur St Clair",USA,Men,Foil Team,Bronze
+1920,Antwerp,Fencing,Fencing,"RAYNER, Harold",USA,Men,Foil Team,Bronze
+1920,Antwerp,Fencing,Fencing,"SEARS, Robert",USA,Men,Foil Team,Bronze
+1920,Antwerp,Fencing,Fencing,"ABELARDO, Olivier",ITA,Men,Foil Team,Gold
+1920,Antwerp,Fencing,Fencing,"BALDI, Baldo",ITA,Men,Foil Team,Gold
+1920,Antwerp,Fencing,Fencing,"CONSTANTINO, Tommaso",ITA,Men,Foil Team,Gold
+1920,Antwerp,Fencing,Fencing,"NADI, Aldo",ITA,Men,Foil Team,Gold
+1920,Antwerp,Fencing,Fencing,"NADI, Nedo",ITA,Men,Foil Team,Gold
+1920,Antwerp,Fencing,Fencing,"PULITI, Oreste",ITA,Men,Foil Team,Gold
+1920,Antwerp,Fencing,Fencing,"SPECIALE, Pietro",ITA,Men,Foil Team,Gold
+1920,Antwerp,Fencing,Fencing,"TERLIZZI, Rodolfo",ITA,Men,Foil Team,Gold
+1920,Antwerp,Fencing,Fencing,"AMSON, Gaston",FRA,Men,Foil Team,Silver
+1920,Antwerp,Fencing,Fencing,"BONY DE CASTELLANE, Lionel",FRA,Men,Foil Team,Silver
+1920,Antwerp,Fencing,Fencing,"CATTIAU, Philippe",FRA,Men,Foil Team,Silver
+1920,Antwerp,Fencing,Fencing,"DUCRET, Roger François",FRA,Men,Foil Team,Silver
+1920,Antwerp,Fencing,Fencing,"GAUDIN, Lucien",FRA,Men,Foil Team,Silver
+1920,Antwerp,Fencing,Fencing,"LABATTUT, André",FRA,Men,Foil Team,Silver
+1920,Antwerp,Fencing,Fencing,"PERROT, Marcel",FRA,Men,Foil Team,Silver
+1920,Antwerp,Fencing,Fencing,"TROMBERT, Georges",FRA,Men,Foil Team,Silver
+1920,Antwerp,Fencing,Fencing,"DE JONG, Adrianus Egbertus Willem",NED,Men,Sabre Individual,Bronze
+1920,Antwerp,Fencing,Fencing,"NADI, Nedo",ITA,Men,Sabre Individual,Gold
+1920,Antwerp,Fencing,Fencing,"NADI, Aldo",ITA,Men,Sabre Individual,Silver
+1920,Antwerp,Fencing,Fencing,"DE JONG, Adrianus Egbertus Willem",NED,Men,Sabre Team,Bronze
+1920,Antwerp,Fencing,Fencing,"DELAUNOY, Louis Albert Armand Etienne",NED,Men,Sabre Team,Bronze
+1920,Antwerp,Fencing,Fencing,"DOORMAN, Jetze",NED,Men,Sabre Team,Bronze
+1920,Antwerp,Fencing,Fencing,"VAN BLIJENBURGH, Willem Peter Hubert",NED,Men,Sabre Team,Bronze
+1920,Antwerp,Fencing,Fencing,"VAN DER WIEL, Jan",NED,Men,Sabre Team,Bronze
+1920,Antwerp,Fencing,Fencing,"ZELDENRUST, Salomon",NED,Men,Sabre Team,Bronze
+1920,Antwerp,Fencing,Fencing,"BALDI, Baldo",ITA,Men,Sabre Team,Gold
+1920,Antwerp,Fencing,Fencing,"CESERANO, Frederico Secondo",ITA,Men,Sabre Team,Gold
+1920,Antwerp,Fencing,Fencing,"GARGANO, Francesco",ITA,Men,Sabre Team,Gold
+1920,Antwerp,Fencing,Fencing,"NADI, Aldo",ITA,Men,Sabre Team,Gold
+1920,Antwerp,Fencing,Fencing,"NADI, Nedo",ITA,Men,Sabre Team,Gold
+1920,Antwerp,Fencing,Fencing,"PULITI, Oreste",ITA,Men,Sabre Team,Gold
+1920,Antwerp,Fencing,Fencing,"SANTELLI, Italo",ITA,Men,Sabre Team,Gold
+1920,Antwerp,Fencing,Fencing,"URBANI, Dino",ITA,Men,Sabre Team,Gold
+1920,Antwerp,Fencing,Fencing,"DE SAINT GERMAIN, Henri Marie Raoul",FRA,Men,Sabre Team,Silver
+1920,Antwerp,Fencing,Fencing,"LACROIX, Jean André",FRA,Men,Sabre Team,Silver
+1920,Antwerp,Fencing,Fencing,"MARGRAFF, Jean",FRA,Men,Sabre Team,Silver
+1920,Antwerp,Fencing,Fencing,"MONDIELLI, Jean",FRA,Men,Sabre Team,Silver
+1920,Antwerp,Fencing,Fencing,"PERRODON, Marc Marie Jean",FRA,Men,Sabre Team,Silver
+1920,Antwerp,Fencing,Fencing,"TROMBERT, Georges",FRA,Men,Sabre Team,Silver
+1920,Antwerp,Football,Football,"BIESHAAR, Adrianus Gerardus",NED,Men,Football,Bronze
+1920,Antwerp,Football,Football,"BOSSCHART, Léonard François Gérard",NED,Men,Football,Bronze
+1920,Antwerp,Football,Football,"BULDER, Evert Jan",NED,Men,Football,Bronze
+1920,Antwerp,Football,Football,"BULDER, Jacob Eise",NED,Men,Football,Bronze
+1920,Antwerp,Football,Football,"DE NATRIS, Johannes Daniel",NED,Men,Football,Bronze
+1920,Antwerp,Football,Football,"DENIS, Henri Léonard Barthélémi",NED,Men,Football,Bronze
+1920,Antwerp,Football,Football,"GROOSJOHAN, Bernardus",NED,Men,Football,Bronze
+1920,Antwerp,Football,Football,"KUIPERS, Frederik Carel",NED,Men,Football,Bronze
+1920,Antwerp,Football,Football,"MACNEILL, Richard",NED,Men,Football,Bronze
+1920,Antwerp,Football,Football,"STEEMAN, Hermanus Hendricus",NED,Men,Football,Bronze
+1920,Antwerp,Football,Football,"VAN DORT, Jan Leendert",NED,Men,Football,Bronze
+1920,Antwerp,Football,Football,"VAN RAPPARD, Oscar Emile",NED,Men,Football,Bronze
+1920,Antwerp,Football,Football,"VERWEIJ, Bernard Willem Jan",NED,Men,Football,Bronze
+1920,Antwerp,Football,Football,"VON HEYDEN, Herman Carel Felix Clothilde",NED,Men,Football,Bronze
+1920,Antwerp,Football,Football,"BALYU, Félix",BEL,Men,Football,Gold
+1920,Antwerp,Football,Football,"BASTIN, Désiré",BEL,Men,Football,Gold
+1920,Antwerp,Football,Football,"BRAGARD, Mathieu",BEL,Men,Football,Gold
+1920,Antwerp,Football,Football,"COPPEE, Robert",BEL,Men,Football,Gold
+1920,Antwerp,Football,Football,"DE BIE, Jan",BEL,Men,Football,Gold
+1920,Antwerp,Football,Football,"FIERENS, André",BEL,Men,Football,Gold
+1920,Antwerp,Football,Football,"HANSE, Emile",BEL,Men,Football,Gold
+1920,Antwerp,Football,Football,"HEBDIN, Georges",BEL,Men,Football,Gold
+1920,Antwerp,Football,Football,"LARNOE, Henri",BEL,Men,Football,Gold
+1920,Antwerp,Football,Football,"MUSCH, Joseph",BEL,Men,Football,Gold
+1920,Antwerp,Football,Football,"NISOT, Fernand",BEL,Men,Football,Gold
+1920,Antwerp,Football,Football,"SWARTENBROEKS, Armand",BEL,Men,Football,Gold
+1920,Antwerp,Football,Football,"VAN HEGE, Louis",BEL,Men,Football,Gold
+1920,Antwerp,Football,Football,"VERBEECK, Oscar",BEL,Men,Football,Gold
+1920,Antwerp,Football,Football,"ACEDO, Domingo",ESP,Men,Football,Silver
+1920,Antwerp,Football,Football,"ARABOLAZA, Patricio",ESP,Men,Football,Silver
+1920,Antwerp,Football,Football,"ARRATE, Mariano",ESP,Men,Football,Silver
+1920,Antwerp,Football,Football,"ARTOLA, Juan",ESP,Men,Football,Silver
+1920,Antwerp,Football,Football,"BELAUTEGUIGOITIA LANDALUCE, Jose",ESP,Men,Football,Silver
+1920,Antwerp,Football,Football,"BILBAO, Sabino",ESP,Men,Football,Silver
+1920,Antwerp,Football,Football,"EQUIAZABAL, Ramon",ESP,Men,Football,Silver
+1920,Antwerp,Football,Football,"GIL, Ramon Moncho",ESP,Men,Football,Silver
+1920,Antwerp,Football,Football,"IZAGUIRRE, Silverio",ESP,Men,Football,Silver
+1920,Antwerp,Football,Football,"MORENO, Rafael",ESP,Men,Football,Silver
+1920,Antwerp,Football,Football,"OTERO, Luis",ESP,Men,Football,Silver
+1920,Antwerp,Football,Football,"PAGAZAURTUNDUO, Francisco",ESP,Men,Football,Silver
+1920,Antwerp,Football,Football,"SAMITIER VILALTA, José",ESP,Men,Football,Silver
+1920,Antwerp,Football,Football,"SANCHO, Agustin",ESP,Men,Football,Silver
+1920,Antwerp,Football,Football,"SESUMAGA, Félix",ESP,Men,Football,Silver
+1920,Antwerp,Football,Football,"VALLANA JEANGUENAT, Pedro",ESP,Men,Football,Silver
+1920,Antwerp,Football,Football,"VAZQUEZ, Joaquin",ESP,Men,Football,Silver
+1920,Antwerp,Football,Football,"ZAMORA MARTINEZ, Ricardo",ESP,Men,Football,Silver
+1920,Antwerp,Gymnastics,Artistic G.,"GOUNOT, Jean",FRA,Men,Individual All-Round,Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"ZAMPORI, Giorgio",ITA,Men,Individual All-Round,Gold
+1920,Antwerp,Gymnastics,Artistic G.,"TORRES, Marcos",FRA,Men,Individual All-Round,Silver
+1920,Antwerp,Gymnastics,Artistic G.,"BERGER, Georges",FRA,Men,Team Competition,Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"BOUCHES, Emile",FRA,Men,Team Competition,Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"BOULANGER, René",FRA,Men,Team Competition,Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"BUYENNE, Alfred",FRA,Men,Team Competition,Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"CORDONNIER, Eugène",FRA,Men,Team Competition,Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"DELSARTE, Léon",FRA,Men,Team Competition,Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"DEMANET, Lucien",FRA,Men,Team Competition,Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"DURIN, Paul Joseph",FRA,Men,Team Competition,Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"DUVANT, Georges",FRA,Men,Team Competition,Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"FAUCONNIER, Fernand",FRA,Men,Team Competition,Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"HERMANN, Arthur",FRA,Men,Team Competition,Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"HERSOYE, Albert",FRA,Men,Team Competition,Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"HIGELIN, André",FRA,Men,Team Competition,Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"HOEL, Auguste",FRA,Men,Team Competition,Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"KEMPE, Louis",FRA,Men,Team Competition,Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"LAGOUGE, Georges",FRA,Men,Team Competition,Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"LEMAIRE, Paulin Alexandre",FRA,Men,Team Competition,Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"LESPINASSE, Ernest",FRA,Men,Team Competition,Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"MARTEL, Emile",FRA,Men,Team Competition,Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"PIRARD, Jules",FRA,Men,Team Competition,Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"POLLET, Eugène",FRA,Men,Team Competition,Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"THURNHERR, Georges",FRA,Men,Team Competition,Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"WARTELLE, Julien",FRA,Men,Team Competition,Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"WARTELLE, Paul",FRA,Men,Team Competition,Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"ANDREOLI, Arnaldo",ITA,Men,Team Competition,Gold
+1920,Antwerp,Gymnastics,Artistic G.,"BATTISTA, Pastorini Battista",ITA,Men,Team Competition,Gold
+1920,Antwerp,Gymnastics,Artistic G.,"BELOTTO, Ettore",ITA,Men,Team Competition,Gold
+1920,Antwerp,Gymnastics,Artistic G.,"BIANCHI, Pietro",ITA,Men,Team Competition,Gold
+1920,Antwerp,Gymnastics,Artistic G.,"BONATTI, Fernando",ITA,Men,Team Competition,Gold
+1920,Antwerp,Gymnastics,Artistic G.,"CAMBIASO, Luigi",ITA,Men,Team Competition,Gold
+1920,Antwerp,Gymnastics,Artistic G.,"CONTESSI, Luigi",ITA,Men,Team Competition,Gold
+1920,Antwerp,Gymnastics,Artistic G.,"COSTIGLIOLO, Carlo",ITA,Men,Team Competition,Gold
+1920,Antwerp,Gymnastics,Artistic G.,"COSTIGLIOLO, Luigi",ITA,Men,Team Competition,Gold
+1920,Antwerp,Gymnastics,Artistic G.,"DOMENICHELLI, Guiseppe",ITA,Men,Team Competition,Gold
+1920,Antwerp,Gymnastics,Artistic G.,"FERRARI, Roberto",ITA,Men,Team Competition,Gold
+1920,Antwerp,Gymnastics,Artistic G.,"FREGOSI, Carlo",ITA,Men,Team Competition,Gold
+1920,Antwerp,Gymnastics,Artistic G.,"GHIGLIONE, Romualdo",ITA,Men,Team Competition,Gold
+1920,Antwerp,Gymnastics,Artistic G.,"LEVATI, Ambrogio",ITA,Men,Team Competition,Gold
+1920,Antwerp,Gymnastics,Artistic G.,"LOI, Francesco",ITA,Men,Team Competition,Gold
+1920,Antwerp,Gymnastics,Artistic G.,"LUCCHETTI, Vittorio",ITA,Men,Team Competition,Gold
+1920,Antwerp,Gymnastics,Artistic G.,"MAIOCCO, Luigi",ITA,Men,Team Competition,Gold
+1920,Antwerp,Gymnastics,Artistic G.,"MANDRINI, Ferdinando",ITA,Men,Team Competition,Gold
+1920,Antwerp,Gymnastics,Artistic G.,"MANGIANTE, Lorenzo",ITA,Men,Team Competition,Gold
+1920,Antwerp,Gymnastics,Artistic G.,"MANLIO, Mangiante Giovanni",ITA,Men,Team Competition,Gold
+1920,Antwerp,Gymnastics,Artistic G.,"MAROVELLI, Antonio",ITA,Men,Team Competition,Gold
+1920,Antwerp,Gymnastics,Artistic G.,"MASTROMARINO, Michele",ITA,Men,Team Competition,Gold
+1920,Antwerp,Gymnastics,Artistic G.,"PARIS, Giuseppe",ITA,Men,Team Competition,Gold
+1920,Antwerp,Gymnastics,Artistic G.,"ROSELLI, Ezio",ITA,Men,Team Competition,Gold
+1920,Antwerp,Gymnastics,Artistic G.,"SALVI, Paolo",ITA,Men,Team Competition,Gold
+1920,Antwerp,Gymnastics,Artistic G.,"TUBINO, Giovanni Battista",ITA,Men,Team Competition,Gold
+1920,Antwerp,Gymnastics,Artistic G.,"ZAMPORI, Giorgio",ITA,Men,Team Competition,Gold
+1920,Antwerp,Gymnastics,Artistic G.,"ZORZI, Angelo",ITA,Men,Team Competition,Gold
+1920,Antwerp,Gymnastics,Artistic G.,"AUWERKERKEN, Eugenius",BEL,Men,Team Competition,Silver
+1920,Antwerp,Gymnastics,Artistic G.,"BAUER, Théophile",BEL,Men,Team Competition,Silver
+1920,Antwerp,Gymnastics,Artistic G.,"CLAESSENS, Francois",BEL,Men,Team Competition,Silver
+1920,Antwerp,Gymnastics,Artistic G.,"COOTMANS, Auguste",BEL,Men,Team Competition,Silver
+1920,Antwerp,Gymnastics,Artistic G.,"GIBENS, Frans",BEL,Men,Team Competition,Silver
+1920,Antwerp,Gymnastics,Artistic G.,"HAEPERS, Albert",BEL,Men,Team Competition,Silver
+1920,Antwerp,Gymnastics,Artistic G.,"JACOBS, Dominique",BEL,Men,Team Competition,Silver
+1920,Antwerp,Gymnastics,Artistic G.,"KEMPENEERS, Félicien",BEL,Men,Team Competition,Silver
+1920,Antwerp,Gymnastics,Artistic G.,"LABEEU, Jules",BEL,Men,Team Competition,Silver
+1920,Antwerp,Gymnastics,Artistic G.,"LAFORTUNE, Hubert",BEL,Men,Team Competition,Silver
+1920,Antwerp,Gymnastics,Artistic G.,"LANDRIEU, Auguste",BEL,Men,Team Competition,Silver
+1920,Antwerp,Gymnastics,Artistic G.,"LANNIE, Charles",BEL,Men,Team Competition,Silver
+1920,Antwerp,Gymnastics,Artistic G.,"LORIOT, Constant",BEL,Men,Team Competition,Silver
+1920,Antwerp,Gymnastics,Artistic G.,"MINNAERT, Ferdinand",BEL,Men,Team Competition,Silver
+1920,Antwerp,Gymnastics,Artistic G.,"MOERLOOS, Nicolas",BEL,Men,Team Competition,Silver
+1920,Antwerp,Gymnastics,Artistic G.,"STOOP, Louis",BEL,Men,Team Competition,Silver
+1920,Antwerp,Gymnastics,Artistic G.,"VAN GUYSSE, Jean",BEL,Men,Team Competition,Silver
+1920,Antwerp,Gymnastics,Artistic G.,"VAN MELE, Alphonse",BEL,Men,Team Competition,Silver
+1920,Antwerp,Gymnastics,Artistic G.,"VERBOVEN, François",BEL,Men,Team Competition,Silver
+1920,Antwerp,Gymnastics,Artistic G.,"VERBOVEN, Jean",BEL,Men,Team Competition,Silver
+1920,Antwerp,Gymnastics,Artistic G.,"VERDONCK, Julien",BEL,Men,Team Competition,Silver
+1920,Antwerp,Gymnastics,Artistic G.,"VERSTRAETEN, Joseph",BEL,Men,Team Competition,Silver
+1920,Antwerp,Gymnastics,Artistic G.,"VIVEX, Georges",BEL,Men,Team Competition,Silver
+1920,Antwerp,Gymnastics,Artistic G.,"WAGEMANS, Julianus",BEL,Men,Team Competition,Silver
+1920,Antwerp,Gymnastics,Artistic G.,"ALBERTSEN, Georg",DEN,Men,"Team, Free System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"ANDERSEN, Rudolf Svend",DEN,Men,"Team, Free System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"DIBBERN, Viggo Valdemar",DEN,Men,"Team, Free System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"EISENÖE, Fritz",DEN,Men,"Team, Free System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"FRANDSEN, Aage Valdemar Harald",DEN,Men,"Team, Free System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"HANSEN, Hans Trier",DEN,Men,"Team, Free System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"HELSTEEN, Hugo",DEN,Men,"Team, Free System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"HOLM, Harry",DEN,Men,"Team, Free System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"JANSSON, Harold",DEN,Men,"Team, Free System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"JOHNSEN, Robert Jacob",DEN,Men,"Team, Free System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"JUHL, Christian",DEN,Men,"Team, Free System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"LANGE, Vilhelm",DEN,Men,"Team, Free System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"MADSEN, Svend Meulengracht",DEN,Men,"Team, Free System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"MARCUSSEN, Peter Andreas Marinus",DEN,Men,"Team, Free System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"MÖLLER, Peter",DEN,Men,"Team, Free System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"MÖLLER, Petersen Christian",DEN,Men,"Team, Free System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"NIELSEN, Lukas Frederick Christian",DEN,Men,"Team, Free System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"NIELSEN, Niels Congo Turin",DEN,Men,"Team, Free System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"OLSEN, Oluf",DEN,Men,"Team, Free System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"OLSEN, Steen Lerche",DEN,Men,"Team, Free System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"RÖNNE, Hans Stig Trappaud",DEN,Men,"Team, Free System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"SÖRENSEN, Rino Harry Charles",DEN,Men,"Team, Free System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"THOMAS, Christian",DEN,Men,"Team, Free System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"VERMEHREN, Knud",DEN,Men,"Team, Free System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"AANING, Alf Lied",NOR,Men,"Team, Free System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"AAS, Karl Jan",NOR,Men,"Team, Free System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"ANDERSEN, Jörgen Marius",NOR,Men,"Team, Free System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"BAYER, Gustav",NOR,Men,"Team, Free System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"BJÖRNSTAD, Jörgen",NOR,Men,"Team, Free System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"BODAHL, Asbjörn",NOR,Men,"Team, Free System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"BÖHM, Eilert",NOR,Men,"Team, Free System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"BOYESEN, Trygve Carlsen",NOR,Men,"Team, Free System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"DAVIDSEN, Ingolf",NOR,Men,"Team, Free System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"ENDRESON, Haakon",NOR,Men,"Team, Free System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"ERSTAD, Jacob",NOR,Men,"Team, Free System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"FAERSTAD, Harald Oliver",NOR,Men,"Team, Free System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"HELGESEN, Hermann Aldryk",NOR,Men,"Team, Free System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"HOL, Peter",NOR,Men,"Team, Free System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"JOHANNESEN, Otto",NOR,Men,"Team, Free System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"JOHANSEN, John Anker",NOR,Men,"Team, Free System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"KRISTOFFERSON, Torbjörn",NOR,Men,"Team, Free System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"NIELSEN, Henrik",NOR,Men,"Team, Free System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"OPDAHL, Jacob",NOR,Men,"Team, Free System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"RYDSTRÖM, Arthur Nicolai",NOR,Men,"Team, Free System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"SAELEN, Frithjof",NOR,Men,"Team, Free System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"SKJAERPE, Björn",NOR,Men,"Team, Free System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"STEFFENSEN, Wilhelm Marius Bakke",NOR,Men,"Team, Free System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"SUNDAL, Olav",NOR,Men,"Team, Free System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"TÖNSBERG, Reidar",NOR,Men,"Team, Free System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"WIGAND-LARSEN, Lauritz",NOR,Men,"Team, Free System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"ARETS, Paul",BEL,Men,"Team, Swedish System",Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"BRONCKAERT, Léon",BEL,Men,"Team, Swedish System",Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"CLABOTS, Léopold",BEL,Men,"Team, Swedish System",Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"CLAESSENS, Jean Baptiste",BEL,Men,"Team, Swedish System",Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"DARRIEN, Léon",BEL,Men,"Team, Swedish System",Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"DEHOUX, Lucien",BEL,Men,"Team, Swedish System",Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"DELEU, Ernest",BEL,Men,"Team, Swedish System",Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"DUBOISSON, Emil",BEL,Men,"Team, Swedish System",Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"DUREUIL, Ernest",BEL,Men,"Team, Swedish System",Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"FIEMS, Joseph",BEL,Men,"Team, Swedish System",Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"HANSEN, Marcel",BEL,Men,"Team, Swedish System",Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"HENIN, Louis",BEL,Men,"Team, Swedish System",Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"HOFFMAN, Omer",BEL,Men,"Team, Swedish System",Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"LOGIEST, Félix",BEL,Men,"Team, Swedish System",Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"MARSCHAELCKE, Charles",BEL,Men,"Team, Swedish System",Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"PAENHUYSEN, René",BEL,Men,"Team, Swedish System",Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"PIERRET, Arnold",BEL,Men,"Team, Swedish System",Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"PINCHART, René",BEL,Men,"Team, Swedish System",Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"PIROTTE, Gaspar",BEL,Men,"Team, Swedish System",Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"PLUYS, Augusten",BEL,Men,"Team, Swedish System",Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"SON, Léopold",BEL,Men,"Team, Swedish System",Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"TAEYMANS, Edouard",BEL,Men,"Team, Swedish System",Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"THITIAR, Pierre",BEL,Men,"Team, Swedish System",Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"VERHAVERT, Henri",BEL,Men,"Team, Swedish System",Bronze
+1920,Antwerp,Gymnastics,Artistic G.,"ACKE, Fausto",SWE,Men,"Team, Swedish System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"ANDERSSON, Albert",SWE,Men,"Team, Swedish System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"ANDERSSON-HOLTMAN, Arvid A.",SWE,Men,"Team, Swedish System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"BÄCKANDER, Helge",SWE,Men,"Team, Swedish System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"BENGTSSON, Bengt Folke",SWE,Men,"Team, Swedish System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"BIÖRCK, C. Fabian",SWE,Men,"Team, Swedish System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"CHARPENTIER, Carl Erik",SWE,Men,"Team, Swedish System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"ERICSSON-EWREUS, Sture H.",SWE,Men,"Team, Swedish System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"GRANSTRÖM, Konrad",SWE,Men,"Team, Swedish System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"GUSTAFSSON, Helge",SWE,Men,"Team, Swedish System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"HÄGER, Ake",SWE,Men,"Team, Swedish System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"HEDMAN, Ture",SWE,Men,"Team, Swedish System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"JONSSON, Sven",SWE,Men,"Team, Swedish System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"JONSSON, Sven O.",SWE,Men,"Team, Swedish System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"LINDAHL, Karl F.",SWE,Men,"Team, Swedish System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"LINDMARK, Edmund",SWE,Men,"Team, Swedish System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"MOHRBERG, Bengt",SWE,Men,"Team, Swedish System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"PERSSON, Frans",SWE,Men,"Team, Swedish System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"SÄRNER, Klas J.G.",SWE,Men,"Team, Swedish System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"SJÖBERG, Curt",SWE,Men,"Team, Swedish System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"SÖDERLINDH, Gunnar",SWE,Men,"Team, Swedish System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"SÖRENSON, John Emil",SWE,Men,"Team, Swedish System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"SVENSEN, Erik",SWE,Men,"Team, Swedish System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"TÖRNER, Gösta",SWE,Men,"Team, Swedish System",Gold
+1920,Antwerp,Gymnastics,Artistic G.,"BIRK, Johannes",DEN,Men,"Team, Swedish System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"HANSEN, Frede",DEN,Men,"Team, Swedish System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"HANSEN, Frederik",DEN,Men,"Team, Swedish System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"HANSEN, Kristian Aage",DEN,Men,"Team, Swedish System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"HOVGAARD, Hans",DEN,Men,"Team, Swedish System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"JÖRGENSEN, Aage",DEN,Men,"Team, Swedish System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"JÖRGENSEN, Alfred",DEN,Men,"Team, Swedish System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"JÖRGENSEN, Alfred E.",DEN,Men,"Team, Swedish System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"JÖRGENSEN, Arne",DEN,Men,"Team, Swedish System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"KIRKELÖKKE, Knud",DEN,Men,"Team, Swedish System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"LAMBAEK, Jens Stamp",DEN,Men,"Team, Swedish System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"LARSEN, Kristian",DEN,Men,"Team, Swedish System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"MADSEN, Kristian",DEN,Men,"Team, Swedish System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"NIELSEN, Niels Christian",DEN,Men,"Team, Swedish System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"NIELSEN, Niels Erik",DEN,Men,"Team, Swedish System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"PEDERSEN, Hans",DEN,Men,"Team, Swedish System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"PEDERSEN, Johannes",DEN,Men,"Team, Swedish System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"PEDERSEN, Peter Dorf",DEN,Men,"Team, Swedish System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"RASMUSSEN, Rasmus",DEN,Men,"Team, Swedish System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"SNEFTRUP, Dines",DEN,Men,"Team, Swedish System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"SÖRENSEN, Hans Drigstrup",DEN,Men,"Team, Swedish System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"SÖRENSEN, Hans Laurids",DEN,Men,"Team, Swedish System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"SÖRENSEN, Larsen Sören",DEN,Men,"Team, Swedish System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"WALTHER, Aage",DEN,Men,"Team, Swedish System",Silver
+1920,Antwerp,Gymnastics,Artistic G.,"WEST, Georg",DEN,Men,"Team, Swedish System",Silver
+1920,Antwerp,Hockey,Hockey,"BECQUET, André",BEL,Men,Hockey,Bronze
+1920,Antwerp,Hockey,Hockey,"CHIBERT, Pierre",BEL,Men,Hockey,Bronze
+1920,Antwerp,Hockey,Hockey,"DAUFRESNE DE LA CHEVALERIE, Raoul",BEL,Men,Hockey,Bronze
+1920,Antwerp,Hockey,Hockey,"DE MONTIGNY, Fernand",BEL,Men,Hockey,Bronze
+1920,Antwerp,Hockey,Hockey,"DELELIENNE, Charles",BEL,Men,Hockey,Bronze
+1920,Antwerp,Hockey,Hockey,"DIERCXENS, Louis",BEL,Men,Hockey,Bronze
+1920,Antwerp,Hockey,Hockey,"GEVERS, Robert",BEL,Men,Hockey,Bronze
+1920,Antwerp,Hockey,Hockey,"GOEMAERE, Adolphe",BEL,Men,Hockey,Bronze
+1920,Antwerp,Hockey,Hockey,"GUIETTE, Charles",BEL,Men,Hockey,Bronze
+1920,Antwerp,Hockey,Hockey,"KEPPENS, Raymond",BEL,Men,Hockey,Bronze
+1920,Antwerp,Hockey,Hockey,"STRAUWEN, René",BEL,Men,Hockey,Bronze
+1920,Antwerp,Hockey,Hockey,"THINCHANT, Paul",BEL,Men,Hockey,Bronze
+1920,Antwerp,Hockey,Hockey,"VALCKE, Pierre",BEL,Men,Hockey,Bronze
+1920,Antwerp,Hockey,Hockey,"VAN DEN BEMDEN, Maurice",BEL,Men,Hockey,Bronze
+1920,Antwerp,Hockey,Hockey,"VAN NEROM, Jean",BEL,Men,Hockey,Bronze
+1920,Antwerp,Hockey,Hockey,"ATKIN, Charles Sydney",GBR,Men,Hockey,Gold
+1920,Antwerp,Hockey,Hockey,"BENNETT, John Hadfield",GBR,Men,Hockey,Gold
+1920,Antwerp,Hockey,Hockey,"CAMPBELL, Colin",GBR,Men,Hockey,Gold
+1920,Antwerp,Hockey,Hockey,"CASSELS, Harold Kennedy",GBR,Men,Hockey,Gold
+1920,Antwerp,Hockey,Hockey,"COOKE, Harold Douglas",GBR,Men,Hockey,Gold
+1920,Antwerp,Hockey,Hockey,"CROCKFORD, Eric Bertram",GBR,Men,Hockey,Gold
+1920,Antwerp,Hockey,Hockey,"CRUMMACK, Reginald William",GBR,Men,Hockey,Gold
+1920,Antwerp,Hockey,Hockey,"HASLAM, Harry Eustace",GBR,Men,Hockey,Gold
+1920,Antwerp,Hockey,Hockey,"LEIGHTON, Arthur Francis",GBR,Men,Hockey,Gold
+1920,Antwerp,Hockey,Hockey,"MARCOM, Charles Shotto",GBR,Men,Hockey,Gold
+1920,Antwerp,Hockey,Hockey,"MCBRYAN, John Crawford",GBR,Men,Hockey,Gold
+1920,Antwerp,Hockey,Hockey,"MCGRATH, George",GBR,Men,Hockey,Gold
+1920,Antwerp,Hockey,Hockey,"SHOVELLER, Stanley Howard",GBR,Men,Hockey,Gold
+1920,Antwerp,Hockey,Hockey,"SMITH, William Faulder",GBR,Men,Hockey,Gold
+1920,Antwerp,Hockey,Hockey,"WILKINSON, Cyril Theodore",GBR,Men,Hockey,Gold
+1920,Antwerp,Hockey,Hockey,"BJERRUM, Hans Adolf",DEN,Men,Hockey,Silver
+1920,Antwerp,Hockey,Hockey,"BLACH, Ejvind",DEN,Men,Hockey,Silver
+1920,Antwerp,Hockey,Hockey,"BLACH, Svend",DEN,Men,Hockey,Silver
+1920,Antwerp,Hockey,Hockey,"DUE, Steen",DEN,Men,Hockey,Silver
+1920,Antwerp,Hockey,Hockey,"EIGENBROD, Thorvald",DEN,Men,Hockey,Silver
+1920,Antwerp,Hockey,Hockey,"FABER, Frans",DEN,Men,Hockey,Silver
+1920,Antwerp,Hockey,Hockey,"HANSEN, Hans Jörgen",DEN,Men,Hockey,Silver
+1920,Antwerp,Hockey,Hockey,"HERLAK, Hans Christian",DEN,Men,Hockey,Silver
+1920,Antwerp,Hockey,Hockey,"HOLST, Henning",DEN,Men,Hockey,Silver
+1920,Antwerp,Hockey,Hockey,"HUSTED, Erik",DEN,Men,Hockey,Silver
+1920,Antwerp,Hockey,Hockey,"METZ, Paul",DEN,Men,Hockey,Silver
+1920,Antwerp,Hockey,Hockey,"RASMUSSEN, Andreas",DEN,Men,Hockey,Silver
+1920,Antwerp,Ice Hockey,Ice Hockey,"DUSEK, Adolf",TCH,Men,Ice Hockey,Bronze
+1920,Antwerp,Ice Hockey,Ice Hockey,"HARTMANN, Karel",TCH,Men,Ice Hockey,Bronze
+1920,Antwerp,Ice Hockey,Ice Hockey,"LOOS, Vilém",TCH,Men,Ice Hockey,Bronze
+1920,Antwerp,Ice Hockey,Ice Hockey,"PALOUS, Jan",TCH,Men,Ice Hockey,Bronze
+1920,Antwerp,Ice Hockey,Ice Hockey,"PEKA, Jan",TCH,Men,Ice Hockey,Bronze
+1920,Antwerp,Ice Hockey,Ice Hockey,"PESEK, Karel",TCH,Men,Ice Hockey,Bronze
+1920,Antwerp,Ice Hockey,Ice Hockey,"SROUBEK, Josef",TCH,Men,Ice Hockey,Bronze
+1920,Antwerp,Ice Hockey,Ice Hockey,"VINDYS, Otto",TCH,Men,Ice Hockey,Bronze
+1920,Antwerp,Ice Hockey,Ice Hockey,"BENSON, Robert",CAN,Men,Ice Hockey,Gold
+1920,Antwerp,Ice Hockey,Ice Hockey,"BYRON, Wally",CAN,Men,Ice Hockey,Gold
+1920,Antwerp,Ice Hockey,Ice Hockey,"FREDERICKSON, Frank",CAN,Men,Ice Hockey,Gold
+1920,Antwerp,Ice Hockey,Ice Hockey,"FRIDFINNSON, Christian",CAN,Men,Ice Hockey,Gold
+1920,Antwerp,Ice Hockey,Ice Hockey,"GOODMAN, Michael",CAN,Men,Ice Hockey,Gold
+1920,Antwerp,Ice Hockey,Ice Hockey,"HALDERSON, Haldor",CAN,Men,Ice Hockey,Gold
+1920,Antwerp,Ice Hockey,Ice Hockey,"JOHANSSON, Konrad",CAN,Men,Ice Hockey,Gold
+1920,Antwerp,Ice Hockey,Ice Hockey,"WOODMAN, Allan",CAN,Men,Ice Hockey,Gold
+1920,Antwerp,Ice Hockey,Ice Hockey,"BONNEY, Raymond Lenroy",USA,Men,Ice Hockey,Silver
+1920,Antwerp,Ice Hockey,Ice Hockey,"CONROY, Anthony",USA,Men,Ice Hockey,Silver
+1920,Antwerp,Ice Hockey,Ice Hockey,"DRURY, Herbert",USA,Men,Ice Hockey,Silver
+1920,Antwerp,Ice Hockey,Ice Hockey,"FITZGERALD, Edward",USA,Men,Ice Hockey,Silver
+1920,Antwerp,Ice Hockey,Ice Hockey,"GERAN, George Pierce",USA,Men,Ice Hockey,Silver
+1920,Antwerp,Ice Hockey,Ice Hockey,"GOHEEN, Frank Xavier",USA,Men,Ice Hockey,Silver
+1920,Antwerp,Ice Hockey,Ice Hockey,"MCCORMICK, Joseph",USA,Men,Ice Hockey,Silver
+1920,Antwerp,Ice Hockey,Ice Hockey,"MCCORMICK, Lawrence",USA,Men,Ice Hockey,Silver
+1920,Antwerp,Ice Hockey,Ice Hockey,"SYNNOTT, Francis Allen",USA,Men,Ice Hockey,Silver
+1920,Antwerp,Ice Hockey,Ice Hockey,"TUCK, Leon Parker",USA,Men,Ice Hockey,Silver
+1920,Antwerp,Ice Hockey,Ice Hockey,"WEIDENBORNER, Cyril",USA,Men,Ice Hockey,Silver
+1920,Antwerp,Modern Pentathlon,Modern Pentath.,"RUNO, Gosta",SWE,Men,Individual Competition,Bronze
+1920,Antwerp,Modern Pentathlon,Modern Pentath.,"DYRSSEN, Gustaf",SWE,Men,Individual Competition,Gold
+1920,Antwerp,Modern Pentathlon,Modern Pentath.,"DE LAVAL, Erik",SWE,Men,Individual Competition,Silver
+1920,Antwerp,Polo,Polo,"ALLEN, Terry",USA,Men,Polo,Bronze
+1920,Antwerp,Polo,Polo,"HARRIS, Arthur Ringland",USA,Men,Polo,Bronze
+1920,Antwerp,Polo,Polo,"MARGETTS, Nelson E.",USA,Men,Polo,Bronze
+1920,Antwerp,Polo,Polo,"MONTGOMERY, John Carter",USA,Men,Polo,Bronze
+1920,Antwerp,Polo,Polo,"BARRETT, Frederick Whitfield",GBR,Men,Polo,Gold
+1920,Antwerp,Polo,Polo,"LOCKETT, Vivian Noverre",GBR,Men,Polo,Gold
+1920,Antwerp,Polo,Polo,"MELVILLE, Teignmouth Philip",GBR,Men,Polo,Gold
+1920,Antwerp,Polo,Polo,"WODEHOUSE, John",GBR,Men,Polo,Gold
+1920,Antwerp,Polo,Polo,"DE FIGUEROA, Alvaro",ESP,Men,Polo,Silver
+1920,Antwerp,Polo,Polo,"DE FIGUEROA, José",ESP,Men,Polo,Silver
+1920,Antwerp,Polo,Polo,"DE LA MAZA, Leopoldo",ESP,Men,Polo,Silver
+1920,Antwerp,Polo,Polo,"DE SAN MIGUEL, Justo",ESP,Men,Polo,Silver
+1920,Antwerp,Polo,Polo,"FITZ-JAMES STUART Y FALCO, Hernando",ESP,Men,Polo,Silver
+1920,Antwerp,Polo,Polo,"Fitz-James Stuart y Falco, JACOBO",ESP,Men,Polo,Silver
+1920,Antwerp,Rowing,Rowing,"GIRAN, Gaston",FRA,Men,Double Sculls (2X),Bronze
+1920,Antwerp,Rowing,Rowing,"PLE, Alfred",FRA,Men,Double Sculls (2X),Bronze
+1920,Antwerp,Rowing,Rowing,"COSTELLO, Paul Vincent",USA,Men,Double Sculls (2X),Gold
+1920,Antwerp,Rowing,Rowing,"KELLY, John Brendan",USA,Men,Double Sculls (2X),Gold
+1920,Antwerp,Rowing,Rowing,"ANNONI, Pietro",ITA,Men,Double Sculls (2X),Silver
+1920,Antwerp,Rowing,Rowing,"DONES, Erminio",ITA,Men,Double Sculls (2X),Silver
+1920,Antwerp,Rowing,Rowing,"ELLINGSEN, Haakon",NOR,Men,Eight With Coxswain (8+),Bronze
+1920,Antwerp,Rowing,Rowing,"HAGEN, Thoralf",NOR,Men,Eight With Coxswain (8+),Bronze
+1920,Antwerp,Rowing,Rowing,"MICHELSEN, Thore",NOR,Men,Eight With Coxswain (8+),Bronze
+1920,Antwerp,Rowing,Rowing,"MORTENSEN, Arne",NOR,Men,Eight With Coxswain (8+),Bronze
+1920,Antwerp,Rowing,Rowing,"NAG, Karl",NOR,Men,Eight With Coxswain (8+),Bronze
+1920,Antwerp,Rowing,Rowing,"NAG, Theodor",NOR,Men,Eight With Coxswain (8+),Bronze
+1920,Antwerp,Rowing,Rowing,"NILSEN, Adolf",NOR,Men,Eight With Coxswain (8+),Bronze
+1920,Antwerp,Rowing,Rowing,"OLSEN, Conrad",NOR,Men,Eight With Coxswain (8+),Bronze
+1920,Antwerp,Rowing,Rowing,"TOLLEFSEN, Tollef",NOR,Men,Eight With Coxswain (8+),Bronze
+1920,Antwerp,Rowing,Rowing,"CLARK, Sherman Rockwell",USA,Men,Eight With Coxswain (8+),Gold
+1920,Antwerp,Rowing,Rowing,"GALLAGHER, Vincent Joseph",USA,Men,Eight With Coxswain (8+),Gold
+1920,Antwerp,Rowing,Rowing,"GRAVES, Edwin Darius",USA,Men,Eight With Coxswain (8+),Gold
+1920,Antwerp,Rowing,Rowing,"JACOMINI, Virgil Victor",USA,Men,Eight With Coxswain (8+),Gold
+1920,Antwerp,Rowing,Rowing,"JOHNSTON, Donald Hendric",USA,Men,Eight With Coxswain (8+),Gold
+1920,Antwerp,Rowing,Rowing,"JORDAN, William Conrad",USA,Men,Eight With Coxswain (8+),Gold
+1920,Antwerp,Rowing,Rowing,"KING, Clyde Whitlock",USA,Men,Eight With Coxswain (8+),Gold
+1920,Antwerp,Rowing,Rowing,"MOORE, Edward Peerman",USA,Men,Eight With Coxswain (8+),Gold
+1920,Antwerp,Rowing,Rowing,"SANDBORN, Allen Ream",USA,Men,Eight With Coxswain (8+),Gold
+1920,Antwerp,Rowing,Rowing,"CAMPBELL, John Alan",GBR,Men,Eight With Coxswain (8+),Silver
+1920,Antwerp,Rowing,Rowing,"EARL, Sebastian",GBR,Men,Eight With Coxswain (8+),Silver
+1920,Antwerp,Rowing,Rowing,"HORSFALL, Ewart Douglas",GBR,Men,Eight With Coxswain (8+),Silver
+1920,Antwerp,Rowing,Rowing,"JAMES, Walter",GBR,Men,Eight With Coxswain (8+),Silver
+1920,Antwerp,Rowing,Rowing,"JOHNSTONE, Robin Talbot",GBR,Men,Eight With Coxswain (8+),Silver
+1920,Antwerp,Rowing,Rowing,"LUCAS, Richard Saville",GBR,Men,Eight With Coxswain (8+),Silver
+1920,Antwerp,Rowing,Rowing,"NICKALLS, Guy Oliver Jr.",GBR,Men,Eight With Coxswain (8+),Silver
+1920,Antwerp,Rowing,Rowing,"SHOVE, Ralph Samuel",GBR,Men,Eight With Coxswain (8+),Silver
+1920,Antwerp,Rowing,Rowing,"SWANN, Sidney Ernest",GBR,Men,Eight With Coxswain (8+),Silver
+1920,Antwerp,Rowing,Rowing,"GULBRANDSEN, Per",NOR,Men,Four-Oared Shell With Coxswain (4-),Bronze
+1920,Antwerp,Rowing,Rowing,"HAGEN, Thoralf",NOR,Men,Four-Oared Shell With Coxswain (4-),Bronze
+1920,Antwerp,Rowing,Rowing,"KLEM, Theodor",NOR,Men,Four-Oared Shell With Coxswain (4-),Bronze
+1920,Antwerp,Rowing,Rowing,"LARSEN, Henry",NOR,Men,Four-Oared Shell With Coxswain (4-),Bronze
+1920,Antwerp,Rowing,Rowing,"VAR, Birger",NOR,Men,Four-Oared Shell With Coxswain (4-),Bronze
+1920,Antwerp,Rowing,Rowing,"BRÜDERLIN, Willy",SUI,Men,Four-Oared Shell With Coxswain (4-),Gold
+1920,Antwerp,Rowing,Rowing,"RUDOLF, Max",SUI,Men,Four-Oared Shell With Coxswain (4-),Gold
+1920,Antwerp,Rowing,Rowing,"RUDOLF, Paul",SUI,Men,Four-Oared Shell With Coxswain (4-),Gold
+1920,Antwerp,Rowing,Rowing,"STAUB, Paul",SUI,Men,Four-Oared Shell With Coxswain (4-),Gold
+1920,Antwerp,Rowing,Rowing,"WALTER, Hans",SUI,Men,Four-Oared Shell With Coxswain (4-),Gold
+1920,Antwerp,Rowing,Rowing,"CLARK, Sherman Rockwell",USA,Men,Four-Oared Shell With Coxswain (4-),Silver
+1920,Antwerp,Rowing,Rowing,"FEDERSCHMIDT, Erich",USA,Men,Four-Oared Shell With Coxswain (4-),Silver
+1920,Antwerp,Rowing,Rowing,"FEDERSCHMIDT, Franz",USA,Men,Four-Oared Shell With Coxswain (4-),Silver
+1920,Antwerp,Rowing,Rowing,"KLOSE, Carl Otto",USA,Men,Four-Oared Shell With Coxswain (4-),Silver
+1920,Antwerp,Rowing,Rowing,"MYERS, Kenneth",USA,Men,Four-Oared Shell With Coxswain (4-),Silver
+1920,Antwerp,Rowing,Rowing,"CANDEVEAU, Edouard",SUI,Men,Pair-Oared Shell With Coxswain (2+),Bronze
+1920,Antwerp,Rowing,Rowing,"FELBER, Alfred",SUI,Men,Pair-Oared Shell With Coxswain (2+),Bronze
+1920,Antwerp,Rowing,Rowing,"PIAGET, Paul",SUI,Men,Pair-Oared Shell With Coxswain (2+),Bronze
+1920,Antwerp,Rowing,Rowing,"DE FILIP, Guido",ITA,Men,Pair-Oared Shell With Coxswain (2+),Gold
+1920,Antwerp,Rowing,Rowing,"OLGENI, Ercole",ITA,Men,Pair-Oared Shell With Coxswain (2+),Gold
+1920,Antwerp,Rowing,Rowing,"SCATTURIN, Giovanni",ITA,Men,Pair-Oared Shell With Coxswain (2+),Gold
+1920,Antwerp,Rowing,Rowing,"BARBEROLLE, Ernest",FRA,Men,Pair-Oared Shell With Coxswain (2+),Silver
+1920,Antwerp,Rowing,Rowing,"BOUTON, Maurice",FRA,Men,Pair-Oared Shell With Coxswain (2+),Silver
+1920,Antwerp,Rowing,Rowing,"POIX, Gabriel",FRA,Men,Pair-Oared Shell With Coxswain (2+),Silver
+1920,Antwerp,Rowing,Rowing,"HADFIELD D'ARCY, D. Clarence",NZL,Men,Single Sculls (1X),Bronze
+1920,Antwerp,Rowing,Rowing,"KELLY, John Brendan",USA,Men,Single Sculls (1X),Gold
+1920,Antwerp,Rowing,Rowing,"BERESFORD, Jack",GBR,Men,Single Sculls (1X),Silver
+1920,Antwerp,Rugby,Rugby,"CARROLL, Daniel Brendan",USA,Men,Rugby,Gold
+1920,Antwerp,Rugby,Rugby,"DOE, Charles Webster",USA,Men,Rugby,Gold
+1920,Antwerp,Rugby,Rugby,"FISH, George Winthrop",USA,Men,Rugby,Gold
+1920,Antwerp,Rugby,Rugby,"HUNTER, Joseph Garvin",USA,Men,Rugby,Gold
+1920,Antwerp,Rugby,Rugby,"KIRKSEY, Morris",USA,Men,Rugby,Gold
+1920,Antwerp,Rugby,Rugby,"MEHAN, Charles Thomas",USA,Men,Rugby,Gold
+1920,Antwerp,Rugby,Rugby,"MULDOON, John",USA,Men,Rugby,Gold
+1920,Antwerp,Rugby,Rugby,"MULDOON, William",USA,Men,Rugby,Gold
+1920,Antwerp,Rugby,Rugby,"O'NEIL, John T.",USA,Men,Rugby,Gold
+1920,Antwerp,Rugby,Rugby,"PATRICK, John Clarence",USA,Men,Rugby,Gold
+1920,Antwerp,Rugby,Rugby,"RIGHTER, Cornelius Erwin",USA,Men,Rugby,Gold
+1920,Antwerp,Rugby,Rugby,"SCHOLZ, Rudolph John",USA,Men,Rugby,Gold
+1920,Antwerp,Rugby,Rugby,"SLATER, Colby Edward",USA,Men,Rugby,Gold
+1920,Antwerp,Rugby,Rugby,"TEMPLETON, Robert Lyman",USA,Men,Rugby,Gold
+1920,Antwerp,Rugby,Rugby,"TILDEN, Charles Lee",USA,Men,Rugby,Gold
+1920,Antwerp,Rugby,Rugby,"WINSTON, James Duarte",USA,Men,Rugby,Gold
+1920,Antwerp,Rugby,Rugby,"WRENN, Heaton Luse",USA,Men,Rugby,Gold
+1920,Antwerp,Rugby,Rugby,"BADER, Edouard",FRA,Men,Rugby,Silver
+1920,Antwerp,Rugby,Rugby,"BERRURIER, Raymond",FRA,Men,Rugby,Silver
+1920,Antwerp,Rugby,Rugby,"BORDES, François",FRA,Men,Rugby,Silver
+1920,Antwerp,Rugby,Rugby,"BOUSQUET, Adolphe René",FRA,Men,Rugby,Silver
+1920,Antwerp,Rugby,Rugby,"CHILO, André",FRA,Men,Rugby,Silver
+1920,Antwerp,Rugby,Rugby,"CRABOS, René",FRA,Men,Rugby,Silver
+1920,Antwerp,Rugby,Rugby,CURTET,FRA,Men,Rugby,Silver
+1920,Antwerp,Rugby,Rugby,"ELUERE, Alfred",FRA,Men,Rugby,Silver
+1920,Antwerp,Rugby,Rugby,"FORESTIER, Jacques",FRA,Men,Rugby,Silver
+1920,Antwerp,Rugby,Rugby,GRENET,FRA,Men,Rugby,Silver
+1920,Antwerp,Rugby,Rugby,"LABEYRIE, Maurice",FRA,Men,Rugby,Silver
+1920,Antwerp,Rugby,Rugby,"LAMAIGNIERE, Constant",FRA,Men,Rugby,Silver
+1920,Antwerp,Rugby,Rugby,"LEVASSEUR, Robert",FRA,Men,Rugby,Silver
+1920,Antwerp,Rugby,Rugby,"SOULIE, Eugène",FRA,Men,Rugby,Silver
+1920,Antwerp,Rugby,Rugby,"THIERCELIN, Raoul",FRA,Men,Rugby,Silver
+1920,Antwerp,Rugby,Rugby,"THIERRY, Robert",FRA,Men,Rugby,Silver
+1920,Antwerp,Sailing,Sailing,"HERSETH, Erik Johan",NOR,Men,10M (Rating 1907),Gold
+1920,Antwerp,Sailing,Sailing,"HOLTER, Sigurd",NOR,Men,10M (Rating 1907),Gold
+1920,Antwerp,Sailing,Sailing,"JAMVOLD, Gunnar",NOR,Men,10M (Rating 1907),Gold
+1920,Antwerp,Sailing,Sailing,"JAMVOLD, Petter",NOR,Men,10M (Rating 1907),Gold
+1920,Antwerp,Sailing,Sailing,"JUELL, Claus",NOR,Men,10M (Rating 1907),Gold
+1920,Antwerp,Sailing,Sailing,"NIELSEN, Ingar",NOR,Men,10M (Rating 1907),Gold
+1920,Antwerp,Sailing,Sailing,"SÖRENSEN, Ole",NOR,Men,10M (Rating 1907),Gold
+1920,Antwerp,Sailing,Sailing,"ARENTZ, Charles Archer",NOR,Men,10M (Rating 1919),Gold
+1920,Antwerp,Sailing,Sailing,"FALKENBERG, Otto Gabriel Grubbe",NOR,Men,10M (Rating 1919),Gold
+1920,Antwerp,Sailing,Sailing,"GILBERT, Willy",NOR,Men,10M (Rating 1919),Gold
+1920,Antwerp,Sailing,Sailing,"GJERTSEN, Robert",NOR,Men,10M (Rating 1919),Gold
+1920,Antwerp,Sailing,Sailing,"SCHJÖTT, Halfdan",NOR,Men,10M (Rating 1919),Gold
+1920,Antwerp,Sailing,Sailing,"SCHJÖTT, Trygve",NOR,Men,10M (Rating 1919),Gold
+1920,Antwerp,Sailing,Sailing,"SEJERSTED, Arne",NOR,Men,10M (Rating 1919),Gold
+1920,Antwerp,Sailing,Sailing,"HIN, Franciscus Fidelis Joseph",NED,Men,12 Foot Dinghy,Gold
+1920,Antwerp,Sailing,Sailing,"HIN, Johannes Joseph Antonius",NED,Men,12 Foot Dinghy,Gold
+1920,Antwerp,Sailing,Sailing,"BEUKERS, Petrus Bernardus",NED,Men,12 Foot Dinghy,Silver
+1920,Antwerp,Sailing,Sailing,"VAN DER BIESEN, Arnoud Eugène",NED,Men,12 Foot Dinghy,Silver
+1920,Antwerp,Sailing,Sailing,"BIRKELAND, Halvor",NOR,Men,12M (Rating 1907),Gold
+1920,Antwerp,Sailing,Sailing,"BIRKELAND, Rasmus",NOR,Men,12M (Rating 1907),Gold
+1920,Antwerp,Sailing,Sailing,"CHRISTIANSEN, Lauritz",NOR,Men,12M (Rating 1907),Gold
+1920,Antwerp,Sailing,Sailing,"MÖGSTER, Halvor Olai",NOR,Men,12M (Rating 1907),Gold
+1920,Antwerp,Sailing,Sailing,"NAESS, Hans Henrik Stoermann",NOR,Men,12M (Rating 1907),Gold
+1920,Antwerp,Sailing,Sailing,"ÖSTERVOLD, Henrik",NOR,Men,12M (Rating 1907),Gold
+1920,Antwerp,Sailing,Sailing,"ÖSTERVOLD, Jan Olsen",NOR,Men,12M (Rating 1907),Gold
+1920,Antwerp,Sailing,Sailing,"ÖSTERVOLD, Kristian Olsen",NOR,Men,12M (Rating 1907),Gold
+1920,Antwerp,Sailing,Sailing,"ÖSTERVOLD, Ole Olsen",NOR,Men,12M (Rating 1907),Gold
+1920,Antwerp,Sailing,Sailing,"ALLERS, Arthur",NOR,Men,12M (Rating 1919),Gold
+1920,Antwerp,Sailing,Sailing,"BORTHEN, Martin",NOR,Men,12M (Rating 1919),Gold
+1920,Antwerp,Sailing,Sailing,"FRIELE, Johan Mohr",NOR,Men,12M (Rating 1919),Gold
+1920,Antwerp,Sailing,Sailing,"HASSEL, Kaspar Fredrik",NOR,Men,12M (Rating 1919),Gold
+1920,Antwerp,Sailing,Sailing,"ÖRVIG, Erik",NOR,Men,12M (Rating 1919),Gold
+1920,Antwerp,Sailing,Sailing,"ÖRVIG, Olav",NOR,Men,12M (Rating 1919),Gold
+1920,Antwerp,Sailing,Sailing,"ÖRVIG, Thor",NOR,Men,12M (Rating 1919),Gold
+1920,Antwerp,Sailing,Sailing,"REIMERS, Egill",NOR,Men,12M (Rating 1919),Gold
+1920,Antwerp,Sailing,Sailing,"WIESE, Christen",NOR,Men,12M (Rating 1919),Gold
+1920,Antwerp,Sailing,Sailing,"HEDBERG, Thomas",GBR,Men,18 Foot Dinghy,Gold
+1920,Antwerp,Sailing,Sailing,"RICHARDS, Francis Augustus",GBR,Men,18 Foot Dinghy,Gold
+1920,Antwerp,Sailing,Sailing,"BENGTSSON, Gösta",SWE,Men,30M Sq,Gold
+1920,Antwerp,Sailing,Sailing,"CALVERT, Axel",SWE,Men,30M Sq,Gold
+1920,Antwerp,Sailing,Sailing,"LUNDQVIST, Gösta",SWE,Men,30M Sq,Gold
+1920,Antwerp,Sailing,Sailing,"STEFFENBURG, Rolf",SWE,Men,30M Sq,Gold
+1920,Antwerp,Sailing,Sailing,"HOLM, Tore",SWE,Men,40M Sq,Gold
+1920,Antwerp,Sailing,Sailing,"HOLM, Yngve",SWE,Men,40M Sq,Gold
+1920,Antwerp,Sailing,Sailing,"RYDIN, Axel W.",SWE,Men,40M Sq,Gold
+1920,Antwerp,Sailing,Sailing,"TENGWALL, Georg H.",SWE,Men,40M Sq,Gold
+1920,Antwerp,Sailing,Sailing,"ALMSTEDT, Percy",SWE,Men,40M Sq,Silver
+1920,Antwerp,Sailing,Sailing,"MELLBIN, Erik",SWE,Men,40M Sq,Silver
+1920,Antwerp,Sailing,Sailing,"SVENSSON, Gustaf",SWE,Men,40M Sq,Silver
+1920,Antwerp,Sailing,Sailing,"SVENSSON, Ragnar",SWE,Men,40M Sq,Silver
+1920,Antwerp,Sailing,Sailing,"CARP, Bernard",NED,Men,6.5M (Rating 1919),Gold
+1920,Antwerp,Sailing,Sailing,"CARP, Johan Robbert",NED,Men,6.5M (Rating 1919),Gold
+1920,Antwerp,Sailing,Sailing,"WERNINK, Petrus Adrianus",NED,Men,6.5M (Rating 1919),Gold
+1920,Antwerp,Sailing,Sailing,"MONIER, Robert",FRA,Men,6.5M (Rating 1919),Silver
+1920,Antwerp,Sailing,Sailing,"PICON, Félix",FRA,Men,6.5M (Rating 1919),Silver
+1920,Antwerp,Sailing,Sailing,"WEIL, Albert",FRA,Men,6.5M (Rating 1919),Silver
+1920,Antwerp,Sailing,Sailing,"AGERSBORG, Henrik",NOR,Men,6M (Rating 1907),Bronze
+1920,Antwerp,Sailing,Sailing,"BERNSTEN, Einar",NOR,Men,6M (Rating 1907),Bronze
+1920,Antwerp,Sailing,Sailing,"PEDERSEN, Trygve",NOR,Men,6M (Rating 1907),Bronze
+1920,Antwerp,Sailing,Sailing,"BRUYNSEELS, Frédéric Albert Gustave",BEL,Men,6M (Rating 1907),Gold
+1920,Antwerp,Sailing,Sailing,"CORNELLIE, Emile François",BEL,Men,6M (Rating 1907),Gold
+1920,Antwerp,Sailing,Sailing,"CORNELLIE, Florimond",BEL,Men,6M (Rating 1907),Gold
+1920,Antwerp,Sailing,Sailing,"ERICHSEN, Leif",NOR,Men,6M (Rating 1907),Silver
+1920,Antwerp,Sailing,Sailing,"KNUDSEN, Andreas Annan",NOR,Men,6M (Rating 1907),Silver
+1920,Antwerp,Sailing,Sailing,"TORGENSEN, Einar",NOR,Men,6M (Rating 1907),Silver
+1920,Antwerp,Sailing,Sailing,"BRECKE, Andreas Bang",NOR,Men,6M (Rating 1919),Gold
+1920,Antwerp,Sailing,Sailing,"KAASEN, Paal",NOR,Men,6M (Rating 1919),Gold
+1920,Antwerp,Sailing,Sailing,"RÖD, Ingolf",NOR,Men,6M (Rating 1919),Gold
+1920,Antwerp,Sailing,Sailing,"HUYBRECHTS, Léon",BEL,Men,6M (Rating 1919),Silver
+1920,Antwerp,Sailing,Sailing,"KLOTZ, John",BEL,Men,6M (Rating 1919),Silver
+1920,Antwerp,Sailing,Sailing,"VAN DEN BUSSCHE, Charles",BEL,Men,6M (Rating 1919),Silver
+1920,Antwerp,Sailing,Sailing,"COLEMAN, Robert",GBR,Men,7M,Gold
+1920,Antwerp,Sailing,Sailing,"MADDISON, William",GBR,Men,7M,Gold
+1920,Antwerp,Sailing,Sailing,"WRIGHT, Cyril",GBR,Men,7M,Gold
+1920,Antwerp,Sailing,Sailing,"ABEL, Sten",NOR,Men,7M,Silver
+1920,Antwerp,Sailing,Sailing,"DICK, Christian",NOR,Men,7M,Silver
+1920,Antwerp,Sailing,Sailing,"FAYE, Johann",NOR,Men,7M,Silver
+1920,Antwerp,Sailing,Sailing,"NIELSEN, Niels",NOR,Men,7M,Silver
+1920,Antwerp,Sailing,Sailing,"WRIGHT, Dorothy",GBR,Women,7M,Gold
+1920,Antwerp,Sailing,Sailing,"HOLBYE, Thorleif",NOR,Men,8M (Rating 1907),Gold
+1920,Antwerp,Sailing,Sailing,"JACOBSEN, Alf Kristian Bruun",NOR,Men,8M (Rating 1907),Gold
+1920,Antwerp,Sailing,Sailing,"OLSEN, Kristoffer",NOR,Men,8M (Rating 1907),Gold
+1920,Antwerp,Sailing,Sailing,"RINGVOLD, Carl August",NOR,Men,8M (Rating 1907),Gold
+1920,Antwerp,Sailing,Sailing,"WAGLE, Tellef",NOR,Men,8M (Rating 1907),Gold
+1920,Antwerp,Sailing,Sailing,"ABEL, Sten",NOR,Men,8M (Rating 1907),Silver
+1920,Antwerp,Sailing,Sailing,"DICK, Christian",NOR,Men,8M (Rating 1907),Silver
+1920,Antwerp,Sailing,Sailing,"FAYE, Johann",NOR,Men,8M (Rating 1907),Silver
+1920,Antwerp,Sailing,Sailing,"NIELSEN, Niels",NOR,Men,8M (Rating 1907),Silver
+1920,Antwerp,Sailing,Sailing,"DE L'ARBRE, Willy",BEL,Men,8M (Rating 1919),Bronze
+1920,Antwerp,Sailing,Sailing,"GRISAR, Albert",BEL,Men,8M (Rating 1919),Bronze
+1920,Antwerp,Sailing,Sailing,"HELLEBUYCK, Georges",BEL,Men,8M (Rating 1919),Bronze
+1920,Antwerp,Sailing,Sailing,"STANDAERT, Léopold",BEL,Men,8M (Rating 1919),Bronze
+1920,Antwerp,Sailing,Sailing,"WEEWAUTERS, Henri",BEL,Men,8M (Rating 1919),Bronze
+1920,Antwerp,Sailing,Sailing,"CHRISTOFFERSEN, Thorleif",NOR,Men,8M (Rating 1919),Gold
+1920,Antwerp,Sailing,Sailing,"KONOW, Magnus",NOR,Men,8M (Rating 1919),Gold
+1920,Antwerp,Sailing,Sailing,"MARTHINIUSSEN, Reidar",NOR,Men,8M (Rating 1919),Gold
+1920,Antwerp,Sailing,Sailing,"VIK, Ragnar Magne",NOR,Men,8M (Rating 1919),Gold
+1920,Antwerp,Sailing,Sailing,"SALVESEN, Jens",NOR,Men,8M (Rating 1919),Silver
+1920,Antwerp,Sailing,Sailing,"SCHIANDER, Finn",NOR,Men,8M (Rating 1919),Silver
+1920,Antwerp,Sailing,Sailing,"SCHMIDT, Lauritz Thure Thrap",NOR,Men,8M (Rating 1919),Silver
+1920,Antwerp,Sailing,Sailing,"THOMAS, Nils",NOR,Men,8M (Rating 1919),Silver
+1920,Antwerp,Sailing,Sailing,"TSCHUDI, Ralph",NOR,Men,8M (Rating 1919),Silver
+1920,Antwerp,Shooting,Shooting,"LIBERG, Einar",NOR,Men,"100M Running Deer, Double Shots",Bronze
+1920,Antwerp,Shooting,Shooting,"LILLOE-OLSEN, Ole Andreas",NOR,Men,"100M Running Deer, Double Shots",Gold
+1920,Antwerp,Shooting,Shooting,"LANDELIUS, P. Fredric",SWE,Men,"100M Running Deer, Double Shots",Silver
+1920,Antwerp,Shooting,Shooting,"KOLHO, Yrjö",FIN,Men,"100M Running Deer, Double Shots, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"TIKKANEN, Robert",FIN,Men,"100M Running Deer, Double Shots, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"TOIVONEN, Nestori",FIN,Men,"100M Running Deer, Double Shots, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"VAUHKONEN, Vilho",FIN,Men,"100M Running Deer, Double Shots, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"WEGELIUS, Karl Magnus",FIN,Men,"100M Running Deer, Double Shots, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"JOHANSEN, Thorstein Arthur",NOR,Men,"100M Running Deer, Double Shots, Team",Gold
+1920,Antwerp,Shooting,Shooting,"LIBERG, Einar",NOR,Men,"100M Running Deer, Double Shots, Team",Gold
+1920,Antwerp,Shooting,Shooting,"LILLOE-OLSEN, Ole Andreas",NOR,Men,"100M Running Deer, Double Shots, Team",Gold
+1920,Antwerp,Shooting,Shooting,"NATVIG, Harald",NOR,Men,"100M Running Deer, Double Shots, Team",Gold
+1920,Antwerp,Shooting,Shooting,"NORDVIK, Hans",NOR,Men,"100M Running Deer, Double Shots, Team",Gold
+1920,Antwerp,Shooting,Shooting,"BENEDICKS, Edward",SWE,Men,"100M Running Deer, Double Shots, Team",Silver
+1920,Antwerp,Shooting,Shooting,"LAGERCRANTZ, Bengt",SWE,Men,"100M Running Deer, Double Shots, Team",Silver
+1920,Antwerp,Shooting,Shooting,"LANDELIUS, P. Fredric",SWE,Men,"100M Running Deer, Double Shots, Team",Silver
+1920,Antwerp,Shooting,Shooting,"SWAHN, Alfred",SWE,Men,"100M Running Deer, Double Shots, Team",Silver
+1920,Antwerp,Shooting,Shooting,"SWAHN, Oscar",SWE,Men,"100M Running Deer, Double Shots, Team",Silver
+1920,Antwerp,Shooting,Shooting,"NATVIG, Harald",NOR,Men,"100M Running Deer, Single Shots",Bronze
+1920,Antwerp,Shooting,Shooting,"OLSEN, Otto M.",NOR,Men,"100M Running Deer, Single Shots",Gold
+1920,Antwerp,Shooting,Shooting,"SWAHN, Alfred",SWE,Men,"100M Running Deer, Single Shots",Silver
+1920,Antwerp,Shooting,Shooting,"BROWN, Thomas Cole",USA,Men,"100M Running Deer, Single Shots, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"LEE, Willis",USA,Men,"100M Running Deer, Single Shots, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"NUESSLEIN, Lawrence Adam",USA,Men,"100M Running Deer, Single Shots, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"OSBURN, Carl Townsend",USA,Men,"100M Running Deer, Single Shots, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"SPOONER, Lloyd Spencer",USA,Men,"100M Running Deer, Single Shots, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"LIBERG, Einar",NOR,Men,"100M Running Deer, Single Shots, Team",Gold
+1920,Antwerp,Shooting,Shooting,"LILLOE-OLSEN, Ole Andreas",NOR,Men,"100M Running Deer, Single Shots, Team",Gold
+1920,Antwerp,Shooting,Shooting,"NATVIG, Harald",NOR,Men,"100M Running Deer, Single Shots, Team",Gold
+1920,Antwerp,Shooting,Shooting,"NORDVIK, Hans",NOR,Men,"100M Running Deer, Single Shots, Team",Gold
+1920,Antwerp,Shooting,Shooting,"OLSEN, Otto M.",NOR,Men,"100M Running Deer, Single Shots, Team",Gold
+1920,Antwerp,Shooting,Shooting,"KOLHO, Yrjö",FIN,Men,"100M Running Deer, Single Shots, Team",Silver
+1920,Antwerp,Shooting,Shooting,"LAPPALAINEN, Kaarlo Kustaa",FIN,Men,"100M Running Deer, Single Shots, Team",Silver
+1920,Antwerp,Shooting,Shooting,"TIKKANEN, Robert",FIN,Men,"100M Running Deer, Single Shots, Team",Silver
+1920,Antwerp,Shooting,Shooting,"TOIVONEN, Nestori",FIN,Men,"100M Running Deer, Single Shots, Team",Silver
+1920,Antwerp,Shooting,Shooting,"WEGELIUS, Karl Magnus",FIN,Men,"100M Running Deer, Single Shots, Team",Silver
+1920,Antwerp,Shooting,Shooting,"ZULAUF, Fritz",SUI,Men,25M Rapid Fire Pistol (60 Shots),Bronze
+1920,Antwerp,Shooting,Shooting,"PARAENSE, Guilherme",BRA,Men,25M Rapid Fire Pistol (60 Shots),Gold
+1920,Antwerp,Shooting,Shooting,"BRACKEN, Raymond",USA,Men,25M Rapid Fire Pistol (60 Shots),Silver
+1920,Antwerp,Shooting,Shooting,"KUCHEN, Fritz",SUI,Men,"300+600M Free Rifle, Team, Prone",Bronze
+1920,Antwerp,Shooting,Shooting,"LIENHARD, Walter",SUI,Men,"300+600M Free Rifle, Team, Prone",Bronze
+1920,Antwerp,Shooting,Shooting,"RÖSLI, Arnold",SUI,Men,"300+600M Free Rifle, Team, Prone",Bronze
+1920,Antwerp,Shooting,Shooting,"TRÖNDLE, Albert",SUI,Men,"300+600M Free Rifle, Team, Prone",Bronze
+1920,Antwerp,Shooting,Shooting,"WIDMER, Caspar",SUI,Men,"300+600M Free Rifle, Team, Prone",Bronze
+1920,Antwerp,Shooting,Shooting,"JACKSON, Joseph",USA,Men,"300+600M Free Rifle, Team, Prone",Gold
+1920,Antwerp,Shooting,Shooting,"LEE, Willis",USA,Men,"300+600M Free Rifle, Team, Prone",Gold
+1920,Antwerp,Shooting,Shooting,"OSBURN, Carl Townsend",USA,Men,"300+600M Free Rifle, Team, Prone",Gold
+1920,Antwerp,Shooting,Shooting,"SCHRIVER, Gunnery Ollie",USA,Men,"300+600M Free Rifle, Team, Prone",Gold
+1920,Antwerp,Shooting,Shooting,"SPOONER, Lloyd Spencer",USA,Men,"300+600M Free Rifle, Team, Prone",Gold
+1920,Antwerp,Shooting,Shooting,"HELGERUD, Albert",NOR,Men,"300+600M Free Rifle, Team, Prone",Silver
+1920,Antwerp,Shooting,Shooting,"OLSEN, Otto M.",NOR,Men,"300+600M Free Rifle, Team, Prone",Silver
+1920,Antwerp,Shooting,Shooting,"ONSRUD, Jacob",NOR,Men,"300+600M Free Rifle, Team, Prone",Silver
+1920,Antwerp,Shooting,Shooting,"ÖSTENSEN, Östen",NOR,Men,"300+600M Free Rifle, Team, Prone",Silver
+1920,Antwerp,Shooting,Shooting,"SLETTEN, Olaf",NOR,Men,"300+600M Free Rifle, Team, Prone",Silver
+1920,Antwerp,Shooting,Shooting,"ÖSTENSEN, Östen",NOR,Men,300M Free Rifle 3 Positions (3X40 Shots),Bronze
+1920,Antwerp,Shooting,Shooting,"FISHER, Morris",USA,Men,300M Free Rifle 3 Positions (3X40 Shots),Gold
+1920,Antwerp,Shooting,Shooting,"LARSEN, Niels Hansen Ditlev",DEN,Men,300M Free Rifle 3 Positions (3X40 Shots),Silver
+1920,Antwerp,Shooting,Shooting,"KOLHO, Voitto Waldemar",FIN,Men,"300M Free Rifle, Prone, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"LAPPALAINEN, Kaarlo Kustaa",FIN,Men,"300M Free Rifle, Prone, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"NIEMINEN, Veli Heikki",FIN,Men,"300M Free Rifle, Prone, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"VAUHKONEN, Vilho",FIN,Men,"300M Free Rifle, Prone, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"WEGELIUS, Karl Magnus",FIN,Men,"300M Free Rifle, Prone, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"FISHER, Morris",USA,Men,"300M Free Rifle, Prone, Team",Gold
+1920,Antwerp,Shooting,Shooting,"JACKSON, Joseph",USA,Men,"300M Free Rifle, Prone, Team",Gold
+1920,Antwerp,Shooting,Shooting,"LEE, Willis",USA,Men,"300M Free Rifle, Prone, Team",Gold
+1920,Antwerp,Shooting,Shooting,"OSBURN, Carl Townsend",USA,Men,"300M Free Rifle, Prone, Team",Gold
+1920,Antwerp,Shooting,Shooting,"SPOONER, Lloyd Spencer",USA,Men,"300M Free Rifle, Prone, Team",Gold
+1920,Antwerp,Shooting,Shooting,"JOHNSON, Léon",FRA,Men,"300M Free Rifle, Prone, Team",Silver
+1920,Antwerp,Shooting,Shooting,"PARMENTIER, André",FRA,Men,"300M Free Rifle, Prone, Team",Silver
+1920,Antwerp,Shooting,Shooting,"PAROCHE, Achille",FRA,Men,"300M Free Rifle, Prone, Team",Silver
+1920,Antwerp,Shooting,Shooting,"ROES, Georges",FRA,Men,"300M Free Rifle, Prone, Team",Silver
+1920,Antwerp,Shooting,Shooting,"RUMEAU, Emile",FRA,Men,"300M Free Rifle, Prone, Team",Silver
+1920,Antwerp,Shooting,Shooting,"ERICSSON, Olle",SWE,Men,"300M Free Rifle, Standing, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"ERIKSSON, Mauritz",SWE,Men,"300M Free Rifle, Standing, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"HELLMAN, Walfried",SWE,Men,"300M Free Rifle, Standing, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"JOHANSSON, Carl Hugo",SWE,Men,"300M Free Rifle, Standing, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"LAGERLÖF, Leonard",SWE,Men,"300M Free Rifle, Standing, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"LARSEN, Niels Hansen Ditlev",DEN,Men,"300M Free Rifle, Standing, Team",Gold
+1920,Antwerp,Shooting,Shooting,"MADSEN, Lars Jörgen",DEN,Men,"300M Free Rifle, Standing, Team",Gold
+1920,Antwerp,Shooting,Shooting,"NIELSEN, Anders Peter",DEN,Men,"300M Free Rifle, Standing, Team",Gold
+1920,Antwerp,Shooting,Shooting,"PETERSEN, Anders Martinus",DEN,Men,"300M Free Rifle, Standing, Team",Gold
+1920,Antwerp,Shooting,Shooting,"SAETTER-LASSEN, Erik",DEN,Men,"300M Free Rifle, Standing, Team",Gold
+1920,Antwerp,Shooting,Shooting,"BROWN, Thomas Cole",USA,Men,"300M Free Rifle, Standing, Team",Silver
+1920,Antwerp,Shooting,Shooting,"LEE, Willis",USA,Men,"300M Free Rifle, Standing, Team",Silver
+1920,Antwerp,Shooting,Shooting,"NUESSLEIN, Lawrence Adam",USA,Men,"300M Free Rifle, Standing, Team",Silver
+1920,Antwerp,Shooting,Shooting,"OSBURN, Carl Townsend",USA,Men,"300M Free Rifle, Standing, Team",Silver
+1920,Antwerp,Shooting,Shooting,"SPOONER, Lloyd Spencer",USA,Men,"300M Free Rifle, Standing, Team",Silver
+1920,Antwerp,Shooting,Shooting,"AMOUDRUZ, Gustave",SUI,Men,"30M Army Pistol, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"EGLI, Hans",SUI,Men,"30M Army Pistol, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"GIAMBONINI, Domenico",SUI,Men,"30M Army Pistol, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"JEHLE, Joseph",SUI,Men,"30M Army Pistol, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"ZULAUF, Fritz",SUI,Men,"30M Army Pistol, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"FREDERICK, Carl Telford",USA,Men,"30M Army Pistol, Team",Gold
+1920,Antwerp,Shooting,Shooting,"HARANT, Louis",USA,Men,"30M Army Pistol, Team",Gold
+1920,Antwerp,Shooting,Shooting,"KELLY, Michael",USA,Men,"30M Army Pistol, Team",Gold
+1920,Antwerp,Shooting,Shooting,"LANE, Alfred P.",USA,Men,"30M Army Pistol, Team",Gold
+1920,Antwerp,Shooting,Shooting,"SNOOK, James Howard",USA,Men,"30M Army Pistol, Team",Gold
+1920,Antwerp,Shooting,Shooting,"MORAITINIS, Georgios",GRE,Men,"30M Army Pistol, Team",Silver
+1920,Antwerp,Shooting,Shooting,"THEOFILAKIS, Alexandros",GRE,Men,"30M Army Pistol, Team",Silver
+1920,Antwerp,Shooting,Shooting,"THEOFILAKIS, Ioannis",GRE,Men,"30M Army Pistol, Team",Silver
+1920,Antwerp,Shooting,Shooting,"VAPHIADIS, Georgios",GRE,Men,"30M Army Pistol, Team",Silver
+1920,Antwerp,Shooting,Shooting,"ZAPPAS, Iason",GRE,Men,"30M Army Pistol, Team",Silver
+1920,Antwerp,Shooting,Shooting,"BARBOSA, Dario",BRA,Men,"50M Army Pistol, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"DA COSTA, Afranio Antonio",BRA,Men,"50M Army Pistol, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"PARAENSE, Guilherme",BRA,Men,"50M Army Pistol, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"SOLEDADE, Fernando",BRA,Men,"50M Army Pistol, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"WOLF, Sebastiao",BRA,Men,"50M Army Pistol, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"BRACKEN, Raymond",USA,Men,"50M Army Pistol, Team",Gold
+1920,Antwerp,Shooting,Shooting,"FREDERICK, Carl Telford",USA,Men,"50M Army Pistol, Team",Gold
+1920,Antwerp,Shooting,Shooting,"KELLY, Michael",USA,Men,"50M Army Pistol, Team",Gold
+1920,Antwerp,Shooting,Shooting,"LANE, Alfred P.",USA,Men,"50M Army Pistol, Team",Gold
+1920,Antwerp,Shooting,Shooting,"SNOOK, James Howard",USA,Men,"50M Army Pistol, Team",Gold
+1920,Antwerp,Shooting,Shooting,"ANDERSSON, Anders Wilhelm",SWE,Men,"50M Army Pistol, Team",Silver
+1920,Antwerp,Shooting,Shooting,"GABRIELSSON, Gunnar",SWE,Men,"50M Army Pistol, Team",Silver
+1920,Antwerp,Shooting,Shooting,"HULTCRANTZ, Sigvard",SWE,Men,"50M Army Pistol, Team",Silver
+1920,Antwerp,Shooting,Shooting,"JOHNSSON, Anders",SWE,Men,"50M Army Pistol, Team",Silver
+1920,Antwerp,Shooting,Shooting,"REUTERSKIÖLD, Casimir",SWE,Men,"50M Army Pistol, Team",Silver
+1920,Antwerp,Shooting,Shooting,"LANE, Alfred P.",USA,Men,50M Pistol (60 Shots),Bronze
+1920,Antwerp,Shooting,Shooting,"FREDERICK, Carl Telford",USA,Men,50M Pistol (60 Shots),Gold
+1920,Antwerp,Shooting,Shooting,"DA COSTA, Afranio Antonio",BRA,Men,50M Pistol (60 Shots),Silver
+1920,Antwerp,Shooting,Shooting,"FENTON, Dennis",USA,Men,"50M Small Bore Rifle, Standing, Individual",Bronze
+1920,Antwerp,Shooting,Shooting,"NUESSLEIN, Lawrence Adam",USA,Men,"50M Small Bore Rifle, Standing, Individual",Gold
+1920,Antwerp,Shooting,Shooting,"ROTHROCK, Arthur",USA,Men,"50M Small Bore Rifle, Standing, Individual",Silver
+1920,Antwerp,Shooting,Shooting,"HELGERUD, Albert",NOR,Men,"50M Small Bore Rifle, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"JOHANSEN, Sigvart",NOR,Men,"50M Small Bore Rifle, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"OLSEN, Anton  Wilhelm",NOR,Men,"50M Small Bore Rifle, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"ÖSTENSEN, Östen",NOR,Men,"50M Small Bore Rifle, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"SLETTEN, Olaf",NOR,Men,"50M Small Bore Rifle, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"FENTON, Dennis",USA,Men,"50M Small Bore Rifle, Team",Gold
+1920,Antwerp,Shooting,Shooting,"LEE, Willis",USA,Men,"50M Small Bore Rifle, Team",Gold
+1920,Antwerp,Shooting,Shooting,"NUESSLEIN, Lawrence Adam",USA,Men,"50M Small Bore Rifle, Team",Gold
+1920,Antwerp,Shooting,Shooting,"ROTHROCK, Arthur",USA,Men,"50M Small Bore Rifle, Team",Gold
+1920,Antwerp,Shooting,Shooting,"SCHRIVER, Gunnery Ollie",USA,Men,"50M Small Bore Rifle, Team",Gold
+1920,Antwerp,Shooting,Shooting,"ERICSSON, Olle",SWE,Men,"50M Small Bore Rifle, Team",Silver
+1920,Antwerp,Shooting,Shooting,"HULTCRANTZ, Sigvard",SWE,Men,"50M Small Bore Rifle, Team",Silver
+1920,Antwerp,Shooting,Shooting,"LAGERLÖF, Leonard",SWE,Men,"50M Small Bore Rifle, Team",Silver
+1920,Antwerp,Shooting,Shooting,"OHLSSON, P. Erik F.",SWE,Men,"50M Small Bore Rifle, Team",Silver
+1920,Antwerp,Shooting,Shooting,"STARE, Ragnar",SWE,Men,"50M Small Bore Rifle, Team",Silver
+1920,Antwerp,Shooting,Shooting,"SPOONER, Lloyd Spencer",USA,Men,"600M Free Rifle, Prone",Bronze
+1920,Antwerp,Shooting,Shooting,"JOHANSSON, Carl Hugo",SWE,Men,"600M Free Rifle, Prone",Gold
+1920,Antwerp,Shooting,Shooting,"ERIKSSON, Mauritz",SWE,Men,"600M Free Rifle, Prone",Silver
+1920,Antwerp,Shooting,Shooting,"BLOMQVIST, Erik",SWE,Men,"600M Free Rifle, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"ERIKSSON, Mauritz",SWE,Men,"600M Free Rifle, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"JOHANSSON, Carl Hugo",SWE,Men,"600M Free Rifle, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"JONSSON, Gustaf Adolf",SWE,Men,"600M Free Rifle, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"OHLSSON, P. Erik F.",SWE,Men,"600M Free Rifle, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"FENTON, Dennis",USA,Men,"600M Free Rifle, Team",Gold
+1920,Antwerp,Shooting,Shooting,"JACKSON, Joseph",USA,Men,"600M Free Rifle, Team",Gold
+1920,Antwerp,Shooting,Shooting,"LEE, Willis",USA,Men,"600M Free Rifle, Team",Gold
+1920,Antwerp,Shooting,Shooting,"SCHRIVER, Gunnery Ollie",USA,Men,"600M Free Rifle, Team",Gold
+1920,Antwerp,Shooting,Shooting,"SPOONER, Lloyd Spencer",USA,Men,"600M Free Rifle, Team",Gold
+1920,Antwerp,Shooting,Shooting,"BODLEY, Robert",RSA,Men,"600M Free Rifle, Team",Silver
+1920,Antwerp,Shooting,Shooting,"BUCHANAN, Ferdinand Lindley Augustus",RSA,Men,"600M Free Rifle, Team",Silver
+1920,Antwerp,Shooting,Shooting,"HARVEY, George Henry",RSA,Men,"600M Free Rifle, Team",Silver
+1920,Antwerp,Shooting,Shooting,"MORGAN, Frederick Henry",RSA,Men,"600M Free Rifle, Team",Silver
+1920,Antwerp,Shooting,Shooting,"SMITH, David",RSA,Men,"600M Free Rifle, Team",Silver
+1920,Antwerp,Shooting,Shooting,"KUCHEN, Fritz",SUI,Men,"Army Rifle, 300M, Prone",Bronze
+1920,Antwerp,Shooting,Shooting,"OLSEN, Otto M.",NOR,Men,"Army Rifle, 300M, Prone",Gold
+1920,Antwerp,Shooting,Shooting,"JOHNSON, Léon",FRA,Men,"Army Rifle, 300M, Prone",Silver
+1920,Antwerp,Shooting,Shooting,"NUESSLEIN, Lawrence Adam",USA,Men,"Army Rifle, 300M, Standing",Bronze
+1920,Antwerp,Shooting,Shooting,"OSBURN, Carl Townsend",USA,Men,"Army Rifle, 300M, Standing",Gold
+1920,Antwerp,Shooting,Shooting,"MADSEN, Lars Jörgen",DEN,Men,"Army Rifle, 300M, Standing",Silver
+1920,Antwerp,Shooting,Shooting,"KINDE, Per",SWE,Men,"Clay Pigeons, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"LANDELIUS, P. Fredric",SWE,Men,"Clay Pigeons, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"LUNDQUIST, Erik R. G.",SWE,Men,"Clay Pigeons, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"RICHTER, Karl G. B.",SWE,Men,"Clay Pigeons, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"SÖKJER-PETERSEN, Erik",SWE,Men,"Clay Pigeons, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"SWAHN, Alfred",SWE,Men,"Clay Pigeons, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"ARIE, Mark",USA,Men,"Clay Pigeons, Team",Gold
+1920,Antwerp,Shooting,Shooting,"BONSER, Horace",USA,Men,"Clay Pigeons, Team",Gold
+1920,Antwerp,Shooting,Shooting,"MCNEIR, Forest",USA,Men,"Clay Pigeons, Team",Gold
+1920,Antwerp,Shooting,Shooting,"PLUM, Frederick",USA,Men,"Clay Pigeons, Team",Gold
+1920,Antwerp,Shooting,Shooting,"TROEH, Frank",USA,Men,"Clay Pigeons, Team",Gold
+1920,Antwerp,Shooting,Shooting,"WRIGHT, Frank",USA,Men,"Clay Pigeons, Team",Gold
+1920,Antwerp,Shooting,Shooting,"BOSQUET, Albert",BEL,Men,"Clay Pigeons, Team",Silver
+1920,Antwerp,Shooting,Shooting,"COGELS, Joseph",BEL,Men,"Clay Pigeons, Team",Silver
+1920,Antwerp,Shooting,Shooting,"DUPONT, Emile",BEL,Men,"Clay Pigeons, Team",Silver
+1920,Antwerp,Shooting,Shooting,"FESINGER, Edouard",BEL,Men,"Clay Pigeons, Team",Silver
+1920,Antwerp,Shooting,Shooting,"QUERSIN, Henri",BEL,Men,"Clay Pigeons, Team",Silver
+1920,Antwerp,Shooting,Shooting,"VAN TILT, Louis",BEL,Men,"Clay Pigeons, Team",Silver
+1920,Antwerp,Shooting,Shooting,"KUCHEN, Fritz",SUI,Men,"Free Rifle, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"REICH, Jacob",SUI,Men,"Free Rifle, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"RÖSLI, Arnold",SUI,Men,"Free Rifle, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"TRÖNDLE, Albert",SUI,Men,"Free Rifle, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"WIDMER, Caspar",SUI,Men,"Free Rifle, Team",Bronze
+1920,Antwerp,Shooting,Shooting,"FENTON, Dennis",USA,Men,"Free Rifle, Team",Gold
+1920,Antwerp,Shooting,Shooting,"FISHER, Morris",USA,Men,"Free Rifle, Team",Gold
+1920,Antwerp,Shooting,Shooting,"LEE, Willis",USA,Men,"Free Rifle, Team",Gold
+1920,Antwerp,Shooting,Shooting,"OSBURN, Carl Townsend",USA,Men,"Free Rifle, Team",Gold
+1920,Antwerp,Shooting,Shooting,"SPOONER, Lloyd Spencer",USA,Men,"Free Rifle, Team",Gold
+1920,Antwerp,Shooting,Shooting,"LARSEN, Ludvig",NOR,Men,"Free Rifle, Team",Silver
+1920,Antwerp,Shooting,Shooting,"NATVIG, Harald",NOR,Men,"Free Rifle, Team",Silver
+1920,Antwerp,Shooting,Shooting,"OLSEN, Otto M.",NOR,Men,"Free Rifle, Team",Silver
+1920,Antwerp,Shooting,Shooting,"ÖSTENSEN, Östen",NOR,Men,"Free Rifle, Team",Silver
+1920,Antwerp,Shooting,Shooting,"SLETTEN, Olaf",NOR,Men,"Free Rifle, Team",Silver
+1920,Antwerp,Shooting,Shooting,"WRIGHT, Frank",USA,Men,Trap (125 Targets),Bronze
+1920,Antwerp,Shooting,Shooting,"ARIE, Mark",USA,Men,Trap (125 Targets),Gold
+1920,Antwerp,Shooting,Shooting,"TROEH, Frank",USA,Men,Trap (125 Targets),Silver
+1920,Antwerp,Skating,Figure skating,"STIXRUD, Martin",NOR,Men,Individual,Bronze
+1920,Antwerp,Skating,Figure skating,"GRAFSTRÖM, Gillis",SWE,Men,Individual,Gold
+1920,Antwerp,Skating,Figure skating,"KROGH, Andreas",NOR,Men,Individual,Silver
+1920,Antwerp,Skating,Figure skating,"BLANCHARD, Theresa",USA,Women,Individual,Bronze
+1920,Antwerp,Skating,Figure skating,"JULIN-MAUROY, Magda",SWE,Women,Individual,Gold
+1920,Antwerp,Skating,Figure skating,"NOREN, Svea",SWE,Women,Individual,Silver
+1920,Antwerp,Skating,Figure skating,"WILLIAMS, Basil",GBR,Men,Pairs,Bronze
+1920,Antwerp,Skating,Figure skating,"JAKOBSSON, Walter",FIN,Men,Pairs,Gold
+1920,Antwerp,Skating,Figure skating,"BRYN, Yngvar",NOR,Men,Pairs,Silver
+1920,Antwerp,Skating,Figure skating,"JOHNSON, Phyllis",GBR,Women,Pairs,Bronze
+1920,Antwerp,Skating,Figure skating,"JAKOBSSON, Ludowika",FIN,Women,Pairs,Gold
+1920,Antwerp,Skating,Figure skating,"BRYN, Alexia",NOR,Women,Pairs,Silver
+1920,Antwerp,Tennis,Tennis,"ALBARRAN, Pierre",FRA,Men,Doubles,Bronze
+1920,Antwerp,Tennis,Tennis,"DECUGIS, Max",FRA,Men,Doubles,Bronze
+1920,Antwerp,Tennis,Tennis,"TURNBULL, Oswald Graham Noel",GBR,Men,Doubles,Gold
+1920,Antwerp,Tennis,Tennis,"WOOSNAM, Maxwell",GBR,Men,Doubles,Gold
+1920,Antwerp,Tennis,Tennis,"KASHIO, Seiichiro",JPN,Men,Doubles,Silver
+1920,Antwerp,Tennis,Tennis,"KUMAGAE, Ichiya",JPN,Men,Doubles,Silver
+1920,Antwerp,Tennis,Tennis,"D'AYEN, Elisabeth",FRA,Women,Doubles,Bronze
+1920,Antwerp,Tennis,Tennis,"LENGLEN, Suzanne",FRA,Women,Doubles,Bronze
+1920,Antwerp,Tennis,Tennis,"MCKANE, Kathleen",GBR,Women,Doubles,Gold
+1920,Antwerp,Tennis,Tennis,"MCNAIR, Winifred Margaret",GBR,Women,Doubles,Gold
+1920,Antwerp,Tennis,Tennis,"BEAMISH, Winifred Geraldine",GBR,Women,Doubles,Silver
+1920,Antwerp,Tennis,Tennis,"HOLMAN, Edith Dorothy",GBR,Women,Doubles,Silver
+1920,Antwerp,Tennis,Tennis,"ZEMLA, Ladislav",TCH,Men,Mixed Doubles,Bronze
+1920,Antwerp,Tennis,Tennis,"DECUGIS, Max",FRA,Men,Mixed Doubles,Gold
+1920,Antwerp,Tennis,Tennis,"WOOSNAM, Maxwell",GBR,Men,Mixed Doubles,Silver
+1920,Antwerp,Tennis,Tennis,"SKRBKOVA, Milada",TCH,Women,Mixed Doubles,Bronze
+1920,Antwerp,Tennis,Tennis,"LENGLEN, Suzanne",FRA,Women,Mixed Doubles,Gold
+1920,Antwerp,Tennis,Tennis,"MCKANE, Kathleen",GBR,Women,Mixed Doubles,Silver
+1920,Antwerp,Tennis,Tennis,"WINSLOW, Charles Lyndhurst",RSA,Men,Singles,Bronze
+1920,Antwerp,Tennis,Tennis,"RAYMOND, Louis",RSA,Men,Singles,Gold
+1920,Antwerp,Tennis,Tennis,"KUMAGAE, Ichiya",JPN,Men,Singles,Silver
+1920,Antwerp,Tennis,Tennis,"MCKANE, Kathleen",GBR,Women,Singles,Bronze
+1920,Antwerp,Tennis,Tennis,"LENGLEN, Suzanne",FRA,Women,Singles,Gold
+1920,Antwerp,Tennis,Tennis,"HOLMAN, Edith Dorothy",GBR,Women,Singles,Silver
+1920,Antwerp,Tug of War,Tug of War,"BOURGUIGNON, Georges",BEL,Men,Tug Of War,Bronze
+1920,Antwerp,Tug of War,Tug of War,"DUCATILLON, Alphonse",BEL,Men,Tug Of War,Bronze
+1920,Antwerp,Tug of War,Tug of War,"MAERTENS, Raymond Rémi",BEL,Men,Tug Of War,Bronze
+1920,Antwerp,Tug of War,Tug of War,"PIEK, Christen Albert",BEL,Men,Tug Of War,Bronze
+1920,Antwerp,Tug of War,Tug of War,"PINTENS, Henri",BEL,Men,Tug Of War,Bronze
+1920,Antwerp,Tug of War,Tug of War,"VAN DEN BROEK, Charles",BEL,Men,Tug Of War,Bronze
+1920,Antwerp,Tug of War,Tug of War,"VAN HOORENBEEK, François",BEL,Men,Tug Of War,Bronze
+1920,Antwerp,Tug of War,Tug of War,"WUYTS, Gustave Marie",BEL,Men,Tug Of War,Bronze
+1920,Antwerp,Tug of War,Tug of War,"CANNING, George",GBR,Men,Tug Of War,Gold
+1920,Antwerp,Tug of War,Tug of War,"HOLMES, Frederick William",GBR,Men,Tug Of War,Gold
+1920,Antwerp,Tug of War,Tug of War,"HUMPHREYS, Frederick Harkness",GBR,Men,Tug Of War,Gold
+1920,Antwerp,Tug of War,Tug of War,"MILLS, Edwin Archer",GBR,Men,Tug Of War,Gold
+1920,Antwerp,Tug of War,Tug of War,"SEWELL, John",GBR,Men,Tug Of War,Gold
+1920,Antwerp,Tug of War,Tug of War,"SHEPHERD, James",GBR,Men,Tug Of War,Gold
+1920,Antwerp,Tug of War,Tug of War,"STIFF, Harry Joseph",GBR,Men,Tug Of War,Gold
+1920,Antwerp,Tug of War,Tug of War,"THORNE, Ernest Arthur",GBR,Men,Tug Of War,Gold
+1920,Antwerp,Tug of War,Tug of War,"BEKKERS, Wilhelmus Johannes",NED,Men,Tug Of War,Silver
+1920,Antwerp,Tug of War,Tug of War,"HENGEVELD, Johannes Hendrikus",NED,Men,Tug Of War,Silver
+1920,Antwerp,Tug of War,Tug of War,"JANSMA, Sytse",NED,Men,Tug Of War,Silver
+1920,Antwerp,Tug of War,Tug of War,"JANSSEN, Hendrikus Alexzander",NED,Men,Tug Of War,Silver
+1920,Antwerp,Tug of War,Tug of War,"VAN LOON, Antonius",NED,Men,Tug Of War,Silver
+1920,Antwerp,Tug of War,Tug of War,"VAN LOON, Willem",NED,Men,Tug Of War,Silver
+1920,Antwerp,Tug of War,Tug of War,"VAN REKUM, Marinus Cornelis",NED,Men,Tug Of War,Silver
+1920,Antwerp,Tug of War,Tug of War,"VAN REKUM, Willem",NED,Men,Tug Of War,Silver
+1920,Antwerp,Weightlifting,Weightlifting,"RYTHER, Eugène",SUI,Men,"- 60KG, One-Two Hand 3 Events (Featherweight)",Bronze
+1920,Antwerp,Weightlifting,Weightlifting,"DE HAES, Frans",BEL,Men,"- 60KG, One-Two Hand 3 Events (Featherweight)",Gold
+1920,Antwerp,Weightlifting,Weightlifting,"SCHMIDT, Alfred",EST,Men,"- 60KG, One-Two Hand 3 Events (Featherweight)",Silver
+1920,Antwerp,Weightlifting,Weightlifting,"BERNOT, Louis",FRA,Men,"+ 82.5KG, One-Two Hand 3 Events (Heavyweight)",Bronze
+1920,Antwerp,Weightlifting,Weightlifting,"BOTTINO, Filippo",ITA,Men,"+ 82.5KG, One-Two Hand 3 Events (Heavyweight)",Gold
+1920,Antwerp,Weightlifting,Weightlifting,"ALZIN, Joseph",LUX,Men,"+ 82.5KG, One-Two Hand 3 Events (Heavyweight)",Silver
+1920,Antwerp,Weightlifting,Weightlifting,"ROOMS, Georges Florimond",BEL,Men,"60 - 67.5KG, One-Two Hand 3 Events (Lightweight)",Bronze
+1920,Antwerp,Weightlifting,Weightlifting,"NEULAND, Alfred",EST,Men,"60 - 67.5KG, One-Two Hand 3 Events (Lightweight)",Gold
+1920,Antwerp,Weightlifting,Weightlifting,"WILLIQUET, Louis",BEL,Men,"60 - 67.5KG, One-Two Hand 3 Events (Lightweight)",Silver
+1920,Antwerp,Weightlifting,Weightlifting,"PETTERSSON, Albert",SWE,Men,"67.5 - 75KG, One-Two Hand 3 Events (Middleweight)",Bronze
+1920,Antwerp,Weightlifting,Weightlifting,"GANCE, Henri",FRA,Men,"67.5 - 75KG, One-Two Hand 3 Events (Middleweight)",Gold
+1920,Antwerp,Weightlifting,Weightlifting,"BIANCHI, Pietro Ubaldo",ITA,Men,"67.5 - 75KG, One-Two Hand 3 Events (Middleweight)",Silver
+1920,Antwerp,Weightlifting,Weightlifting,"PETTERSSON, Erik",SWE,Men,"75 - 82.5KG, One-Two Hand 3 E. (Light-Heavyweight)",Bronze
+1920,Antwerp,Weightlifting,Weightlifting,"CADINE, Ernest",FRA,Men,"75 - 82.5KG, One-Two Hand 3 E. (Light-Heavyweight)",Gold
+1920,Antwerp,Weightlifting,Weightlifting,"HÜNENBERGER, Fritz",SUI,Men,"75 - 82.5KG, One-Two Hand 3 E. (Light-Heavyweight)",Silver
+1920,Antwerp,Wrestling,Wrestling Free.,"BERNARD, Philip William Samuel",GBR,Men,- 60KG (Featherweight),Bronze
+1920,Antwerp,Wrestling,Wrestling Free.,"ACKERLY, Charles Edwin",USA,Men,- 60KG (Featherweight),Gold
+1920,Antwerp,Wrestling,Wrestling Free.,"GERSON, Samuel",USA,Men,- 60KG (Featherweight),Silver
+1920,Antwerp,Wrestling,Wrestling Free.,"MEYER, Frederick Julius",USA,Men,+ 80KG (Heavyweight),Bronze
+1920,Antwerp,Wrestling,Wrestling Free.,"NILSSON, Ernst",SWE,Men,+ 80KG (Heavyweight),Bronze
+1920,Antwerp,Wrestling,Wrestling Free.,"ROTH, Robert",SUI,Men,+ 80KG (Heavyweight),Gold
+1920,Antwerp,Wrestling,Wrestling Free.,"PENDLETON, Nathan Green",USA,Men,+ 80KG (Heavyweight),Silver
+1920,Antwerp,Wrestling,Wrestling Free.,"WRIGHT, Peter W.",GBR,Men,60 - 67.5KG (Lightweight),Bronze
+1920,Antwerp,Wrestling,Wrestling Free.,"ANTTILA, Kalle",FIN,Men,60 - 67.5KG (Lightweight),Gold
+1920,Antwerp,Wrestling,Wrestling Free.,"SVENSSON, Gottfrid",SWE,Men,60 - 67.5KG (Lightweight),Silver
+1920,Antwerp,Wrestling,Wrestling Free.,"JOHNSON, Charles F.",USA,Men,67.5 - 75KG (Middleweight),Bronze
+1920,Antwerp,Wrestling,Wrestling Free.,"LEINO, Eino Aukusti",FIN,Men,67.5 - 75KG (Middleweight),Gold
+1920,Antwerp,Wrestling,Wrestling Free.,"PENTTALA, Väinö",FIN,Men,67.5 - 75KG (Middleweight),Silver
+1920,Antwerp,Wrestling,Wrestling Free.,"MAURER, Walter S.",USA,Men,75 - 80KG (Light-Heavyweight),Bronze
+1920,Antwerp,Wrestling,Wrestling Free.,"LARSSON, Anders",SWE,Men,75 - 80KG (Light-Heavyweight),Gold
+1920,Antwerp,Wrestling,Wrestling Free.,"COURANT, Charles",SUI,Men,75 - 80KG (Light-Heavyweight),Silver
+1920,Antwerp,Wrestling,Wrestling Gre-R,"SVENSSON, Frithiof",SWE,Men,- 60KG (Featherweight),Bronze
+1920,Antwerp,Wrestling,Wrestling Gre-R,"FRIMAN, Oskar David",FIN,Men,- 60KG (Featherweight),Gold
+1920,Antwerp,Wrestling,Wrestling Gre-R,"KÄHKÖNEN, Heikki",FIN,Men,- 60KG (Featherweight),Silver
+1920,Antwerp,Wrestling,Wrestling Gre-R,"NIEMINEN, Martti",FIN,Men,+ 82KG (Super Heavyweight),Bronze
+1920,Antwerp,Wrestling,Wrestling Gre-R,"LINDFORS, Adolf Valentin",FIN,Men,+ 82KG (Super Heavyweight),Gold
+1920,Antwerp,Wrestling,Wrestling Gre-R,"HANSEN, Poul",DEN,Men,+ 82KG (Super Heavyweight),Silver
+1920,Antwerp,Wrestling,Wrestling Gre-R,"ANDERSEN, Frithjof",NOR,Men,60 - 67.5KG (Lightweight),Bronze
+1920,Antwerp,Wrestling,Wrestling Gre-R,"VÄRE, Eemil Ernesti",FIN,Men,60 - 67.5KG (Lightweight),Gold
+1920,Antwerp,Wrestling,Wrestling Gre-R,"TAMMINEN, Taavi",FIN,Men,60 - 67.5KG (Lightweight),Silver
+1920,Antwerp,Wrestling,Wrestling Gre-R,"PERTTILÄ, Matti",FIN,Men,67.5 - 75KG (Middleweight),Bronze
+1920,Antwerp,Wrestling,Wrestling Gre-R,"WESTERGREN, Carl",SWE,Men,67.5 - 75KG (Middleweight),Gold
+1920,Antwerp,Wrestling,Wrestling Gre-R,"LINDFORS, Arthur",FIN,Men,67.5 - 75KG (Middleweight),Silver
+1920,Antwerp,Wrestling,Wrestling Gre-R,"ERIKSEN, Johannes Thorvald",DEN,Men,75 - 82KG (Light-Heavyweight),Bronze
+1920,Antwerp,Wrestling,Wrestling Gre-R,"JOHANSSON, Claes",SWE,Men,75 - 82KG (Light-Heavyweight),Gold
+1920,Antwerp,Wrestling,Wrestling Gre-R,"ROSENQVIST, Edil",FIN,Men,75 - 82KG (Light-Heavyweight),Silver

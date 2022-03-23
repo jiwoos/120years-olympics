@@ -1,0 +1,876 @@
+Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
+1936,Berlin,Aquatics,Diving,"STORK, Hermann",GER,Men,10M Platform,Bronze
+1936,Berlin,Aquatics,Diving,"WAYNE, Marshall",USA,Men,10M Platform,Gold
+1936,Berlin,Aquatics,Diving,"ROOT, Elbert Alonzo",USA,Men,10M Platform,Silver
+1936,Berlin,Aquatics,Diving,"KÖHLER, Käthe",GER,Women,10M Platform,Bronze
+1936,Berlin,Aquatics,Diving,"POYNTON-HILL, Dorothy",USA,Women,10M Platform,Gold
+1936,Berlin,Aquatics,Diving,"DUNN PLOESSEL, Velma Clancy",USA,Women,10M Platform,Silver
+1936,Berlin,Aquatics,Diving,"GREENE, Alan",USA,Men,3M Springboard,Bronze
+1936,Berlin,Aquatics,Diving,"DEGENER, Richard Kempster",USA,Men,3M Springboard,Gold
+1936,Berlin,Aquatics,Diving,"WAYNE, Marshall",USA,Men,3M Springboard,Silver
+1936,Berlin,Aquatics,Diving,"POYNTON-HILL, Dorothy",USA,Women,3M Springboard,Bronze
+1936,Berlin,Aquatics,Diving,"GESTRING, Marjorie",USA,Women,3M Springboard,Gold
+1936,Berlin,Aquatics,Diving,"RAWLS, Katherine Louise",USA,Women,3M Springboard,Silver
+1936,Berlin,Aquatics,Swimming,"KIYOKAWA, Masaji",JPN,Men,100M Backstroke,Bronze
+1936,Berlin,Aquatics,Swimming,"KIEFER, Adolph Gustav",USA,Men,100M Backstroke,Gold
+1936,Berlin,Aquatics,Swimming,"VAN DE WEGHE, Albert",USA,Men,100M Backstroke,Silver
+1936,Berlin,Aquatics,Swimming,"BRIDGES, Alice W.",USA,Women,100M Backstroke,Bronze
+1936,Berlin,Aquatics,Swimming,"SENFF, Dina Willemina Jacoba",NED,Women,100M Backstroke,Gold
+1936,Berlin,Aquatics,Swimming,"MASTENBROEK, Hendrika",NED,Women,100M Backstroke,Silver
+1936,Berlin,Aquatics,Swimming,"ARAI, Shigeo",JPN,Men,100M Freestyle,Bronze
+1936,Berlin,Aquatics,Swimming,"CSIK, Ferenc",HUN,Men,100M Freestyle,Gold
+1936,Berlin,Aquatics,Swimming,"YUSA, Masanori",JPN,Men,100M Freestyle,Silver
+1936,Berlin,Aquatics,Swimming,"ARENDT-JACOBS, Gisela",GER,Women,100M Freestyle,Bronze
+1936,Berlin,Aquatics,Swimming,"MASTENBROEK, Hendrika",NED,Women,100M Freestyle,Gold
+1936,Berlin,Aquatics,Swimming,"CAMPBELL, Jeanette Morven",ARG,Women,100M Freestyle,Silver
+1936,Berlin,Aquatics,Swimming,"UTO, Shunpei",JPN,Men,1500M Freestyle,Bronze
+1936,Berlin,Aquatics,Swimming,"TERADA, Noboru",JPN,Men,1500M Freestyle,Gold
+1936,Berlin,Aquatics,Swimming,"MEDICA, Jack C.",USA,Men,1500M Freestyle,Silver
+1936,Berlin,Aquatics,Swimming,"KOIKE, Reizo",JPN,Men,200M Breaststroke,Bronze
+1936,Berlin,Aquatics,Swimming,"HAMURO, Tetsuo",JPN,Men,200M Breaststroke,Gold
+1936,Berlin,Aquatics,Swimming,"SIETAS, Erwin",GER,Men,200M Breaststroke,Silver
+1936,Berlin,Aquatics,Swimming,"SÖRENSEN, Inge",DEN,Women,200M Breaststroke,Bronze
+1936,Berlin,Aquatics,Swimming,"MAEHATA, Hideko",JPN,Women,200M Breaststroke,Gold
+1936,Berlin,Aquatics,Swimming,"GENENGER, Martha",GER,Women,200M Breaststroke,Silver
+1936,Berlin,Aquatics,Swimming,"MAKINO, Shozo",JPN,Men,400M Freestyle,Bronze
+1936,Berlin,Aquatics,Swimming,"MEDICA, Jack C.",USA,Men,400M Freestyle,Gold
+1936,Berlin,Aquatics,Swimming,"UTO, Shunpei",JPN,Men,400M Freestyle,Silver
+1936,Berlin,Aquatics,Swimming,"KIGHT-WINGARD, Lenore",USA,Women,400M Freestyle,Bronze
+1936,Berlin,Aquatics,Swimming,"MASTENBROEK, Hendrika",NED,Women,400M Freestyle,Gold
+1936,Berlin,Aquatics,Swimming,"HVEGER, Ragnild Tove",DEN,Women,400M Freestyle,Silver
+1936,Berlin,Aquatics,Swimming,"FREEMAN, Mavis Anne",USA,Women,4X100M Freestyle Relay,Bronze
+1936,Berlin,Aquatics,Swimming,"LAPP, Bernice Ruth",USA,Women,4X100M Freestyle Relay,Bronze
+1936,Berlin,Aquatics,Swimming,"MCKEAN, Mary Olive",USA,Women,4X100M Freestyle Relay,Bronze
+1936,Berlin,Aquatics,Swimming,"RAWLS, Katherine Louise",USA,Women,4X100M Freestyle Relay,Bronze
+1936,Berlin,Aquatics,Swimming,"DEN OUDEN, Willemyntje (Willy)",NED,Women,4X100M Freestyle Relay,Gold
+1936,Berlin,Aquatics,Swimming,"MASTENBROEK, Hendrika",NED,Women,4X100M Freestyle Relay,Gold
+1936,Berlin,Aquatics,Swimming,"SELBACH, Johanna Katarina",NED,Women,4X100M Freestyle Relay,Gold
+1936,Berlin,Aquatics,Swimming,"WAGNER, Catharina (Tini) Willemina",NED,Women,4X100M Freestyle Relay,Gold
+1936,Berlin,Aquatics,Swimming,"ARENDT-JACOBS, Gisela",GER,Women,4X100M Freestyle Relay,Silver
+1936,Berlin,Aquatics,Swimming,"HALBSGUTH, Ruth",GER,Women,4X100M Freestyle Relay,Silver
+1936,Berlin,Aquatics,Swimming,"LOHMAR -HENZE, Maria Magdalene",GER,Women,4X100M Freestyle Relay,Silver
+1936,Berlin,Aquatics,Swimming,"SCHMITZ, Ingeborg",GER,Women,4X100M Freestyle Relay,Silver
+1936,Berlin,Aquatics,Swimming,"ABAY-NEMES, Oszkar",HUN,Men,4X200M Freestyle Relay,Bronze
+1936,Berlin,Aquatics,Swimming,"CSIK, Ferenc",HUN,Men,4X200M Freestyle Relay,Bronze
+1936,Berlin,Aquatics,Swimming,"GROF, Ödön",HUN,Men,4X200M Freestyle Relay,Bronze
+1936,Berlin,Aquatics,Swimming,"LENGYEL, Arpad",HUN,Men,4X200M Freestyle Relay,Bronze
+1936,Berlin,Aquatics,Swimming,"ARAI, Shigeo",JPN,Men,4X200M Freestyle Relay,Gold
+1936,Berlin,Aquatics,Swimming,"SUGIURA, Shigeo",JPN,Men,4X200M Freestyle Relay,Gold
+1936,Berlin,Aquatics,Swimming,"TAGUCHI, Masaharu",JPN,Men,4X200M Freestyle Relay,Gold
+1936,Berlin,Aquatics,Swimming,"YUSA, Masanori",JPN,Men,4X200M Freestyle Relay,Gold
+1936,Berlin,Aquatics,Swimming,"FLANAGAN, Ralph Drew",USA,Men,4X200M Freestyle Relay,Silver
+1936,Berlin,Aquatics,Swimming,"MACIONIS, John Joseph",USA,Men,4X200M Freestyle Relay,Silver
+1936,Berlin,Aquatics,Swimming,"MEDICA, Jack C.",USA,Men,4X200M Freestyle Relay,Silver
+1936,Berlin,Aquatics,Swimming,"WOLF, Paul",USA,Men,4X200M Freestyle Relay,Silver
+1936,Berlin,Aquatics,Water polo,"BLITZ, Gerard",BEL,Men,Water Polo,Bronze
+1936,Berlin,Aquatics,Water polo,"CASTELEYNS, Albert",BEL,Men,Water Polo,Bronze
+1936,Berlin,Aquatics,Water polo,"COPPIETERS, Pierre",BEL,Men,Water Polo,Bronze
+1936,Berlin,Aquatics,Water polo,"DE COMBE, Joseph",BEL,Men,Water Polo,Bronze
+1936,Berlin,Aquatics,Water polo,"DE PAUW, Henri",BEL,Men,Water Polo,Bronze
+1936,Berlin,Aquatics,Water polo,"DISY, Henri",BEL,Men,Water Polo,Bronze
+1936,Berlin,Aquatics,Water polo,"ISSELE, Fernand",BEL,Men,Water Polo,Bronze
+1936,Berlin,Aquatics,Water polo,"MICHIELS, Edmond",BEL,Men,Water Polo,Bronze
+1936,Berlin,Aquatics,Water polo,"STOELEN, Henri",BEL,Men,Water Polo,Bronze
+1936,Berlin,Aquatics,Water polo,"BOZSI, Mihaly",HUN,Men,Water Polo,Gold
+1936,Berlin,Aquatics,Water polo,"BRANDI, Jenö",HUN,Men,Water Polo,Gold
+1936,Berlin,Aquatics,Water polo,"BRODY, György",HUN,Men,Water Polo,Gold
+1936,Berlin,Aquatics,Water polo,"HALASSY, Oliver",HUN,Men,Water Polo,Gold
+1936,Berlin,Aquatics,Water polo,"HAZAI, Kalman",HUN,Men,Water Polo,Gold
+1936,Berlin,Aquatics,Water polo,"HOMONNAI, Lajos",HUN,Men,Water Polo,Gold
+1936,Berlin,Aquatics,Water polo,"KUTASI, György",HUN,Men,Water Polo,Gold
+1936,Berlin,Aquatics,Water polo,"MOLNAR, Istvan",HUN,Men,Water Polo,Gold
+1936,Berlin,Aquatics,Water polo,"NEMETH, János",HUN,Men,Water Polo,Gold
+1936,Berlin,Aquatics,Water polo,"SÁRKÁNY, Miklós",HUN,Men,Water Polo,Gold
+1936,Berlin,Aquatics,Water polo,"TARICS, Sandor",HUN,Men,Water Polo,Gold
+1936,Berlin,Aquatics,Water polo,"BAIER, Bernhard",GER,Men,Water Polo,Silver
+1936,Berlin,Aquatics,Water polo,"GUNST, Fritz",GER,Men,Water Polo,Silver
+1936,Berlin,Aquatics,Water polo,"HAUSER, Josef",GER,Men,Water Polo,Silver
+1936,Berlin,Aquatics,Water polo,"KIENZLE, Alfred",GER,Men,Water Polo,Silver
+1936,Berlin,Aquatics,Water polo,"KLINGENBURG, Paul",GER,Men,Water Polo,Silver
+1936,Berlin,Aquatics,Water polo,"KRUG, Heinrich",GER,Men,Water Polo,Silver
+1936,Berlin,Aquatics,Water polo,"SCHNEIDER, Hans",GER,Men,Water Polo,Silver
+1936,Berlin,Aquatics,Water polo,"SCHULZE, Hans",GER,Men,Water Polo,Silver
+1936,Berlin,Aquatics,Water polo,"SCHÜRGER, Gustav",GER,Men,Water Polo,Silver
+1936,Berlin,Aquatics,Water polo,"SCHWENN, Helmuth",GER,Men,Water Polo,Silver
+1936,Berlin,Aquatics,Water polo,"STOLZE, Fritz",GER,Men,Water Polo,Silver
+1936,Berlin,Athletics,Athletics,"ISO-HOLLO, Volmari",FIN,Men,10000M,Bronze
+1936,Berlin,Athletics,Athletics,"SALMINEN, Ilmari",FIN,Men,10000M,Gold
+1936,Berlin,Athletics,Athletics,"ASKOLA, Arvo",FIN,Men,10000M,Silver
+1936,Berlin,Athletics,Athletics,"OSENDARP, Martinus",NED,Men,100M,Bronze
+1936,Berlin,Athletics,Athletics,"OWENS, Jesse",USA,Men,100M,Gold
+1936,Berlin,Athletics,Athletics,"METCALFE, Ralph",USA,Men,100M,Silver
+1936,Berlin,Athletics,Athletics,"KRAUSS, Käthe",GER,Women,100M,Bronze
+1936,Berlin,Athletics,Athletics,"STEPHENS, Helen Herring",USA,Women,100M,Gold
+1936,Berlin,Athletics,Athletics,"WALASIEWICZ, Stanislawa",POL,Women,100M,Silver
+1936,Berlin,Athletics,Athletics,"POLLARD, Frederick Douglas Jr.",USA,Men,110M Hurdles,Bronze
+1936,Berlin,Athletics,Athletics,"TOWNS, Forrest Grady",USA,Men,110M Hurdles,Gold
+1936,Berlin,Athletics,Athletics,"FINLAY, Donald",GBR,Men,110M Hurdles,Silver
+1936,Berlin,Athletics,Athletics,"BECCALI, Luigi",ITA,Men,1500M,Bronze
+1936,Berlin,Athletics,Athletics,"LOVELOCK, John",NZL,Men,1500M,Gold
+1936,Berlin,Athletics,Athletics,"CUNNINGHAM, Glenn",USA,Men,1500M,Silver
+1936,Berlin,Athletics,Athletics,"OSENDARP, Martinus",NED,Men,200M,Bronze
+1936,Berlin,Athletics,Athletics,"OWENS, Jesse",USA,Men,200M,Gold
+1936,Berlin,Athletics,Athletics,"ROBINSON, Matthew Mackenzie",USA,Men,200M,Silver
+1936,Berlin,Athletics,Athletics,"DOMPERT, Alfred",GER,Men,3000M Steeplechase,Bronze
+1936,Berlin,Athletics,Athletics,"ISO-HOLLO, Volmari",FIN,Men,3000M Steeplechase,Gold
+1936,Berlin,Athletics,Athletics,"TUOMINEN, Kaarlo Jalmari",FIN,Men,3000M Steeplechase,Silver
+1936,Berlin,Athletics,Athletics,"LU VALLE, James Ellis",USA,Men,400M,Bronze
+1936,Berlin,Athletics,Athletics,"WILLIAMS, Archibald Franklin",USA,Men,400M,Gold
+1936,Berlin,Athletics,Athletics,"BROWN, Arthur Godfrey Kilner",GBR,Men,400M,Silver
+1936,Berlin,Athletics,Athletics,"WHITE, Miguel S.",PHI,Men,400M Hurdles,Bronze
+1936,Berlin,Athletics,Athletics,"HARDIN, Glenn Foster",USA,Men,400M Hurdles,Gold
+1936,Berlin,Athletics,Athletics,"LOARING, John Wilfred",CAN,Men,400M Hurdles,Silver
+1936,Berlin,Athletics,Athletics,"BORCHMEYER, Erich",GER,Men,4X100M Relay,Bronze
+1936,Berlin,Athletics,Athletics,"GILLMEISTER, Erwin",GER,Men,4X100M Relay,Bronze
+1936,Berlin,Athletics,Athletics,"HORNBERGER, Gerd",GER,Men,4X100M Relay,Bronze
+1936,Berlin,Athletics,Athletics,"LEICHUM, Wilhelm",GER,Men,4X100M Relay,Bronze
+1936,Berlin,Athletics,Athletics,"DRAPER, Foy",USA,Men,4X100M Relay,Gold
+1936,Berlin,Athletics,Athletics,"METCALFE, Ralph",USA,Men,4X100M Relay,Gold
+1936,Berlin,Athletics,Athletics,"OWENS, Jesse",USA,Men,4X100M Relay,Gold
+1936,Berlin,Athletics,Athletics,"WYKOFF, Frank Clifford",USA,Men,4X100M Relay,Gold
+1936,Berlin,Athletics,Athletics,"CALDANA, Gianni",ITA,Men,4X100M Relay,Silver
+1936,Berlin,Athletics,Athletics,"GONNELLI, Tullio",ITA,Men,4X100M Relay,Silver
+1936,Berlin,Athletics,Athletics,"MARIANI, Orazio",ITA,Men,4X100M Relay,Silver
+1936,Berlin,Athletics,Athletics,"RAGNI, Elio",ITA,Men,4X100M Relay,Silver
+1936,Berlin,Athletics,Athletics,"BROOKSHAW, Dorothy Elizabeth",CAN,Women,4X100M Relay,Bronze
+1936,Berlin,Athletics,Athletics,"CAMERON, Hilda May",CAN,Women,4X100M Relay,Bronze
+1936,Berlin,Athletics,Athletics,"DOLSON-CAVILL, Mildred Jeanette",CAN,Women,4X100M Relay,Bronze
+1936,Berlin,Athletics,Athletics,"MEAGHER, Aileen Aletha",CAN,Women,4X100M Relay,Bronze
+1936,Berlin,Athletics,Athletics,"BLAND, Harriett Claiborne",USA,Women,4X100M Relay,Gold
+1936,Berlin,Athletics,Athletics,"ROBINSON, Elizabeth",USA,Women,4X100M Relay,Gold
+1936,Berlin,Athletics,Athletics,"ROGERS, Annette Joan",USA,Women,4X100M Relay,Gold
+1936,Berlin,Athletics,Athletics,"STEPHENS, Helen Herring",USA,Women,4X100M Relay,Gold
+1936,Berlin,Athletics,Athletics,"BROWN, Audrey Kathleen",GBR,Women,4X100M Relay,Silver
+1936,Berlin,Athletics,Athletics,"BURKE, Barbara Hannah Anita",GBR,Women,4X100M Relay,Silver
+1936,Berlin,Athletics,Athletics,"HISCOCK, Eileen May",GBR,Women,4X100M Relay,Silver
+1936,Berlin,Athletics,Athletics,"OLNEY, Violet R.",GBR,Women,4X100M Relay,Silver
+1936,Berlin,Athletics,Athletics,"HAMANN, Helmut",GER,Men,4X400M Relay,Bronze
+1936,Berlin,Athletics,Athletics,"HARBIG, Rudolf",GER,Men,4X400M Relay,Bronze
+1936,Berlin,Athletics,Athletics,"VOIGT, Harry C.",GER,Men,4X400M Relay,Bronze
+1936,Berlin,Athletics,Athletics,"VON STÜLPNAGEL, Friedrich",GER,Men,4X400M Relay,Bronze
+1936,Berlin,Athletics,Athletics,"BROWN, Arthur Godfrey Kilner",GBR,Men,4X400M Relay,Gold
+1936,Berlin,Athletics,Athletics,"RAMPLING, Godfrey Lionel",GBR,Men,4X400M Relay,Gold
+1936,Berlin,Athletics,Athletics,"ROBERTS, William",GBR,Men,4X400M Relay,Gold
+1936,Berlin,Athletics,Athletics,"WOLFF, Frederick Ferdinand",GBR,Men,4X400M Relay,Gold
+1936,Berlin,Athletics,Athletics,"CAGLE, Harold D.",USA,Men,4X400M Relay,Silver
+1936,Berlin,Athletics,Athletics,"FITCH, Alfred Lord",USA,Men,4X400M Relay,Silver
+1936,Berlin,Athletics,Athletics,"O'BRIEN, Edward T.",USA,Men,4X400M Relay,Silver
+1936,Berlin,Athletics,Athletics,"YOUNG, Robert Clark",USA,Men,4X400M Relay,Silver
+1936,Berlin,Athletics,Athletics,"JONSSON-KÄLARNE, Henry",SWE,Men,5000M,Bronze
+1936,Berlin,Athletics,Athletics,"HÖCKERT, Gunnar",FIN,Men,5000M,Gold
+1936,Berlin,Athletics,Athletics,"LEHTINEN, Lauri Aleksanteri",FIN,Men,5000M,Silver
+1936,Berlin,Athletics,Athletics,"BUBENKO, Adalberts",LAT,Men,50KM Walk,Bronze
+1936,Berlin,Athletics,Athletics,"WHITLOCK, Hector Harold",GBR,Men,50KM Walk,Gold
+1936,Berlin,Athletics,Athletics,"SCHWAB, Arthur",SUI,Men,50KM Walk,Silver
+1936,Berlin,Athletics,Athletics,"EDWARDS, Philip",CAN,Men,800M,Bronze
+1936,Berlin,Athletics,Athletics,"WOODRUFF, John Youie",USA,Men,800M,Gold
+1936,Berlin,Athletics,Athletics,"LANZI, Mario",ITA,Men,800M,Silver
+1936,Berlin,Athletics,Athletics,"TAYLOR-CAMPBELL, Elizabeth",CAN,Women,80M Hurdles,Bronze
+1936,Berlin,Athletics,Athletics,"VALLA, Trebisonda",ITA,Women,80M Hurdles,Gold
+1936,Berlin,Athletics,Athletics,"STEUER, Anni",GER,Women,80M Hurdles,Silver
+1936,Berlin,Athletics,Athletics,"PARKER, John Jack",USA,Men,Decathlon,Bronze
+1936,Berlin,Athletics,Athletics,"MORRIS, Glenn Edward",USA,Men,Decathlon,Gold
+1936,Berlin,Athletics,Athletics,"CLARK, Robert Hyatt",USA,Men,Decathlon,Silver
+1936,Berlin,Athletics,Athletics,"OBERWEGER, Giorgio",ITA,Men,Discus Throw,Bronze
+1936,Berlin,Athletics,Athletics,"CARPENTER, William Kenneth",USA,Men,Discus Throw,Gold
+1936,Berlin,Athletics,Athletics,"DUNN, Gordon Glover",USA,Men,Discus Throw,Silver
+1936,Berlin,Athletics,Athletics,"MOLLENHAUER, Paula",GER,Women,Discus Throw,Bronze
+1936,Berlin,Athletics,Athletics,"MAUERMAYER, Gisela",GER,Women,Discus Throw,Gold
+1936,Berlin,Athletics,Athletics,"WAJSOURNA, Jadwiga",POL,Women,Discus Throw,Silver
+1936,Berlin,Athletics,Athletics,"WARNGARD, Alfred",SWE,Men,Hammer Throw,Bronze
+1936,Berlin,Athletics,Athletics,"HEIN, Karl",GER,Men,Hammer Throw,Gold
+1936,Berlin,Athletics,Athletics,"BLASK, Erwin",GER,Men,Hammer Throw,Silver
+1936,Berlin,Athletics,Athletics,"THURBER, Delos Packard",USA,Men,High Jump,Bronze
+1936,Berlin,Athletics,Athletics,"JOHNSON, Cornelius Cooper",USA,Men,High Jump,Gold
+1936,Berlin,Athletics,Athletics,"ALBRITTON, David Donald",USA,Men,High Jump,Silver
+1936,Berlin,Athletics,Athletics,"KAUN, Elfriede",GER,Women,High Jump,Bronze
+1936,Berlin,Athletics,Athletics,"CSAK, Ibolya",HUN,Women,High Jump,Gold
+1936,Berlin,Athletics,Athletics,"ODAM-TYLER, Dorothy Beatrice J.",GBR,Women,High Jump,Silver
+1936,Berlin,Athletics,Athletics,"TOIVONEN, Kaarlo Kalervo",FIN,Men,Javelin Throw,Bronze
+1936,Berlin,Athletics,Athletics,"STÖCK, Gerhard (Gerd)",GER,Men,Javelin Throw,Gold
+1936,Berlin,Athletics,Athletics,"NIKKANEN, Yrjo Jouko",FIN,Men,Javelin Throw,Silver
+1936,Berlin,Athletics,Athletics,"KWASNIEWSKA-MALESZEWSKA, Marja Jadwiga",POL,Women,Javelin Throw,Bronze
+1936,Berlin,Athletics,Athletics,"FLEISCHER, Mathilde (Tilly)",GER,Women,Javelin Throw,Gold
+1936,Berlin,Athletics,Athletics,"KRÜGER, Luise",GER,Women,Javelin Throw,Silver
+1936,Berlin,Athletics,Athletics,"TAJIMA, Naoto",JPN,Men,Long Jump,Bronze
+1936,Berlin,Athletics,Athletics,"OWENS, Jesse",USA,Men,Long Jump,Gold
+1936,Berlin,Athletics,Athletics,"LONG, Carl Ludwig Luz",GER,Men,Long Jump,Silver
+1936,Berlin,Athletics,Athletics,"NAN, Shoryu",JPN,Men,Marathon,Bronze
+1936,Berlin,Athletics,Athletics,"SON, Kitei",JPN,Men,Marathon,Gold
+1936,Berlin,Athletics,Athletics,"HARPER, Ernest",GBR,Men,Marathon,Silver
+1936,Berlin,Athletics,Athletics,"OE, Sueo",JPN,Men,Pole Vault,Bronze
+1936,Berlin,Athletics,Athletics,"MEADOWS, Earle Elmer",USA,Men,Pole Vault,Gold
+1936,Berlin,Athletics,Athletics,"NISHIDA, Shuhei",JPN,Men,Pole Vault,Silver
+1936,Berlin,Athletics,Athletics,"STÖCK, Gerhard (Gerd)",GER,Men,Shot Put,Bronze
+1936,Berlin,Athletics,Athletics,"WOELLKE, Hans",GER,Men,Shot Put,Gold
+1936,Berlin,Athletics,Athletics,"BÄRLUND, Sulo",FIN,Men,Shot Put,Silver
+1936,Berlin,Athletics,Athletics,"METCALFE, John Patrick",AUS,Men,Triple Jump,Bronze
+1936,Berlin,Athletics,Athletics,"TAJIMA, Naoto",JPN,Men,Triple Jump,Gold
+1936,Berlin,Athletics,Athletics,"HARADA, Masao",JPN,Men,Triple Jump,Silver
+1936,Berlin,Basketball,Basketball,"BORJA MORCA, Carlos",MEX,Men,Basketball,Bronze
+1936,Berlin,Basketball,Basketball,"BORJA MORCA, Victor Hugo",MEX,Men,Basketball,Bronze
+1936,Berlin,Basketball,Basketball,"CHOPERENA IRIZARRI, Rodolfo",MEX,Men,Basketball,Bronze
+1936,Berlin,Basketball,Basketball,"DE LA VEGA LEIJA, Luis Ignacio",MEX,Men,Basketball,Bronze
+1936,Berlin,Basketball,Basketball,"FERNANDEZ ROBERT, Raul",MEX,Men,Basketball,Bronze
+1936,Berlin,Basketball,Basketball,"GOMEZ DOMINGUEZ, Andres",MEX,Men,Basketball,Bronze
+1936,Berlin,Basketball,Basketball,"HERNANDEZ DEL VALLE, Silvio",MEX,Men,Basketball,Bronze
+1936,Berlin,Basketball,Basketball,"MARTINEZ CORDERO, Francisco",MEX,Men,Basketball,Bronze
+1936,Berlin,Basketball,Basketball,"OLMOZ MORENO, Jesus",MEX,Men,Basketball,Bronze
+1936,Berlin,Basketball,Basketball,"PAMPLONA LECUANDA, Jose",MEX,Men,Basketball,Bronze
+1936,Berlin,Basketball,Basketball,"SKOUSEN SPILSBURY, Greer S.",MEX,Men,Basketball,Bronze
+1936,Berlin,Basketball,Basketball,"BALTER, Samuel J. Jr.",USA,Men,Basketball,Gold
+1936,Berlin,Basketball,Basketball,"BISHOP, Ralph English",USA,Men,Basketball,Gold
+1936,Berlin,Basketball,Basketball,"FORTENBERRY, Joseph Cephis",USA,Men,Basketball,Gold
+1936,Berlin,Basketball,Basketball,"GIBBONS, John Haskell",USA,Men,Basketball,Gold
+1936,Berlin,Basketball,Basketball,"JOHNSON, Francis Lee",USA,Men,Basketball,Gold
+1936,Berlin,Basketball,Basketball,"KNOWLES, Carl Stanley",USA,Men,Basketball,Gold
+1936,Berlin,Basketball,Basketball,"LUBIN, Frank John",USA,Men,Basketball,Gold
+1936,Berlin,Basketball,Basketball,"MOLLNER, Arthur Owen",USA,Men,Basketball,Gold
+1936,Berlin,Basketball,Basketball,"PIPER, Donald Arthur",USA,Men,Basketball,Gold
+1936,Berlin,Basketball,Basketball,"RAGLAND, Jack Williamson",USA,Men,Basketball,Gold
+1936,Berlin,Basketball,Basketball,"SCHMIDT, Willard Theodore",USA,Men,Basketball,Gold
+1936,Berlin,Basketball,Basketball,"SHY, Carl L.",USA,Men,Basketball,Gold
+1936,Berlin,Basketball,Basketball,"SWANSON, Duane Alexander",USA,Men,Basketball,Gold
+1936,Berlin,Basketball,Basketball,"WHEATLEY, William John",USA,Men,Basketball,Gold
+1936,Berlin,Basketball,Basketball,"AITCHISON, Gordon",CAN,Men,Basketball,Silver
+1936,Berlin,Basketball,Basketball,"ALLISON, Jan Alistair",CAN,Men,Basketball,Silver
+1936,Berlin,Basketball,Basketball,"CHAPMAN, Arthur St.Clair",CAN,Men,Basketball,Silver
+1936,Berlin,Basketball,Basketball,"CHAPMAN, Charles Winston",CAN,Men,Basketball,Silver
+1936,Berlin,Basketball,Basketball,"DAWSON, Edward John",CAN,Men,Basketball,Silver
+1936,Berlin,Basketball,Basketball,"MERETSKY, Irving",CAN,Men,Basketball,Silver
+1936,Berlin,Basketball,Basketball,"PEDEN, James Douglas",CAN,Men,Basketball,Silver
+1936,Berlin,Basketball,Basketball,"STEWART, James",CAN,Men,Basketball,Silver
+1936,Berlin,Basketball,Basketball,"WISEMAN, Malcolm Edward",CAN,Men,Basketball,Silver
+1936,Berlin,Boxing,Boxing,"LAURIA, Louis Daniel",USA,Men,- 50.8KG (Flyweight),Bronze
+1936,Berlin,Boxing,Boxing,"KAISER, Willi",GER,Men,- 50.8KG (Flyweight),Gold
+1936,Berlin,Boxing,Boxing,"MATTA, Gavino",ITA,Men,- 50.8KG (Flyweight),Silver
+1936,Berlin,Boxing,Boxing,"NILSEN, Erling",NOR,Men,+ 79.38KG (Heavyweight),Bronze
+1936,Berlin,Boxing,Boxing,"RUNGE, Herbert",GER,Men,+ 79.38KG (Heavyweight),Gold
+1936,Berlin,Boxing,Boxing,"LOVELL, Jose Guillermo",ARG,Men,+ 79.38KG (Heavyweight),Silver
+1936,Berlin,Boxing,Boxing,"ORTIZ, Fidel",MEX,Men,50.8 - 54KG (Bantamweight),Bronze
+1936,Berlin,Boxing,Boxing,"SERGO, Ulderico",ITA,Men,50.8 - 54KG (Bantamweight),Gold
+1936,Berlin,Boxing,Boxing,"WILSON, Jack",USA,Men,50.8 - 54KG (Bantamweight),Silver
+1936,Berlin,Boxing,Boxing,"MINER, Josef",GER,Men,54 - 57.15KG (Featherweight),Bronze
+1936,Berlin,Boxing,Boxing,"CASANOVAS, Oscar",ARG,Men,54 - 57.15KG (Featherweight),Gold
+1936,Berlin,Boxing,Boxing,"CATTERALL, Charles",RSA,Men,54 - 57.15KG (Featherweight),Silver
+1936,Berlin,Boxing,Boxing,"AGREN, Erik",SWE,Men,57.15 - 61.24KG (Lightweight),Bronze
+1936,Berlin,Boxing,Boxing,"HARANGI, Imre",HUN,Men,57.15 - 61.24KG (Lightweight),Gold
+1936,Berlin,Boxing,Boxing,"STEPULOV, Nikolai",EST,Men,57.15 - 61.24KG (Lightweight),Silver
+1936,Berlin,Boxing,Boxing,"PETERSEN, Gerhard Sigvald",DEN,Men,61.24 - 66.68KG (Welterweight),Bronze
+1936,Berlin,Boxing,Boxing,"SUVIO, Sten",FIN,Men,61.24 - 66.68KG (Welterweight),Gold
+1936,Berlin,Boxing,Boxing,"MURACH, Michael",GER,Men,61.24 - 66.68KG (Welterweight),Silver
+1936,Berlin,Boxing,Boxing,"VILLAREAL, Raul Vicente",ARG,Men,66.68 - 72.57KG (Middleweight),Bronze
+1936,Berlin,Boxing,Boxing,"DESPEAUX, Jean",FRA,Men,66.68 - 72.57KG (Middleweight),Gold
+1936,Berlin,Boxing,Boxing,"TILLER, Henry",NOR,Men,66.68 - 72.57KG (Middleweight),Silver
+1936,Berlin,Boxing,Boxing,"RISIGLIONE, Francisco",ARG,Men,72.57 - 79.38KG (Light-Heavyweight),Bronze
+1936,Berlin,Boxing,Boxing,"MICHELOT, Roger",FRA,Men,72.57 - 79.38KG (Light-Heavyweight),Gold
+1936,Berlin,Boxing,Boxing,"VOGT, Richard",GER,Men,72.57 - 79.38KG (Light-Heavyweight),Silver
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"KOSCHIK, Erich",GER,Men,C-1 1000M (Canoe Single),Bronze
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"AMYOT, Frank",CAN,Men,C-1 1000M (Canoe Single),Gold
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"KARLIK, Bohuslav",TCH,Men,C-1 1000M (Canoe Single),Silver
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"PROISL, Karl",AUT,Men,C-2 10000M,Bronze
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"WEINSTABL, Rupert",AUT,Men,C-2 10000M,Bronze
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"MOTTL, Vaclav",TCH,Men,C-2 10000M,Gold
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"SKRLANT, Zdenek",TCH,Men,C-2 10000M,Gold
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"CHARTERS, Harvey Blashford",CAN,Men,C-2 10000M,Silver
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"SAKER, Frank Warren",CAN,Men,C-2 10000M,Silver
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"CHARTERS, Harvey Blashford",CAN,Men,C-2 1000M (Canoe Double),Bronze
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"SAKER, Frank Warren",CAN,Men,C-2 1000M (Canoe Double),Bronze
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"BRZAK-FELIX, Jan",TCH,Men,C-2 1000M (Canoe Double),Gold
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"SYROVATKA, Vladimir",TCH,Men,C-2 1000M (Canoe Double),Gold
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,EDLETITSCH,AUT,Men,C-2 1000M (Canoe Double),Silver
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,KAMPFL,AUT,Men,C-2 1000M (Canoe Double),Silver
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"HÖRMANN, Xaver",GER,Men,Folding K-1 10000M,Bronze
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"HRADETZKY, Gregor",AUT,Men,Folding K-1 10000M,Gold
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"EBERHART, Henri",FRA,Men,Folding K-1 10000M,Silver
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"WIJDEKOP, Cornelis",NED,Men,Folding K-2 10000M,Bronze
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"WIJDEKOP, Pieter",NED,Men,Folding K-2 10000M,Bronze
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"BLADSTRÖM, Erik",SWE,Men,Folding K-2 10000M,Gold
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"JOHANSSON, Sven",SWE,Men,Folding K-2 10000M,Gold
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"HANISCH, Erich",GER,Men,Folding K-2 10000M,Silver
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"HORN, Willy",GER,Men,Folding K-2 10000M,Silver
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"RIEDEL, Ernest",USA,Men,K-1 10000M,Bronze
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"KREBS, Ernst",GER,Men,K-1 10000M,Gold
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"LANDERTINGER, Fritz",AUT,Men,K-1 10000M,Silver
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"KRAAIER, Jacobus",NED,Men,K-1 1000M (Kayak Single),Bronze
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"HRADETZKY, Gregor",AUT,Men,K-1 1000M (Kayak Single),Gold
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"CÄMMERER, Helmut",GER,Men,K-1 1000M (Kayak Single),Silver
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"FAHLBORG, Tage",SWE,Men,K-2 10000M,Bronze
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"LARSSON, Helge",SWE,Men,K-2 10000M,Bronze
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"LANDEN, Ludwig",GER,Men,K-2 10000M,Gold
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"WEVERS, Paul",GER,Men,K-2 10000M,Gold
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"KALISCH, Viktor",AUT,Men,K-2 10000M,Silver
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"STEINHUBER, Karl",AUT,Men,K-2 10000M,Silver
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"TATES, Nicolaas",NED,Men,K-2 1000M (Kayak Double),Bronze
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"VAN DER KROFT, Willem Frederik",NED,Men,K-2 1000M (Kayak Double),Bronze
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"DORFNER, Alfons",AUT,Men,K-2 1000M (Kayak Double),Gold
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"KAINZ, Adolf",AUT,Men,K-2 1000M (Kayak Double),Gold
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"BONDROIT, Fritz",GER,Men,K-2 1000M (Kayak Double),Silver
+1936,Berlin,Canoe / Kayak,Canoe / Kayak F,"TILKER, Ewald",GER,Men,K-2 1000M (Kayak Double),Silver
+1936,Berlin,Cycling,Cycling Road,"NIEVERGELT, Ernst",SUI,Men,Individual Road Race,Bronze
+1936,Berlin,Cycling,Cycling Road,"CHARPENTIER, Robert",FRA,Men,Individual Road Race,Gold
+1936,Berlin,Cycling,Cycling Road,"LAPEBIE, Guy",FRA,Men,Individual Road Race,Silver
+1936,Berlin,Cycling,Cycling Road,"GARREBEEK, Auguste",BEL,Men,Team Time Trial,Bronze
+1936,Berlin,Cycling,Cycling Road,"PUTZEYS, Armand",BEL,Men,Team Time Trial,Bronze
+1936,Berlin,Cycling,Cycling Road,"VANDERMOTTE, Francois",BEL,Men,Team Time Trial,Bronze
+1936,Berlin,Cycling,Cycling Road,"CHARPENTIER, Robert",FRA,Men,Team Time Trial,Gold
+1936,Berlin,Cycling,Cycling Road,"DORGEBRAY, Robert",FRA,Men,Team Time Trial,Gold
+1936,Berlin,Cycling,Cycling Road,"LAPEBIE, Guy",FRA,Men,Team Time Trial,Gold
+1936,Berlin,Cycling,Cycling Road,"BUCHWALDER, Edgar",SUI,Men,Team Time Trial,Silver
+1936,Berlin,Cycling,Cycling Road,"NIEVERGELT, Ernst",SUI,Men,Team Time Trial,Silver
+1936,Berlin,Cycling,Cycling Road,"OTT, Kurt",SUI,Men,Team Time Trial,Silver
+1936,Berlin,Cycling,Cycling Track,"KARSCH, Rudolf",GER,Men,1KM Time Trial,Bronze
+1936,Berlin,Cycling,Cycling Track,"VAN VLIET, Arie Gerrit",NED,Men,1KM Time Trial,Gold
+1936,Berlin,Cycling,Cycling Track,"GEORGET, Pierre",FRA,Men,1KM Time Trial,Silver
+1936,Berlin,Cycling,Cycling Track,"GEORGET, Pierre",FRA,Men,2000M Tandem,Bronze
+1936,Berlin,Cycling,Cycling Track,"MATON, Georges",FRA,Men,2000M Tandem,Bronze
+1936,Berlin,Cycling,Cycling Track,"IHBE, Ernst",GER,Men,2000M Tandem,Gold
+1936,Berlin,Cycling,Cycling Track,"LORENZ, Carly",GER,Men,2000M Tandem,Gold
+1936,Berlin,Cycling,Cycling Track,"LEENE, Bernardus Petrus",NED,Men,2000M Tandem,Silver
+1936,Berlin,Cycling,Cycling Track,"OOMS, Hendrik",NED,Men,2000M Tandem,Silver
+1936,Berlin,Cycling,Cycling Track,"CHAILLOT, Louis",FRA,Men,Sprint Indivual,Bronze
+1936,Berlin,Cycling,Cycling Track,"MERKENS, Anton (Toni)",GER,Men,Sprint Indivual,Gold
+1936,Berlin,Cycling,Cycling Track,"VAN VLIET, Arie Gerrit",NED,Men,Sprint Indivual,Silver
+1936,Berlin,Cycling,Cycling Track,"HILL, Harry Heaton",GBR,Men,Team Pursuit (4000M),Bronze
+1936,Berlin,Cycling,Cycling Track,"JOHNSON, Ernest Alfred",GBR,Men,Team Pursuit (4000M),Bronze
+1936,Berlin,Cycling,Cycling Track,"KING, Charles Thomas",GBR,Men,Team Pursuit (4000M),Bronze
+1936,Berlin,Cycling,Cycling Track,"MILLS, Ernest Victor",GBR,Men,Team Pursuit (4000M),Bronze
+1936,Berlin,Cycling,Cycling Track,"CHARPENTIER, Robert",FRA,Men,Team Pursuit (4000M),Gold
+1936,Berlin,Cycling,Cycling Track,"GOUJON, Jean",FRA,Men,Team Pursuit (4000M),Gold
+1936,Berlin,Cycling,Cycling Track,"LAPEBIE, Guy",FRA,Men,Team Pursuit (4000M),Gold
+1936,Berlin,Cycling,Cycling Track,"LE NIZERHY, Roger",FRA,Men,Team Pursuit (4000M),Gold
+1936,Berlin,Cycling,Cycling Track,"BIANCHI, Bianco",ITA,Men,Team Pursuit (4000M),Silver
+1936,Berlin,Cycling,Cycling Track,"GENTILI, Mario",ITA,Men,Team Pursuit (4000M),Silver
+1936,Berlin,Cycling,Cycling Track,"LATINI, Armando",ITA,Men,Team Pursuit (4000M),Silver
+1936,Berlin,Cycling,Cycling Track,"RIGONI, Severino",ITA,Men,Team Pursuit (4000M),Silver
+1936,Berlin,Equestrian,Dressage,"PODHAJSKY, Alois",AUT,Men,Individual,Bronze
+1936,Berlin,Equestrian,Dressage,"POLLAY, Heinz",GER,Men,Individual,Gold
+1936,Berlin,Equestrian,Dressage,"GERHARD, Friedrich",GER,Men,Individual,Silver
+1936,Berlin,Equestrian,Dressage,"ADLERCREUTZ, Gregor",SWE,Men,Team,Bronze
+1936,Berlin,Equestrian,Dressage,"COLLIANDER, Sven",SWE,Men,Team,Bronze
+1936,Berlin,Equestrian,Dressage,"SANDSTRÖM, Folke",SWE,Men,Team,Bronze
+1936,Berlin,Equestrian,Dressage,"GERHARD, Friedrich",GER,Men,Team,Gold
+1936,Berlin,Equestrian,Dressage,"POLLAY, Heinz",GER,Men,Team,Gold
+1936,Berlin,Equestrian,Dressage,"VON OPPELN-BRONIKOWSKI, Hermann",GER,Men,Team,Gold
+1936,Berlin,Equestrian,Dressage,"DE BALLORRE, Gerard",FRA,Men,Team,Silver
+1936,Berlin,Equestrian,Dressage,"GILLOIS, Daniel",FRA,Men,Team,Silver
+1936,Berlin,Equestrian,Dressage,"JOUSSEAUME, Andre Rene",FRA,Men,Team,Silver
+1936,Berlin,Equestrian,Eventing,"LUNDING, Hans Matthiesen",DEN,Men,Individual,Bronze
+1936,Berlin,Equestrian,Eventing,"STUBBENDORF, Ludwig",GER,Men,Individual,Gold
+1936,Berlin,Equestrian,Eventing,"THOMSON, Earl Foster",USA,Men,Individual,Silver
+1936,Berlin,Equestrian,Eventing,"FANSHAWE, Richard Gennys",GBR,Men,Team,Bronze
+1936,Berlin,Equestrian,Eventing,"HOWARD-VYSE, Edward Dacre",GBR,Men,Team,Bronze
+1936,Berlin,Equestrian,Eventing,"SCOTT, Alec Brassey Jonathan",GBR,Men,Team,Bronze
+1936,Berlin,Equestrian,Eventing,"LIPPERT, Rudolf",GER,Men,Team,Gold
+1936,Berlin,Equestrian,Eventing,"STUBBENDORF, Ludwig",GER,Men,Team,Gold
+1936,Berlin,Equestrian,Eventing,"VON WANGENHEIM, Konrad",GER,Men,Team,Gold
+1936,Berlin,Equestrian,Eventing,"KAWECKI, Zdzislaw",POL,Men,Team,Silver
+1936,Berlin,Equestrian,Eventing,"KULESZA, Seweryn",POL,Men,Team,Silver
+1936,Berlin,Equestrian,Eventing,"ROYCEWICZ, Henryk",POL,Men,Team,Silver
+1936,Berlin,Equestrian,Jumping,H:: SELLO,HUN,Men,Individual,Bronze
+1936,Berlin,Equestrian,Jumping,"VON PLATTHY, Jozsef",HUN,Men,Individual,Bronze
+1936,Berlin,Equestrian,Jumping,H:: TORA,GER,Men,Individual,Gold
+1936,Berlin,Equestrian,Jumping,"HASSE, Kurt",GER,Men,Individual,Gold
+1936,Berlin,Equestrian,Jumping,H:: DELFIS,ROU,Men,Individual,Silver
+1936,Berlin,Equestrian,Jumping,"RANG, Henri",ROU,Men,Individual,Silver
+1936,Berlin,Equestrian,Jumping,"BELTRAO, Jose",POR,Men,Team,Bronze
+1936,Berlin,Equestrian,Jumping,"COUTINHO (MARQUES DO FUNCHAL), Domingos De Sousa",POR,Men,Team,Bronze
+1936,Berlin,Equestrian,Jumping,"SILVA, Luiz",POR,Men,Team,Bronze
+1936,Berlin,Equestrian,Jumping,"BRANDT, Heinz",GER,Men,Team,Gold
+1936,Berlin,Equestrian,Jumping,"HASSE, Kurt",GER,Men,Team,Gold
+1936,Berlin,Equestrian,Jumping,"VON BARNEKOW, Marten",GER,Men,Team,Gold
+1936,Berlin,Equestrian,Jumping,"DE BRUINE, Jan Adrianus",NED,Men,Team,Silver
+1936,Berlin,Equestrian,Jumping,"GRETER, Johan Jacob",NED,Men,Team,Silver
+1936,Berlin,Equestrian,Jumping,"VAN SCHAIK, Henri Louis Marie",NED,Men,Team,Silver
+1936,Berlin,Fencing,Fencing,"CORNAGGIA-MEDICI, Giancarlo C.",ITA,Men,Épée Individual,Bronze
+1936,Berlin,Fencing,Fencing,"RICCARDI, Franco",ITA,Men,Épée Individual,Gold
+1936,Berlin,Fencing,Fencing,"RAGNO, Saverio",ITA,Men,Épée Individual,Silver
+1936,Berlin,Fencing,Fencing,"BUCHARD, Georges",FRA,Men,Épée Team,Bronze
+1936,Berlin,Fencing,Fencing,"CATTIAU, Philippe",FRA,Men,Épée Team,Bronze
+1936,Berlin,Fencing,Fencing,"DULIEUX, Henri",FRA,Men,Épée Team,Bronze
+1936,Berlin,Fencing,Fencing,"PECHEUX, Michel",FRA,Men,Épée Team,Bronze
+1936,Berlin,Fencing,Fencing,"SCHMETZ, Bernard",FRA,Men,Épée Team,Bronze
+1936,Berlin,Fencing,Fencing,"WORMSER, Paul",FRA,Men,Épée Team,Bronze
+1936,Berlin,Fencing,Fencing,"BRUSATI, Giancarlo",ITA,Men,Épée Team,Gold
+1936,Berlin,Fencing,Fencing,"CORNAGGIA-MEDICI, Giancarlo C.",ITA,Men,Épée Team,Gold
+1936,Berlin,Fencing,Fencing,"MANGIAROTTI, Edoardo",ITA,Men,Épée Team,Gold
+1936,Berlin,Fencing,Fencing,"PEZZANA, Alfredo",ITA,Men,Épée Team,Gold
+1936,Berlin,Fencing,Fencing,"RAGNO, Saverio",ITA,Men,Épée Team,Gold
+1936,Berlin,Fencing,Fencing,"RICCARDI, Franco",ITA,Men,Épée Team,Gold
+1936,Berlin,Fencing,Fencing,"ALMGREN, Gustav",SWE,Men,Épée Team,Silver
+1936,Berlin,Fencing,Fencing,"CEDERIN, Birger",SWE,Men,Épée Team,Silver
+1936,Berlin,Fencing,Fencing,"DRAKENBERG, Hans",SWE,Men,Épée Team,Silver
+1936,Berlin,Fencing,Fencing,"DYRSSEN, Gustaf",SWE,Men,Épée Team,Silver
+1936,Berlin,Fencing,Fencing,"GRANFELT, Hans",SWE,Men,Épée Team,Silver
+1936,Berlin,Fencing,Fencing,"THOFELT, Sven",SWE,Men,Épée Team,Silver
+1936,Berlin,Fencing,Fencing,"BOCCHINO, Giorgio",ITA,Men,Foil Individual,Bronze
+1936,Berlin,Fencing,Fencing,"GAUDINI, Giulio",ITA,Men,Foil Individual,Gold
+1936,Berlin,Fencing,Fencing,"GARDERE, Edouard",FRA,Men,Foil Individual,Silver
+1936,Berlin,Fencing,Fencing,"PREIS-MÜLLER, Ellen S.",AUT,Women,Foil Individual,Bronze
+1936,Berlin,Fencing,Fencing,"ELEK, Ilona",HUN,Women,Foil Individual,Gold
+1936,Berlin,Fencing,Fencing,"MAYER, Helene",GER,Women,Foil Individual,Silver
+1936,Berlin,Fencing,Fencing,"ADAM, Otto",GER,Men,Foil Team,Bronze
+1936,Berlin,Fencing,Fencing,"CASMIR, Erwin",GER,Men,Foil Team,Bronze
+1936,Berlin,Fencing,Fencing,"EISENECKER, Julius",GER,Men,Foil Team,Bronze
+1936,Berlin,Fencing,Fencing,"HEIM, August",GER,Men,Foil Team,Bronze
+1936,Berlin,Fencing,Fencing,"LERDON, Siegfried",GER,Men,Foil Team,Bronze
+1936,Berlin,Fencing,Fencing,"ROSENBAUER, Stefan",GER,Men,Foil Team,Bronze
+1936,Berlin,Fencing,Fencing,"BOCCHINO, Giorgio",ITA,Men,Foil Team,Gold
+1936,Berlin,Fencing,Fencing,"DI ROSA, Manlio",ITA,Men,Foil Team,Gold
+1936,Berlin,Fencing,Fencing,"GAUDINI, Giulio",ITA,Men,Foil Team,Gold
+1936,Berlin,Fencing,Fencing,"GUARAGNA, Gioachino",ITA,Men,Foil Team,Gold
+1936,Berlin,Fencing,Fencing,"MARZI, Gustavo",ITA,Men,Foil Team,Gold
+1936,Berlin,Fencing,Fencing,"VERRATTI, Ciro",ITA,Men,Foil Team,Gold
+1936,Berlin,Fencing,Fencing,"BONDOUX, René",FRA,Men,Foil Team,Silver
+1936,Berlin,Fencing,Fencing,"BOUGNOL, René",FRA,Men,Foil Team,Silver
+1936,Berlin,Fencing,Fencing,"COUTROT, Jacques",FRA,Men,Foil Team,Silver
+1936,Berlin,Fencing,Fencing,"GARDERE, André",FRA,Men,Foil Team,Silver
+1936,Berlin,Fencing,Fencing,"GARDERE, Edouard",FRA,Men,Foil Team,Silver
+1936,Berlin,Fencing,Fencing,"LEMOINE, René",FRA,Men,Foil Team,Silver
+1936,Berlin,Fencing,Fencing,"GEREVICH, Aladar",HUN,Men,Sabre Individual,Bronze
+1936,Berlin,Fencing,Fencing,"KABOS, Endre",HUN,Men,Sabre Individual,Gold
+1936,Berlin,Fencing,Fencing,"MARZI, Gustavo",ITA,Men,Sabre Individual,Silver
+1936,Berlin,Fencing,Fencing,"CASMIR, Erwin",GER,Men,Sabre Team,Bronze
+1936,Berlin,Fencing,Fencing,"EISENECKER, Julius",GER,Men,Sabre Team,Bronze
+1936,Berlin,Fencing,Fencing,"ESSER, Hans",GER,Men,Sabre Team,Bronze
+1936,Berlin,Fencing,Fencing,"HEIM, August",GER,Men,Sabre Team,Bronze
+1936,Berlin,Fencing,Fencing,"JÖRGER, Hans",GER,Men,Sabre Team,Bronze
+1936,Berlin,Fencing,Fencing,"WAHL, Richard",GER,Men,Sabre Team,Bronze
+1936,Berlin,Fencing,Fencing,"BERCZELLY, Tibor",HUN,Men,Sabre Team,Gold
+1936,Berlin,Fencing,Fencing,"GEREVICH, Aladar",HUN,Men,Sabre Team,Gold
+1936,Berlin,Fencing,Fencing,"KABOS, Endre",HUN,Men,Sabre Team,Gold
+1936,Berlin,Fencing,Fencing,"KOVACS, Pal Adam",HUN,Men,Sabre Team,Gold
+1936,Berlin,Fencing,Fencing,"RAJCSANYI, Laszlo",HUN,Men,Sabre Team,Gold
+1936,Berlin,Fencing,Fencing,"RAJCZY, Imre",HUN,Men,Sabre Team,Gold
+1936,Berlin,Fencing,Fencing,"GAUDINI, Giulio",ITA,Men,Sabre Team,Silver
+1936,Berlin,Fencing,Fencing,"MARZI, Gustavo",ITA,Men,Sabre Team,Silver
+1936,Berlin,Fencing,Fencing,"MASCIOTTA, Aldo",ITA,Men,Sabre Team,Silver
+1936,Berlin,Fencing,Fencing,"MONTANO, Aldo",ITA,Men,Sabre Team,Silver
+1936,Berlin,Fencing,Fencing,"PINTON, Vincenzo",ITA,Men,Sabre Team,Silver
+1936,Berlin,Fencing,Fencing,"TANZINI, Athos",ITA,Men,Sabre Team,Silver
+1936,Berlin,Football,Football,"BRUSTAD, Arne",NOR,Men,Football,Bronze
+1936,Berlin,Football,Football,"ERIKSEN, Nils",NOR,Men,Football,Bronze
+1936,Berlin,Football,Football,"FRANTZEN, Odd",NOR,Men,Football,Bronze
+1936,Berlin,Football,Football,"HANSEN, Sverre",NOR,Men,Football,Bronze
+1936,Berlin,Football,Football,"HOLMBERG, Rolf",NOR,Men,Football,Bronze
+1936,Berlin,Football,Football,"HOLMSEN, Oivind",NOR,Men,Football,Bronze
+1936,Berlin,Football,Football,"HORN, Fredrik",NOR,Men,Football,Bronze
+1936,Berlin,Football,Football,"ISAKSEN, Magnar",NOR,Men,Football,Bronze
+1936,Berlin,Football,Football,"JOHANSEN, Henry",NOR,Men,Football,Bronze
+1936,Berlin,Football,Football,"JUVE, Jorgen",NOR,Men,Football,Bronze
+1936,Berlin,Football,Football,"KVAMMEN, Reidar Osvald",NOR,Men,Football,Bronze
+1936,Berlin,Football,Football,"MARTINSEN, Alf",NOR,Men,Football,Bronze
+1936,Berlin,Football,Football,"MONSEN, Magdalon Johannes",NOR,Men,Football,Bronze
+1936,Berlin,Football,Football,"ULLEBERG, Frithjof",NOR,Men,Football,Bronze
+1936,Berlin,Football,Football,"BALDO, Giuseppe",ITA,Men,Football,Gold
+1936,Berlin,Football,Football,"BERTONI, Sergio",ITA,Men,Football,Gold
+1936,Berlin,Football,Football,"BIAGI, Carlo",ITA,Men,Football,Gold
+1936,Berlin,Football,Football,"CAPPELLI, Giulio",ITA,Men,Football,Gold
+1936,Berlin,Football,Football,"FONI, Alfredo",ITA,Men,Football,Gold
+1936,Berlin,Football,Football,"FROSSI, Annibale",ITA,Men,Football,Gold
+1936,Berlin,Football,Football,"GABRIOTTI, Francesco",ITA,Men,Football,Gold
+1936,Berlin,Football,Football,"LOCATELLI, Ugo",ITA,Men,Football,Gold
+1936,Berlin,Football,Football,"MARCHINI, Libero",ITA,Men,Football,Gold
+1936,Berlin,Football,Football,"NEGRO, Alfonso",ITA,Men,Football,Gold
+1936,Berlin,Football,Football,"PICCINI, Achille",ITA,Men,Football,Gold
+1936,Berlin,Football,Football,"RAVA, Pietro",ITA,Men,Football,Gold
+1936,Berlin,Football,Football,"SCARABELLO, Luigi",ITA,Men,Football,Gold
+1936,Berlin,Football,Football,"VENTURINI, Bruno",ITA,Men,Football,Gold
+1936,Berlin,Football,Football,"FUCHSBERGER, Franz",AUT,Men,Football,Silver
+1936,Berlin,Football,Football,"HOFMEISTER, Max",AUT,Men,Football,Silver
+1936,Berlin,Football,Football,"KAINBERGER, Eduard",AUT,Men,Football,Silver
+1936,Berlin,Football,Football,"KAINBERGER, Karl",AUT,Men,Football,Silver
+1936,Berlin,Football,Football,"KARGL, Martin",AUT,Men,Football,Silver
+1936,Berlin,Football,Football,"KITZMÜLLER, Josef",AUT,Men,Football,Silver
+1936,Berlin,Football,Football,"KRENN, Anton",AUT,Men,Football,Silver
+1936,Berlin,Football,Football,"KÜNZ, Ernst",AUT,Men,Football,Silver
+1936,Berlin,Football,Football,"LAUDON, Adolf",AUT,Men,Football,Silver
+1936,Berlin,Football,Football,"MANDL, Franz",AUT,Men,Football,Silver
+1936,Berlin,Football,Football,"STEINMETZ, Klement",AUT,Men,Football,Silver
+1936,Berlin,Football,Football,"WALLMÜLLER, Karl",AUT,Men,Football,Silver
+1936,Berlin,Football,Football,"WERGINZ, Walter",AUT,Men,Football,Silver
+1936,Berlin,Gymnastics,Artistic G.,"FREY, Konrad",GER,Men,Floor Exercises,Bronze
+1936,Berlin,Gymnastics,Artistic G.,"MACK, Eugen",SUI,Men,Floor Exercises,Bronze
+1936,Berlin,Gymnastics,Artistic G.,"MIEZ, Georges",SUI,Men,Floor Exercises,Gold
+1936,Berlin,Gymnastics,Artistic G.,"WALTER, Josef",SUI,Men,Floor Exercises,Silver
+1936,Berlin,Gymnastics,Artistic G.,"SCHWARZMANN, Karl-Alfred",GER,Men,Horizontal Bar,Bronze
+1936,Berlin,Gymnastics,Artistic G.,"SAARVALA, Aleksanteri",FIN,Men,Horizontal Bar,Gold
+1936,Berlin,Gymnastics,Artistic G.,"FREY, Konrad",GER,Men,Horizontal Bar,Silver
+1936,Berlin,Gymnastics,Artistic G.,"FREY, Konrad",GER,Men,Individual All-Round,Bronze
+1936,Berlin,Gymnastics,Artistic G.,"SCHWARZMANN, Karl-Alfred",GER,Men,Individual All-Round,Gold
+1936,Berlin,Gymnastics,Artistic G.,"MACK, Eugen",SUI,Men,Individual All-Round,Silver
+1936,Berlin,Gymnastics,Artistic G.,"SCHWARZMANN, Karl-Alfred",GER,Men,Parallel Bars,Bronze
+1936,Berlin,Gymnastics,Artistic G.,"FREY, Konrad",GER,Men,Parallel Bars,Gold
+1936,Berlin,Gymnastics,Artistic G.,"REUSCH, Michael",SUI,Men,Parallel Bars,Silver
+1936,Berlin,Gymnastics,Artistic G.,"BACHMANN, Albert",SUI,Men,Pommel Horse,Bronze
+1936,Berlin,Gymnastics,Artistic G.,"FREY, Konrad",GER,Men,Pommel Horse,Gold
+1936,Berlin,Gymnastics,Artistic G.,"MACK, Eugen",SUI,Men,Pommel Horse,Silver
+1936,Berlin,Gymnastics,Artistic G.,"VOLZ, Matthias Max",GER,Men,Rings,Bronze
+1936,Berlin,Gymnastics,Artistic G.,"HUDEC, Alois",TCH,Men,Rings,Gold
+1936,Berlin,Gymnastics,Artistic G.,"STUKELJ, Leon",YUG,Men,Rings,Silver
+1936,Berlin,Gymnastics,Artistic G.,"NYBERG-NOROMA, Mauri Kalervo",FIN,Men,Team Competition,Bronze
+1936,Berlin,Gymnastics,Artistic G.,"PAKARINEN, Veikko Ilmari",FIN,Men,Team Competition,Bronze
+1936,Berlin,Gymnastics,Artistic G.,"SAARVALA, Aleksanteri",FIN,Men,Team Competition,Bronze
+1936,Berlin,Gymnastics,Artistic G.,"SAVOLAINEN, Heikki",FIN,Men,Team Competition,Bronze
+1936,Berlin,Gymnastics,Artistic G.,"SEESTE, Esa",FIN,Men,Team Competition,Bronze
+1936,Berlin,Gymnastics,Artistic G.,"TERÄSVIRTA, Einari Allan",FIN,Men,Team Competition,Bronze
+1936,Berlin,Gymnastics,Artistic G.,"TUKIAINEN, Eino",FIN,Men,Team Competition,Bronze
+1936,Berlin,Gymnastics,Artistic G.,"UOSIKKINEN, Martti",FIN,Men,Team Competition,Bronze
+1936,Berlin,Gymnastics,Artistic G.,"BECKERT, Franz Ernst",GER,Men,Team Competition,Gold
+1936,Berlin,Gymnastics,Artistic G.,"FREY, Konrad",GER,Men,Team Competition,Gold
+1936,Berlin,Gymnastics,Artistic G.,"SCHWARZMANN, Karl-Alfred",GER,Men,Team Competition,Gold
+1936,Berlin,Gymnastics,Artistic G.,"STADEL, Willi Friedrich",GER,Men,Team Competition,Gold
+1936,Berlin,Gymnastics,Artistic G.,"STANGL, Innozenz (Inno)",GER,Men,Team Competition,Gold
+1936,Berlin,Gymnastics,Artistic G.,"STEFFENS, Walter Johan",GER,Men,Team Competition,Gold
+1936,Berlin,Gymnastics,Artistic G.,"VOLZ, Matthias Max",GER,Men,Team Competition,Gold
+1936,Berlin,Gymnastics,Artistic G.,"WINTER, Ernst Friedrich",GER,Men,Team Competition,Gold
+1936,Berlin,Gymnastics,Artistic G.,"BACH, Walter",SUI,Men,Team Competition,Silver
+1936,Berlin,Gymnastics,Artistic G.,"BACHMANN, Albert",SUI,Men,Team Competition,Silver
+1936,Berlin,Gymnastics,Artistic G.,"BECK, Walter",SUI,Men,Team Competition,Silver
+1936,Berlin,Gymnastics,Artistic G.,"MACK, Eugen",SUI,Men,Team Competition,Silver
+1936,Berlin,Gymnastics,Artistic G.,"MIEZ, Georges",SUI,Men,Team Competition,Silver
+1936,Berlin,Gymnastics,Artistic G.,"REUSCH, Michael",SUI,Men,Team Competition,Silver
+1936,Berlin,Gymnastics,Artistic G.,"STEINEMANN, Eduard",SUI,Men,Team Competition,Silver
+1936,Berlin,Gymnastics,Artistic G.,"WALTER, Josef",SUI,Men,Team Competition,Silver
+1936,Berlin,Gymnastics,Artistic G.,"CSILLIK, Margit",HUN,Women,Team Competition,Bronze
+1936,Berlin,Gymnastics,Artistic G.,"KALOCSAI, Margit",HUN,Women,Team Competition,Bronze
+1936,Berlin,Gymnastics,Artistic G.,"MADARY, Ilona",HUN,Women,Team Competition,Bronze
+1936,Berlin,Gymnastics,Artistic G.,"MESZAROS, Gabriella",HUN,Women,Team Competition,Bronze
+1936,Berlin,Gymnastics,Artistic G.,"NAGY-SANDOR, Margit",HUN,Women,Team Competition,Bronze
+1936,Berlin,Gymnastics,Artistic G.,"TÖRÖS, Olga",HUN,Women,Team Competition,Bronze
+1936,Berlin,Gymnastics,Artistic G.,"TÖTH, Judith",HUN,Women,Team Competition,Bronze
+1936,Berlin,Gymnastics,Artistic G.,"VOIT, Eszter",HUN,Women,Team Competition,Bronze
+1936,Berlin,Gymnastics,Artistic G.,"BÄRWIRTH, Anita",GER,Women,Team Competition,Gold
+1936,Berlin,Gymnastics,Artistic G.,"BÜRGER, Erna",GER,Women,Team Competition,Gold
+1936,Berlin,Gymnastics,Artistic G.,"FRÖLIAN, Isolde",GER,Women,Team Competition,Gold
+1936,Berlin,Gymnastics,Artistic G.,"IBY, Friederike (Friedl)",GER,Women,Team Competition,Gold
+1936,Berlin,Gymnastics,Artistic G.,"MEYER, Gertrude (Trudi)",GER,Women,Team Competition,Gold
+1936,Berlin,Gymnastics,Artistic G.,"PÖHLSEN, Paula",GER,Women,Team Competition,Gold
+1936,Berlin,Gymnastics,Artistic G.,"SCHMITT, Julie",GER,Women,Team Competition,Gold
+1936,Berlin,Gymnastics,Artistic G.,"SOHNEMANN, Käthe",GER,Women,Team Competition,Gold
+1936,Berlin,Gymnastics,Artistic G.,"BAJEROVA, Jaroslava",TCH,Women,Team Competition,Silver
+1936,Berlin,Gymnastics,Artistic G.,"DEKANOVA, Vlasta",TCH,Women,Team Competition,Silver
+1936,Berlin,Gymnastics,Artistic G.,"DOBESOVA, Bozena",TCH,Women,Team Competition,Silver
+1936,Berlin,Gymnastics,Artistic G.,"FOLTOVA, Vlasta",TCH,Women,Team Competition,Silver
+1936,Berlin,Gymnastics,Artistic G.,"HREBRINOVA, Anna",TCH,Women,Team Competition,Silver
+1936,Berlin,Gymnastics,Artistic G.,"PALFYOVA, Matylda",TCH,Women,Team Competition,Silver
+1936,Berlin,Gymnastics,Artistic G.,"VERMIROVSKA, Zdenka",TCH,Women,Team Competition,Silver
+1936,Berlin,Gymnastics,Artistic G.,"VETROVSKA, Marie",TCH,Women,Team Competition,Silver
+1936,Berlin,Gymnastics,Artistic G.,"VOLZ, Matthias Max",GER,Men,Vault,Bronze
+1936,Berlin,Gymnastics,Artistic G.,"SCHWARZMANN, Karl-Alfred",GER,Men,Vault,Gold
+1936,Berlin,Gymnastics,Artistic G.,"MACK, Eugen",SUI,Men,Vault,Silver
+1936,Berlin,Handball,Handball,"BLOSCH, Max",SUI,Men,Handball,Bronze
+1936,Berlin,Handball,Handball,"FÄS, Rolf",SUI,Men,Handball,Bronze
+1936,Berlin,Handball,Handball,"GANTENBEIN, Burkhard",SUI,Men,Handball,Bronze
+1936,Berlin,Handball,Handball,"GYSI, Willy",SUI,Men,Handball,Bronze
+1936,Berlin,Handball,Handball,"HERKENRATH, Erland",SUI,Men,Handball,Bronze
+1936,Berlin,Handball,Handball,"HUFSCHMID, Ernst",SUI,Men,Handball,Bronze
+1936,Berlin,Handball,Handball,"HUFSCHMID, Willy",SUI,Men,Handball,Bronze
+1936,Berlin,Handball,Handball,"MEYER, Werner",SUI,Men,Handball,Bronze
+1936,Berlin,Handball,Handball,"MISCHON, Georg",SUI,Men,Handball,Bronze
+1936,Berlin,Handball,Handball,"SCHÄFER, Willy",SUI,Men,Handball,Bronze
+1936,Berlin,Handball,Handball,"SCHEURMANN, Werner",SUI,Men,Handball,Bronze
+1936,Berlin,Handball,Handball,"SCHMID, Eduard",SUI,Men,Handball,Bronze
+1936,Berlin,Handball,Handball,"SCHMITT, Erich",SUI,Men,Handball,Bronze
+1936,Berlin,Handball,Handball,"SEITERLE, Eugen",SUI,Men,Handball,Bronze
+1936,Berlin,Handball,Handball,"STREIB, Max",SUI,Men,Handball,Bronze
+1936,Berlin,Handball,Handball,"STUDER, Robert",SUI,Men,Handball,Bronze
+1936,Berlin,Handball,Handball,"WIRZ, Rudolf",SUI,Men,Handball,Bronze
+1936,Berlin,Handball,Handball,"BANDHOLZ, Willi",GER,Men,Handball,Gold
+1936,Berlin,Handball,Handball,"BAUMANN, Wilhelm",GER,Men,Handball,Gold
+1936,Berlin,Handball,Handball,"BERTHOLD, Helmut",GER,Men,Handball,Gold
+1936,Berlin,Handball,Handball,"BRASELMANN, Helmut",GER,Men,Handball,Gold
+1936,Berlin,Handball,Handball,"BRINKMANN, Wilhelm",GER,Men,Handball,Gold
+1936,Berlin,Handball,Handball,"DASCHER, Georg",GER,Men,Handball,Gold
+1936,Berlin,Handball,Handball,"DOSSIN, Kurt",GER,Men,Handball,Gold
+1936,Berlin,Handball,Handball,"FROMM, Fritz",GER,Men,Handball,Gold
+1936,Berlin,Handball,Handball,"HANSEN, Hermann",GER,Men,Handball,Gold
+1936,Berlin,Handball,Handball,"HERMANN, Erich",GER,Men,Handball,Gold
+1936,Berlin,Handball,Handball,"KEIMIG, Heinrich",GER,Men,Handball,Gold
+1936,Berlin,Handball,Handball,"KEITER, Hans",GER,Men,Handball,Gold
+1936,Berlin,Handball,Handball,"KLINGLER, Alfred",GER,Men,Handball,Gold
+1936,Berlin,Handball,Handball,"KNAUTZ, Arthur",GER,Men,Handball,Gold
+1936,Berlin,Handball,Handball,"KÖRVERS, Heinz",GER,Men,Handball,Gold
+1936,Berlin,Handball,Handball,"KREUTZBERG, Karl",GER,Men,Handball,Gold
+1936,Berlin,Handball,Handball,"MULLER, Wilhelm",GER,Men,Handball,Gold
+1936,Berlin,Handball,Handball,"ORTMANN, Günter",GER,Men,Handball,Gold
+1936,Berlin,Handball,Handball,"REINHARDT, Edgar",GER,Men,Handball,Gold
+1936,Berlin,Handball,Handball,"SPENGLER, Fritz",GER,Men,Handball,Gold
+1936,Berlin,Handball,Handball,"STAHL, Rudolf",GER,Men,Handball,Gold
+1936,Berlin,Handball,Handball,"THEILIG, Hans",GER,Men,Handball,Gold
+1936,Berlin,Handball,Handball,"BARTL, Franz",AUT,Men,Handball,Silver
+1936,Berlin,Handball,Handball,"BERGHAMMER, Franz",AUT,Men,Handball,Silver
+1936,Berlin,Handball,Handball,"BISTRICKY, Franz",AUT,Men,Handball,Silver
+1936,Berlin,Handball,Handball,"BRUNNER, Franz",AUT,Men,Handball,Silver
+1936,Berlin,Handball,Handball,"HOUCHKA, Johann",AUT,Men,Handball,Silver
+1936,Berlin,Handball,Handball,"JURACKA, Emil",AUT,Men,Handball,Silver
+1936,Berlin,Handball,Handball,"KIEFLER, Ferdinand",AUT,Men,Handball,Silver
+1936,Berlin,Handball,Handball,"KRECI, Josef",AUT,Men,Handball,Silver
+1936,Berlin,Handball,Handball,"LICHA, Otto",AUT,Men,Handball,Silver
+1936,Berlin,Handball,Handball,"MAURER, Friedrich",AUT,Men,Handball,Silver
+1936,Berlin,Handball,Handball,"PERWEIN, Anton",AUT,Men,Handball,Silver
+1936,Berlin,Handball,Handball,"POWOLNY, Siegfried",AUT,Men,Handball,Silver
+1936,Berlin,Handball,Handball,"PURNER, Siegfried",AUT,Men,Handball,Silver
+1936,Berlin,Handball,Handball,"REISP, Walter",AUT,Men,Handball,Silver
+1936,Berlin,Handball,Handball,"SCHMALZER, Alfred",AUT,Men,Handball,Silver
+1936,Berlin,Handball,Handball,"SCHNABEL, Alois",AUT,Men,Handball,Silver
+1936,Berlin,Handball,Handball,"SCHUBERTH, Ludwig",AUT,Men,Handball,Silver
+1936,Berlin,Handball,Handball,"TAUSCHER, Johann",AUT,Men,Handball,Silver
+1936,Berlin,Handball,Handball,"VOLAK, Jaroslav",AUT,Men,Handball,Silver
+1936,Berlin,Handball,Handball,"WOHLRAB, Leopold",AUT,Men,Handball,Silver
+1936,Berlin,Handball,Handball,"WURMBÖCK, Friedrich",AUT,Men,Handball,Silver
+1936,Berlin,Handball,Handball,"ZEHETNER, Johann",AUT,Men,Handball,Silver
+1936,Berlin,Hockey,Hockey,"DE LOOPER, Hendrik Christiaan",NED,Men,Hockey,Bronze
+1936,Berlin,Hockey,Hockey,"DE LOOPER, Jan",NED,Men,Hockey,Bronze
+1936,Berlin,Hockey,Hockey,"DE ROOS, Agathon",NED,Men,Hockey,Bronze
+1936,Berlin,Hockey,Hockey,"DE WAAL, Reindert Berend Jan",NED,Men,Hockey,Bronze
+1936,Berlin,Hockey,Hockey,"GUNNING, Pieter Adriaan",NED,Men,Hockey,Bronze
+1936,Berlin,Hockey,Hockey,"HEYBROEK, Carl Erich",NED,Men,Hockey,Bronze
+1936,Berlin,Hockey,Hockey,"SCHNITGER, Henri Carel Willem",NED,Men,Hockey,Bronze
+1936,Berlin,Hockey,Hockey,"SPARENBERG, Rene",NED,Men,Hockey,Bronze
+1936,Berlin,Hockey,Hockey,"VAN DEN BERG, Ernst Willem",NED,Men,Hockey,Bronze
+1936,Berlin,Hockey,Hockey,"VAN DER HAAR, Rudolf Jacob",NED,Men,Hockey,Bronze
+1936,Berlin,Hockey,Hockey,"VAN LIEROP, Antoine Robert Onslow",NED,Men,Hockey,Bronze
+1936,Berlin,Hockey,Hockey,"WESTERKAMP, Max",NED,Men,Hockey,Bronze
+1936,Berlin,Hockey,Hockey,"ALLEN, Richard James",IND,Men,Hockey,Gold
+1936,Berlin,Hockey,Hockey,"BAIS, Dhyan Chand",IND,Men,Hockey,Gold
+1936,Berlin,Hockey,Hockey,"BAIS, Roop Singh",IND,Men,Hockey,Gold
+1936,Berlin,Hockey,Hockey,"CULLEN-GOODSIR, Ernest John",IND,Men,Hockey,Gold
+1936,Berlin,Hockey,Hockey,"DARA, Iqtidar Ali Shah",IND,Men,Hockey,Gold
+1936,Berlin,Hockey,Hockey,"EMMETT, Lionel C.",IND,Men,Hockey,Gold
+1936,Berlin,Hockey,Hockey,"FERNANDES, Peter Paul",IND,Men,Hockey,Gold
+1936,Berlin,Hockey,Hockey,"GALIBARDY, Joseph Deville Thomas",IND,Men,Hockey,Gold
+1936,Berlin,Hockey,Hockey,"HUSSAIN, Sayed Mohomed",IND,Men,Hockey,Gold
+1936,Berlin,Hockey,Hockey,"JAFFAR, Sayed Mohomed",IND,Men,Hockey,Gold
+1936,Berlin,Hockey,Hockey,"KHAN, Ahmed Sher",IND,Men,Hockey,Gold
+1936,Berlin,Hockey,Hockey,"KHAN, Ahsan Mohomed",IND,Men,Hockey,Gold
+1936,Berlin,Hockey,Hockey,"MASOOD, Mirza Nasir-Ud-Din",IND,Men,Hockey,Gold
+1936,Berlin,Hockey,Hockey,"MICHIE, Cyril James",IND,Men,Hockey,Gold
+1936,Berlin,Hockey,Hockey,"NIMAL, Baboo Narsoo",IND,Men,Hockey,Gold
+1936,Berlin,Hockey,Hockey,"PHILLIPS, Joseph",IND,Men,Hockey,Gold
+1936,Berlin,Hockey,Hockey,"SHABBAN, Shabab-Ud-Din",IND,Men,Hockey,Gold
+1936,Berlin,Hockey,Hockey,"SINGH GAREWAL, Gurcharan",IND,Men,Hockey,Gold
+1936,Berlin,Hockey,Hockey,"TAPSELL, Carlyle Carrol",IND,Men,Hockey,Gold
+1936,Berlin,Hockey,Hockey,"AUF DER HEIDE, Hermann",GER,Men,Hockey,Silver
+1936,Berlin,Hockey,Hockey,"BEISIEGEL, Ludwig",GER,Men,Hockey,Silver
+1936,Berlin,Hockey,Hockey,"CUNTZ, Erich",GER,Men,Hockey,Silver
+1936,Berlin,Hockey,Hockey,"DRÖSE, Karl",GER,Men,Hockey,Silver
+1936,Berlin,Hockey,Hockey,"GERDES, Alfred",GER,Men,Hockey,Silver
+1936,Berlin,Hockey,Hockey,"HAMEL, Werner",GER,Men,Hockey,Silver
+1936,Berlin,Hockey,Hockey,"HUFFMANN, Harald",GER,Men,Hockey,Silver
+1936,Berlin,Hockey,Hockey,"KELLER, Erwin",GER,Men,Hockey,Silver
+1936,Berlin,Hockey,Hockey,"KEMMER, Herbert",GER,Men,Hockey,Silver
+1936,Berlin,Hockey,Hockey,"KUBITZKI, Werner",GER,Men,Hockey,Silver
+1936,Berlin,Hockey,Hockey,"MEHLITZ, Paul",GER,Men,Hockey,Silver
+1936,Berlin,Hockey,Hockey,"MENKE, Karl",GER,Men,Hockey,Silver
+1936,Berlin,Hockey,Hockey,"MESSNER, Fritz",GER,Men,Hockey,Silver
+1936,Berlin,Hockey,Hockey,"OKRENT, Detlef",GER,Men,Hockey,Silver
+1936,Berlin,Hockey,Hockey,"PETER, Heinrich",GER,Men,Hockey,Silver
+1936,Berlin,Hockey,Hockey,"RAACK, Heinz",GER,Men,Hockey,Silver
+1936,Berlin,Hockey,Hockey,"RUCK, Karl",GER,Men,Hockey,Silver
+1936,Berlin,Hockey,Hockey,"SCHERBART, Hans",GER,Men,Hockey,Silver
+1936,Berlin,Hockey,Hockey,"SCHMALIX, Heinz",GER,Men,Hockey,Silver
+1936,Berlin,Hockey,Hockey,"WARNHOLTZ, Rudolf (Tito)",GER,Men,Hockey,Silver
+1936,Berlin,Hockey,Hockey,"WEISS, Kurt",GER,Men,Hockey,Silver
+1936,Berlin,Hockey,Hockey,"ZANDER, Erich",GER,Men,Hockey,Silver
+1936,Berlin,Modern Pentathlon,Modern Pentath.,"ABBA, Silvano",ITA,Men,Individual Competition,Bronze
+1936,Berlin,Modern Pentathlon,Modern Pentath.,"HANDRICK, Gotthard",GER,Men,Individual Competition,Gold
+1936,Berlin,Modern Pentathlon,Modern Pentath.,"LEONARD, Charles Fredrick",USA,Men,Individual Competition,Silver
+1936,Berlin,Polo,Polo,"GRACIA ZAZUETA, Juan",MEX,Men,Polo,Bronze
+1936,Berlin,Polo,Polo,"MULLER LUJAN, Julio",MEX,Men,Polo,Bronze
+1936,Berlin,Polo,Polo,"NAVA CASTILLO, Antonio",MEX,Men,Polo,Bronze
+1936,Berlin,Polo,Polo,"RAMOS SESMA, Alberto",MEX,Men,Polo,Bronze
+1936,Berlin,Polo,Polo,"ANDRADA, Manuel",ARG,Men,Polo,Gold
+1936,Berlin,Polo,Polo,"CAVANAGH, Roberto",ARG,Men,Polo,Gold
+1936,Berlin,Polo,Polo,"DUGGAN, Luis J.",ARG,Men,Polo,Gold
+1936,Berlin,Polo,Polo,"GAZZOTTI, Andres",ARG,Men,Polo,Gold
+1936,Berlin,Polo,Polo,"DAWNAY, David",GBR,Men,Polo,Silver
+1936,Berlin,Polo,Polo,"FOWLER, Bryan John",GBR,Men,Polo,Silver
+1936,Berlin,Polo,Polo,"GUINNESS, Humphrey Patrick",GBR,Men,Polo,Silver
+1936,Berlin,Polo,Polo,"HINDE, William Norris",GBR,Men,Polo,Silver
+1936,Berlin,Rowing,Rowing,"CURATELLA, Julio Pedro",ARG,Men,Coxless Pair (2-),Bronze
+1936,Berlin,Rowing,Rowing,"PODESTA, Horacio",ARG,Men,Coxless Pair (2-),Bronze
+1936,Berlin,Rowing,Rowing,"EICHHORN, Willi",GER,Men,Coxless Pair (2-),Gold
+1936,Berlin,Rowing,Rowing,"STRAUSS, Hugo",GER,Men,Coxless Pair (2-),Gold
+1936,Berlin,Rowing,Rowing,"LARSEN, Harry Julius",DEN,Men,Coxless Pair (2-),Silver
+1936,Berlin,Rowing,Rowing,"OLSEN, Peter Richard",DEN,Men,Coxless Pair (2-),Silver
+1936,Berlin,Rowing,Rowing,"USTUPSKI, Jerzy",POL,Men,Double Sculls (2X),Bronze
+1936,Berlin,Rowing,Rowing,"VEREY, Roger",POL,Men,Double Sculls (2X),Bronze
+1936,Berlin,Rowing,Rowing,"BERESFORD, Jack",GBR,Men,Double Sculls (2X),Gold
+1936,Berlin,Rowing,Rowing,"SOUTHWOOD, Leslie Frank",GBR,Men,Double Sculls (2X),Gold
+1936,Berlin,Rowing,Rowing,"KAIDEL, Willi",GER,Men,Double Sculls (2X),Silver
+1936,Berlin,Rowing,Rowing,"PIRSCH, Joachim",GER,Men,Double Sculls (2X),Silver
+1936,Berlin,Rowing,Rowing,"HANNEMANN, Hans-Joachim",GER,Men,Eight With Coxswain (8+),Bronze
+1936,Berlin,Rowing,Rowing,"KAUFMANN, Heinz",GER,Men,Eight With Coxswain (8+),Bronze
+1936,Berlin,Rowing,Rowing,"KUSCHKE, Hans",GER,Men,Eight With Coxswain (8+),Bronze
+1936,Berlin,Rowing,Rowing,"LOECKLE, Werner",GER,Men,Eight With Coxswain (8+),Bronze
+1936,Berlin,Rowing,Rowing,"MAHLOW, Wilhelm",GER,Men,Eight With Coxswain (8+),Bronze
+1936,Berlin,Rowing,Rowing,"RADACH, Helmut",GER,Men,Eight With Coxswain (8+),Bronze
+1936,Berlin,Rowing,Rowing,"RIECK, Alfred",GER,Men,Eight With Coxswain (8+),Bronze
+1936,Berlin,Rowing,Rowing,"SCHMIDT, Herbert",GER,Men,Eight With Coxswain (8+),Bronze
+1936,Berlin,Rowing,Rowing,"VÖLS, Gerd",GER,Men,Eight With Coxswain (8+),Bronze
+1936,Berlin,Rowing,Rowing,"ADAM, Gordon Belgum",USA,Men,Eight With Coxswain (8+),Gold
+1936,Berlin,Rowing,Rowing,"DAY, Charles Ward",USA,Men,Eight With Coxswain (8+),Gold
+1936,Berlin,Rowing,Rowing,"HUME, Donald Bruce",USA,Men,Eight With Coxswain (8+),Gold
+1936,Berlin,Rowing,Rowing,"HUNT, George Elwood Jr.",USA,Men,Eight With Coxswain (8+),Gold
+1936,Berlin,Rowing,Rowing,"MCMILLIN, James Burge",USA,Men,Eight With Coxswain (8+),Gold
+1936,Berlin,Rowing,Rowing,"MOCH, Robert Gaston",USA,Men,Eight With Coxswain (8+),Gold
+1936,Berlin,Rowing,Rowing,"MORRIS, Herbert Roger",USA,Men,Eight With Coxswain (8+),Gold
+1936,Berlin,Rowing,Rowing,"RANTZ, Joseph Harry",USA,Men,Eight With Coxswain (8+),Gold
+1936,Berlin,Rowing,Rowing,"WHITE, John Galbraith",USA,Men,Eight With Coxswain (8+),Gold
+1936,Berlin,Rowing,Rowing,"BARSOTTI, Dino",ITA,Men,Eight With Coxswain (8+),Silver
+1936,Berlin,Rowing,Rowing,"BARTOLINI, Enzo",ITA,Men,Eight With Coxswain (8+),Silver
+1936,Berlin,Rowing,Rowing,"CHECCACCI, Mario",ITA,Men,Eight With Coxswain (8+),Silver
+1936,Berlin,Rowing,Rowing,"DEL BIMBO, Guglielmo",ITA,Men,Eight With Coxswain (8+),Silver
+1936,Berlin,Rowing,Rowing,"GARZELLI, Enrico",ITA,Men,Eight With Coxswain (8+),Silver
+1936,Berlin,Rowing,Rowing,"GROSSI, Oreste",ITA,Men,Eight With Coxswain (8+),Silver
+1936,Berlin,Rowing,Rowing,"MILANI, Cesare",ITA,Men,Eight With Coxswain (8+),Silver
+1936,Berlin,Rowing,Rowing,"QUAGLIERINI, Ottorino",ITA,Men,Eight With Coxswain (8+),Silver
+1936,Berlin,Rowing,Rowing,"SECCHI, Dante",ITA,Men,Eight With Coxswain (8+),Silver
+1936,Berlin,Rowing,Rowing,"BETSCHART, Hermann",SUI,Men,Four Without Coxswain (4-),Bronze
+1936,Berlin,Rowing,Rowing,"HOMBERGER, Alexander",SUI,Men,Four Without Coxswain (4-),Bronze
+1936,Berlin,Rowing,Rowing,"HOMBERGER, Hans",SUI,Men,Four Without Coxswain (4-),Bronze
+1936,Berlin,Rowing,Rowing,"SCHMID, Karl",SUI,Men,Four Without Coxswain (4-),Bronze
+1936,Berlin,Rowing,Rowing,"ECKSTEIN, Rudolf (Rudi)",GER,Men,Four Without Coxswain (4-),Gold
+1936,Berlin,Rowing,Rowing,"KARL, Martin",GER,Men,Four Without Coxswain (4-),Gold
+1936,Berlin,Rowing,Rowing,"MENNE, Wilhelm (Willi)",GER,Men,Four Without Coxswain (4-),Gold
+1936,Berlin,Rowing,Rowing,"ROM, Anton (Toni)",GER,Men,Four Without Coxswain (4-),Gold
+1936,Berlin,Rowing,Rowing,"BARRETT, Alan John",GBR,Men,Four Without Coxswain (4-),Silver
+1936,Berlin,Rowing,Rowing,"BRISTOW, Thomas Richard Mart.",GBR,Men,Four Without Coxswain (4-),Silver
+1936,Berlin,Rowing,Rowing,"JACKSON, Peter Herbert",GBR,Men,Four Without Coxswain (4-),Silver
+1936,Berlin,Rowing,Rowing,"STURROCK, John Duncan",GBR,Men,Four Without Coxswain (4-),Silver
+1936,Berlin,Rowing,Rowing,"CHAUVIGNE, Marcel",FRA,Men,Four-Oared Shell With Coxswain (4-),Bronze
+1936,Berlin,Rowing,Rowing,"COSMAT, Jean Marcel",FRA,Men,Four-Oared Shell With Coxswain (4-),Bronze
+1936,Berlin,Rowing,Rowing,"VANDERNOTTE, Fernand",FRA,Men,Four-Oared Shell With Coxswain (4-),Bronze
+1936,Berlin,Rowing,Rowing,"VANDERNOTTE, Marcel",FRA,Men,Four-Oared Shell With Coxswain (4-),Bronze
+1936,Berlin,Rowing,Rowing,"VANDERNOTTE, Noël",FRA,Men,Four-Oared Shell With Coxswain (4-),Bronze
+1936,Berlin,Rowing,Rowing,"BAUER, Fritz",GER,Men,Four-Oared Shell With Coxswain (4-),Gold
+1936,Berlin,Rowing,Rowing,"GABER, Ernst",GER,Men,Four-Oared Shell With Coxswain (4-),Gold
+1936,Berlin,Rowing,Rowing,"MAIER, Hans",GER,Men,Four-Oared Shell With Coxswain (4-),Gold
+1936,Berlin,Rowing,Rowing,"SÖLLNER, Paul",GER,Men,Four-Oared Shell With Coxswain (4-),Gold
+1936,Berlin,Rowing,Rowing,"VOLLE, Walter",GER,Men,Four-Oared Shell With Coxswain (4-),Gold
+1936,Berlin,Rowing,Rowing,"BETSCHART, Hermann",SUI,Men,Four-Oared Shell With Coxswain (4-),Silver
+1936,Berlin,Rowing,Rowing,"HOMBERGER, Alexander",SUI,Men,Four-Oared Shell With Coxswain (4-),Silver
+1936,Berlin,Rowing,Rowing,"HOMBERGER, Hans",SUI,Men,Four-Oared Shell With Coxswain (4-),Silver
+1936,Berlin,Rowing,Rowing,"SCHMID, Karl",SUI,Men,Four-Oared Shell With Coxswain (4-),Silver
+1936,Berlin,Rowing,Rowing,"SPRING, Rolf",SUI,Men,Four-Oared Shell With Coxswain (4-),Silver
+1936,Berlin,Rowing,Rowing,"FOURCADE, Marceau",FRA,Men,Pair-Oared Shell With Coxswain (2+),Bronze
+1936,Berlin,Rowing,Rowing,"TAPIE, Georges",FRA,Men,Pair-Oared Shell With Coxswain (2+),Bronze
+1936,Berlin,Rowing,Rowing,"VANDERNOTTE, Noël",FRA,Men,Pair-Oared Shell With Coxswain (2+),Bronze
+1936,Berlin,Rowing,Rowing,"ADAMSKI, Herbert",GER,Men,Pair-Oared Shell With Coxswain (2+),Gold
+1936,Berlin,Rowing,Rowing,"AREND, Dietrich",GER,Men,Pair-Oared Shell With Coxswain (2+),Gold
+1936,Berlin,Rowing,Rowing,"GUSTMANN, Gerhard",GER,Men,Pair-Oared Shell With Coxswain (2+),Gold
+1936,Berlin,Rowing,Rowing,"BERGAMO, Almiro",ITA,Men,Pair-Oared Shell With Coxswain (2+),Silver
+1936,Berlin,Rowing,Rowing,"NEGRINI, Luciano",ITA,Men,Pair-Oared Shell With Coxswain (2+),Silver
+1936,Berlin,Rowing,Rowing,"SANTIN, Guido",ITA,Men,Pair-Oared Shell With Coxswain (2+),Silver
+1936,Berlin,Rowing,Rowing,"BARROW, Daniel Hubert Jr.",USA,Men,Single Sculls (1X),Bronze
+1936,Berlin,Rowing,Rowing,"SCHÄFER, Gustav",GER,Men,Single Sculls (1X),Gold
+1936,Berlin,Rowing,Rowing,"HASENÖHRL, Josef",AUT,Men,Single Sculls (1X),Silver
+1936,Berlin,Sailing,Sailing,"EKDAHL, Lennart",SWE,Men,6M,Bronze
+1936,Berlin,Sailing,Sailing,"HINDORFF, Martin",SWE,Men,6M,Bronze
+1936,Berlin,Sailing,Sailing,"LORD, Torsten",SWE,Men,6M,Bronze
+1936,Berlin,Sailing,Sailing,"SALEN, Dagmar",SWE,Men,6M,Bronze
+1936,Berlin,Sailing,Sailing,"SALEN, Sven",SWE,Men,6M,Bronze
+1936,Berlin,Sailing,Sailing,"BELVILLE, Miles Aubrey",GBR,Men,6M,Gold
+1936,Berlin,Sailing,Sailing,"BOARDMAN, Christopher Alan",GBR,Men,6M,Gold
+1936,Berlin,Sailing,Sailing,"HARMER, Russell Thomas",GBR,Men,6M,Gold
+1936,Berlin,Sailing,Sailing,"LEAF, Charles Symonds",GBR,Men,6M,Gold
+1936,Berlin,Sailing,Sailing,"MARTIN, Leonard Jack",GBR,Men,6M,Gold
+1936,Berlin,Sailing,Sailing,"KONOW, Karsten Magnus",NOR,Men,6M,Silver
+1936,Berlin,Sailing,Sailing,"KONOW, Magnus",NOR,Men,6M,Silver
+1936,Berlin,Sailing,Sailing,"MEYER, Fredrik",NOR,Men,6M,Silver
+1936,Berlin,Sailing,Sailing,"NYQVIST, Vaadjuv Dag",NOR,Men,6M,Silver
+1936,Berlin,Sailing,Sailing,"TVETEN, Alf Christian",NOR,Men,6M,Silver
+1936,Berlin,Sailing,Sailing,"BISCHOFF, Friedrich (Fritz)",GER,Men,8M,Bronze
+1936,Berlin,Sailing,Sailing,"HOWALDT, Hans",GER,Men,8M,Bronze
+1936,Berlin,Sailing,Sailing,"KRUPP VON BOHLEN UND HALBACH, Alfried",GER,Men,8M,Bronze
+1936,Berlin,Sailing,Sailing,"MOHR, Eduard",GER,Men,8M,Bronze
+1936,Berlin,Sailing,Sailing,"SCHEDER-BIESCHIN, Felix",GER,Men,8M,Bronze
+1936,Berlin,Sailing,Sailing,"WACHS, Otto",GER,Men,8M,Bronze
+1936,Berlin,Sailing,Sailing,"BIANCHI, Bruno",ITA,Men,8M,Gold
+1936,Berlin,Sailing,Sailing,"DE MANINCOR, Luigi",ITA,Men,8M,Gold
+1936,Berlin,Sailing,Sailing,"MORDINI, Domenico",ITA,Men,8M,Gold
+1936,Berlin,Sailing,Sailing,"POGGI, Enrico Massimo",ITA,Men,8M,Gold
+1936,Berlin,Sailing,Sailing,"POGGI, Luigi Mino",ITA,Men,8M,Gold
+1936,Berlin,Sailing,Sailing,"REGGIO, Giovanni Leone",ITA,Men,8M,Gold
+1936,Berlin,Sailing,Sailing,"DITLEV-SIMONSEN, John Peder",NOR,Men,8M,Silver
+1936,Berlin,Sailing,Sailing,"DITLEV-SIMONSEN, Olaf Christian Jr.",NOR,Men,8M,Silver
+1936,Berlin,Sailing,Sailing,"SCHMIDT, Lauritz Thure Thrap",NOR,Men,8M,Silver
+1936,Berlin,Sailing,Sailing,"STRUKSNAS, Hans Soelberg",NOR,Men,8M,Silver
+1936,Berlin,Sailing,Sailing,"THAMS, Jacob Tullin",NOR,Men,8M,Silver
+1936,Berlin,Sailing,Sailing,"WALLEM, Nordahl E.",NOR,Men,8M,Silver
+1936,Berlin,Sailing,Sailing,"SCOTT, Peter Markham",GBR,Men,Olympic Class Monotype,Bronze
+1936,Berlin,Sailing,Sailing,"KAGCHELLAND, Daniel Marinus J.",NED,Men,Olympic Class Monotype,Gold
+1936,Berlin,Sailing,Sailing,"KROGMANN, Werner Herman Otto",GER,Men,Olympic Class Monotype,Silver
+1936,Berlin,Sailing,Sailing,"DE VRIES LENTSCH SR., Willem",NED,Men,Two-Person Keelboat Open (Star),Bronze
+1936,Berlin,Sailing,Sailing,"MAAS, Adriaan Lambertus Joseph",NED,Men,Two-Person Keelboat Open (Star),Bronze
+1936,Berlin,Sailing,Sailing,"BISCHOFF, Peter",GER,Men,Two-Person Keelboat Open (Star),Gold
+1936,Berlin,Sailing,Sailing,"WEISE, Hans-Joachim",GER,Men,Two-Person Keelboat Open (Star),Gold
+1936,Berlin,Sailing,Sailing,"LAURIN, Arvid",SWE,Men,Two-Person Keelboat Open (Star),Silver
+1936,Berlin,Sailing,Sailing,"WALLENTIN, Uno",SWE,Men,Two-Person Keelboat Open (Star),Silver
+1936,Berlin,Shooting,Shooting,"ULLMAN, Torsten",SWE,Men,25M Rapid Fire Pistol (60 Shots),Bronze
+1936,Berlin,Shooting,Shooting,"VAN OYEN, Cornelius M.",GER,Men,25M Rapid Fire Pistol (60 Shots),Gold
+1936,Berlin,Shooting,Shooting,"HAX, Heinz",GER,Men,25M Rapid Fire Pistol (60 Shots),Silver
+1936,Berlin,Shooting,Shooting,"DES JAMMONIERES, Charles Andre",FRA,Men,50M Pistol (60 Shots),Bronze
+1936,Berlin,Shooting,Shooting,"ULLMAN, Torsten",SWE,Men,50M Pistol (60 Shots),Gold
+1936,Berlin,Shooting,Shooting,"KREMPEL, Erich",GER,Men,50M Pistol (60 Shots),Silver
+1936,Berlin,Shooting,Shooting,"KARAS, Wladyslaw",POL,Men,50M Rifle Prone (60 Shots),Bronze
+1936,Berlin,Shooting,Shooting,"RÖGEBERG, Willy",NOR,Men,50M Rifle Prone (60 Shots),Gold
+1936,Berlin,Shooting,Shooting,"BERSZENYI, Ralf",HUN,Men,50M Rifle Prone (60 Shots),Silver
+1936,Berlin,Weightlifting,Weightlifting,"SHAMS, Ibrahim Hassanein",EGY,Men,"- 60KG, Total (Featherweight)",Bronze
+1936,Berlin,Weightlifting,Weightlifting,"TERLAZZO, Anthony",USA,Men,"- 60KG, Total (Featherweight)",Gold
+1936,Berlin,Weightlifting,Weightlifting,"SOLIMAN, Saleh Mohamed",EGY,Men,"- 60KG, Total (Featherweight)",Silver
+1936,Berlin,Weightlifting,Weightlifting,"LUHAÄÄR, Arnold",EST,Men,"+ 82.5KG, Total (Heavyweight)",Bronze
+1936,Berlin,Weightlifting,Weightlifting,"MANGER, Josef",GER,Men,"+ 82.5KG, Total (Heavyweight)",Gold
+1936,Berlin,Weightlifting,Weightlifting,"PSENICKA SR., Václav",TCH,Men,"+ 82.5KG, Total (Heavyweight)",Silver
+1936,Berlin,Weightlifting,Weightlifting,"JANSEN, Karl",GER,Men,"60 - 67.5KG, Total (Lightweight)",Bronze
+1936,Berlin,Weightlifting,Weightlifting,"FEIN, Robert",AUT,Men,"60 - 67.5KG, Total (Lightweight)",Gold
+1936,Berlin,Weightlifting,Weightlifting,"MESBAH, Anwar Mohamed Ahmed",EGY,Men,"60 - 67.5KG, Total (Lightweight)",Gold
+1936,Berlin,Weightlifting,Weightlifting,"WAGNER, Adolf",GER,Men,"67.5 - 75KG, Total (Middleweight)",Bronze
+1936,Berlin,Weightlifting,Weightlifting,"EL TOUNY, Khadr El Sayed",EGY,Men,"67.5 - 75KG, Total (Middleweight)",Gold
+1936,Berlin,Weightlifting,Weightlifting,"ISMAYR, Rudolf",GER,Men,"67.5 - 75KG, Total (Middleweight)",Silver
+1936,Berlin,Weightlifting,Weightlifting,"WASIF, Ibrahim",EGY,Men,"75 - 82.5KG, Total (Light-Heavyweight)",Bronze
+1936,Berlin,Weightlifting,Weightlifting,"HOSTIN, Louis",FRA,Men,"75 - 82.5KG, Total (Light-Heavyweight)",Gold
+1936,Berlin,Weightlifting,Weightlifting,"DEUTSCH, Eugen",GER,Men,"75 - 82.5KG, Total (Light-Heavyweight)",Silver
+1936,Berlin,Wrestling,Wrestling Free.,"HERBERT, Johannes",GER,Men,- 56KG (Bantamweight),Bronze
+1936,Berlin,Wrestling,Wrestling Free.,"ZOMBORI, Ödön",HUN,Men,- 56KG (Bantamweight),Gold
+1936,Berlin,Wrestling,Wrestling Free.,"FLOOD, Aaron Ross",USA,Men,- 56KG (Bantamweight),Silver
+1936,Berlin,Wrestling,Wrestling Free.,"NYSTRÖM, Hjalmar Eemil",FIN,Men,+ 87KG (Heavyweight),Bronze
+1936,Berlin,Wrestling,Wrestling Free.,"PALUSALU, Kristjan",EST,Men,+ 87KG (Heavyweight),Gold
+1936,Berlin,Wrestling,Wrestling Free.,"KLAPUCH, Josef",TCH,Men,+ 87KG (Heavyweight),Silver
+1936,Berlin,Wrestling,Wrestling Free.,"FRÄNDFORS-JÖNSSON, Gösta",SWE,Men,56 - 61KG (Featherweight),Bronze
+1936,Berlin,Wrestling,Wrestling Free.,"PIHLAJAMÄKI, Kustaa",FIN,Men,56 - 61KG (Featherweight),Gold
+1936,Berlin,Wrestling,Wrestling Free.,"MILLARD, Francis Edward",USA,Men,56 - 61KG (Featherweight),Silver
+1936,Berlin,Wrestling,Wrestling Free.,"PIHLAJAMÄKI, Hermanni",FIN,Men,61 - 66KG (Lightweight),Bronze
+1936,Berlin,Wrestling,Wrestling Free.,"KÁRPÁTI, Károly",HUN,Men,61 - 66KG (Lightweight),Gold
+1936,Berlin,Wrestling,Wrestling Free.,"EHRL, Wolfgang",GER,Men,61 - 66KG (Lightweight),Silver
+1936,Berlin,Wrestling,Wrestling Free.,"SCHLEIMER, Joseph",CAN,Men,66 - 72KG (Welterweight),Bronze
+1936,Berlin,Wrestling,Wrestling Free.,"LEWIS, Frank Wyatt",USA,Men,66 - 72KG (Welterweight),Gold
+1936,Berlin,Wrestling,Wrestling Free.,"ANDERSSON, Thure",SWE,Men,66 - 72KG (Welterweight),Silver
+1936,Berlin,Wrestling,Wrestling Free.,"KIREÇÇI, Ahmet",TUR,Men,72 - 79KG (Middleweight),Bronze
+1936,Berlin,Wrestling,Wrestling Free.,"POILVE, Emile",FRA,Men,72 - 79KG (Middleweight),Gold
+1936,Berlin,Wrestling,Wrestling Free.,"VOLIVA, Richard Lawrence",USA,Men,72 - 79KG (Middleweight),Silver
+1936,Berlin,Wrestling,Wrestling Free.,"SIEBERT, Erich",GER,Men,79 - 87KG (Light-Heavyweight),Bronze
+1936,Berlin,Wrestling,Wrestling Free.,"FRIDELL, Knut",SWE,Men,79 - 87KG (Light-Heavyweight),Gold
+1936,Berlin,Wrestling,Wrestling Free.,"NEO, Ago (August)",EST,Men,79 - 87KG (Light-Heavyweight),Silver
+1936,Berlin,Wrestling,Wrestling Gre-R,"BRENDEL, Jacob",GER,Men,- 56KG (Bantamweight),Bronze
+1936,Berlin,Wrestling,Wrestling Gre-R,"LÖRINCZ, Marton",HUN,Men,- 56KG (Bantamweight),Gold
+1936,Berlin,Wrestling,Wrestling Gre-R,"SVENSSON, Egon",SWE,Men,- 56KG (Bantamweight),Silver
+1936,Berlin,Wrestling,Wrestling Gre-R,"HORNFISCHER, Kurt",GER,Men,+ 87KG (Super Heavyweight),Bronze
+1936,Berlin,Wrestling,Wrestling Gre-R,"PALUSALU, Kristjan",EST,Men,+ 87KG (Super Heavyweight),Gold
+1936,Berlin,Wrestling,Wrestling Gre-R,"NYMAN, John",SWE,Men,+ 87KG (Super Heavyweight),Silver
+1936,Berlin,Wrestling,Wrestling Gre-R,"KARLSSON, Einar",SWE,Men,56 - 61KG (Featherweight),Bronze
+1936,Berlin,Wrestling,Wrestling Gre-R,"ERKAN, Yasar",TUR,Men,56 - 61KG (Featherweight),Gold
+1936,Berlin,Wrestling,Wrestling Gre-R,"REINI, Aarne Eemeli",FIN,Men,56 - 61KG (Featherweight),Silver
+1936,Berlin,Wrestling,Wrestling Gre-R,"VÄLI, Voldemar",EST,Men,61 - 66KG (Lightweight),Bronze
+1936,Berlin,Wrestling,Wrestling Gre-R,"KOSKELA, Lauri",FIN,Men,61 - 66KG (Lightweight),Gold
+1936,Berlin,Wrestling,Wrestling Gre-R,"HERDA, Josef",TCH,Men,61 - 66KG (Lightweight),Silver
+1936,Berlin,Wrestling,Wrestling Gre-R,"VIRTANEN, Eino Mauno",FIN,Men,66 - 72KG (Welterweight),Bronze
+1936,Berlin,Wrestling,Wrestling Gre-R,"SVEDBERG, Rudolf",SWE,Men,66 - 72KG (Welterweight),Gold
+1936,Berlin,Wrestling,Wrestling Gre-R,"SCHAFER, Fritz",GER,Men,66 - 72KG (Welterweight),Silver
+1936,Berlin,Wrestling,Wrestling Gre-R,"PALOTAS, Jozsef",HUN,Men,72 - 79KG (Middleweight),Bronze
+1936,Berlin,Wrestling,Wrestling Gre-R,"JOHANSSON, Ivar",SWE,Men,72 - 79KG (Middleweight),Gold
+1936,Berlin,Wrestling,Wrestling Gre-R,"SCHWEIKERT, Ludwig",GER,Men,72 - 79KG (Middleweight),Silver
+1936,Berlin,Wrestling,Wrestling Gre-R,"NEO, Ago (August)",EST,Men,79 - 87KG (Light-Heavyweight),Bronze
+1936,Berlin,Wrestling,Wrestling Gre-R,"CADIER, Axel",SWE,Men,79 - 87KG (Light-Heavyweight),Gold
+1936,Berlin,Wrestling,Wrestling Gre-R,"BIETAGS, Edwins",LAT,Men,79 - 87KG (Light-Heavyweight),Silver

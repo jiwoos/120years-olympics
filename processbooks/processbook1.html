@@ -1,0 +1,291 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>CSE457 - Final Project</title>
+	<link rel="stylesheet" href="style.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,200;0,300;0,700;1,100;1,400;1,500&display=swap" rel="stylesheet">
+</head>
+<body>
+
+	<h1> 120 Years Of Olympics - ProcessBook</h1>
+	<div>
+		<p>
+			Amy Kim
+			Email: amykim@wustl.edu
+			ID: 464989
+		</p>
+		<p>
+			Jiwoo Seo
+			Email: jiwooseo@wustl.edu
+			ID: 457104
+
+		</p>
+	</div>
+	<hr>
+	<div>
+		<p>
+			Project Title:  <strong>Summer Olympics Over 124 years</strong>
+			<p><a href="https://github.com/jiwoos/Tokyo2020-Visualization"> Link to project repository </a> </p>
+		</p>
+		<p> <a href ="https://docs.google.com/document/d/1UaDlLxN0JZYsNBM3uoDw_9SjXudh09gZd-ZnE_Rb-MA/edit?usp=sharing"> Link to the document </a> </p>
+		<p> <a href = "https://csex57.github.io/120yearsofolympics"/> Link to the project</a> </p>
+	</div>
+
+	<h2> Project Proposal (November 1st) </h2>
+	<div class = "background">
+		<p> <strong> Background and Motivation </strong> </p>
+		<p> The one competition that has accompanied the world over the last century is the Olympics. Each Olympic event often is a representation of that time, year, or even era. We believe visualizing such data that were collected over 124 years can show so many things, including but not limited to - changes in gender equality, increase in participating countries, and transition in dynamics between countries. Moreover, we became avid watchers of the Olympics during the pandemic when we were confined to the spaces of our homes unable to attend any in person events. So we thought that it would be entertaining to observe the world through the lens of sports and entertainment, rather than through political news.
+		</p>
+
+	</div>
+
+
+	<div class = "objectives">
+		<p> <strong> Project Objectives </strong> </p>
+
+			<li>A primary question: Looking at Olympic data, how has gender representation changed over the years?  </li>
+			<li> Another Question: Looking at the Olympics over the last 120 years, what are the changes in power dynamics in countries? (Implicitly) </li>
+			<li> We would like to learn when gender representation started to become more “equal.” </li>
+			<li> Fans of the Olympics get a better picture of how the Olympics have changed over the years. </li>
+		<p> </p>
+	</div>
+
+
+	<div class = "data">
+		<p> <strong> Data </strong> </p>
+		<p> We are collecting our data from Kaggle. We want data from the years 1896 to 2020 about the Olympics in terms of gender distribution and medal count.  </p>
+		 <p> Link of Datasets: </p>
+		<li> https://www.kaggle.com/the-guardian/olympic-games?select=summer.csv </li>
+		This is our main dataset where we have the data about the sports and medals from the years 1896 to 2014.
+		<li> Our dataset for 2016: https://www.kaggle.com/rio2016/olympic-games </li>
+
+ 		<li> Our dataset for the 2021 Tokyo: https://www.kaggle.com/arjunprasadsarkhel/2021-olympics-in-tokyo
+		<p> </p>
+	
+		<p> <strong> Data Processing </strong> </p>
+		<p>Yes, we will need to do some substantial data cleanup in order to make it a better format for us to use when doing the different visualizations. The first thing we will do is parse the main dataset into separate csv files for each Olympic year. We plan on deriving the number of females and males for each Olympic year and also the medal counts for each country for each Olympic year. We will parse the data using Python libraries.
+		</p>
+	</div>
+
+	<div class= "vis">
+		<p> <strong> Visualization Design </strong> <p>
+
+
+				<div id ="0">
+					<h3> <strong> Brain Storming Sheet </strong> </h3>
+					<p> We first wrote down some stuffs that could be visualized in our project.
+						Then we narrowed it down/filtered it out with pink highlights to find what we really want to focus on.
+						The blue letters were written during filtering out process. </p>
+					<img src="images/brainStorming.jpg" width="400px" border="1px solid gray">
+				</div>
+				<div id ="1">
+					<h3> <strong> First Design </strong> </h3>
+					<p> We first focused on Tokyo 2020 specifically.</p>
+					<img src="images/initialDesign.jpg" width="400px" border="1px solid gray">
+					<p> Positive/Negative: Good initial ideas, but not interactive enough and just shows bulk of data at once.  </p>
+				</div>
+				<div id ="2">
+					<h3> <strong> Second Design </strong> </h3>
+					<p> As written in the image, we decided to be more general. Our target data is now summer Olympics for last 120 years. </p>
+					<img src="images/initialDesign2.jpg" width="400px"  border="1px solid gray">
+					<p>  Positive: A more interactive visualization as we can look through 29 different Olympics.  </p>
+					<p> Negative: Too unorganized, not too intuitive how to navigate the page. </p>
+				</div>
+				<div id="3">
+					<h3> <strong> Third Design </strong> </h3>
+					<p> We developed the idea with more charts so that we could visualize some important data. </p>
+					<img src="images/progressDesign1.jpg" width= "400px" border="1px solid gray">
+					<p> Positive: Using a map makes it more intuitive to visualize a world event like the Olympics.  </p>
+					<p> Negative: It may be difficult to use the geo mapping on d3 as countries have changed in the 120 years such as USSR, West Germany, etc. </p>
+
+				</div>
+				<div id="4">
+					<h3> <strong> Fourth Design </strong> </h3>
+					<p> As we looked into the data, we figured out some of the countries back in 1896, 1968 and many other past years could not be represented in current world map.
+						We decided to use bubble chart instead of the world map. The bubble charts group countries by continents. The size of each bubble is the number of athletes in each country.
+					The colors of groups are the color of Olympic Rings </p>
+					<img src="images/progressDesign2.jpg" width= "400px" border="1px solid gray">
+					<p>
+						Positive/negative: Bubble layout may not be the easiest/ most intuitive visualization to make, but I think we may need to code it first before we tweak how it will look like.  </p>
+				</div>
+
+				<div id="5">
+					<h3> <strong> Wire Frame of the Final Design </strong> </h3>
+					<p> This is the polished version of the final design. Click the link to see in pdf format
+					<a href="images/Olympics.pdf">Wire frame of final design</a> </p>
+					<li> Layout: </li>
+					<img src="images/screenshot1.jpg" width= "400px" >
+					<img src="images/screenshot2.jpg" width= "400px" >
+				</div>
+
+				<li> Focus: </li>
+					<ul> Timeline </ul>
+					<ul>Bubble Map</ul>
+					<ul>Percentage bar charts for gender distribution.</ul>
+					<ul>Horizontal bar chart for medal counts</ul>
+				<li> Operation: </li>
+					<ul>User clicks on the timeline which will open up the map below for the year clicked. It will also display the gender distribution and top 10 countries in terms of medal count visualizations.</ul>
+					<ul>If the user clicks on a bubble, it will open up the information for that country on the right.</ul>
+					<ul>If they hit the drop down box next to the “Compare with other Olympics” text, it will have the choices of the other olympics and the gender distribution and medal count distribution of that olympics will pop up.</ul>
+
+
+
+			<p> <strong>  Must-Have Features </strong><p>
+				<ul> Timeline that shows the different summer olympic years </ul>
+				<ul>Some map that displays the different countries</ul>
+				<ul> Comparison of gender distributions </ul>
+				<ul> Top 10 country medal counts. </ul>
+			<p> <strong>  Optional Features </strong> </p>
+				<ul> Hover over the timeline shows city names. </ul>
+				<ul> Hover effect for the map </ul>
+				<ul> Show fun facts about total numbers over the 120 years such as who got the most medals (athlete/country/gender) who got the most silver medals. </ul>
+	</div>
+
+<div class="schedule">
+	<p> <strong> Schedule </strong> <p>
+	<ol type="1">
+		<li> We will split the datasets, one will take the biggest dataset and one will take the smaller two datasets and parse for the following: </li>
+			<ul> <strong> 11/02 </strong> Work on parsing of data (for gender distribution) </ul>
+			<ul> <strong>11/04 </strong>Try to finish parsing data (for medal count by country) </ul>
+			<ul> <strong>11/05 </strong>Work on parsing data into javascript </ul>
+		<li> Working on framework of visualization </li>
+			<ul> <strong>By 11/07 </strong> </ul>
+			<ul> Work on displaying the timeline  </ul>
+			<ul>Work on visualizing the map </ul>
+			<ul> For the other visualization aspects, we will create placeholders for them that are not interactive.</ul>
+		<ul>  <strong> 11/08 </strong> Milestone 1 due </ul>
+		 <ul> By <strong> 11/14 </strong> Work on the click map functionalities like showing total medal count for each country clicked on the map.</ul>
+		<ul> By  <strong> 11/19 </strong> Finish the select a olympics to compare gender distributions functionality </ul>
+		<ul> By <strong> 11/21 </strong> Polish the top 10 medal count visualization. </ul>
+		<ul> <storng> 11/22 </strong> Milestone 2 due </ul>
+		<ul> Revise visualization by <strong> 12/20 </strong> </ul>
+		<ul> <strong> 12/20 </strong> final project due </ul>
+
+
+	</ol>
+</div>
+
+
+<br>
+<br>
+
+<h2> Milestone 1 (November 8th) </h2>
+
+<div class="data">
+		<h2> Data Acquisition </h2>
+		<p> We acquired all the datasets that cover 124 years of Olympics. 
+			There is one dataset for Tokyo 2020, one for Rio 2016, and one for all the Summer Olympics between 1896 and 2014. As we realized that it wasn't possible to parse the number of medal counts for each country using our current datasets, we also found another dataset (in addition to our earlier three))that has all the medal counts for each summer Olympic year.</p>
+		<p>We had to parse four datasets differently. We completed parsing 2016 and 2020 in a structure we need it to be. We also have parsed the dataset which covers the other years. </p>
+		<p> You can find cleaned-up csv files in data folder.</p>
+	</div>
+
+
+	<div class= "vis">
+
+		<h2> <strong> Original Designs from the Project Proposal </strong> </h2>
+
+			<div id="5">
+				<h3> <strong> Wire Frame of the Final Design </strong> </h3>
+				<p> This is the polished version of the final design. Click the link to see in pdf format
+				<a href="images/Olympics.pdf">Wire frame of final design</a> </p>
+				<li> Layout: </li>
+				<img src="images/screenshot1.jpg" width= "400px" >
+				<img src="images/screenshot2.jpg" width= "400px" >
+			</div>
+
+			<p> So far, we do not have any changes in our final design. We have not implemented the bubble charts fully yet, but we expect to have that done by next milestone </p>
+
+	</div>
+
+	<div class= "prototype">
+
+		<h2> <strong> Working Visualization Prototype </strong> </h2>
+		<p> ** Our website only runs all the charts for Rio 2016 and Tokyo 2020 for now. For other years, you can only see the medal charts for now.**</p>
+		<p> We will link to other years, but for now, we linked to the year with the most confined dataset </p>
+
+	</div>
+
+
+<br>
+<br>
+<h2> Milestone 2 (December 10th) </h2>
+
+<div class= "objectives">
+
+		<h2> Updates  </h2>
+		<p> We added the line so that the users can easily see how the gender distribution has changed over time </p>
+		<img src="images/genderDistOverTime.png" width= "800px" >
+		<p> We improved the bubble chart - the radius of each circle corresponds to the total medal count (Gold, Silver, Bronze combined). Gold medals were weighed more than silver/bronze medals when calulating the radius. </p>
+		<p> By looking at the bubble chart, users will be able to see the difference in medal power across the Olympics (as they click around different years) </p>
+		<img src="images/bubblechart.png" width= "800px" >
+
+
+		<hr>
+		<h2> Works on local but.. </h2>
+		<p> pop-up bar-chart for medal counts is not working on github Pages. We will be able to fix it soon. </p>
+		<img src="images/notworking.png" width= "800px" >
+	</div>
+
+
+
+
+	<div class= "vis">
+
+		<h2> <strong> Original Designs from the Project Proposal </strong> </h2>
+
+			<div id="5">
+				<h3> <strong> Wire Frame of the Final Design </strong> </h3>
+				<p> This is the polished version of the final design. Click the link to see in pdf format
+				<a href="images/Olympics.pdf">Wire frame of final design</a> </p>
+				<li> Layout: </li>
+				<img src="images/screenshot1.jpg" width= "400px" >
+				<img src="images/screenshot2.jpg" width= "400px" >
+			</div>
+
+
+	</div>
+
+	<div class= "prototype">
+
+		<h2> <strong> Working Visualization Prototype </strong> </h2>
+		<p> Our website runs for every summer Olympics. The gender chart and gold medal chart gets updated with full visualization as planned in the original proposal, but the bubble chart (force-directed chart) for the countries are incomplete yet. We have to assign x and y coordinates for each bubble and we are still looking for ways to filter the countries by their continents. Once we finish working on filtering the countries, we will be able to set a reasonable x y coordinates for each bubble to make a force-directed chart. </p>
+
+	</div>
+
+	<div class= "dataAcquisition">
+
+		<h2> <strong> Plans from now </strong> </h2>
+		<p>  We are working on..
+			<ul>
+				<li> making a csv file to filter each country acronym by continent </li>
+				<li> coloring bubble charts with continents and position each continent like Olympic rings </li>
+
+			</ul>
+		</p>
+
+	</div>
+
+
+<br>
+<br>
+<h2> Final Process Report (December 20th)</h2>
+
+<div class="background">
+	<h4> <strong> 
+	Evaluation: What did you learn about the data by using your visualizations? How did you answer your questions? How well does your visualization work, and how could you further improve it? </strong> </h4>
+
+	<p>
+	We learned that indeed gender representation has significantly changed over the last 124 years, starting from no representation to an almost equal distribution. We also saw that in terms of power dynamics, the United States is always in the top 3 country rankings based on gold medal count and also total medal count. We can also see how Asian countries began to emerge as larger powers in the global economy in the late 1900s with the 3rd industrial revolution. I think our visualization with grouping the continents makes it easier to visualize changes in the world shown implicitly through the olympics. I also think that the interactive features help users to truly explore the differences between each of the summer olympics. What could be further improved upon is finding a way to fix the position of the different continents. </p>
+</div>
+</body>
+
+
+
+
+
+
+</body>
+</html>

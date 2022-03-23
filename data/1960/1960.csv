@@ -1,0 +1,883 @@
+Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
+1960,Rome,Aquatics,Diving,"PHELPS, Brian Eric",GBR,Men,10M Platform,Bronze
+1960,Rome,Aquatics,Diving,"WEBSTER, Robert David",USA,Men,10M Platform,Gold
+1960,Rome,Aquatics,Diving,"TOBIAN, Gary Milburn",USA,Men,10M Platform,Silver
+1960,Rome,Aquatics,Diving,"KRUTOVA, Ninel",URS,Women,10M Platform,Bronze
+1960,Rome,Aquatics,Diving,"KRÄMER-ENGEL-GULBIN, Ingrid",EUA,Women,10M Platform,Gold
+1960,Rome,Aquatics,Diving,"MYERS-POPE, Paula Jean",USA,Women,10M Platform,Silver
+1960,Rome,Aquatics,Diving,"BOTELLA MEDINA, Juan",MEX,Men,3M Springboard,Bronze
+1960,Rome,Aquatics,Diving,"TOBIAN, Gary Milburn",USA,Men,3M Springboard,Gold
+1960,Rome,Aquatics,Diving,"HALL, Samuel Nesley",USA,Men,3M Springboard,Silver
+1960,Rome,Aquatics,Diving,"FERRIS, Elizabeth Anne E.",GBR,Women,3M Springboard,Bronze
+1960,Rome,Aquatics,Diving,"KRÄMER-ENGEL-GULBIN, Ingrid",EUA,Women,3M Springboard,Gold
+1960,Rome,Aquatics,Diving,"MYERS-POPE, Paula Jean",USA,Women,3M Springboard,Silver
+1960,Rome,Aquatics,Swimming,"BENNETT, Robert Earl",USA,Men,100M Backstroke,Bronze
+1960,Rome,Aquatics,Swimming,"THEILE, David Egmont",AUS,Men,100M Backstroke,Gold
+1960,Rome,Aquatics,Swimming,"MCKINNEY, Frank Edward Jr.",USA,Men,100M Backstroke,Silver
+1960,Rome,Aquatics,Swimming,"TANAKA, Satoko",JPN,Women,100M Backstroke,Bronze
+1960,Rome,Aquatics,Swimming,"BURKE, Lynn Edythe",USA,Women,100M Backstroke,Gold
+1960,Rome,Aquatics,Swimming,"STEWARD, Natalie Alwyne",GBR,Women,100M Backstroke,Silver
+1960,Rome,Aquatics,Swimming,"ANDREW, Janice",AUS,Women,100M Butterfly,Bronze
+1960,Rome,Aquatics,Swimming,"SCHULER, Carolyn Jane",USA,Women,100M Butterfly,Gold
+1960,Rome,Aquatics,Swimming,"HEEMSKERK, Marianne Yvonne",NED,Women,100M Butterfly,Silver
+1960,Rome,Aquatics,Swimming,"DOS SANTOS, Manoel",BRA,Men,100M Freestyle,Bronze
+1960,Rome,Aquatics,Swimming,"DEVITT, John",AUS,Men,100M Freestyle,Gold
+1960,Rome,Aquatics,Swimming,"LARSON, Lance Melvin",USA,Men,100M Freestyle,Silver
+1960,Rome,Aquatics,Swimming,"STEWARD, Natalie Alwyne",GBR,Women,100M Freestyle,Bronze
+1960,Rome,Aquatics,Swimming,"FRASER, Dawn",AUS,Women,100M Freestyle,Gold
+1960,Rome,Aquatics,Swimming,"VON SALTZA, Susan Christina",USA,Women,100M Freestyle,Silver
+1960,Rome,Aquatics,Swimming,"BREEN, George Thomas",USA,Men,1500M Freestyle,Bronze
+1960,Rome,Aquatics,Swimming,"KONRADS, John (Jon)",AUS,Men,1500M Freestyle,Gold
+1960,Rome,Aquatics,Swimming,"ROSE, Murray",AUS,Men,1500M Freestyle,Silver
+1960,Rome,Aquatics,Swimming,"MENSONIDES, Wieger Emile",NED,Men,200M Breaststroke,Bronze
+1960,Rome,Aquatics,Swimming,"MULLIKEN, William Danforth",USA,Men,200M Breaststroke,Gold
+1960,Rome,Aquatics,Swimming,"OSAKI, Yoshihiko",JPN,Men,200M Breaststroke,Silver
+1960,Rome,Aquatics,Swimming,"GÖBEL, Barbara",EUA,Women,200M Breaststroke,Bronze
+1960,Rome,Aquatics,Swimming,"LONSBROUGH, Anita",GBR,Women,200M Breaststroke,Gold
+1960,Rome,Aquatics,Swimming,"URSELMANN, Wiltrud",EUA,Women,200M Breaststroke,Silver
+1960,Rome,Aquatics,Swimming,"GILLANDERS, John David",USA,Men,200M Butterfly,Bronze
+1960,Rome,Aquatics,Swimming,"TROY, Michael Francis",USA,Men,200M Butterfly,Gold
+1960,Rome,Aquatics,Swimming,"HAYES, Neville",AUS,Men,200M Butterfly,Silver
+1960,Rome,Aquatics,Swimming,"KONRADS, John (Jon)",AUS,Men,400M Freestyle,Bronze
+1960,Rome,Aquatics,Swimming,"ROSE, Murray",AUS,Men,400M Freestyle,Gold
+1960,Rome,Aquatics,Swimming,"YAMANAKA, Tsuyoshi",JPN,Men,400M Freestyle,Silver
+1960,Rome,Aquatics,Swimming,"LAGERBERG, Catharina (Tineke)",NED,Women,400M Freestyle,Bronze
+1960,Rome,Aquatics,Swimming,"VON SALTZA, Susan Christina",USA,Women,400M Freestyle,Gold
+1960,Rome,Aquatics,Swimming,"CEDERQVIST, Jane",SWE,Women,400M Freestyle,Silver
+1960,Rome,Aquatics,Swimming,"BRUNNER, Ursula",EUA,Women,4X100M Freestyle Relay,Bronze
+1960,Rome,Aquatics,Swimming,"PECHSTEIN, Heidi",EUA,Women,4X100M Freestyle Relay,Bronze
+1960,Rome,Aquatics,Swimming,"STEFFIN, Christel",EUA,Women,4X100M Freestyle Relay,Bronze
+1960,Rome,Aquatics,Swimming,"WEISS, Gisela",EUA,Women,4X100M Freestyle Relay,Bronze
+1960,Rome,Aquatics,Swimming,"SPILLANE, Joan Arlene",USA,Women,4X100M Freestyle Relay,Gold
+1960,Rome,Aquatics,Swimming,"STOBS, Shirley Anne",USA,Women,4X100M Freestyle Relay,Gold
+1960,Rome,Aquatics,Swimming,"VON SALTZA, Susan Christina",USA,Women,4X100M Freestyle Relay,Gold
+1960,Rome,Aquatics,Swimming,"WOOD, Carolyn Virginia",USA,Women,4X100M Freestyle Relay,Gold
+1960,Rome,Aquatics,Swimming,"COLQUHOUN, Alva",AUS,Women,4X100M Freestyle Relay,Silver
+1960,Rome,Aquatics,Swimming,"CRAPP, Lorraine Joyce",AUS,Women,4X100M Freestyle Relay,Silver
+1960,Rome,Aquatics,Swimming,"FRASER, Dawn",AUS,Women,4X100M Freestyle Relay,Silver
+1960,Rome,Aquatics,Swimming,"KONRADS, Ilsa",AUS,Women,4X100M Freestyle Relay,Silver
+1960,Rome,Aquatics,Swimming,"HIRAKIDA, Koichi",JPN,Men,4X100M Medley Relay,Bronze
+1960,Rome,Aquatics,Swimming,"OSAKI, Yoshihiko",JPN,Men,4X100M Medley Relay,Bronze
+1960,Rome,Aquatics,Swimming,"SHIMIZU, Keigo",JPN,Men,4X100M Medley Relay,Bronze
+1960,Rome,Aquatics,Swimming,"TOMITA, Kazuo",JPN,Men,4X100M Medley Relay,Bronze
+1960,Rome,Aquatics,Swimming,"FARRELL, Felix Geoffrey",USA,Men,4X100M Medley Relay,Gold
+1960,Rome,Aquatics,Swimming,"HAIT, Paul William",USA,Men,4X100M Medley Relay,Gold
+1960,Rome,Aquatics,Swimming,"LARSON, Lance Melvin",USA,Men,4X100M Medley Relay,Gold
+1960,Rome,Aquatics,Swimming,"MCKINNEY, Frank Edward Jr.",USA,Men,4X100M Medley Relay,Gold
+1960,Rome,Aquatics,Swimming,"GATHERCOLE, Terence",AUS,Men,4X100M Medley Relay,Silver
+1960,Rome,Aquatics,Swimming,"HAYES, Neville",AUS,Men,4X100M Medley Relay,Silver
+1960,Rome,Aquatics,Swimming,"SHIPTON, Geoffrey",AUS,Men,4X100M Medley Relay,Silver
+1960,Rome,Aquatics,Swimming,"THEILE, David Egmont",AUS,Men,4X100M Medley Relay,Silver
+1960,Rome,Aquatics,Swimming,"BRUNNER, Ursula",EUA,Women,4X100M Medley Relay,Bronze
+1960,Rome,Aquatics,Swimming,"FUHRMANN, Bärbel",EUA,Women,4X100M Medley Relay,Bronze
+1960,Rome,Aquatics,Swimming,"KÜPER, Ursula",EUA,Women,4X100M Medley Relay,Bronze
+1960,Rome,Aquatics,Swimming,"SCHMIDT, Ingrid",EUA,Women,4X100M Medley Relay,Bronze
+1960,Rome,Aquatics,Swimming,"BURKE, Lynn Edythe",USA,Women,4X100M Medley Relay,Gold
+1960,Rome,Aquatics,Swimming,"KEMPNER, Patricia",USA,Women,4X100M Medley Relay,Gold
+1960,Rome,Aquatics,Swimming,"SCHULER, Carolyn Jane",USA,Women,4X100M Medley Relay,Gold
+1960,Rome,Aquatics,Swimming,"VON SALTZA, Susan Christina",USA,Women,4X100M Medley Relay,Gold
+1960,Rome,Aquatics,Swimming,"ANDREW, Janice",AUS,Women,4X100M Medley Relay,Silver
+1960,Rome,Aquatics,Swimming,"FRASER, Dawn",AUS,Women,4X100M Medley Relay,Silver
+1960,Rome,Aquatics,Swimming,"LASSIG, Rosemary",AUS,Women,4X100M Medley Relay,Silver
+1960,Rome,Aquatics,Swimming,"WILSON, Maryleen Joy",AUS,Women,4X100M Medley Relay,Silver
+1960,Rome,Aquatics,Swimming,"DEVITT, John",AUS,Men,4X200M Freestyle Relay,Bronze
+1960,Rome,Aquatics,Swimming,"DICKSON, David Gavin",AUS,Men,4X200M Freestyle Relay,Bronze
+1960,Rome,Aquatics,Swimming,"KONRADS, John (Jon)",AUS,Men,4X200M Freestyle Relay,Bronze
+1960,Rome,Aquatics,Swimming,"ROSE, Murray",AUS,Men,4X200M Freestyle Relay,Bronze
+1960,Rome,Aquatics,Swimming,"BLICK, Richard Adolph",USA,Men,4X200M Freestyle Relay,Gold
+1960,Rome,Aquatics,Swimming,"FARRELL, Felix Geoffrey",USA,Men,4X200M Freestyle Relay,Gold
+1960,Rome,Aquatics,Swimming,"HARRISON, George Prifold",USA,Men,4X200M Freestyle Relay,Gold
+1960,Rome,Aquatics,Swimming,"TROY, Michael Francis",USA,Men,4X200M Freestyle Relay,Gold
+1960,Rome,Aquatics,Swimming,"FUJIMOTO, Tatsuo",JPN,Men,4X200M Freestyle Relay,Silver
+1960,Rome,Aquatics,Swimming,"FUKUI, Makoto",JPN,Men,4X200M Freestyle Relay,Silver
+1960,Rome,Aquatics,Swimming,"ISHII, Hiroshi",JPN,Men,4X200M Freestyle Relay,Silver
+1960,Rome,Aquatics,Swimming,"YAMANAKA, Tsuyoshi",JPN,Men,4X200M Freestyle Relay,Silver
+1960,Rome,Aquatics,Water polo,"BOROS, Otto",HUN,Men,Water Polo,Bronze
+1960,Rome,Aquatics,Water polo,"DÖMÖTÖR, Zoltan",HUN,Men,Water Polo,Bronze
+1960,Rome,Aquatics,Water polo,"FELKAI, Laszlo",HUN,Men,Water Polo,Bronze
+1960,Rome,Aquatics,Water polo,"GYARMATI, Dezso",HUN,Men,Water Polo,Bronze
+1960,Rome,Aquatics,Water polo,"HEVESI, Istvan",HUN,Men,Water Polo,Bronze
+1960,Rome,Aquatics,Water polo,"JENEI, Laszlo",HUN,Men,Water Polo,Bronze
+1960,Rome,Aquatics,Water polo,"KANIZSA, Tivadar",HUN,Men,Water Polo,Bronze
+1960,Rome,Aquatics,Water polo,"KARPATI, György",HUN,Men,Water Polo,Bronze
+1960,Rome,Aquatics,Water polo,"KATONA, Andras",HUN,Men,Water Polo,Bronze
+1960,Rome,Aquatics,Water polo,"MARKOVICS, Kalman",HUN,Men,Water Polo,Bronze
+1960,Rome,Aquatics,Water polo,"MAYER, Mihaly",HUN,Men,Water Polo,Bronze
+1960,Rome,Aquatics,Water polo,"RUSORAN, Peter",HUN,Men,Water Polo,Bronze
+1960,Rome,Aquatics,Water polo,"AMBRON, Amedeo",ITA,Men,Water Polo,Gold
+1960,Rome,Aquatics,Water polo,"BARDI, Danilo",ITA,Men,Water Polo,Gold
+1960,Rome,Aquatics,Water polo,"D'ALTRUI, Giuseppe",ITA,Men,Water Polo,Gold
+1960,Rome,Aquatics,Water polo,"GIONTA, Salvatore",ITA,Men,Water Polo,Gold
+1960,Rome,Aquatics,Water polo,"GUERRINI, Giancarlo",ITA,Men,Water Polo,Gold
+1960,Rome,Aquatics,Water polo,"LAVORATORI, Franco",ITA,Men,Water Polo,Gold
+1960,Rome,Aquatics,Water polo,"LONZI, Gianni",ITA,Men,Water Polo,Gold
+1960,Rome,Aquatics,Water polo,"MANNELLI, Luigi",ITA,Men,Water Polo,Gold
+1960,Rome,Aquatics,Water polo,"PARMEGIANI, Rosario",ITA,Men,Water Polo,Gold
+1960,Rome,Aquatics,Water polo,"PIZZO, Eraldo",ITA,Men,Water Polo,Gold
+1960,Rome,Aquatics,Water polo,"ROSSI, Dante",ITA,Men,Water Polo,Gold
+1960,Rome,Aquatics,Water polo,"SPINELLI, Brunello",ITA,Men,Water Polo,Gold
+1960,Rome,Aquatics,Water polo,"AGEEV, Viktor",URS,Men,Water Polo,Silver
+1960,Rome,Aquatics,Water polo,"CHIKVANAYA, Givi",URS,Men,Water Polo,Silver
+1960,Rome,Aquatics,Water polo,"GOGOLADZE, Leri",URS,Men,Water Polo,Silver
+1960,Rome,Aquatics,Water polo,"GOIKHMAN, Boris",URS,Men,Water Polo,Silver
+1960,Rome,Aquatics,Water polo,"GRIGOROVSKY, Yuri",URS,Men,Water Polo,Silver
+1960,Rome,Aquatics,Water polo,"KARTASHOV, Anatoli",URS,Men,Water Polo,Silver
+1960,Rome,Aquatics,Water polo,"KURENNOI, Vyacheslav",URS,Men,Water Polo,Silver
+1960,Rome,Aquatics,Water polo,"MSHVENIERADZE, Pyotr",URS,Men,Water Polo,Silver
+1960,Rome,Aquatics,Water polo,"NOVIKOV, Vladimir",URS,Men,Water Polo,Silver
+1960,Rome,Aquatics,Water polo,"SALTSYN, Yevgeni",URS,Men,Water Polo,Silver
+1960,Rome,Aquatics,Water polo,"SEMENOV, Vladimir",URS,Men,Water Polo,Silver
+1960,Rome,Athletics,Athletics,"POWER, David",AUS,Men,10000M,Bronze
+1960,Rome,Athletics,Athletics,"BOLOTNIKOV, Pyotr",URS,Men,10000M,Gold
+1960,Rome,Athletics,Athletics,"GRODOTZKI, Hans",EUA,Men,10000M,Silver
+1960,Rome,Athletics,Athletics,"RADFORD, Peter",GBR,Men,100M,Bronze
+1960,Rome,Athletics,Athletics,"HARY, Armin",EUA,Men,100M,Gold
+1960,Rome,Athletics,Athletics,"SIME, David",USA,Men,100M,Silver
+1960,Rome,Athletics,Athletics,"LEONE, Giuseppina",ITA,Women,100M,Bronze
+1960,Rome,Athletics,Athletics,"RUDOLPH, Wilma",USA,Women,100M,Gold
+1960,Rome,Athletics,Athletics,"HYMAN, Dorothy",GBR,Women,100M,Silver
+1960,Rome,Athletics,Athletics,"JONES, Hayes",USA,Men,110M Hurdles,Bronze
+1960,Rome,Athletics,Athletics,"CALHOUN, Lee",USA,Men,110M Hurdles,Gold
+1960,Rome,Athletics,Athletics,"MAY, William Lee",USA,Men,110M Hurdles,Silver
+1960,Rome,Athletics,Athletics,"ROSZAVÖLGYI, Istvan",HUN,Men,1500M,Bronze
+1960,Rome,Athletics,Athletics,"ELLIOTT, Herbert",AUS,Men,1500M,Gold
+1960,Rome,Athletics,Athletics,"JAZY, Michel",FRA,Men,1500M,Silver
+1960,Rome,Athletics,Athletics,"SEYE, Abdoulaye",FRA,Men,200M,Bronze
+1960,Rome,Athletics,Athletics,"BERRUTI, Livio",ITA,Men,200M,Gold
+1960,Rome,Athletics,Athletics,"CARNEY, Lester Nelson",USA,Men,200M,Silver
+1960,Rome,Athletics,Athletics,"HYMAN, Dorothy",GBR,Women,200M,Bronze
+1960,Rome,Athletics,Athletics,"RUDOLPH, Wilma",USA,Women,200M,Gold
+1960,Rome,Athletics,Athletics,"HEINE, Judith (Jutta)",EUA,Women,200M,Silver
+1960,Rome,Athletics,Athletics,"VICKERS, Stanley Frank",GBR,Men,20KM Walk,Bronze
+1960,Rome,Athletics,Athletics,"GOLUBNICHY, Vladimir",URS,Men,20KM Walk,Gold
+1960,Rome,Athletics,Athletics,"FREEMAN, Noel Frederick",AUS,Men,20KM Walk,Silver
+1960,Rome,Athletics,Athletics,"RZHISCHIN, Semen",URS,Men,3000M Steeplechase,Bronze
+1960,Rome,Athletics,Athletics,"KRZYSZKOWIAK, Zdzislaw",POL,Men,3000M Steeplechase,Gold
+1960,Rome,Athletics,Athletics,"SOKOLOV, Nikolai",URS,Men,3000M Steeplechase,Silver
+1960,Rome,Athletics,Athletics,"SPENCE, Malcolm Clive",RSA,Men,400M,Bronze
+1960,Rome,Athletics,Athletics,"DAVIS, Otis Crandall",USA,Men,400M,Gold
+1960,Rome,Athletics,Athletics,"KAUFMANN, Carl",EUA,Men,400M,Silver
+1960,Rome,Athletics,Athletics,"HOWARD, Richard Wayne",USA,Men,400M Hurdles,Bronze
+1960,Rome,Athletics,Athletics,"DAVIS, Glenn Ashby",USA,Men,400M Hurdles,Gold
+1960,Rome,Athletics,Athletics,"CUSHMAN, Clifton Emmett",USA,Men,400M Hurdles,Silver
+1960,Rome,Athletics,Athletics,"JONES, David Henry",GBR,Men,4X100M Relay,Bronze
+1960,Rome,Athletics,Athletics,"RADFORD, Peter",GBR,Men,4X100M Relay,Bronze
+1960,Rome,Athletics,Athletics,"SEGAL, David Hugh",GBR,Men,4X100M Relay,Bronze
+1960,Rome,Athletics,Athletics,"WHITEHEAD, Joseph Nicholas Neville",GBR,Men,4X100M Relay,Bronze
+1960,Rome,Athletics,Athletics,"CULLMANN, Bernd",EUA,Men,4X100M Relay,Gold
+1960,Rome,Athletics,Athletics,"HARY, Armin",EUA,Men,4X100M Relay,Gold
+1960,Rome,Athletics,Athletics,"LAUER, Martin",EUA,Men,4X100M Relay,Gold
+1960,Rome,Athletics,Athletics,"MAHLENDORF, Walter",EUA,Men,4X100M Relay,Gold
+1960,Rome,Athletics,Athletics,"BARTENEV, Leonid",URS,Men,4X100M Relay,Silver
+1960,Rome,Athletics,Athletics,"KONOVALOV, Yuri",URS,Men,4X100M Relay,Silver
+1960,Rome,Athletics,Athletics,"KOSANOV, Gusman",URS,Men,4X100M Relay,Silver
+1960,Rome,Athletics,Athletics,"OZOLIN, Edvins",URS,Men,4X100M Relay,Silver
+1960,Rome,Athletics,Athletics,"HERRMANN-GORECKA-RICHTER, Halina",POL,Women,4X100M Relay,Bronze
+1960,Rome,Athletics,Athletics,"JESIONOWSKA-GERWIN, Celina",POL,Women,4X100M Relay,Bronze
+1960,Rome,Athletics,Athletics,"LERCZAK-JANISZEWSKA, Barbara",POL,Women,4X100M Relay,Bronze
+1960,Rome,Athletics,Athletics,"WIECZOREK-CIEPLY, Teresa Barbara",POL,Women,4X100M Relay,Bronze
+1960,Rome,Athletics,Athletics,"HUDSON, Martha B.",USA,Women,4X100M Relay,Gold
+1960,Rome,Athletics,Athletics,"JONES, Barbara Pearl",USA,Women,4X100M Relay,Gold
+1960,Rome,Athletics,Athletics,"RUDOLPH, Wilma",USA,Women,4X100M Relay,Gold
+1960,Rome,Athletics,Athletics,"WILLIAMS, Lucinda",USA,Women,4X100M Relay,Gold
+1960,Rome,Athletics,Athletics,"BIECHL, Anni",EUA,Women,4X100M Relay,Silver
+1960,Rome,Athletics,Athletics,"HEINE, Judith (Jutta)",EUA,Women,4X100M Relay,Silver
+1960,Rome,Athletics,Athletics,"HENDRIX, Brunhilde",EUA,Women,4X100M Relay,Silver
+1960,Rome,Athletics,Athletics,"PENSBERGER-LANGBEIN, Martha",EUA,Women,4X100M Relay,Silver
+1960,Rome,Athletics,Athletics,"GARDNER, Keith Alvin Saint",BWI,Men,4X400M Relay,Bronze
+1960,Rome,Athletics,Athletics,"KERR, George Ezekiel",BWI,Men,4X400M Relay,Bronze
+1960,Rome,Athletics,Athletics,"SPENCE, Malcolm A.E.",BWI,Men,4X400M Relay,Bronze
+1960,Rome,Athletics,Athletics,"WEDDERBURN, James",BWI,Men,4X400M Relay,Bronze
+1960,Rome,Athletics,Athletics,"DAVIS, Glenn Ashby",USA,Men,4X400M Relay,Gold
+1960,Rome,Athletics,Athletics,"DAVIS, Otis Crandall",USA,Men,4X400M Relay,Gold
+1960,Rome,Athletics,Athletics,"YERMAN, John Lloyd",USA,Men,4X400M Relay,Gold
+1960,Rome,Athletics,Athletics,"YOUNG, Earl Verdelle",USA,Men,4X400M Relay,Gold
+1960,Rome,Athletics,Athletics,"KAISER, Johannes",EUA,Men,4X400M Relay,Silver
+1960,Rome,Athletics,Athletics,"KAUFMANN, Carl",EUA,Men,4X400M Relay,Silver
+1960,Rome,Athletics,Athletics,"KINDER, Manfred",EUA,Men,4X400M Relay,Silver
+1960,Rome,Athletics,Athletics,"RESKE, Hans-Joachim",EUA,Men,4X400M Relay,Silver
+1960,Rome,Athletics,Athletics,"ZIMNY, Kazimierz",POL,Men,5000M,Bronze
+1960,Rome,Athletics,Athletics,"HALBERG, Murray Gordon",NZL,Men,5000M,Gold
+1960,Rome,Athletics,Athletics,"GRODOTZKI, Hans",EUA,Men,5000M,Silver
+1960,Rome,Athletics,Athletics,"PAMICH, Abdon",ITA,Men,50KM Walk,Bronze
+1960,Rome,Athletics,Athletics,"THOMPSON, Donald James",GBR,Men,50KM Walk,Gold
+1960,Rome,Athletics,Athletics,"LJUNGGREN, John Artur",SWE,Men,50KM Walk,Silver
+1960,Rome,Athletics,Athletics,"KERR, George Ezekiel",BWI,Men,800M,Bronze
+1960,Rome,Athletics,Athletics,"SNELL, Peter",NZL,Men,800M,Gold
+1960,Rome,Athletics,Athletics,"MOENS, Roger",BEL,Men,800M,Silver
+1960,Rome,Athletics,Athletics,"DONATH, Ursula",EUA,Women,800M,Bronze
+1960,Rome,Athletics,Athletics,"LISENKO-SHEVTSOVA, Lyudmila",URS,Women,800M,Gold
+1960,Rome,Athletics,Athletics,"JONES-CARR, Brenda",AUS,Women,800M,Silver
+1960,Rome,Athletics,Athletics,"KÖHLER-BIRKEMEYER, Gisela",EUA,Women,80M Hurdles,Bronze
+1960,Rome,Athletics,Athletics,"PRESS, Iryna",URS,Women,80M Hurdles,Gold
+1960,Rome,Athletics,Athletics,"QUINTON, Carole Louis",GBR,Women,80M Hurdles,Silver
+1960,Rome,Athletics,Athletics,"KUZNETSOV, Vasili",URS,Men,Decathlon,Bronze
+1960,Rome,Athletics,Athletics,"JOHNSON, Rafer Lewis",USA,Men,Decathlon,Gold
+1960,Rome,Athletics,Athletics,"YANG, Chuan-Kwang",TPE,Men,Decathlon,Silver
+1960,Rome,Athletics,Athletics,"COCHRAN, Richard Lee",USA,Men,Discus Throw,Bronze
+1960,Rome,Athletics,Athletics,"OERTER, Alfred",USA,Men,Discus Throw,Gold
+1960,Rome,Athletics,Athletics,"BABKA, Richard Aldrich",USA,Men,Discus Throw,Silver
+1960,Rome,Athletics,Athletics,"MANOLIU, Lia",ROU,Women,Discus Throw,Bronze
+1960,Rome,Athletics,Athletics,"ROMASHKOVA-PONOMAREVA, Nina",URS,Women,Discus Throw,Gold
+1960,Rome,Athletics,Athletics,"PRESS, Tamara",URS,Women,Discus Throw,Silver
+1960,Rome,Athletics,Athletics,"RUT, Tadeusz",POL,Men,Hammer Throw,Bronze
+1960,Rome,Athletics,Athletics,"RUDENKOV, Vasili",URS,Men,Hammer Throw,Gold
+1960,Rome,Athletics,Athletics,"ZSIVOTZKY, Gyula",HUN,Men,Hammer Throw,Silver
+1960,Rome,Athletics,Athletics,"THOMAS, John Curtis",USA,Men,High Jump,Bronze
+1960,Rome,Athletics,Athletics,"SHAVLAKADZE, Robert",URS,Men,High Jump,Gold
+1960,Rome,Athletics,Athletics,"BRUMEL, Valeri",URS,Men,High Jump,Silver
+1960,Rome,Athletics,Athletics,"BALAS, Iolanda",ROU,Women,High Jump,Gold
+1960,Rome,Athletics,Athletics,"JOZWIAKOWSKA-BIEDA, Jaroslawa",POL,Women,High Jump,Silver
+1960,Rome,Athletics,Athletics,"SHIRLEY, Dorothy Ada",GBR,Women,High Jump,Silver
+1960,Rome,Athletics,Athletics,"KULCSAR, Gergely",HUN,Men,Javelin Throw,Bronze
+1960,Rome,Athletics,Athletics,"TSYBULENKO, Viktor",URS,Men,Javelin Throw,Gold
+1960,Rome,Athletics,Athletics,"KRÜGER, Walter",EUA,Men,Javelin Throw,Silver
+1960,Rome,Athletics,Athletics,"ZALOGAJTITE-KALEDENE, Birute",URS,Women,Javelin Throw,Bronze
+1960,Rome,Athletics,Athletics,"OZOLINA, Elvira",URS,Women,Javelin Throw,Gold
+1960,Rome,Athletics,Athletics,"INGROVA-ZATOPKOVA, Dana",TCH,Women,Javelin Throw,Silver
+1960,Rome,Athletics,Athletics,"TER-OVANESYAN, Igor",URS,Men,Long Jump,Bronze
+1960,Rome,Athletics,Athletics,"BOSTON, Ralph Harold",USA,Men,Long Jump,Gold
+1960,Rome,Athletics,Athletics,"ROBERSON, Irvin",USA,Men,Long Jump,Silver
+1960,Rome,Athletics,Athletics,"CLAUS-LAUFER, Hildrun",EUA,Women,Long Jump,Bronze
+1960,Rome,Athletics,Athletics,"KOLASHNIKOVA-KREPKINA, Vera",URS,Women,Long Jump,Gold
+1960,Rome,Athletics,Athletics,"DUNSKA-KRZESINSKA, Elzbieta",POL,Women,Long Jump,Silver
+1960,Rome,Athletics,Athletics,"MAGEE, Arthur Barry",NZL,Men,Marathon,Bronze
+1960,Rome,Athletics,Athletics,"BIKILA, Abebe",ETH,Men,Marathon,Gold
+1960,Rome,Athletics,Athletics,"RHADI BEN ABDESSELEM, Abdesiem",MAR,Men,Marathon,Silver
+1960,Rome,Athletics,Athletics,"LANDSTRÖM, Eeles Enok",FIN,Men,Pole Vault,Bronze
+1960,Rome,Athletics,Athletics,"BRAGG, Donald George",USA,Men,Pole Vault,Gold
+1960,Rome,Athletics,Athletics,"MORRIS, Ronald Hugh",USA,Men,Pole Vault,Silver
+1960,Rome,Athletics,Athletics,"LONG, Dallas Crutcher III",USA,Men,Shot Put,Bronze
+1960,Rome,Athletics,Athletics,"NIEDER, William Henry",USA,Men,Shot Put,Gold
+1960,Rome,Athletics,Athletics,"O, William Patrick Jr.",USA,Men,Shot Put,Silver
+1960,Rome,Athletics,Athletics,"BROWN, Earlene Dennis",USA,Women,Shot Put,Bronze
+1960,Rome,Athletics,Athletics,"PRESS, Tamara",URS,Women,Shot Put,Gold
+1960,Rome,Athletics,Athletics,"LÜTTGE-HÜBNER, Johanna",EUA,Women,Shot Put,Silver
+1960,Rome,Athletics,Athletics,"KREER, Vitold",URS,Men,Triple Jump,Bronze
+1960,Rome,Athletics,Athletics,"SCHMIDT, Jozef",POL,Men,Triple Jump,Gold
+1960,Rome,Athletics,Athletics,"GORYAEV, Vladimir",URS,Men,Triple Jump,Silver
+1960,Rome,Basketball,Basketball,"BISPO DOS SANTOS, Edson",BRA,Men,Basketball,Bronze
+1960,Rome,Basketball,Basketball,"BLAS, Moyses",BRA,Men,Basketball,Bronze
+1960,Rome,Basketball,Basketball,"BLATKAUSKAS, Waldemar",BRA,Men,Basketball,Bronze
+1960,Rome,Basketball,Basketball,"DE AZEVEDO, Zenny",BRA,Men,Basketball,Bronze
+1960,Rome,Basketball,Basketball,"DE SOUZA, Carmo",BRA,Men,Basketball,Bronze
+1960,Rome,Basketball,Basketball,"DOMINGO MASSONI, Carlos",BRA,Men,Basketball,Bronze
+1960,Rome,Basketball,Basketball,"GERALDO BOCCARDO, Waldyr",BRA,Men,Basketball,Bronze
+1960,Rome,Basketball,Basketball,"MARQUES, Wlamir",BRA,Men,Basketball,Bronze
+1960,Rome,Basketball,Basketball,"PASOS AMAURY, Antonio",BRA,Men,Basketball,Bronze
+1960,Rome,Basketball,Basketball,"PEREIRA DE FREITAS, Fernando",BRA,Men,Basketball,Bronze
+1960,Rome,Basketball,Basketball,"SALVADOR SUCAR, Antonio",BRA,Men,Basketball,Bronze
+1960,Rome,Basketball,Basketball,"SCHALL JATYR, Eduardo",BRA,Men,Basketball,Bronze
+1960,Rome,Basketball,Basketball,"ARNETTE, Jay Hoyland",USA,Men,Basketball,Gold
+1960,Rome,Basketball,Basketball,"BELLAMY, Walter Jones Jr.",USA,Men,Basketball,Gold
+1960,Rome,Basketball,Basketball,"BOOZER, Robert Lewis",USA,Men,Basketball,Gold
+1960,Rome,Basketball,Basketball,"DISCHINGER, Terence Gilbert",USA,Men,Basketball,Gold
+1960,Rome,Basketball,Basketball,"HALDORSSON, Burdette Eliele",USA,Men,Basketball,Gold
+1960,Rome,Basketball,Basketball,"IMHOFF, Darrall Tucker",USA,Men,Basketball,Gold
+1960,Rome,Basketball,Basketball,"KELLEY, Allen Earl",USA,Men,Basketball,Gold
+1960,Rome,Basketball,Basketball,"LANE, Lester E.",USA,Men,Basketball,Gold
+1960,Rome,Basketball,Basketball,"LUCAS, Jeremy Ray",USA,Men,Basketball,Gold
+1960,Rome,Basketball,Basketball,"ROBERTSON, Oscar Palmer",USA,Men,Basketball,Gold
+1960,Rome,Basketball,Basketball,"SMITH, Adrian Howard",USA,Men,Basketball,Gold
+1960,Rome,Basketball,Basketball,"WEST, Jeremy Alan",USA,Men,Basketball,Gold
+1960,Rome,Basketball,Basketball,"KORNEEV, Yuri",URS,Men,Basketball,Silver
+1960,Rome,Basketball,Basketball,"KRUMINS, Yanis",URS,Men,Basketball,Silver
+1960,Rome,Basketball,Basketball,"MINASHVILI, Guram",URS,Men,Basketball,Silver
+1960,Rome,Basketball,Basketball,"MUIZHNIEK, Valdis",URS,Men,Basketball,Silver
+1960,Rome,Basketball,Basketball,"OZER, Tsezar",URS,Men,Basketball,Silver
+1960,Rome,Basketball,Basketball,"PETROV, Aleksandr",URS,Men,Basketball,Silver
+1960,Rome,Basketball,Basketball,"SEMYONOV, Mikhail",URS,Men,Basketball,Silver
+1960,Rome,Basketball,Basketball,"UGREKHELIDZE, Vladimir",URS,Men,Basketball,Silver
+1960,Rome,Basketball,Basketball,"VALDMANIS, Maigonis",URS,Men,Basketball,Silver
+1960,Rome,Basketball,Basketball,"VALTIN, Albert",URS,Men,Basketball,Silver
+1960,Rome,Basketball,Basketball,"VOLNOV, Gennadi",URS,Men,Basketball,Silver
+1960,Rome,Basketball,Basketball,"ZUBKOV, Viktor",URS,Men,Basketball,Silver
+1960,Rome,Boxing,Boxing,"EL GINDY, Abdel Moneim",EGY,Men,- 51KG (Flyweight),Bronze
+1960,Rome,Boxing,Boxing,"TANABE, Kiyoshi",JPN,Men,- 51KG (Flyweight),Bronze
+1960,Rome,Boxing,Boxing,"TÖRÖK, Gyula",HUN,Men,- 51KG (Flyweight),Gold
+1960,Rome,Boxing,Boxing,"SIVKO, Sergei",URS,Men,- 51KG (Flyweight),Silver
+1960,Rome,Boxing,Boxing,"NEMEC, Josef",TCH,Men,+ 81KG (Heavyweight),Bronze
+1960,Rome,Boxing,Boxing,"SIEGMUND, Günter",EUA,Men,+ 81KG (Heavyweight),Bronze
+1960,Rome,Boxing,Boxing,"DE PICCOLI, Francesco",ITA,Men,+ 81KG (Heavyweight),Gold
+1960,Rome,Boxing,Boxing,"BEKKER, Daniel Wepener",RSA,Men,+ 81KG (Heavyweight),Silver
+1960,Rome,Boxing,Boxing,"BENDIG, Brunon",POL,Men,51 - 54KG (Bantamweight),Bronze
+1960,Rome,Boxing,Boxing,"TAYLOR, Oliver",AUS,Men,51 - 54KG (Bantamweight),Bronze
+1960,Rome,Boxing,Boxing,"GRIGORYEV, Oleg",URS,Men,51 - 54KG (Bantamweight),Gold
+1960,Rome,Boxing,Boxing,"ZAMPARINI, Primo",ITA,Men,51 - 54KG (Bantamweight),Silver
+1960,Rome,Boxing,Boxing,"LIMMONEN, Jorma Johannes",FIN,Men,54 - 57KG (Featherweight),Bronze
+1960,Rome,Boxing,Boxing,"MEYERS, William",RSA,Men,54 - 57KG (Featherweight),Bronze
+1960,Rome,Boxing,Boxing,"MUSSO, Francesco",ITA,Men,54 - 57KG (Featherweight),Gold
+1960,Rome,Boxing,Boxing,"ADAMSKI, Jerzy",POL,Men,54 - 57KG (Featherweight),Silver
+1960,Rome,Boxing,Boxing,"LAUDONIO, Abel Ricardo",ARG,Men,57 - 60KG (Lightweight),Bronze
+1960,Rome,Boxing,Boxing,"MCTAGGART, Richard",GBR,Men,57 - 60KG (Lightweight),Bronze
+1960,Rome,Boxing,Boxing,"PAZDZIOR, Kazimierz",POL,Men,57 - 60KG (Lightweight),Gold
+1960,Rome,Boxing,Boxing,"LOPOPOLO, Alessandro",ITA,Men,57 - 60KG (Lightweight),Silver
+1960,Rome,Boxing,Boxing,"DANIELS, Quincey",USA,Men,60 - 63.5KG (Light-Welterweight),Bronze
+1960,Rome,Boxing,Boxing,"KASPRZYK, Marian",POL,Men,60 - 63.5KG (Light-Welterweight),Bronze
+1960,Rome,Boxing,Boxing,"NEMECEK, Bohumil",TCH,Men,60 - 63.5KG (Light-Welterweight),Gold
+1960,Rome,Boxing,Boxing,"QUARTEY, Clement",GHA,Men,60 - 63.5KG (Light-Welterweight),Silver
+1960,Rome,Boxing,Boxing,"DROGOSZ, Leszek (Lech)",POL,Men,63.5 - 67KG (Welterweight),Bronze
+1960,Rome,Boxing,Boxing,"LLOYD, James",GBR,Men,63.5 - 67KG (Welterweight),Bronze
+1960,Rome,Boxing,Boxing,"BENVENUTI, Giovanni",ITA,Men,63.5 - 67KG (Welterweight),Gold
+1960,Rome,Boxing,Boxing,"RADONYAK, Yuri",URS,Men,63.5 - 67KG (Welterweight),Silver
+1960,Rome,Boxing,Boxing,"FISHER, William",GBR,Men,67 - 71KG (Light-Middleweight),Bronze
+1960,Rome,Boxing,Boxing,"LAGUTIN, Boris",URS,Men,67 - 71KG (Light-Middleweight),Bronze
+1960,Rome,Boxing,Boxing,"MCCLURE, Wilbert James",USA,Men,67 - 71KG (Light-Middleweight),Gold
+1960,Rome,Boxing,Boxing,"BOSSI, Carmelo",ITA,Men,67 - 71KG (Light-Middleweight),Silver
+1960,Rome,Boxing,Boxing,"FEOFANOV, Yevgeni",URS,Men,71-75KG,Bronze
+1960,Rome,Boxing,Boxing,"MONEA, Ion",ROU,Men,71-75KG,Bronze
+1960,Rome,Boxing,Boxing,"CROOK, Edward Jr.",USA,Men,71-75KG,Gold
+1960,Rome,Boxing,Boxing,"WALASEK, Tadeusz",POL,Men,71-75KG,Silver
+1960,Rome,Boxing,Boxing,"MADIGAN, Anthony",AUS,Men,75 - 81KG (Light-Heavyweight),Bronze
+1960,Rome,Boxing,Boxing,"SARAUDI, Giulio",ITA,Men,75 - 81KG (Light-Heavyweight),Bronze
+1960,Rome,Boxing,Boxing,"ALI, Muhammad",USA,Men,75 - 81KG (Light-Heavyweight),Gold
+1960,Rome,Boxing,Boxing,"PIETRZYKOWSKI, Zbigniew",POL,Men,75 - 81KG (Light-Heavyweight),Silver
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"ROTMAN, Leon",ROU,Men,C-1 1000M (Canoe Single),Bronze
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"PARTI, Janos",HUN,Men,C-1 1000M (Canoe Single),Gold
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"SILAEV, Aleksandr",URS,Men,C-1 1000M (Canoe Single),Silver
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"FARKAS, Imre",HUN,Men,C-2 1000M (Canoe Double),Bronze
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"TÖRO, Andras Istvan",HUN,Men,C-2 1000M (Canoe Double),Bronze
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"GEISHTOR, Leonid",URS,Men,C-2 1000M (Canoe Double),Gold
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"MAKARENKO, Sergei",URS,Men,C-2 1000M (Canoe Double),Gold
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"DEZI, Aldo",ITA,Men,C-2 1000M (Canoe Double),Silver
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"LA MACCHIA, Francesco",ITA,Men,C-2 1000M (Canoe Double),Silver
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"FREDRIKSSON, Gert",SWE,Men,K-1 1000M (Kayak Single),Bronze
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"HANSEN, Erik Rosendahl",DEN,Men,K-1 1000M (Kayak Single),Gold
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"SZÖLLÖSI, Imre",HUN,Men,K-1 1000M (Kayak Single),Silver
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"HANSEN, Erik Rosendahl",DEN,Men,K-1 4X500M,Bronze
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"HÖYER, Arne",DEN,Men,K-1 4X500M,Bronze
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"JESSEN, Erling",DEN,Men,K-1 4X500M,Bronze
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"SÖRENSEN, Helmuth Nyborg",DEN,Men,K-1 4X500M,Bronze
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"KRAUSE, Dieter",EUA,Men,K-1 4X500M,Gold
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"LANGE, Paul",EUA,Men,K-1 4X500M,Gold
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"PERLEBERG, Günther",EUA,Men,K-1 4X500M,Gold
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"WENTZKE, Friedhelm",EUA,Men,K-1 4X500M,Gold
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"KEMECZEI, Imre",HUN,Men,K-1 4X500M,Silver
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"MESZAROS, György",HUN,Men,K-1 4X500M,Silver
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"SZENTE, Andras",HUN,Men,K-1 4X500M,Silver
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"SZÖLLÖSI, Imre",HUN,Men,K-1 4X500M,Silver
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"WALKOWIAK-PILECKA, Daniela",POL,Women,K-1 500M (Kayak Single),Bronze
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"SEREDINA, Antonina",URS,Women,K-1 500M (Kayak Single),Gold
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"ZENZ, Therese",EUA,Women,K-1 500M (Kayak Single),Silver
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"KAPLANIAK, Stefan",POL,Men,K-2 1000M (Kayak Double),Bronze
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"ZIELINSKI, Wladyslaw",POL,Men,K-2 1000M (Kayak Double),Bronze
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"FREDRIKSSON, Gert",SWE,Men,K-2 1000M (Kayak Double),Gold
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"SJÖDELIUS, Sven-Olov",SWE,Men,K-2 1000M (Kayak Double),Gold
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"MESZAROS, György",HUN,Men,K-2 1000M (Kayak Double),Silver
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"SZENTE, Andras",HUN,Men,K-2 1000M (Kayak Double),Silver
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"BANFALVI-FRIED, Klara",HUN,Women,K-2 500M (Kayak Double),Bronze
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"EGRESI, Vilma",HUN,Women,K-2 500M (Kayak Double),Bronze
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"SEREDINA, Antonina",URS,Women,K-2 500M (Kayak Double),Gold
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"SHUBINA, Mariya",URS,Women,K-2 500M (Kayak Double),Gold
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"HARTMANN, Ingrid",EUA,Women,K-2 500M (Kayak Double),Silver
+1960,Rome,Canoe / Kayak,Canoe / Kayak F,"ZENZ, Therese",EUA,Women,K-2 500M (Kayak Double),Silver
+1960,Rome,Cycling,Cycling Road,"VAN DEN BERGHEN, Willy",BEL,Men,Individual Road Race,Bronze
+1960,Rome,Cycling,Cycling Road,"KAPITONOV, Viktor",URS,Men,Individual Road Race,Gold
+1960,Rome,Cycling,Cycling Road,"TRAPE, Livio",ITA,Men,Individual Road Race,Silver
+1960,Rome,Cycling,Cycling Road,"KAPITONOV, Viktor",URS,Men,Team Time Trial,Bronze
+1960,Rome,Cycling,Cycling Road,"KLEVTSOV, Yevgeni",URS,Men,Team Time Trial,Bronze
+1960,Rome,Cycling,Cycling Road,"MELIKHOV, Yuri",URS,Men,Team Time Trial,Bronze
+1960,Rome,Cycling,Cycling Road,"PETROV, Aleksei",URS,Men,Team Time Trial,Bronze
+1960,Rome,Cycling,Cycling Road,"BAILETTI, Antonio",ITA,Men,Team Time Trial,Gold
+1960,Rome,Cycling,Cycling Road,"COGLIATI, Ottavio",ITA,Men,Team Time Trial,Gold
+1960,Rome,Cycling,Cycling Road,"FORNONI, Giacomo",ITA,Men,Team Time Trial,Gold
+1960,Rome,Cycling,Cycling Road,"TRAPE, Livio",ITA,Men,Team Time Trial,Gold
+1960,Rome,Cycling,Cycling Road,"ADLER, Egon",EUA,Men,Team Time Trial,Silver
+1960,Rome,Cycling,Cycling Road,"HAGEN, Erich",EUA,Men,Team Time Trial,Silver
+1960,Rome,Cycling,Cycling Road,"LÖRKE, Günter",EUA,Men,Team Time Trial,Silver
+1960,Rome,Cycling,Cycling Road,"SCHUR, Gustav-Adolf",EUA,Men,Team Time Trial,Silver
+1960,Rome,Cycling,Cycling Track,"VARGASHKIN, Rostislav",URS,Men,1KM Time Trial,Bronze
+1960,Rome,Cycling,Cycling Track,"GAIARDONI, Sante",ITA,Men,1KM Time Trial,Gold
+1960,Rome,Cycling,Cycling Track,"GIESELER, Dietrich (Dieter)",EUA,Men,1KM Time Trial,Silver
+1960,Rome,Cycling,Cycling Track,"LEONOV, Vladimir",URS,Men,2000M Tandem,Bronze
+1960,Rome,Cycling,Cycling Track,"VASILYEV, Boris",URS,Men,2000M Tandem,Bronze
+1960,Rome,Cycling,Cycling Track,"BEGHETTO, Giuseppe",ITA,Men,2000M Tandem,Gold
+1960,Rome,Cycling,Cycling Track,"BIANCHETTO, Sergio",ITA,Men,2000M Tandem,Gold
+1960,Rome,Cycling,Cycling Track,"SIMON, Jürgen",EUA,Men,2000M Tandem,Silver
+1960,Rome,Cycling,Cycling Track,"STÄBER, Lothar",EUA,Men,2000M Tandem,Silver
+1960,Rome,Cycling,Cycling Track,"GASPARELLA, Valentino",ITA,Men,Sprint Indivual,Bronze
+1960,Rome,Cycling,Cycling Track,"GAIARDONI, Sante",ITA,Men,Sprint Indivual,Gold
+1960,Rome,Cycling,Cycling Track,"STERCKX, Leo",BEL,Men,Sprint Indivual,Silver
+1960,Rome,Cycling,Cycling Track,"BELGARDT, Arnold",URS,Men,Team Pursuit (4000M),Bronze
+1960,Rome,Cycling,Cycling Track,"KOLUMBET, Leonid",URS,Men,Team Pursuit (4000M),Bronze
+1960,Rome,Cycling,Cycling Track,"MOSKVIN, Stanislav",URS,Men,Team Pursuit (4000M),Bronze
+1960,Rome,Cycling,Cycling Track,"ROMANOV, Viktor",URS,Men,Team Pursuit (4000M),Bronze
+1960,Rome,Cycling,Cycling Track,"ARIENTI, Luigi",ITA,Men,Team Pursuit (4000M),Gold
+1960,Rome,Cycling,Cycling Track,"TESTA, Franco",ITA,Men,Team Pursuit (4000M),Gold
+1960,Rome,Cycling,Cycling Track,"VALLOTTO, Mario",ITA,Men,Team Pursuit (4000M),Gold
+1960,Rome,Cycling,Cycling Track,"VIGNA, Marino",ITA,Men,Team Pursuit (4000M),Gold
+1960,Rome,Cycling,Cycling Track,"BARLEBEN, Bernd",EUA,Men,Team Pursuit (4000M),Silver
+1960,Rome,Cycling,Cycling Track,"GRÖNING, Peter",EUA,Men,Team Pursuit (4000M),Silver
+1960,Rome,Cycling,Cycling Track,"KLIEME, Manfred",EUA,Men,Team Pursuit (4000M),Silver
+1960,Rome,Cycling,Cycling Track,"KÖHLER, Siegfried",EUA,Men,Team Pursuit (4000M),Silver
+1960,Rome,Equestrian,Dressage,"NECKERMANN, Josef",EUA,Men,Individual,Bronze
+1960,Rome,Equestrian,Dressage,"FILATOV, Sergei",URS,Men,Individual,Gold
+1960,Rome,Equestrian,Dressage,"FISCHER, Gustav",SUI,Men,Individual,Silver
+1960,Rome,Equestrian,Eventing,"BÜHLER, Anton",SUI,Men,Individual,Bronze
+1960,Rome,Equestrian,Eventing,"MORGAN, Laurence Robert",AUS,Men,Individual,Gold
+1960,Rome,Equestrian,Eventing,"LAVIS, Neil John",AUS,Men,Individual,Silver
+1960,Rome,Equestrian,Eventing,"LE GOFF, Jack Louis J.",FRA,Men,Team,Bronze
+1960,Rome,Equestrian,Eventing,"LE ROY, Jehan Raymond",FRA,Men,Team,Bronze
+1960,Rome,Equestrian,Eventing,"LEFRANT, Guy Robert Marie",FRA,Men,Team,Bronze
+1960,Rome,Equestrian,Eventing,"LAVIS, Neil John",AUS,Men,Team,Gold
+1960,Rome,Equestrian,Eventing,"MORGAN, Laurence Robert",AUS,Men,Team,Gold
+1960,Rome,Equestrian,Eventing,"ROYCROFT, William",AUS,Men,Team,Gold
+1960,Rome,Equestrian,Eventing,"BÜHLER, Anton",SUI,Men,Team,Silver
+1960,Rome,Equestrian,Eventing,"GUNTHARDT, Rudolf",SUI,Men,Team,Silver
+1960,Rome,Equestrian,Eventing,"SCHWARZENBACH, Hans Herbert",SUI,Men,Team,Silver
+1960,Rome,Equestrian,Jumping,"BROOME, David Mcpherson",GBR,Men,Individual,Bronze
+1960,Rome,Equestrian,Jumping,"D'INZEO, Raimondo",ITA,Men,Individual,Gold
+1960,Rome,Equestrian,Jumping,"D'INZEO, Piero",ITA,Men,Individual,Silver
+1960,Rome,Equestrian,Jumping,"D'INZEO, Piero",ITA,Men,Team,Bronze
+1960,Rome,Equestrian,Jumping,"D'INZEO, Raimondo",ITA,Men,Team,Bronze
+1960,Rome,Equestrian,Jumping,"OPPES, Antonio",ITA,Men,Team,Bronze
+1960,Rome,Equestrian,Jumping,"SCHOCKEMÖHLE, Alwin",EUA,Men,Team,Gold
+1960,Rome,Equestrian,Jumping,"THIEDEMANN, Fritz",EUA,Men,Team,Gold
+1960,Rome,Equestrian,Jumping,"WINKLER, Hans Günter",EUA,Men,Team,Gold
+1960,Rome,Equestrian,Jumping,"CHAPOT, Frank Davis",USA,Men,Team,Silver
+1960,Rome,Equestrian,Jumping,"MORRIS, George Hayes",USA,Men,Team,Silver
+1960,Rome,Equestrian,Jumping,"STEINKRAUS, William Clark",USA,Men,Team,Silver
+1960,Rome,Fencing,Fencing,"KHABAROV, Bruno",URS,Men,Épée Individual,Bronze
+1960,Rome,Fencing,Fencing,"DELFINO, Giuseppe",ITA,Men,Épée Individual,Gold
+1960,Rome,Fencing,Fencing,"JAY, Allan Louis Neville",GBR,Men,Épée Individual,Silver
+1960,Rome,Fencing,Fencing,"CHERNIKOV, Valentin",URS,Men,Épée Team,Bronze
+1960,Rome,Fencing,Fencing,"CHERNUSHEVICH, Arnold",URS,Men,Épée Team,Bronze
+1960,Rome,Fencing,Fencing,"KHABAROV, Bruno",URS,Men,Épée Team,Bronze
+1960,Rome,Fencing,Fencing,"KOSTAVA, Guram",URS,Men,Épée Team,Bronze
+1960,Rome,Fencing,Fencing,"PAVLOVSKY, Aleksandr",URS,Men,Épée Team,Bronze
+1960,Rome,Fencing,Fencing,"DELFINO, Giuseppe",ITA,Men,Épée Team,Gold
+1960,Rome,Fencing,Fencing,"MANGIAROTTI, Edoardo",ITA,Men,Épée Team,Gold
+1960,Rome,Fencing,Fencing,"MARINI, Fiorenzo",ITA,Men,Épée Team,Gold
+1960,Rome,Fencing,Fencing,"PAVESI, Carlo",ITA,Men,Épée Team,Gold
+1960,Rome,Fencing,Fencing,"PELLEGRINO, Alberto",ITA,Men,Épée Team,Gold
+1960,Rome,Fencing,Fencing,"SACCARO, Gianluigi",ITA,Men,Épée Team,Gold
+1960,Rome,Fencing,Fencing,"ALEXANDER, Michael O'Donel",GBR,Men,Épée Team,Silver
+1960,Rome,Fencing,Fencing,"HARRISON, Raymond Alan",GBR,Men,Épée Team,Silver
+1960,Rome,Fencing,Fencing,"HOSKYNS, Henry William Furse",GBR,Men,Épée Team,Silver
+1960,Rome,Fencing,Fencing,"HOWARD, Michael John Peter",GBR,Men,Épée Team,Silver
+1960,Rome,Fencing,Fencing,"JAY, Allan Louis Neville",GBR,Men,Épée Team,Silver
+1960,Rome,Fencing,Fencing,"PELLING, John Albert",GBR,Men,Épée Team,Silver
+1960,Rome,Fencing,Fencing,"AXELROD, Albert",USA,Men,Foil Individual,Bronze
+1960,Rome,Fencing,Fencing,"ZHDANOVICH, Viktor",URS,Men,Foil Individual,Gold
+1960,Rome,Fencing,Fencing,"SISIKIN, Yuri",URS,Men,Foil Individual,Silver
+1960,Rome,Fencing,Fencing,"VICOL, Maria",ROU,Women,Foil Individual,Bronze
+1960,Rome,Fencing,Fencing,"SCHMID, Adelheid Barbara",EUA,Women,Foil Individual,Gold
+1960,Rome,Fencing,Fencing,"RASTVOROVA, Valentina",URS,Women,Foil Individual,Silver
+1960,Rome,Fencing,Fencing,"BRECHT, Jürgen",EUA,Men,Foil Team,Bronze
+1960,Rome,Fencing,Fencing,"GERRESHEIM, Timothaus (Tim)",EUA,Men,Foil Team,Bronze
+1960,Rome,Fencing,Fencing,"MEHL, Eberhard",EUA,Men,Foil Team,Bronze
+1960,Rome,Fencing,Fencing,"THEUERKAUFF, Jürgen",EUA,Men,Foil Team,Bronze
+1960,Rome,Fencing,Fencing,"MIDLER, Mark",URS,Men,Foil Team,Gold
+1960,Rome,Fencing,Fencing,"RUDOV, Yuri",URS,Men,Foil Team,Gold
+1960,Rome,Fencing,Fencing,"SISIKIN, Yuri",URS,Men,Foil Team,Gold
+1960,Rome,Fencing,Fencing,"SVESHNIKOV, German",URS,Men,Foil Team,Gold
+1960,Rome,Fencing,Fencing,"ZHDANOVICH, Viktor",URS,Men,Foil Team,Gold
+1960,Rome,Fencing,Fencing,"AUREGGI, Aldo",ITA,Men,Foil Team,Silver
+1960,Rome,Fencing,Fencing,"CARPANEDA, Luigi Arturo",ITA,Men,Foil Team,Silver
+1960,Rome,Fencing,Fencing,"CURLETTO, Mario",ITA,Men,Foil Team,Silver
+1960,Rome,Fencing,Fencing,"MANGIAROTTI, Edoardo",ITA,Men,Foil Team,Silver
+1960,Rome,Fencing,Fencing,"PELLEGRINO, Alberto",ITA,Men,Foil Team,Silver
+1960,Rome,Fencing,Fencing,"CAMBER, Irene",ITA,Women,Foil Team,Bronze
+1960,Rome,Fencing,Fencing,"CESARI, Velleda",ITA,Women,Foil Team,Bronze
+1960,Rome,Fencing,Fencing,"COLOMBETTI, Bruna",ITA,Women,Foil Team,Bronze
+1960,Rome,Fencing,Fencing,"PASINI, Claudia",ITA,Women,Foil Team,Bronze
+1960,Rome,Fencing,Fencing,"RAGNO-LONZI, Antonella",ITA,Women,Foil Team,Bronze
+1960,Rome,Fencing,Fencing,"GOROKHOVA, Galina",URS,Women,Foil Team,Gold
+1960,Rome,Fencing,Fencing,"PETRENKO-SAMUSENKO, Tatyana",URS,Women,Foil Team,Gold
+1960,Rome,Fencing,Fencing,"PRUDSKOVA, Valentina",URS,Women,Foil Team,Gold
+1960,Rome,Fencing,Fencing,"RASTVOROVA, Valentina",URS,Women,Foil Team,Gold
+1960,Rome,Fencing,Fencing,"SHISHOVA, Lyudmila",URS,Women,Foil Team,Gold
+1960,Rome,Fencing,Fencing,"ZABELINA, Aleksandra",URS,Women,Foil Team,Gold
+1960,Rome,Fencing,Fencing,"DÖMÖLKI-SAKOVICS, Lidia",HUN,Women,Foil Team,Silver
+1960,Rome,Fencing,Fencing,"JUHASZ-NAGY, Katalin",HUN,Women,Foil Team,Silver
+1960,Rome,Fencing,Fencing,"NYARI-KOVACS, Magdolna",HUN,Women,Foil Team,Silver
+1960,Rome,Fencing,Fencing,"REJTO-UJLAKI, Ildiko",HUN,Women,Foil Team,Silver
+1960,Rome,Fencing,Fencing,"SZEKELY-MARVALICS, Györgyi",HUN,Women,Foil Team,Silver
+1960,Rome,Fencing,Fencing,"CALARESE, Wladimiro",ITA,Men,Sabre Individual,Bronze
+1960,Rome,Fencing,Fencing,"KARPATI, Rudolf",HUN,Men,Sabre Individual,Gold
+1960,Rome,Fencing,Fencing,"HORVATH, Zoltan",HUN,Men,Sabre Individual,Silver
+1960,Rome,Fencing,Fencing,"CALANCHINI, Giampaolo",ITA,Men,Sabre Team,Bronze
+1960,Rome,Fencing,Fencing,"CALARESE, Wladimiro",ITA,Men,Sabre Team,Bronze
+1960,Rome,Fencing,Fencing,"CHICCA, Pierluigi",ITA,Men,Sabre Team,Bronze
+1960,Rome,Fencing,Fencing,"FERRARI, Roberto",ITA,Men,Sabre Team,Bronze
+1960,Rome,Fencing,Fencing,"RAVAGNAN, Mario",ITA,Men,Sabre Team,Bronze
+1960,Rome,Fencing,Fencing,"DELNEKI, Gabor",HUN,Men,Sabre Team,Gold
+1960,Rome,Fencing,Fencing,"GEREVICH, Aladar",HUN,Men,Sabre Team,Gold
+1960,Rome,Fencing,Fencing,"HORVATH, Zoltan",HUN,Men,Sabre Team,Gold
+1960,Rome,Fencing,Fencing,"KARPATI, Rudolf",HUN,Men,Sabre Team,Gold
+1960,Rome,Fencing,Fencing,"KOVACS, Pal Adam",HUN,Men,Sabre Team,Gold
+1960,Rome,Fencing,Fencing,"MENDELENYI, Tamas",HUN,Men,Sabre Team,Gold
+1960,Rome,Fencing,Fencing,"KUSZEWSKI, Marian Zygmunt",POL,Men,Sabre Team,Silver
+1960,Rome,Fencing,Fencing,"OCHYRA, Emil Antoni",POL,Men,Sabre Team,Silver
+1960,Rome,Fencing,Fencing,"PAWLOWSKI, Jerzy",POL,Men,Sabre Team,Silver
+1960,Rome,Fencing,Fencing,"PIATKOWSKI, Andrzej Ryszard",POL,Men,Sabre Team,Silver
+1960,Rome,Fencing,Fencing,"ZABLOCKI, Wojciech",POL,Men,Sabre Team,Silver
+1960,Rome,Fencing,Fencing,"ZUB, Ryszard",POL,Men,Sabre Team,Silver
+1960,Rome,Football,Football,"ALBERT, Florian",HUN,Men,Football,Bronze
+1960,Rome,Football,Football,"DALNOKI, Jenö",HUN,Men,Football,Bronze
+1960,Rome,Football,Football,"DUDAS, Zoltan",HUN,Men,Football,Bronze
+1960,Rome,Football,Football,"DUNAI, Janos",HUN,Men,Football,Bronze
+1960,Rome,Football,Football,"FARAGO, Lajos",HUN,Men,Football,Bronze
+1960,Rome,Football,Football,"GÖRÖCS, Janos",HUN,Men,Football,Bronze
+1960,Rome,Football,Football,"KOVACS, Ferenc",HUN,Men,Football,Bronze
+1960,Rome,Football,Football,"NOVAK, Dezsö",HUN,Men,Football,Bronze
+1960,Rome,Football,Football,"OROSZ, Pal",HUN,Men,Football,Bronze
+1960,Rome,Football,Football,"PAL, Laszlo (Tibor)",HUN,Men,Football,Bronze
+1960,Rome,Football,Football,"PAL, Tibor (Laszlo)",HUN,Men,Football,Bronze
+1960,Rome,Football,Football,"RAKOSI, Gyula",HUN,Men,Football,Bronze
+1960,Rome,Football,Football,"SATORI, Imre",HUN,Men,Football,Bronze
+1960,Rome,Football,Football,"SOLYMOSI, Ernö",HUN,Men,Football,Bronze
+1960,Rome,Football,Football,"TÖRÖK, Gabor",HUN,Men,Football,Bronze
+1960,Rome,Football,Football,"VARHIDI, Pal",HUN,Men,Football,Bronze
+1960,Rome,Football,Football,"VILEZSAL, Oszkar",HUN,Men,Football,Bronze
+1960,Rome,Football,Football,"ANKOVIC, Andrija",YUG,Men,Football,Gold
+1960,Rome,Football,Football,"DURKOVIC, Vladimir",YUG,Men,Football,Gold
+1960,Rome,Football,Football,"GALIC, Milan",YUG,Men,Football,Gold
+1960,Rome,Football,Football,"JUSUFI, Fahrudin",YUG,Men,Football,Gold
+1960,Rome,Football,Football,"KNEZ, Tomislav",YUG,Men,Football,Gold
+1960,Rome,Football,Football,"KOSTIC, Borivoje",YUG,Men,Football,Gold
+1960,Rome,Football,Football,"KOZLINA, Aleksandar",YUG,Men,Football,Gold
+1960,Rome,Football,Football,"MARAVIC, Dusan",YUG,Men,Football,Gold
+1960,Rome,Football,Football,"MATUS, Zeljko",YUG,Men,Football,Gold
+1960,Rome,Football,Football,"PERUSIC, Zeljko",YUG,Men,Football,Gold
+1960,Rome,Football,Football,"ROGANOVIC, Novak",YUG,Men,Football,Gold
+1960,Rome,Football,Football,"SOMBOLAC, Velimir",YUG,Men,Football,Gold
+1960,Rome,Football,Football,"SOSKIC, Milutin",YUG,Men,Football,Gold
+1960,Rome,Football,Football,"TAKAC, Silvester",YUG,Men,Football,Gold
+1960,Rome,Football,Football,"VIDINIC, Blagoje",YUG,Men,Football,Gold
+1960,Rome,Football,Football,"ZANETIC, Ante",YUG,Men,Football,Gold
+1960,Rome,Football,Football,"ANDERSEN, Paul Kuhlmann",DEN,Men,Football,Silver
+1960,Rome,Football,Football,"DANIELSEN, John",DEN,Men,Football,Silver
+1960,Rome,Football,Football,"ENOKSEN, Henning Lynggaard",DEN,Men,Football,Silver
+1960,Rome,Football,Football,"FROM, Henry Petersen",DEN,Men,Football,Silver
+1960,Rome,Football,Football,"HANSEN, Bent",DEN,Men,Football,Silver
+1960,Rome,Football,Football,"JENSEN, Poul",DEN,Men,Football,Silver
+1960,Rome,Football,Football,"NIELSEN, Flemming Gert",DEN,Men,Football,Silver
+1960,Rome,Football,Football,"NIELSEN, Hans Christian W.",DEN,Men,Football,Silver
+1960,Rome,Football,Football,"NIELSEN, Harald Ingemann",DEN,Men,Football,Silver
+1960,Rome,Football,Football,"PEDERSEN, Poul Ebbesen",DEN,Men,Football,Silver
+1960,Rome,Football,Football,"SÖRENSEN, Jörn",DEN,Men,Football,Silver
+1960,Rome,Football,Football,"TROELSEN, Tommy Brian",DEN,Men,Football,Silver
+1960,Rome,Gymnastics,Artistic G.,"MURATOVA, Sofiya",URS,Women,Balance Beam,Bronze
+1960,Rome,Gymnastics,Artistic G.,"VECHTOVA-BOSAKOVA, Eva",TCH,Women,Balance Beam,Gold
+1960,Rome,Gymnastics,Artistic G.,"LATYNINA, Larisa",URS,Women,Balance Beam,Silver
+1960,Rome,Gymnastics,Artistic G.,"MENICHELLI, Franco",ITA,Men,Floor Exercises,Bronze
+1960,Rome,Gymnastics,Artistic G.,"AIHARA, Nobuyuki",JPN,Men,Floor Exercises,Gold
+1960,Rome,Gymnastics,Artistic G.,"TITOV, Yuri",URS,Men,Floor Exercises,Silver
+1960,Rome,Gymnastics,Artistic G.,"LYUKHINA-ZAMOTAILOVA, Tamara",URS,Women,Floor Exercises,Bronze
+1960,Rome,Gymnastics,Artistic G.,"LATYNINA, Larisa",URS,Women,Floor Exercises,Gold
+1960,Rome,Gymnastics,Artistic G.,"ASTAKHOVA, Polina",URS,Women,Floor Exercises,Silver
+1960,Rome,Gymnastics,Artistic G.,"SHAKHLIN, Boris",URS,Men,Horizontal Bar,Bronze
+1960,Rome,Gymnastics,Artistic G.,"ONO, Takashi",JPN,Men,Horizontal Bar,Gold
+1960,Rome,Gymnastics,Artistic G.,"TAKEMOTO, Masao",JPN,Men,Horizontal Bar,Silver
+1960,Rome,Gymnastics,Artistic G.,"TITOV, Yuri",URS,Men,Individual All-Round,Bronze
+1960,Rome,Gymnastics,Artistic G.,"SHAKHLIN, Boris",URS,Men,Individual All-Round,Gold
+1960,Rome,Gymnastics,Artistic G.,"ONO, Takashi",JPN,Men,Individual All-Round,Silver
+1960,Rome,Gymnastics,Artistic G.,"ASTAKHOVA, Polina",URS,Women,Individual All-Round,Bronze
+1960,Rome,Gymnastics,Artistic G.,"LATYNINA, Larisa",URS,Women,Individual All-Round,Gold
+1960,Rome,Gymnastics,Artistic G.,"MURATOVA, Sofiya",URS,Women,Individual All-Round,Silver
+1960,Rome,Gymnastics,Artistic G.,"ONO, Takashi",JPN,Men,Parallel Bars,Bronze
+1960,Rome,Gymnastics,Artistic G.,"SHAKHLIN, Boris",URS,Men,Parallel Bars,Gold
+1960,Rome,Gymnastics,Artistic G.,"CARMINUCCI, Giovanni",ITA,Men,Parallel Bars,Silver
+1960,Rome,Gymnastics,Artistic G.,"TSURUMI, Shuji",JPN,Men,Pommel Horse,Bronze
+1960,Rome,Gymnastics,Artistic G.,"EKMAN, Eugen Georg Oskar",FIN,Men,Pommel Horse,Gold
+1960,Rome,Gymnastics,Artistic G.,"SHAKHLIN, Boris",URS,Men,Pommel Horse,Gold
+1960,Rome,Gymnastics,Artistic G.,"KAPSAZOV, Velik Nikolov",BUL,Men,Rings,Bronze
+1960,Rome,Gymnastics,Artistic G.,"ONO, Takashi",JPN,Men,Rings,Bronze
+1960,Rome,Gymnastics,Artistic G.,"AZARYAN, Albert",URS,Men,Rings,Gold
+1960,Rome,Gymnastics,Artistic G.,"SHAKHLIN, Boris",URS,Men,Rings,Silver
+1960,Rome,Gymnastics,Artistic G.,"CARMINUCCI, Giovanni",ITA,Men,Team Competition,Bronze
+1960,Rome,Gymnastics,Artistic G.,"CARMINUCCI, Pasquale",ITA,Men,Team Competition,Bronze
+1960,Rome,Gymnastics,Artistic G.,"MARZOLLA, Gianfranco",ITA,Men,Team Competition,Bronze
+1960,Rome,Gymnastics,Artistic G.,"MENICHELLI, Franco",ITA,Men,Team Competition,Bronze
+1960,Rome,Gymnastics,Artistic G.,"POLMONARI, Orlando",ITA,Men,Team Competition,Bronze
+1960,Rome,Gymnastics,Artistic G.,"VICARDI, Angelo",ITA,Men,Team Competition,Bronze
+1960,Rome,Gymnastics,Artistic G.,"AIHARA, Nobuyuki",JPN,Men,Team Competition,Gold
+1960,Rome,Gymnastics,Artistic G.,"ENDO, Yukio",JPN,Men,Team Competition,Gold
+1960,Rome,Gymnastics,Artistic G.,"MITSUKURI, Takashi",JPN,Men,Team Competition,Gold
+1960,Rome,Gymnastics,Artistic G.,"ONO, Takashi",JPN,Men,Team Competition,Gold
+1960,Rome,Gymnastics,Artistic G.,"TAKEMOTO, Masao",JPN,Men,Team Competition,Gold
+1960,Rome,Gymnastics,Artistic G.,"TSURUMI, Shuji",JPN,Men,Team Competition,Gold
+1960,Rome,Gymnastics,Artistic G.,"AZARYAN, Albert",URS,Men,Team Competition,Silver
+1960,Rome,Gymnastics,Artistic G.,"KERDEMILIDI, Valeri",URS,Men,Team Competition,Silver
+1960,Rome,Gymnastics,Artistic G.,"MILIGULO, Nikolai",URS,Men,Team Competition,Silver
+1960,Rome,Gymnastics,Artistic G.,"PORTNOI, Vladimir",URS,Men,Team Competition,Silver
+1960,Rome,Gymnastics,Artistic G.,"SHAKHLIN, Boris",URS,Men,Team Competition,Silver
+1960,Rome,Gymnastics,Artistic G.,"TITOV, Yuri",URS,Men,Team Competition,Silver
+1960,Rome,Gymnastics,Artistic G.,"IONESCU-ALBU, Atanasia",ROU,Women,Team Competition,Bronze
+1960,Rome,Gymnastics,Artistic G.,"IOVAN-INOVAN, Sonia",ROU,Women,Team Competition,Bronze
+1960,Rome,Gymnastics,Artistic G.,"LEUSTEANU-POPESCU-TEODORESCU, Elena",ROU,Women,Team Competition,Bronze
+1960,Rome,Gymnastics,Artistic G.,"MARGARIT-NICULESCU, Elena",ROU,Women,Team Competition,Bronze
+1960,Rome,Gymnastics,Artistic G.,"PORECEANU-SCHLAND, Uta",ROU,Women,Team Competition,Bronze
+1960,Rome,Gymnastics,Artistic G.,"VATASOIU-LITA, Emilia",ROU,Women,Team Competition,Bronze
+1960,Rome,Gymnastics,Artistic G.,"ASTAKHOVA, Polina",URS,Women,Team Competition,Gold
+1960,Rome,Gymnastics,Artistic G.,"KALININA-IVANOVA, Lidiya",URS,Women,Team Competition,Gold
+1960,Rome,Gymnastics,Artistic G.,"LATYNINA, Larisa",URS,Women,Team Competition,Gold
+1960,Rome,Gymnastics,Artistic G.,"LYUKHINA-ZAMOTAILOVA, Tamara",URS,Women,Team Competition,Gold
+1960,Rome,Gymnastics,Artistic G.,"MURATOVA, Sofiya",URS,Women,Team Competition,Gold
+1960,Rome,Gymnastics,Artistic G.,"NIKOLAEVA, Margarita",URS,Women,Team Competition,Gold
+1960,Rome,Gymnastics,Artistic G.,"CASLAVSKA, Vera",TCH,Women,Team Competition,Silver
+1960,Rome,Gymnastics,Artistic G.,"RUZICKOVA, Hana",TCH,Women,Team Competition,Silver
+1960,Rome,Gymnastics,Artistic G.,"SINOVA-MATOUSKOVA, Matylda",TCH,Women,Team Competition,Silver
+1960,Rome,Gymnastics,Artistic G.,"SVEDOVA, Ludmila",TCH,Women,Team Competition,Silver
+1960,Rome,Gymnastics,Artistic G.,"TACOVA-TKACIKOVA, Adolfina",TCH,Women,Team Competition,Silver
+1960,Rome,Gymnastics,Artistic G.,"VECHTOVA-BOSAKOVA, Eva",TCH,Women,Team Competition,Silver
+1960,Rome,Gymnastics,Artistic G.,"LYUKHINA-ZAMOTAILOVA, Tamara",URS,Women,Uneven Bars,Bronze
+1960,Rome,Gymnastics,Artistic G.,"ASTAKHOVA, Polina",URS,Women,Uneven Bars,Gold
+1960,Rome,Gymnastics,Artistic G.,"LATYNINA, Larisa",URS,Women,Uneven Bars,Silver
+1960,Rome,Gymnastics,Artistic G.,"PORTNOI, Vladimir",URS,Men,Vault,Bronze
+1960,Rome,Gymnastics,Artistic G.,"ONO, Takashi",JPN,Men,Vault,Gold
+1960,Rome,Gymnastics,Artistic G.,"SHAKHLIN, Boris",URS,Men,Vault,Gold
+1960,Rome,Gymnastics,Artistic G.,"LATYNINA, Larisa",URS,Women,Vault,Bronze
+1960,Rome,Gymnastics,Artistic G.,"NIKOLAEVA, Margarita",URS,Women,Vault,Gold
+1960,Rome,Gymnastics,Artistic G.,"MURATOVA, Sofiya",URS,Women,Vault,Silver
+1960,Rome,Hockey,Hockey,"AMAT FONTANALS, Pedro",ESP,Men,Hockey,Bronze
+1960,Rome,Hockey,Hockey,"CABALLER SOTERAS, Francisco",ESP,Men,Hockey,Bronze
+1960,Rome,Hockey,Hockey,"CALZADO DE CASTRO, Juan Angel",ESP,Men,Hockey,Bronze
+1960,Rome,Hockey,Hockey,"COLOMER RIBAS, Jose",ESP,Men,Hockey,Bronze
+1960,Rome,Hockey,Hockey,"DEL COSO IGLESIAS, Carlos",ESP,Men,Hockey,Bronze
+1960,Rome,Hockey,Hockey,"DINARES MASSAGUE, Jose Antonio",ESP,Men,Hockey,Bronze
+1960,Rome,Hockey,Hockey,"DUALDE SANTOS DE LA MADRID, Eduardo",ESP,Men,Hockey,Bronze
+1960,Rome,Hockey,Hockey,"DUALDE SANTOS DE LA MADRID, Joaquin",ESP,Men,Hockey,Bronze
+1960,Rome,Hockey,Hockey,"EGUSQUIZA BASTERRA, Rafael",ESP,Men,Hockey,Bronze
+1960,Rome,Hockey,Hockey,"MACAYA SANTOS DE LA MADRID, Ignacio",ESP,Men,Hockey,Bronze
+1960,Rome,Hockey,Hockey,"MURUA LEGUIZAMON, Pedro",ESP,Men,Hockey,Bronze
+1960,Rome,Hockey,Hockey,"ROIG JUNYENT, Pedro",ESP,Men,Hockey,Bronze
+1960,Rome,Hockey,Hockey,"USOZ QUINTANA, Luis Maria",ESP,Men,Hockey,Bronze
+1960,Rome,Hockey,Hockey,"VENTALLO SURRALLES, Narciso",ESP,Men,Hockey,Bronze
+1960,Rome,Hockey,Hockey,"ABDUL, Hamid",PAK,Men,Hockey,Gold
+1960,Rome,Hockey,Hockey,"ABDUL, Rashid I",PAK,Men,Hockey,Gold
+1960,Rome,Hockey,Hockey,"ABDUL, Waheed",PAK,Men,Hockey,Gold
+1960,Rome,Hockey,Hockey,"BASHIR, Ahmad",PAK,Men,Hockey,Gold
+1960,Rome,Hockey,Hockey,"GHULAM, Rasul",PAK,Men,Hockey,Gold
+1960,Rome,Hockey,Hockey,"KHAN, Anwar Ahmad",PAK,Men,Hockey,Gold
+1960,Rome,Hockey,Hockey,"KHURSHEED, Aslam",PAK,Men,Hockey,Gold
+1960,Rome,Hockey,Hockey,"KIDDI, Habib Ali",PAK,Men,Hockey,Gold
+1960,Rome,Hockey,Hockey,"MANZOOR, Hussain Atif",PAK,Men,Hockey,Gold
+1960,Rome,Hockey,Hockey,"MUSHTAQ, Ahmed",PAK,Men,Hockey,Gold
+1960,Rome,Hockey,Hockey,"MUTTI, Ullah",PAK,Men,Hockey,Gold
+1960,Rome,Hockey,Hockey,"NASIR, Ahmad",PAK,Men,Hockey,Gold
+1960,Rome,Hockey,Hockey,"NOOR, Alam",PAK,Men,Hockey,Gold
+1960,Rome,Hockey,Hockey,"ANTIC, Joseph",IND,Men,Hockey,Silver
+1960,Rome,Hockey,Hockey,"CLAUDIUS, Leslie Walter",IND,Men,Hockey,Silver
+1960,Rome,Hockey,Hockey,"LAL SHARMA, Jaman",IND,Men,Hockey,Silver
+1960,Rome,Hockey,Hockey,"LAL, Mohinder",IND,Men,Hockey,Silver
+1960,Rome,Hockey,Hockey,"LAXMAN, Shankar",IND,Men,Hockey,Silver
+1960,Rome,Hockey,Hockey,"PETER, John Victor",IND,Men,Hockey,Silver
+1960,Rome,Hockey,Hockey,"SAWANT, Govind",IND,Men,Hockey,Silver
+1960,Rome,Hockey,Hockey,"SINGH BHOLA, Raghbir",IND,Men,Hockey,Silver
+1960,Rome,Hockey,Hockey,"SINGH KULLAR, Udham",IND,Men,Hockey,Silver
+1960,Rome,Hockey,Hockey,"SINGH, Charanjit",IND,Men,Hockey,Silver
+1960,Rome,Hockey,Hockey,"SINGH, Jaswant",IND,Men,Hockey,Silver
+1960,Rome,Hockey,Hockey,"SINGH, Joginder",IND,Men,Hockey,Silver
+1960,Rome,Hockey,Hockey,"SINGH, Prithipal",IND,Men,Hockey,Silver
+1960,Rome,Modern Pentathlon,Modern Pentath.,"BECK, Robert Lee",USA,Men,Individual Competition,Bronze
+1960,Rome,Modern Pentathlon,Modern Pentath.,"NEMETH, Ferenc",HUN,Men,Individual Competition,Gold
+1960,Rome,Modern Pentathlon,Modern Pentath.,"NAGY, Imre",HUN,Men,Individual Competition,Silver
+1960,Rome,Modern Pentathlon,Modern Pentath.,"BECK, Robert Lee",USA,Men,Team Competition,Bronze
+1960,Rome,Modern Pentathlon,Modern Pentath.,"DANIELS, Jack Tupper",USA,Men,Team Competition,Bronze
+1960,Rome,Modern Pentathlon,Modern Pentath.,"LAMBERT, George Howard Jr.",USA,Men,Team Competition,Bronze
+1960,Rome,Modern Pentathlon,Modern Pentath.,"BALCZO, Andras",HUN,Men,Team Competition,Gold
+1960,Rome,Modern Pentathlon,Modern Pentath.,"NAGY, Imre",HUN,Men,Team Competition,Gold
+1960,Rome,Modern Pentathlon,Modern Pentath.,"NEMETH, Ferenc",HUN,Men,Team Competition,Gold
+1960,Rome,Modern Pentathlon,Modern Pentath.,"NOVIKOV, Igor",URS,Men,Team Competition,Silver
+1960,Rome,Modern Pentathlon,Modern Pentath.,"SELG, Hanno",URS,Men,Team Competition,Silver
+1960,Rome,Modern Pentathlon,Modern Pentath.,"TATARINOV, Nikolai",URS,Men,Team Competition,Silver
+1960,Rome,Rowing,Rowing,"LEHTELÄ, Veli Veikko",FIN,Men,Coxless Pair (2-),Bronze
+1960,Rome,Rowing,Rowing,"PITKÄNEN, Toimi Johannes",FIN,Men,Coxless Pair (2-),Bronze
+1960,Rome,Rowing,Rowing,"BOREIKO, Valentin",URS,Men,Coxless Pair (2-),Gold
+1960,Rome,Rowing,Rowing,"GOLOVANOV, Oleg",URS,Men,Coxless Pair (2-),Gold
+1960,Rome,Rowing,Rowing,"KLOIMSTEIN, Josef",AUT,Men,Coxless Pair (2-),Silver
+1960,Rome,Rowing,Rowing,"SAGEDER, Alfred",AUT,Men,Coxless Pair (2-),Silver
+1960,Rome,Rowing,Rowing,"HÜRLIMANN, Ernst",SUI,Men,Double Sculls (2X),Bronze
+1960,Rome,Rowing,Rowing,"LARCHER, Rolf",SUI,Men,Double Sculls (2X),Bronze
+1960,Rome,Rowing,Rowing,"KOZAK, Vaclav",TCH,Men,Double Sculls (2X),Gold
+1960,Rome,Rowing,Rowing,"SCHMIDT, Pavel",TCH,Men,Double Sculls (2X),Gold
+1960,Rome,Rowing,Rowing,"BERKUTOV, Aleksandr",URS,Men,Double Sculls (2X),Silver
+1960,Rome,Rowing,Rowing,"TYUKALOV, Yuri",URS,Men,Double Sculls (2X),Silver
+1960,Rome,Rowing,Rowing,"JANOUSEK, Bohumil",TCH,Men,Eight With Coxswain (8+),Bronze
+1960,Rome,Rowing,Rowing,"JINDRA, Jan",TCH,Men,Eight With Coxswain (8+),Bronze
+1960,Rome,Rowing,Rowing,"KONICEK, Miroslav",TCH,Men,Eight With Coxswain (8+),Bronze
+1960,Rome,Rowing,Rowing,"LUNDAK, Jiri",TCH,Men,Eight With Coxswain (8+),Bronze
+1960,Rome,Rowing,Rowing,"LUSK, Stanislav",TCH,Men,Eight With Coxswain (8+),Bronze
+1960,Rome,Rowing,Rowing,"PAVKOVIC, Vaclav",TCH,Men,Eight With Coxswain (8+),Bronze
+1960,Rome,Rowing,Rowing,"POJEZNY, Ludek",TCH,Men,Eight With Coxswain (8+),Bronze
+1960,Rome,Rowing,Rowing,"SVEDA, Jan",TCH,Men,Eight With Coxswain (8+),Bronze
+1960,Rome,Rowing,Rowing,"VENTUS, Josef",TCH,Men,Eight With Coxswain (8+),Bronze
+1960,Rome,Rowing,Rowing,"BITTNER, Klaus",EUA,Men,Eight With Coxswain (8+),Gold
+1960,Rome,Rowing,Rowing,"HOPP, Karl Heinz",EUA,Men,Eight With Coxswain (8+),Gold
+1960,Rome,Rowing,Rowing,"LENK, Hans",EUA,Men,Eight With Coxswain (8+),Gold
+1960,Rome,Rowing,Rowing,"PADGE, Willi",EUA,Men,Eight With Coxswain (8+),Gold
+1960,Rome,Rowing,Rowing,"RULFFS, Manfred",EUA,Men,Eight With Coxswain (8+),Gold
+1960,Rome,Rowing,Rowing,"SCHEPKE, Frank",EUA,Men,Eight With Coxswain (8+),Gold
+1960,Rome,Rowing,Rowing,"SCHEPKE, Kraft",EUA,Men,Eight With Coxswain (8+),Gold
+1960,Rome,Rowing,Rowing,"SCHRÖDER, Walter",EUA,Men,Eight With Coxswain (8+),Gold
+1960,Rome,Rowing,Rowing,"VON GRODDECK, Karl-Heinrich",EUA,Men,Eight With Coxswain (8+),Gold
+1960,Rome,Rowing,Rowing,"ARNOLD, Donald John",CAN,Men,Eight With Coxswain (8+),Silver
+1960,Rome,Rowing,Rowing,"BILN, Sohen",CAN,Men,Eight With Coxswain (8+),Silver
+1960,Rome,Rowing,Rowing,"D'HONDT, Ignace Walter",CAN,Men,Eight With Coxswain (8+),Silver
+1960,Rome,Rowing,Rowing,"KUHN, Nelson",CAN,Men,Eight With Coxswain (8+),Silver
+1960,Rome,Rowing,Rowing,"LECKY, John",CAN,Men,Eight With Coxswain (8+),Silver
+1960,Rome,Rowing,Rowing,"LOOMER, Lorne Kenneth",CAN,Men,Eight With Coxswain (8+),Silver
+1960,Rome,Rowing,Rowing,"MCKERLICH, William Arthur M.",CAN,Men,Eight With Coxswain (8+),Silver
+1960,Rome,Rowing,Rowing,"MCKINNON, Archibald",CAN,Men,Eight With Coxswain (8+),Silver
+1960,Rome,Rowing,Rowing,"MERWYN, Glenn",CAN,Men,Eight With Coxswain (8+),Silver
+1960,Rome,Rowing,Rowing,"AKHREMCHIK, Igor",URS,Men,Four Without Coxswain (4-),Bronze
+1960,Rome,Rowing,Rowing,"BACHUROV, Yuri",URS,Men,Four Without Coxswain (4-),Bronze
+1960,Rome,Rowing,Rowing,"MORKOVKIN, Valentin",URS,Men,Four Without Coxswain (4-),Bronze
+1960,Rome,Rowing,Rowing,"TARABRIN, Anatoli",URS,Men,Four Without Coxswain (4-),Bronze
+1960,Rome,Rowing,Rowing,"AYRAULT, Arthur Delancey Jr.",USA,Men,Four Without Coxswain (4-),Gold
+1960,Rome,Rowing,Rowing,"NASH, Theodore Allison",USA,Men,Four Without Coxswain (4-),Gold
+1960,Rome,Rowing,Rowing,"SAYRE, John Anthony",USA,Men,Four Without Coxswain (4-),Gold
+1960,Rome,Rowing,Rowing,"WAILES, Richard Donald",USA,Men,Four Without Coxswain (4-),Gold
+1960,Rome,Rowing,Rowing,"BARAGLIA, Tullio",ITA,Men,Four Without Coxswain (4-),Silver
+1960,Rome,Rowing,Rowing,"BOSATTA, Renato",ITA,Men,Four Without Coxswain (4-),Silver
+1960,Rome,Rowing,Rowing,"CROSTA, Giancarlo",ITA,Men,Four Without Coxswain (4-),Silver
+1960,Rome,Rowing,Rowing,"GALANTE, Giuseppe",ITA,Men,Four Without Coxswain (4-),Silver
+1960,Rome,Rowing,Rowing,"BALATTI, Fulvio",ITA,Men,Four-Oared Shell With Coxswain (4-),Bronze
+1960,Rome,Rowing,Rowing,"SGHEIZ, Romano",ITA,Men,Four-Oared Shell With Coxswain (4-),Bronze
+1960,Rome,Rowing,Rowing,"STEFANONI, Ivo",ITA,Men,Four-Oared Shell With Coxswain (4-),Bronze
+1960,Rome,Rowing,Rowing,"TRINCAVELLI, Franco",ITA,Men,Four-Oared Shell With Coxswain (4-),Bronze
+1960,Rome,Rowing,Rowing,"ZUCCHI, Giovanni",ITA,Men,Four-Oared Shell With Coxswain (4-),Bronze
+1960,Rome,Rowing,Rowing,"CINTL, Gerd",EUA,Men,Four-Oared Shell With Coxswain (4-),Gold
+1960,Rome,Rowing,Rowing,"EFFERTZ, Horst",EUA,Men,Four-Oared Shell With Coxswain (4-),Gold
+1960,Rome,Rowing,Rowing,"LITZ, Jürgen",EUA,Men,Four-Oared Shell With Coxswain (4-),Gold
+1960,Rome,Rowing,Rowing,"OBST, Michael",EUA,Men,Four-Oared Shell With Coxswain (4-),Gold
+1960,Rome,Rowing,Rowing,"RIEMANN, Klaus",EUA,Men,Four-Oared Shell With Coxswain (4-),Gold
+1960,Rome,Rowing,Rowing,"DUMONTOIS, Robert",FRA,Men,Four-Oared Shell With Coxswain (4-),Silver
+1960,Rome,Rowing,Rowing,"KLEIN, Jean",FRA,Men,Four-Oared Shell With Coxswain (4-),Silver
+1960,Rome,Rowing,Rowing,"MARTIN, Claude Auguste",FRA,Men,Four-Oared Shell With Coxswain (4-),Silver
+1960,Rome,Rowing,Rowing,"MOREL, Jacques",FRA,Men,Four-Oared Shell With Coxswain (4-),Silver
+1960,Rome,Rowing,Rowing,"NOSBAUM, Guy Fernand",FRA,Men,Four-Oared Shell With Coxswain (4-),Silver
+1960,Rome,Rowing,Rowing,"DRAEGER, Richard Arthur",USA,Men,Pair-Oared Shell With Coxswain (2+),Bronze
+1960,Rome,Rowing,Rowing,"FINDLAY, Conrad Francis",USA,Men,Pair-Oared Shell With Coxswain (2+),Bronze
+1960,Rome,Rowing,Rowing,"MITCHELL, Henry Kent II",USA,Men,Pair-Oared Shell With Coxswain (2+),Bronze
+1960,Rome,Rowing,Rowing,"KNUBEL, Bernhard",EUA,Men,Pair-Oared Shell With Coxswain (2+),Gold
+1960,Rome,Rowing,Rowing,"RENNEBERG, Karl Heinz",EUA,Men,Pair-Oared Shell With Coxswain (2+),Gold
+1960,Rome,Rowing,Rowing,"ZERTA, Klaus",EUA,Men,Pair-Oared Shell With Coxswain (2+),Gold
+1960,Rome,Rowing,Rowing,"BOGDANAVICHUS, Antanas",URS,Men,Pair-Oared Shell With Coxswain (2+),Silver
+1960,Rome,Rowing,Rowing,"RUDAKOV, Igor",URS,Men,Pair-Oared Shell With Coxswain (2+),Silver
+1960,Rome,Rowing,Rowing,"YUKNA, Zigmas",URS,Men,Pair-Oared Shell With Coxswain (2+),Silver
+1960,Rome,Rowing,Rowing,"KOCERKA, Teodor",POL,Men,Single Sculls (1X),Bronze
+1960,Rome,Rowing,Rowing,"IVANOV, Vyacheslav",URS,Men,Single Sculls (1X),Gold
+1960,Rome,Rowing,Rowing,"HILL, Achim",EUA,Men,Single Sculls (1X),Silver
+1960,Rome,Sailing,Sailing,"COPPONEX, Henri",SUI,Men,5.5M,Bronze
+1960,Rome,Sailing,Sailing,"GIRARD, Pierre",SUI,Men,5.5M,Bronze
+1960,Rome,Sailing,Sailing,"METZGER, Manfred F.",SUI,Men,5.5M,Bronze
+1960,Rome,Sailing,Sailing,"HUNT, James Hawley",USA,Men,5.5M,Gold
+1960,Rome,Sailing,Sailing,"O'DAY, George Dwyer",USA,Men,5.5M,Gold
+1960,Rome,Sailing,Sailing,"SMITH, David James",USA,Men,5.5M,Gold
+1960,Rome,Sailing,Sailing,"BERNTSEN, William Eldred",DEN,Men,5.5M,Silver
+1960,Rome,Sailing,Sailing,"CHRISTENSEN, Steen Bach",DEN,Men,5.5M,Silver
+1960,Rome,Sailing,Sailing,"HANCKE, Sören",DEN,Men,5.5M,Silver
+1960,Rome,Sailing,Sailing,"CICILIANO, Antonio",ITA,Men,Dragon,Bronze
+1960,Rome,Sailing,Sailing,"COSENTINO, Antonio",ITA,Men,Dragon,Bronze
+1960,Rome,Sailing,Sailing,"DE STEFANO, Giulio",ITA,Men,Dragon,Bronze
+1960,Rome,Sailing,Sailing,"ESKIDIOGLOU, Odysseus",GRE,Men,Dragon,Gold
+1960,Rome,Sailing,Sailing,H.R.H.KONSTANTIN OF GREECE,GRE,Men,Dragon,Gold
+1960,Rome,Sailing,Sailing,"ZAIMIS, Georgios",GRE,Men,Dragon,Gold
+1960,Rome,Sailing,Sailing,"CALEGARIS, Hector",ARG,Men,Dragon,Silver
+1960,Rome,Sailing,Sailing,"DEL RIO SALAS, Jorge Alberto",ARG,Men,Dragon,Silver
+1960,Rome,Sailing,Sailing,"SALAS CHAVES, Jorge Alberto",ARG,Men,Dragon,Silver
+1960,Rome,Sailing,Sailing,"MULKA, Rolf",EUA,Men,Flying Dutchman,Bronze
+1960,Rome,Sailing,Sailing,"VON BREDOW, Ingo",EUA,Men,Flying Dutchman,Bronze
+1960,Rome,Sailing,Sailing,"BERGVALL, Bjorn",NOR,Men,Flying Dutchman,Gold
+1960,Rome,Sailing,Sailing,"LUNDE, Peder Jr.",NOR,Men,Flying Dutchman,Gold
+1960,Rome,Sailing,Sailing,"FOGH, Hans Marius",DEN,Men,Flying Dutchman,Silver
+1960,Rome,Sailing,Sailing,"PETERSEN, Ole Erik Gunnar",DEN,Men,Flying Dutchman,Silver
+1960,Rome,Sailing,Sailing,"NELIS, Andre",BEL,Men,Single-Handed Dinghy (Finn),Bronze
+1960,Rome,Sailing,Sailing,"ELVSTROM, Paul",DEN,Men,Single-Handed Dinghy (Finn),Gold
+1960,Rome,Sailing,Sailing,"CHUCHELOV, Aleksandr",URS,Men,Single-Handed Dinghy (Finn),Silver
+1960,Rome,Sailing,Sailing,"HALPERIN, Robert Sherman",USA,Men,Two-Person Keelboat Open (Star),Bronze
+1960,Rome,Sailing,Sailing,"PARKS, William Wilson",USA,Men,Two-Person Keelboat Open (Star),Bronze
+1960,Rome,Sailing,Sailing,"PINEGIN, Timir",URS,Men,Two-Person Keelboat Open (Star),Gold
+1960,Rome,Sailing,Sailing,"SHUTKOV, Fyodor",URS,Men,Two-Person Keelboat Open (Star),Gold
+1960,Rome,Sailing,Sailing,"QUINA, Jose Manuel Gentil",POR,Men,Two-Person Keelboat Open (Star),Silver
+1960,Rome,Sailing,Sailing,"QUINA, Mario Gentil",POR,Men,Two-Person Keelboat Open (Star),Silver
+1960,Rome,Shooting,Shooting,"ZABELIN, Aleksandr",URS,Men,25M Rapid Fire Pistol (60 Shots),Bronze
+1960,Rome,Shooting,Shooting,"MCMILLAN, William Willard",USA,Men,25M Rapid Fire Pistol (60 Shots),Gold
+1960,Rome,Shooting,Shooting,"LINNOSVUO, Pentti Tapio Akseli",FIN,Men,25M Rapid Fire Pistol (60 Shots),Silver
+1960,Rome,Shooting,Shooting,"BORISOV, Vasili",URS,Men,300M Free Rifle 3 Positions (3X40 Shots),Bronze
+1960,Rome,Shooting,Shooting,"HAMMERER, Hubert",AUT,Men,300M Free Rifle 3 Positions (3X40 Shots),Gold
+1960,Rome,Shooting,Shooting,"SPILLMANN, Hansrudi",SUI,Men,300M Free Rifle 3 Positions (3X40 Shots),Silver
+1960,Rome,Shooting,Shooting,"YOSHIKAWA, Yoshihisa",JPN,Men,50M Pistol (60 Shots),Bronze
+1960,Rome,Shooting,Shooting,"GUSHCHIN, Aleksei",URS,Men,50M Pistol (60 Shots),Gold
+1960,Rome,Shooting,Shooting,"UMAROV, Makhmud",URS,Men,50M Pistol (60 Shots),Silver
+1960,Rome,Shooting,Shooting,"ZÄHRINGER, Klaus",EUA,Men,50M Rifle 3 Positions (3X40 Shots),Bronze
+1960,Rome,Shooting,Shooting,"SHAMBURKIN, Viktor",URS,Men,50M Rifle 3 Positions (3X40 Shots),Gold
+1960,Rome,Shooting,Shooting,"NIYAZOV, Marat",URS,Men,50M Rifle 3 Positions (3X40 Shots),Silver
+1960,Rome,Shooting,Shooting,"FORCELLA PELLICCIONI, Enrico",VEN,Men,50M Rifle Prone (60 Shots),Bronze
+1960,Rome,Shooting,Shooting,"KOHNKE, Peter",EUA,Men,50M Rifle Prone (60 Shots),Gold
+1960,Rome,Shooting,Shooting,"HILL, James Enoch",USA,Men,50M Rifle Prone (60 Shots),Silver
+1960,Rome,Shooting,Shooting,"KALININ, Sergei",URS,Men,Trap (125 Targets),Bronze
+1960,Rome,Shooting,Shooting,"DUMITRESCU, Ion",ROU,Men,Trap (125 Targets),Gold
+1960,Rome,Shooting,Shooting,"ROSSINI, Galliano",ITA,Men,Trap (125 Targets),Silver
+1960,Rome,Weightlifting,Weightlifting,"ELM-KHAH, Esmail",IRI,Men,"- 56KG, Total (Bantamweight)",Bronze
+1960,Rome,Weightlifting,Weightlifting,"VINCI, Charles Thomas Jr.",USA,Men,"- 56KG, Total (Bantamweight)",Gold
+1960,Rome,Weightlifting,Weightlifting,"MIYAKE, Yoshinobu",JPN,Men,"- 56KG, Total (Bantamweight)",Silver
+1960,Rome,Weightlifting,Weightlifting,"SCHEMANSKY, Norbert",USA,Men,"+ 90KG, Total (Heavyweight)",Bronze
+1960,Rome,Weightlifting,Weightlifting,"VLASOV, Yuri",URS,Men,"+ 90KG, Total (Heavyweight)",Gold
+1960,Rome,Weightlifting,Weightlifting,"BRADFORD, James Edward",USA,Men,"+ 90KG, Total (Heavyweight)",Silver
+1960,Rome,Weightlifting,Weightlifting,"MANNIRONI, Sebastiano",ITA,Men,"56 - 60KG, Total (Featherweight)",Bronze
+1960,Rome,Weightlifting,Weightlifting,"MINAEV, Yevgeni",URS,Men,"56 - 60KG, Total (Featherweight)",Gold
+1960,Rome,Weightlifting,Weightlifting,"BERGER, Isaac",USA,Men,"56 - 60KG, Total (Featherweight)",Silver
+1960,Rome,Weightlifting,Weightlifting,"WAHID AZIZ, Abdul",IRQ,Men,"60 - 67.5KG, Total (Lightweight)",Bronze
+1960,Rome,Weightlifting,Weightlifting,"BUSHUEV, Viktor",URS,Men,"60 - 67.5KG, Total (Lightweight)",Gold
+1960,Rome,Weightlifting,Weightlifting,"TAN, Howe-Liang (Tiger)",SIN,Men,"60 - 67.5KG, Total (Lightweight)",Silver
+1960,Rome,Weightlifting,Weightlifting,"VERES, Gyözö",HUN,Men,"67.5 - 75KG, Total (Middleweight)",Bronze
+1960,Rome,Weightlifting,Weightlifting,"KURYNOV, Aleksandr",URS,Men,"67.5 - 75KG, Total (Middleweight)",Gold
+1960,Rome,Weightlifting,Weightlifting,"KONO, Thomas Tamio",USA,Men,"67.5 - 75KG, Total (Middleweight)",Silver
+1960,Rome,Weightlifting,Weightlifting,"BOCHENEK, Jan",POL,Men,"75 - 82.5KG, Total (Light-Heavyweight)",Bronze
+1960,Rome,Weightlifting,Weightlifting,"PALINSKI, Ireneusz",POL,Men,"75 - 82.5KG, Total (Light-Heavyweight)",Gold
+1960,Rome,Weightlifting,Weightlifting,"GEORGE, James D.",USA,Men,"75 - 82.5KG, Total (Light-Heavyweight)",Silver
+1960,Rome,Weightlifting,Weightlifting,"MARTIN, Louis George",GBR,Men,"82.5 - 90KG, Total (Middle-Heavyweight)",Bronze
+1960,Rome,Weightlifting,Weightlifting,"VOROBYEV, Arkadi",URS,Men,"82.5 - 90KG, Total (Middle-Heavyweight)",Gold
+1960,Rome,Weightlifting,Weightlifting,"LOMAKIN, Trofim",URS,Men,"82.5 - 90KG, Total (Middle-Heavyweight)",Silver
+1960,Rome,Wrestling,Wrestling Free.,"SAIFPOUR-SAIDABADI, Mohammad Ebrahim",IRI,Men,- 52KG (Flyweight),Bronze
+1960,Rome,Wrestling,Wrestling Free.,"BILEK, Ahmet",TUR,Men,- 52KG (Flyweight),Gold
+1960,Rome,Wrestling,Wrestling Free.,"MATSUBARA, Masayuki",JPN,Men,- 52KG (Flyweight),Silver
+1960,Rome,Wrestling,Wrestling Free.,"DZARASOV, Savkus",URS,Men,+ 87KG (Heavyweight),Bronze
+1960,Rome,Wrestling,Wrestling Free.,"DIETRICH, Wilfried",EUA,Men,+ 87KG (Heavyweight),Gold
+1960,Rome,Wrestling,Wrestling Free.,"KAPLAN, Hamit",TUR,Men,+ 87KG (Heavyweight),Silver
+1960,Rome,Wrestling,Wrestling Free.,"TROJANOWSKI, Tadeusz Hipolit",POL,Men,52 - 57KG (Bantamweight),Bronze
+1960,Rome,Wrestling,Wrestling Free.,"MCCANN, Terence John",USA,Men,52 - 57KG (Bantamweight),Gold
+1960,Rome,Wrestling,Wrestling Free.,"ZALEV, Nedjet",BUL,Men,52 - 57KG (Bantamweight),Silver
+1960,Rome,Wrestling,Wrestling Free.,"RUBASHVILI, Vladimir",URS,Men,57 - 63KG (Featherweight),Bronze
+1960,Rome,Wrestling,Wrestling Free.,"DAGISTANLI, Mustafa",TUR,Men,57 - 63KG (Featherweight),Gold
+1960,Rome,Wrestling,Wrestling Free.,"KOLEV, Stancho Ivanov",BUL,Men,57 - 63KG (Featherweight),Silver
+1960,Rome,Wrestling,Wrestling Free.,"VALTCHEV, Enyu Dimov",BUL,Men,63 - 67KG (Lightweight),Bronze
+1960,Rome,Wrestling,Wrestling Free.,"WILSON, Shelby Autrie",USA,Men,63 - 67KG (Lightweight),Gold
+1960,Rome,Wrestling,Wrestling Free.,"SINYAVSKY, Vladimir",URS,Men,63 - 67KG (Lightweight),Silver
+1960,Rome,Wrestling,Wrestling Free.,"MUHAMMAD, Bashir",PAK,Men,67 - 73KG (Welterweight),Bronze
+1960,Rome,Wrestling,Wrestling Free.,"BLUBAUGH, Douglas Morton",USA,Men,67 - 73KG (Welterweight),Gold
+1960,Rome,Wrestling,Wrestling Free.,"OGAN, Ismail",TUR,Men,67 - 73KG (Welterweight),Silver
+1960,Rome,Wrestling,Wrestling Free.,"ANTONSSON, Hans",SWE,Men,73 - 79KG (Middleweight),Bronze
+1960,Rome,Wrestling,Wrestling Free.,"GÜNGÖR, Hasan",TUR,Men,73 - 79KG (Middleweight),Gold
+1960,Rome,Wrestling,Wrestling Free.,"SKHIRTLADZE, Georgi",URS,Men,73 - 79KG (Middleweight),Silver
+1960,Rome,Wrestling,Wrestling Free.,"ALBUL, Anatoli",URS,Men,79 - 87KG (Light-Heavyweight),Bronze
+1960,Rome,Wrestling,Wrestling Free.,"ATLI, Ismet",TUR,Men,79 - 87KG (Light-Heavyweight),Gold
+1960,Rome,Wrestling,Wrestling Free.,"TAKHTI, Gholam Reza",IRI,Men,79 - 87KG (Light-Heavyweight),Silver
+1960,Rome,Wrestling,Wrestling Gre-R,"PAZIRAYE, Mohammad",IRI,Men,- 52KG (Flyweight),Bronze
+1960,Rome,Wrestling,Wrestling Gre-R,"PIRVULESCU, Dumitru",ROU,Men,- 52KG (Flyweight),Gold
+1960,Rome,Wrestling,Wrestling Gre-R,"SAYED, Osman",EGY,Men,- 52KG (Flyweight),Silver
+1960,Rome,Wrestling,Wrestling Gre-R,"KUBAT, Karel",TCH,Men,+ 87KG (Super Heavyweight),Bronze
+1960,Rome,Wrestling,Wrestling Gre-R,"BOGDAN, Ivan",URS,Men,+ 87KG (Super Heavyweight),Gold
+1960,Rome,Wrestling,Wrestling Gre-R,"DIETRICH, Wilfried",EUA,Men,+ 87KG (Super Heavyweight),Silver
+1960,Rome,Wrestling,Wrestling Gre-R,"STOYKOV, Dinko Petrov",BUL,Men,52 - 57KG (Bantamweight),Bronze
+1960,Rome,Wrestling,Wrestling Gre-R,"KARAVAEV, Oleg",URS,Men,52 - 57KG (Bantamweight),Gold
+1960,Rome,Wrestling,Wrestling Gre-R,"CERNEA, Ion",ROU,Men,52 - 57KG (Bantamweight),Silver
+1960,Rome,Wrestling,Wrestling Gre-R,"VYRUPAEV, Konstantin",URS,Men,57 - 61KG (Featherweight),Bronze
+1960,Rome,Wrestling,Wrestling Gre-R,"SILLE, Müzahir",TUR,Men,57 - 61KG (Featherweight),Gold
+1960,Rome,Wrestling,Wrestling Gre-R,"POLYAK, Imre",HUN,Men,57 - 61KG (Featherweight),Silver
+1960,Rome,Wrestling,Wrestling Gre-R,"FREIJ, Gustav",SWE,Men,61 - 67KG (Lightweight),Bronze
+1960,Rome,Wrestling,Wrestling Gre-R,"KORIDZE, Avtandil",URS,Men,61 - 67KG (Lightweight),Gold
+1960,Rome,Wrestling,Wrestling Gre-R,"MARTINOVIC, Branko",YUG,Men,61 - 67KG (Lightweight),Silver
+1960,Rome,Wrestling,Wrestling Gre-R,"SCHIERMEYER, Rene",FRA,Men,67 - 73KG (Welterweight),Bronze
+1960,Rome,Wrestling,Wrestling Gre-R,"BAYRAK, Mithat",TUR,Men,67 - 73KG (Welterweight),Gold
+1960,Rome,Wrestling,Wrestling Gre-R,"MARITSCHNIGG, Gunther",EUA,Men,67 - 73KG (Welterweight),Silver
+1960,Rome,Wrestling,Wrestling Gre-R,"TARANU, Ion",ROU,Men,73 - 79KG (Middleweight),Bronze
+1960,Rome,Wrestling,Wrestling Gre-R,"DOBREV, Dimitre Dimitrov",BUL,Men,73 - 79KG (Middleweight),Gold
+1960,Rome,Wrestling,Wrestling Gre-R,"METZ, Lothar",EUA,Men,73 - 79KG (Middleweight),Silver
+1960,Rome,Wrestling,Wrestling Gre-R,"KARTOZIYA, Givi",URS,Men,79 - 87KG (Light-Heavyweight),Bronze
+1960,Rome,Wrestling,Wrestling Gre-R,"KIS, Tevfik",TUR,Men,79 - 87KG (Light-Heavyweight),Gold
+1960,Rome,Wrestling,Wrestling Gre-R,"BIMBALOV, Krali Peytchev",BUL,Men,79 - 87KG (Light-Heavyweight),Silver

@@ -1,0 +1,805 @@
+Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
+1908,London,Aquatics,Diving,"SPANGBERG, Arvid",SWE,Men,10M Platform,Bronze
+1908,London,Aquatics,Diving,"JOHANSSON, Hjalmar",SWE,Men,10M Platform,Gold
+1908,London,Aquatics,Diving,"MALMSTRÖM, Karl",SWE,Men,10M Platform,Silver
+1908,London,Aquatics,Diving,"GAIDZIK, George William",USA,Men,3M Springboard,Bronze
+1908,London,Aquatics,Diving,"WALZ, Gottlob",GER,Men,3M Springboard,Bronze
+1908,London,Aquatics,Diving,"ZÜRNER, Albert",GER,Men,3M Springboard,Gold
+1908,London,Aquatics,Diving,"BEHRENS, Kurt",GER,Men,3M Springboard,Silver
+1908,London,Aquatics,Swimming,"HARESNAPE, Herbert Nickall",GBR,Men,100M Backstroke,Bronze
+1908,London,Aquatics,Swimming,"BIEBERSTEIN, Arno",GER,Men,100M Backstroke,Gold
+1908,London,Aquatics,Swimming,"DAM, Hans Peter Ludwig",DEN,Men,100M Backstroke,Silver
+1908,London,Aquatics,Swimming,"JULIN, Harald S.A.",SWE,Men,100M Freestyle,Bronze
+1908,London,Aquatics,Swimming,"DANIELS, Charles",USA,Men,100M Freestyle,Gold
+1908,London,Aquatics,Swimming,"HALMAY, Zoltan",HUN,Men,100M Freestyle,Silver
+1908,London,Aquatics,Swimming,"BEAUREPAIRE, Frank E.",ANZ,Men,1500M Freestyle,Bronze
+1908,London,Aquatics,Swimming,"TAYLOR, Henry",GBR,Men,1500M Freestyle,Gold
+1908,London,Aquatics,Swimming,"BATTERSBY, Thomas Sidney",GBR,Men,1500M Freestyle,Silver
+1908,London,Aquatics,Swimming,"HANSSON, Pontus",SWE,Men,200M Breaststroke,Bronze
+1908,London,Aquatics,Swimming,"HOLMAN, Frederick",GBR,Men,200M Breaststroke,Gold
+1908,London,Aquatics,Swimming,"ROBINSON, William Walter",GBR,Men,200M Breaststroke,Silver
+1908,London,Aquatics,Swimming,"SCHEFF, Otto",AUT,Men,400M Freestyle,Bronze
+1908,London,Aquatics,Swimming,"TAYLOR, Henry",GBR,Men,400M Freestyle,Gold
+1908,London,Aquatics,Swimming,"BEAUREPAIRE, Frank E.",ANZ,Men,400M Freestyle,Silver
+1908,London,Aquatics,Swimming,"DANIELS, Charles",USA,Men,4X200M Freestyle Relay,Bronze
+1908,London,Aquatics,Swimming,"GOODWIN, Leo Budd",USA,Men,4X200M Freestyle Relay,Bronze
+1908,London,Aquatics,Swimming,"HEBNER, Harry J.",USA,Men,4X200M Freestyle Relay,Bronze
+1908,London,Aquatics,Swimming,"RICH, Leslie George",USA,Men,4X200M Freestyle Relay,Bronze
+1908,London,Aquatics,Swimming,"DERBYSHIRE, John Henry",GBR,Men,4X200M Freestyle Relay,Gold
+1908,London,Aquatics,Swimming,"FOSTER, William",GBR,Men,4X200M Freestyle Relay,Gold
+1908,London,Aquatics,Swimming,"RADMILOVIC, Paul",GBR,Men,4X200M Freestyle Relay,Gold
+1908,London,Aquatics,Swimming,"TAYLOR, Henry",GBR,Men,4X200M Freestyle Relay,Gold
+1908,London,Aquatics,Swimming,"HALMAY, Zoltan",HUN,Men,4X200M Freestyle Relay,Silver
+1908,London,Aquatics,Swimming,"LAS TORRES, Béla",HUN,Men,4X200M Freestyle Relay,Silver
+1908,London,Aquatics,Swimming,"MUNK, Jozsef",HUN,Men,4X200M Freestyle Relay,Silver
+1908,London,Aquatics,Swimming,"ZACHAR, Imre",HUN,Men,4X200M Freestyle Relay,Silver
+1908,London,Aquatics,Water polo,"CORNET, George Thomson",GBR,Men,Water Polo,Gold
+1908,London,Aquatics,Water polo,"FORSYTH, Charles Eric",GBR,Men,Water Polo,Gold
+1908,London,Aquatics,Water polo,"NEVINSON, George Wilfrid",GBR,Men,Water Polo,Gold
+1908,London,Aquatics,Water polo,"RADMILOVIC, Paul",GBR,Men,Water Polo,Gold
+1908,London,Aquatics,Water polo,"SMITH, Charles Sydney",GBR,Men,Water Polo,Gold
+1908,London,Aquatics,Water polo,"THOULD, Thomas Henry",GBR,Men,Water Polo,Gold
+1908,London,Aquatics,Water polo,"WILKINSON, George",GBR,Men,Water Polo,Gold
+1908,London,Aquatics,Water polo,"BOIN, Victor",BEL,Men,Water Polo,Silver
+1908,London,Aquatics,Water polo,"DONNERS, Hermann",BEL,Men,Water Polo,Silver
+1908,London,Aquatics,Water polo,"FEYAERTS, Fernand",BEL,Men,Water Polo,Silver
+1908,London,Aquatics,Water polo,"GREGOIRE, Oscar",BEL,Men,Water Polo,Silver
+1908,London,Aquatics,Water polo,"MEYBOOM, Herman",BEL,Men,Water Polo,Silver
+1908,London,Aquatics,Water polo,"MICHANT, Albert",BEL,Men,Water Polo,Silver
+1908,London,Aquatics,Water polo,"PLETINCX, Joseph",BEL,Men,Water Polo,Silver
+1908,London,Archery,Archery,"CABARET, Gustave",FRA,Men,Continental Style 50M,Bronze
+1908,London,Archery,Archery,"GRISOT, EugÃ¨ne G.",FRA,Men,Continental Style 50M,Gold
+1908,London,Archery,Archery,"VERNET, Louis",FRA,Men,Continental Style 50M,Silver
+1908,London,Archery,Archery,"HILL-LOWE, Beatrice Geraldine",GBR,Women,National Round (60Y - 50Y),Bronze
+1908,London,Archery,Archery,"NEWALL, Sybil Fenton Quenni",GBR,Women,National Round (60Y - 50Y),Gold
+1908,London,Archery,Archery,"DOD, Charlotte",GBR,Women,National Round (60Y - 50Y),Silver
+1908,London,Archery,Archery,"RICHARDSON, Henry Barber",USA,Men,York Round (100Y - 80Y - 60Y),Bronze
+1908,London,Archery,Archery,"DOD, William",GBR,Men,York Round (100Y - 80Y - 60Y),Gold
+1908,London,Archery,Archery,"BROOKS-KING, Reginald B.",GBR,Men,York Round (100Y - 80Y - 60Y),Silver
+1908,London,Athletics,Athletics,"KERR, Robert",CAN,Men,100M,Bronze
+1908,London,Athletics,Athletics,"WALKER, Reginald",RSA,Men,100M,Gold
+1908,London,Athletics,Athletics,"RECTOR, James",USA,Men,100M,Silver
+1908,London,Athletics,Athletics,"SPENCER, Edward Adams",GBR,Men,10Miles Walk (16093M),Bronze
+1908,London,Athletics,Athletics,"LARNER, George Edward",GBR,Men,10Miles Walk (16093M),Gold
+1908,London,Athletics,Athletics,"WEBB, Ernest",GBR,Men,10Miles Walk (16093M),Silver
+1908,London,Athletics,Athletics,"SHAW, Arthur",USA,Men,110M Hurdles,Bronze
+1908,London,Athletics,Athletics,"SMITHSON, Forrest",USA,Men,110M Hurdles,Gold
+1908,London,Athletics,Athletics,"GARRELS, John Carlyle",USA,Men,110M Hurdles,Silver
+1908,London,Athletics,Athletics,"HALLOWS, Norman",GBR,Men,1500M,Bronze
+1908,London,Athletics,Athletics,"SHEPPARD, Melvin",USA,Men,1500M,Gold
+1908,London,Athletics,Athletics,"WILSON, Harold",GBR,Men,1500M,Silver
+1908,London,Athletics,Athletics,"CARTMELL, John Nathaniel",USA,Men,200M,Bronze
+1908,London,Athletics,Athletics,"KERR, Robert",CAN,Men,200M,Gold
+1908,London,Athletics,Athletics,"CLOUGHEN, Robert",USA,Men,200M,Silver
+1908,London,Athletics,Athletics,"EISELE, John Lincoln",USA,Men,3200M Steeplechase,Bronze
+1908,London,Athletics,Athletics,"RUSSELL, Arthur",GBR,Men,3200M Steeplechase,Gold
+1908,London,Athletics,Athletics,"ROBERTSON, Arthur James",GBR,Men,3200M Steeplechase,Silver
+1908,London,Athletics,Athletics,"KERR, Harry E.",ANZ,Men,3500M Walk,Bronze
+1908,London,Athletics,Athletics,"LARNER, George Edward",GBR,Men,3500M Walk,Gold
+1908,London,Athletics,Athletics,"WEBB, Ernest",GBR,Men,3500M Walk,Silver
+1908,London,Athletics,Athletics,"DE FLEURAC, Louis N.",FRA,Men,3Miles Team (4828M),Bronze
+1908,London,Athletics,Athletics,"DREHER, Joseph",FRA,Men,3Miles Team (4828M),Bronze
+1908,London,Athletics,Athletics,"LIJANDIER, Paul",FRA,Men,3Miles Team (4828M),Bronze
+1908,London,Athletics,Athletics,"COALES, William",GBR,Men,3Miles Team (4828M),Gold
+1908,London,Athletics,Athletics,"DEAKIN, Joseph Edmund",GBR,Men,3Miles Team (4828M),Gold
+1908,London,Athletics,Athletics,"ROBERTSON, Arthur James",GBR,Men,3Miles Team (4828M),Gold
+1908,London,Athletics,Athletics,"BONHAG, George V.",USA,Men,3Miles Team (4828M),Silver
+1908,London,Athletics,Athletics,"EISELE, John Lincoln",USA,Men,3Miles Team (4828M),Silver
+1908,London,Athletics,Athletics,"TRUBE, Herbert Lawrence",USA,Men,3Miles Team (4828M),Silver
+1908,London,Athletics,Athletics,"HALSWELLE, Wyndham",GBR,Men,400M,Gold
+1908,London,Athletics,Athletics,"TREMEER, Leonard Francis",GBR,Men,400M Hurdles,Bronze
+1908,London,Athletics,Athletics,"BACON, Charles Joseph",USA,Men,400M Hurdles,Gold
+1908,London,Athletics,Athletics,"HILLMAN, Harry",USA,Men,400M Hurdles,Silver
+1908,London,Athletics,Athletics,"BODOR, Ödön",HUN,Men,4X400M Relay,Bronze
+1908,London,Athletics,Athletics,"NAGY, Jozsef",HUN,Men,4X400M Relay,Bronze
+1908,London,Athletics,Athletics,"RACZ, G.",HUN,Men,4X400M Relay,Bronze
+1908,London,Athletics,Athletics,"SIMON, Pal",HUN,Men,4X400M Relay,Bronze
+1908,London,Athletics,Athletics,"CARTMELL, John Nathaniel",USA,Men,4X400M Relay,Gold
+1908,London,Athletics,Athletics,"HAMILTON, William Frank",USA,Men,4X400M Relay,Gold
+1908,London,Athletics,Athletics,"SHEPPARD, Melvin",USA,Men,4X400M Relay,Gold
+1908,London,Athletics,Athletics,"TAYLOR, John Baxter",USA,Men,4X400M Relay,Gold
+1908,London,Athletics,Athletics,"BRAUN, Hans",GER,Men,4X400M Relay,Silver
+1908,London,Athletics,Athletics,"EICKE, Hans",GER,Men,4X400M Relay,Silver
+1908,London,Athletics,Athletics,"HOFFMANN, Artur",GER,Men,4X400M Relay,Silver
+1908,London,Athletics,Athletics,"TRIELOFF, Otto P.",GER,Men,4X400M Relay,Silver
+1908,London,Athletics,Athletics,"SVANBERG, Johan Fritiof",SWE,Men,5 Miles (8047M),Bronze
+1908,London,Athletics,Athletics,"VOIGT, Emil Robert",GBR,Men,5 Miles (8047M),Gold
+1908,London,Athletics,Athletics,"OWEN, Edward",GBR,Men,5 Miles (8047M),Silver
+1908,London,Athletics,Athletics,"BRAUN, Hans",GER,Men,800M,Bronze
+1908,London,Athletics,Athletics,"SHEPPARD, Melvin",USA,Men,800M,Gold
+1908,London,Athletics,Athletics,"LUNGHI, Emilio",ITA,Men,800M,Silver
+1908,London,Athletics,Athletics,"HORR, Marquis Franklin",USA,Men,Discus Throw,Bronze
+1908,London,Athletics,Athletics,"SHERIDAN, Martin",USA,Men,Discus Throw,Gold
+1908,London,Athletics,Athletics,"GIFFIN, Merritt Hayward",USA,Men,Discus Throw,Silver
+1908,London,Athletics,Athletics,"JÄRVINEN, Werner",FIN,Men,Discus Throw Ancient Style,Bronze
+1908,London,Athletics,Athletics,"SHERIDAN, Martin",USA,Men,Discus Throw Ancient Style,Gold
+1908,London,Athletics,Athletics,"HORR, Marquis Franklin",USA,Men,Discus Throw Ancient Style,Silver
+1908,London,Athletics,Athletics,"WALSH, Cornelius",CAN,Men,Hammer Throw,Bronze
+1908,London,Athletics,Athletics,"FLANAGAN, John Jesus",USA,Men,Hammer Throw,Gold
+1908,London,Athletics,Athletics,"MCGRATH, Matthew J.",USA,Men,Hammer Throw,Silver
+1908,London,Athletics,Athletics,"PORTER, Harry Franklin",USA,Men,High Jump,Gold
+1908,London,Athletics,Athletics,"ANDRE, Georges",FRA,Men,High Jump,Silver
+1908,London,Athletics,Athletics,"LEAHY, Cornelius",GBR,Men,High Jump,Silver
+1908,London,Athletics,Athletics,"SOMODY, Istvan",HUN,Men,High Jump,Silver
+1908,London,Athletics,Athletics,"EWRY, Ray",USA,Men,"High Jump, Standing",Gold
+1908,London,Athletics,Athletics,"BILLER, John",USA,Men,"High Jump, Standing",Silver
+1908,London,Athletics,Athletics,"TSICLITIRAS, Konstantinos",GRE,Men,"High Jump, Standing",Silver
+1908,London,Athletics,Athletics,"NILSSON, Otto",SWE,Men,Javelin Throw,Bronze
+1908,London,Athletics,Athletics,"LEMMING, Eric",SWE,Men,Javelin Throw,Gold
+1908,London,Athletics,Athletics,"HALSE, Arne",NOR,Men,Javelin Throw,Silver
+1908,London,Athletics,Athletics,"HALSE, Arne",NOR,Men,Javelin Throw Freestyle,Bronze
+1908,London,Athletics,Athletics,"LEMMING, Eric",SWE,Men,Javelin Throw Freestyle,Gold
+1908,London,Athletics,Athletics,"DORIZAS, Mikael M.",GRE,Men,Javelin Throw Freestyle,Silver
+1908,London,Athletics,Athletics,"BRICKER, Calvin David",CAN,Men,Long Jump,Bronze
+1908,London,Athletics,Athletics,"IRONS, Francis C.",USA,Men,Long Jump,Gold
+1908,London,Athletics,Athletics,"KELLY, Daniel",USA,Men,Long Jump,Silver
+1908,London,Athletics,Athletics,"SHERIDAN, Martin",USA,Men,"Long Jump, Standing",Bronze
+1908,London,Athletics,Athletics,"EWRY, Ray",USA,Men,"Long Jump, Standing",Gold
+1908,London,Athletics,Athletics,"TSICLITIRAS, Konstantinos",GRE,Men,"Long Jump, Standing",Silver
+1908,London,Athletics,Athletics,"FORSHAW, Joseph",USA,Men,Marathon,Bronze
+1908,London,Athletics,Athletics,"HAYES, John Joseph",USA,Men,Marathon,Gold
+1908,London,Athletics,Athletics,"HEFFERON, Charles A.",RSA,Men,Marathon,Silver
+1908,London,Athletics,Athletics,"ARCHIBALD, Edward Blake",CAN,Men,Pole Vault,Bronze
+1908,London,Athletics,Athletics,"JACOBS, Charles Sherman",USA,Men,Pole Vault,Bronze
+1908,London,Athletics,Athletics,"SÖDERSTRÖM, Bruno",SWE,Men,Pole Vault,Bronze
+1908,London,Athletics,Athletics,"COOKE, Edward Tiffin",USA,Men,Pole Vault,Gold
+1908,London,Athletics,Athletics,"GILBERT, Alfred Carleten",USA,Men,Pole Vault,Gold
+1908,London,Athletics,Athletics,"GARRELS, John Carlyle",USA,Men,Shot Put,Bronze
+1908,London,Athletics,Athletics,"ROSE, Ralph",USA,Men,Shot Put,Gold
+1908,London,Athletics,Athletics,"HORGAN, Dennis",GBR,Men,Shot Put,Silver
+1908,London,Athletics,Athletics,"LARSEN, Edvard",NOR,Men,Triple Jump,Bronze
+1908,London,Athletics,Athletics,"AHEARNE, Timoty J.",GBR,Men,Triple Jump,Gold
+1908,London,Athletics,Athletics,"MACDONALD, J.Garfield",CAN,Men,Triple Jump,Silver
+1908,London,Boxing,Boxing,"WEBB, William",GBR,Men,- 52.62KG (Bantamweight),Bronze
+1908,London,Boxing,Boxing,"THOMAS, A. Henry",GBR,Men,- 52.62KG (Bantamweight),Gold
+1908,London,Boxing,Boxing,"CONDON, John",GBR,Men,- 52.62KG (Bantamweight),Silver
+1908,London,Boxing,Boxing,"PARKS, Frederick",GBR,Men,+ 71.67KG (Heavyweight),Bronze
+1908,London,Boxing,Boxing,"OLDMAN, Albert Leonard",GBR,Men,+ 71.67KG (Heavyweight),Gold
+1908,London,Boxing,Boxing,"EVANS, Sydney Charles H.",GBR,Men,+ 71.67KG (Heavyweight),Silver
+1908,London,Boxing,Boxing,"RODDIN, Hugh",GBR,Men,52.62 - 57.15KG (Featherweight),Bronze
+1908,London,Boxing,Boxing,"GUNN, Richard Kenneth",GBR,Men,52.62 - 57.15KG (Featherweight),Gold
+1908,London,Boxing,Boxing,"MORRIS, Charles W.",GBR,Men,52.62 - 57.15KG (Featherweight),Silver
+1908,London,Boxing,Boxing,"JOHNSON, Harry H.",GBR,Men,57.15 - 63.5KG (Lightweight),Bronze
+1908,London,Boxing,Boxing,"GRACE, Frederick",GBR,Men,57.15 - 63.5KG (Lightweight),Gold
+1908,London,Boxing,Boxing,"SPILLER, M. Frederick",GBR,Men,57.15 - 63.5KG (Lightweight),Silver
+1908,London,Boxing,Boxing,"PHILO, William",GBR,Men,63.5 - 71.67KG (Middleweight),Bronze
+1908,London,Boxing,Boxing,"DOUGLAS, John William Henry T.",GBR,Men,63.5 - 71.67KG (Middleweight),Gold
+1908,London,Boxing,Boxing,"BAKER, Reginald L.",ANZ,Men,63.5 - 71.67KG (Middleweight),Silver
+1908,London,Cycling,Cycling Track,"LAPIZE, Octave",FRA,Men,100KM,Bronze
+1908,London,Cycling,Cycling Track,"BARTLETT, Charles Henry",GBR,Men,100KM,Gold
+1908,London,Cycling,Cycling Track,"DENNY, Arthur",GBR,Men,100KM,Silver
+1908,London,Cycling,Cycling Track,"ANDERSON, William",CAN,Men,"1980 Yards Pursuit, Team",Bronze
+1908,London,Cycling,Cycling Track,"ANDREWS, Walter",CAN,Men,"1980 Yards Pursuit, Team",Bronze
+1908,London,Cycling,Cycling Track,"MCCARTHY, Frederick",CAN,Men,"1980 Yards Pursuit, Team",Bronze
+1908,London,Cycling,Cycling Track,"MORTON, William",CAN,Men,"1980 Yards Pursuit, Team",Bronze
+1908,London,Cycling,Cycling Track,"JONES, Benjamin",GBR,Men,"1980 Yards Pursuit, Team",Gold
+1908,London,Cycling,Cycling Track,"KINGSBURY, Clarence Brickwood",GBR,Men,"1980 Yards Pursuit, Team",Gold
+1908,London,Cycling,Cycling Track,"MEREDITH, Leonard Lewis",GBR,Men,"1980 Yards Pursuit, Team",Gold
+1908,London,Cycling,Cycling Track,"PAYNE, Ernest",GBR,Men,"1980 Yards Pursuit, Team",Gold
+1908,London,Cycling,Cycling Track,"GÖTZE, Max",GER,Men,"1980 Yards Pursuit, Team",Silver
+1908,London,Cycling,Cycling Track,"KATZER, Rudolf",GER,Men,"1980 Yards Pursuit, Team",Silver
+1908,London,Cycling,Cycling Track,"MARTENS, Herman",GER,Men,"1980 Yards Pursuit, Team",Silver
+1908,London,Cycling,Cycling Track,"NEUMER, Karl",GER,Men,"1980 Yards Pursuit, Team",Silver
+1908,London,Cycling,Cycling Track,"BROOKS, Colin",GBR,Men,2000M Tandem,Bronze
+1908,London,Cycling,Cycling Track,"ISAACS, Walter H.T.",GBR,Men,2000M Tandem,Bronze
+1908,London,Cycling,Cycling Track,"AUFFRAY, André",FRA,Men,2000M Tandem,Gold
+1908,London,Cycling,Cycling Track,"SCHILLES, Maurice",FRA,Men,2000M Tandem,Gold
+1908,London,Cycling,Cycling Track,"HAMLIN, Frederick G.",GBR,Men,2000M Tandem,Silver
+1908,London,Cycling,Cycling Track,"JOHNSON, Horace Thomas",GBR,Men,2000M Tandem,Silver
+1908,London,Cycling,Cycling Track,"WERBROECK, Joseph",BEL,Men,20KM,Bronze
+1908,London,Cycling,Cycling Track,"KINGSBURY, Clarence Brickwood",GBR,Men,20KM,Gold
+1908,London,Cycling,Cycling Track,"JONES, Benjamin",GBR,Men,20KM,Silver
+1908,London,Cycling,Cycling Track,"AUFFRAY, André",FRA,Men,5000M,Bronze
+1908,London,Cycling,Cycling Track,"JONES, Benjamin",GBR,Men,5000M,Gold
+1908,London,Cycling,Cycling Track,"SCHILLES, Maurice",FRA,Men,5000M,Silver
+1908,London,Cycling,Cycling Track,"NEUMER, Karl",GER,Men,One Lap (660Y) Sprint,Bronze
+1908,London,Cycling,Cycling Track,"JOHNSON, Victor Louis",GBR,Men,One Lap (660Y) Sprint,Gold
+1908,London,Cycling,Cycling Track,"DEMANGEL, Emile",FRA,Men,One Lap (660Y) Sprint,Silver
+1908,London,Fencing,Fencing,"OLIVIER, Eugène Victor",FRA,Men,Épée Individual,Bronze
+1908,London,Fencing,Fencing,"ALIBERT, Gaston",FRA,Men,Épée Individual,Gold
+1908,London,Fencing,Fencing,"LIPPMANN, Alexandre",FRA,Men,Épée Individual,Silver
+1908,London,Fencing,Fencing,"ANSPACH, Paul",BEL,Men,Épée Team,Bronze
+1908,London,Fencing,Fencing,"BEURAIN, Désiré",BEL,Men,Épée Team,Bronze
+1908,London,Fencing,Fencing,"DE MONTIGNY, Fernand",BEL,Men,Épée Team,Bronze
+1908,London,Fencing,Fencing,"FEYERICK, Ferdinand",BEL,Men,Épée Team,Bronze
+1908,London,Fencing,Fencing,"ROM, François",BEL,Men,Épée Team,Bronze
+1908,London,Fencing,Fencing,"ALIBERT, Gaston",FRA,Men,Épée Team,Gold
+1908,London,Fencing,Fencing,"BERGER, Henri-Georges",FRA,Men,Épée Team,Gold
+1908,London,Fencing,Fencing,"COLLIGNON, Charles",FRA,Men,Épée Team,Gold
+1908,London,Fencing,Fencing,"OLIVIER, Eugène Victor",FRA,Men,Épée Team,Gold
+1908,London,Fencing,Fencing,"DANIELL, Charles Leaf",GBR,Men,Épée Team,Silver
+1908,London,Fencing,Fencing,"HAIG, Cecil Henry",GBR,Men,Épée Team,Silver
+1908,London,Fencing,Fencing,"HOLT, Martin Drummond",GBR,Men,Épée Team,Silver
+1908,London,Fencing,Fencing,"MONTGOMERIE, Robert Cecil",GBR,Men,Épée Team,Silver
+1908,London,Fencing,Fencing,"GOPPOLD DE LOBSDORF, Vilem",BOH,Men,Sabre Individual,Bronze
+1908,London,Fencing,Fencing,"FUCHS, Jenö",HUN,Men,Sabre Individual,Gold
+1908,London,Fencing,Fencing,"ZULAWSKY, Béla",HUN,Men,Sabre Individual,Silver
+1908,London,Fencing,Fencing,"GOPPOLD DE LOBSDORF, Vilem",BOH,Men,Sabre Team,Bronze
+1908,London,Fencing,Fencing,"LADA, Vlastimil",BOH,Men,Sabre Team,Bronze
+1908,London,Fencing,Fencing,"SCHEJBAL, Bedrich",BOH,Men,Sabre Team,Bronze
+1908,London,Fencing,Fencing,"TUCEK, Frantisek",BOH,Men,Sabre Team,Bronze
+1908,London,Fencing,Fencing,"FUCHS, Jenö",HUN,Men,Sabre Team,Gold
+1908,London,Fencing,Fencing,"GERDE, Oskar",HUN,Men,Sabre Team,Gold
+1908,London,Fencing,Fencing,"TOTH, Peter",HUN,Men,Sabre Team,Gold
+1908,London,Fencing,Fencing,"WERKNER, Lajos",HUN,Men,Sabre Team,Gold
+1908,London,Fencing,Fencing,"BERTINETTI, Marcello",ITA,Men,Sabre Team,Silver
+1908,London,Fencing,Fencing,"NOWAK, Riccardo",ITA,Men,Sabre Team,Silver
+1908,London,Fencing,Fencing,"OLIVIER, Abelardo",ITA,Men,Sabre Team,Silver
+1908,London,Fencing,Fencing,"PIRZIO BIROLI, Alessandro",ITA,Men,Sabre Team,Silver
+1908,London,Football,Football,"BREUWKES, Reinier Bertus",NED,Men,Football,Bronze
+1908,London,Football,Football,"DE BRUYN KOPS, George François",NED,Men,Football,Bronze
+1908,London,Football,Football,"DE KORVER, Johannes Marius",NED,Men,Football,Bronze
+1908,London,Football,Football,"HEIJTING, Karel",NED,Men,Football,Bronze
+1908,London,Football,Football,"MUNDT, Emil Gustav",NED,Men,Football,Bronze
+1908,London,Football,Football,"OTTEN, Lou",NED,Men,Football,Bronze
+1908,London,Football,Football,"REEMAN, Gerald Simon",NED,Men,Football,Bronze
+1908,London,Football,Football,"SNETLAGE, Eduard",NED,Men,Football,Bronze
+1908,London,Football,Football,"SOL, Johan Eduard",NED,Men,Football,Bronze
+1908,London,Football,Football,"THOMEE, Jan",NED,Men,Football,Bronze
+1908,London,Football,Football,"WELCKER, Jan Herman",NED,Men,Football,Bronze
+1908,London,Football,Football,"BAILEY, Horace Peter",GBR,Men,Football,Gold
+1908,London,Football,Football,"BERRY, Arthur",GBR,Men,Football,Gold
+1908,London,Football,Football,"CHAPMAN, Frederick William",GBR,Men,Football,Gold
+1908,London,Football,Football,"CORBETT, Walter Samuel",GBR,Men,Football,Gold
+1908,London,Football,Football,"HARDMAN, Harold Payne",GBR,Men,Football,Gold
+1908,London,Football,Football,"HAWKES, Robert Murray",GBR,Men,Football,Gold
+1908,London,Football,Football,"HUNT, Kenneth Reginald Gunnery",GBR,Men,Football,Gold
+1908,London,Football,Football,"PURNELL, Clyde Honeysett",GBR,Men,Football,Gold
+1908,London,Football,Football,"SMITH, Herbert",GBR,Men,Football,Gold
+1908,London,Football,Football,"STAPLEY, Henry",GBR,Men,Football,Gold
+1908,London,Football,Football,"WOODWARD, Vivian John",GBR,Men,Football,Gold
+1908,London,Football,Football,"BOHR, Harald August",DEN,Men,Football,Silver
+1908,London,Football,Football,"BUCHWALD, Charles",DEN,Men,Football,Silver
+1908,London,Football,Football,"DRESCHER, Ludwig",DEN,Men,Football,Silver
+1908,London,Football,Football,"HANSEN, Harald",DEN,Men,Football,Silver
+1908,London,Football,Football,"LINDGREEN, August Ludwig",DEN,Men,Football,Silver
+1908,London,Football,Football,"MIDDELBOE, Christian",DEN,Men,Football,Silver
+1908,London,Football,Football,"MIDDELBOE, Niels",DEN,Men,Football,Silver
+1908,London,Football,Football,"NIELSEN, Niels Oscar",DEN,Men,Football,Silver
+1908,London,Football,Football,"NIELSEN, Sofus Erhard",DEN,Men,Football,Silver
+1908,London,Football,Football,"RASMUSSEN, Björn Vilhelm Ravn",DEN,Men,Football,Silver
+1908,London,Football,Football,"WOLFHAGEN, Vilhelm",DEN,Men,Football,Silver
+1908,London,Gymnastics,Artistic G.,"SEGURA, B. Louis",FRA,Men,Individual All-Round,Bronze
+1908,London,Gymnastics,Artistic G.,"BRAGLIA, G. Alberto",ITA,Men,Individual All-Round,Gold
+1908,London,Gymnastics,Artistic G.,"TYSAL, S.W.",GBR,Men,Individual All-Round,Silver
+1908,London,Gymnastics,Artistic G.,"FORSSTRÖM, Eino Vilho",FIN,Men,Team Competition,Bronze
+1908,London,Gymnastics,Artistic G.,"GRANSTRÖM, Otto",FIN,Men,Team Competition,Bronze
+1908,London,Gymnastics,Artistic G.,"KEMP, Johan Valdemar",FIN,Men,Team Competition,Bronze
+1908,London,Gymnastics,Artistic G.,"KYYKOSKI, Livara",FIN,Men,Team Competition,Bronze
+1908,London,Gymnastics,Artistic G.,"LEHMUSTO, Heikki",FIN,Men,Team Competition,Bronze
+1908,London,Gymnastics,Artistic G.,"LINDROTH, Johan",FIN,Men,Team Competition,Bronze
+1908,London,Gymnastics,Artistic G.,"LINKO, Yrjö",FIN,Men,Team Competition,Bronze
+1908,London,Gymnastics,Artistic G.,"LINNA, Edvard",FIN,Men,Team Competition,Bronze
+1908,London,Gymnastics,Artistic G.,"MARKKANEN, Matti",FIN,Men,Team Competition,Bronze
+1908,London,Gymnastics,Artistic G.,"MIKKOLAINEN, Kaasrlo Eino",FIN,Men,Team Competition,Bronze
+1908,London,Gymnastics,Artistic G.,"NIEMINEN, Veli Heikki",FIN,Men,Team Competition,Bronze
+1908,London,Gymnastics,Artistic G.,"PAASIA, Kaarlo Kustaa",FIN,Men,Team Competition,Bronze
+1908,London,Gymnastics,Artistic G.,"POHJANPÄÄ, Arvi",FIN,Men,Team Competition,Bronze
+1908,London,Gymnastics,Artistic G.,"POHJONEN, Aarne",FIN,Men,Team Competition,Bronze
+1908,London,Gymnastics,Artistic G.,"RAILIO, Eino",FIN,Men,Team Competition,Bronze
+1908,London,Gymnastics,Artistic G.,"RÜPINEN, H.A.",FIN,Men,Team Competition,Bronze
+1908,London,Gymnastics,Artistic G.,"SAARINEN, Arno",FIN,Men,Team Competition,Bronze
+1908,London,Gymnastics,Artistic G.,"SAHLSTEIN, Einar Werner",FIN,Men,Team Competition,Bronze
+1908,London,Gymnastics,Artistic G.,"SALOVAARA, Aarne",FIN,Men,Team Competition,Bronze
+1908,London,Gymnastics,Artistic G.,"SANDELIN, Karl Viktor Torsten",FIN,Men,Team Competition,Bronze
+1908,London,Gymnastics,Artistic G.,"SIPILÄ, Eljas E.",FIN,Men,Team Competition,Bronze
+1908,London,Gymnastics,Artistic G.,"SMEDS, Viktor",FIN,Men,Team Competition,Bronze
+1908,London,Gymnastics,Artistic G.,"SOINIO, Kaarlo Kyösti",FIN,Men,Team Competition,Bronze
+1908,London,Gymnastics,Artistic G.,"STENBERG, Kurt Enoch",FIN,Men,Team Competition,Bronze
+1908,London,Gymnastics,Artistic G.,"WEGELIUS, Karl Magnus",FIN,Men,Team Competition,Bronze
+1908,London,Gymnastics,Artistic G.,"ANDERSSON, T.",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"ASBRINK, Gosta",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"BERGMAN, C.",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"BERTILSSON, Per Daniel",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"CARLBERG, G. Vilhelm",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"CEDERCRONA, Hjalmar Axel Ritz",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"CERVIN, Andreas",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"DEGERMARK, Rudolf",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"ERIKSSON, C.",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"FOLCKER, Carl Wilhelm",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"FORSSEN, S.",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"FORSSMAN, Sven",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"GEIDEL, F.",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"GRANFELT, Erik",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"HARLEMANN, Carl",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"HELLSTEN, Nils Erik",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"HÖJER, Gunnar",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"HOLMBERG, Arvid",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"HOLMBERG, Carl",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"HOLMBERG, Osvald",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"JAHNKE, Hugo",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"JANSSON, O.",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"JARTEN, Johan",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"JOHNSSON, Gustag",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"JOHNSSON, Rolf",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"JONSSON, H.",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"KANTZOW, Nils",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"KIRISTEN, L.",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"KJELLEN, L.",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"LANDBERG, Sven",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"LANNER, Olle",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"LJUNG, Axel",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"MOBERG, Osvald",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"MÖLLER, J.",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"NILSSON, Per Einar",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"NORBERG, D.",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"NORBERG, Eric",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"NORBERG, Thomas",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"NORLING, Axel",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"NORLING, Lars Daniel",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"OLSEN, G.",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"PETTERSON, Leonard",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"RASSANDER, H.",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"ROSEN, Sven",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"ROSENQUIST, Gustaf",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"RYDIN, C.",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"SANDBERG, S.",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"SEGER, Albert",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"SEGER, Alex",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"SILFVERSTRAND, Carl",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"SJÖBLOM, Axel",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"SÖRVIK, Birger",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"SÖRVIK, Haakon",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"STIERNSPETZ, Yngve",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"SVENSSON, Karl Johan",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"VINGQVIST, Karl Gustaf",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"WIDELL, F.",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"WIEKMAN, G.",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"WIMAN, David",SWE,Men,Team Competition,Gold
+1908,London,Gymnastics,Artistic G.,"AMUNDSEN, Arthur M.",NOR,Men,Team Competition,Silver
+1908,London,Gymnastics,Artistic G.,"ANDERSEN, Carl Albert",NOR,Men,Team Competition,Silver
+1908,London,Gymnastics,Artistic G.,"AUTHEN, Otto F.",NOR,Men,Team Competition,Silver
+1908,London,Gymnastics,Artistic G.,"BERSEN, P.A.",NOR,Men,Team Competition,Silver
+1908,London,Gymnastics,Artistic G.,"BOHNE, Hermann",NOR,Men,Team Competition,Silver
+1908,London,Gymnastics,Artistic G.,"BOYESEN, Trygve Carlsen",NOR,Men,Team Competition,Silver
+1908,London,Gymnastics,Artistic G.,"BYE, Oscar Wilhelm",NOR,Men,Team Competition,Silver
+1908,London,Gymnastics,Artistic G.,"CARLSRUD, Conrad M.",NOR,Men,Team Competition,Silver
+1908,London,Gymnastics,Artistic G.,"ENGEBRETSEN, Eugene",NOR,Men,Team Competition,Silver
+1908,London,Gymnastics,Artistic G.,"FORSTENSEN, J.",NOR,Men,Team Competition,Silver
+1908,London,Gymnastics,Artistic G.,"GRÖNER, Sverre",NOR,Men,Team Competition,Silver
+1908,London,Gymnastics,Artistic G.,"HALVORSEN, Harald",NOR,Men,Team Competition,Silver
+1908,London,Gymnastics,Artistic G.,"HANSEN, Harald",NOR,Men,Team Competition,Silver
+1908,London,Gymnastics,Artistic G.,"HOL, Peter",NOR,Men,Team Competition,Silver
+1908,London,Gymnastics,Artistic G.,"IVERSEN, Ole",NOR,Men,Team Competition,Silver
+1908,London,Gymnastics,Artistic G.,"JESPERSEN, Per Mathias",NOR,Men,Team Competition,Silver
+1908,London,Gymnastics,Artistic G.,"JOHANESSEN, Sigurd Erhardt A.",NOR,Men,Team Competition,Silver
+1908,London,Gymnastics,Artistic G.,"KIOER, Nicolai",NOR,Men,Team Competition,Silver
+1908,London,Gymnastics,Artistic G.,"KLAETH, Carl",NOR,Men,Team Competition,Silver
+1908,London,Gymnastics,Artistic G.,"LARSEN, Thor",NOR,Men,Team Competition,Silver
+1908,London,Gymnastics,Artistic G.,"LEFDAHL, Rolf",NOR,Men,Team Competition,Silver
+1908,London,Gymnastics,Artistic G.,"LEM, Hans Schumann",NOR,Men,Team Competition,Silver
+1908,London,Gymnastics,Artistic G.,"MOEN, Anders",NOR,Men,Team Competition,Silver
+1908,London,Gymnastics,Artistic G.,"OLSEN, Fritjof",NOR,Men,Team Competition,Silver
+1908,London,Gymnastics,Artistic G.,"PEDERSEN, Carl Alfred",NOR,Men,Team Competition,Silver
+1908,London,Gymnastics,Artistic G.,"PEDERSEN, Paul",NOR,Men,Team Competition,Silver
+1908,London,Gymnastics,Artistic G.,"SALVESEN, B.",NOR,Men,Team Competition,Silver
+1908,London,Gymnastics,Artistic G.,"SIVERTSEN, Sigvard",NOR,Men,Team Competition,Silver
+1908,London,Gymnastics,Artistic G.,"SKRATAAS, Johan",NOR,Men,Team Competition,Silver
+1908,London,Gymnastics,Artistic G.,"SMEVIK, Harald",NOR,Men,Team Competition,Silver
+1908,London,Gymnastics,Artistic G.,"STRAND, Andreas",NOR,Men,Team Competition,Silver
+1908,London,Gymnastics,Artistic G.,"SYVERTSEN, Olaf",NOR,Men,Team Competition,Silver
+1908,London,Hockey,Hockey,"BAILLON, Louischarles",GBR,Men,Hockey,Gold
+1908,London,Hockey,Hockey,"FREEMAN, Harry Scott",GBR,Men,Hockey,Gold
+1908,London,Hockey,Hockey,"GREEN, Eric Hubert",GBR,Men,Hockey,Gold
+1908,London,Hockey,Hockey,"LOGAN, Gerald",GBR,Men,Hockey,Gold
+1908,London,Hockey,Hockey,"NOBLE, Alan H.",GBR,Men,Hockey,Gold
+1908,London,Hockey,Hockey,"PAGE, Edgar Wells",GBR,Men,Hockey,Gold
+1908,London,Hockey,Hockey,"PRIDMORE, Reginald Geoge",GBR,Men,Hockey,Gold
+1908,London,Hockey,Hockey,"REES, Percy Montague",GBR,Men,Hockey,Gold
+1908,London,Hockey,Hockey,"ROBINSON, John Yate",GBR,Men,Hockey,Gold
+1908,London,Hockey,Hockey,"SHOVELLER, Stanley Howard",GBR,Men,Hockey,Gold
+1908,London,Hockey,Hockey,"WOOD, Harvey Jesse",GBR,Men,Hockey,Gold
+1908,London,Hockey,Hockey,"ALLMAN-SMITH, Eric Percival",GBR,Men,Hockey,Silver
+1908,London,Hockey,Hockey,"BROWN, Henry Joseph",GBR,Men,Hockey,Silver
+1908,London,Hockey,Hockey,"CAMPBELL, Walter Islay",GBR,Men,Hockey,Silver
+1908,London,Hockey,Hockey,"GRAHAM, William Ernest",GBR,Men,Hockey,Silver
+1908,London,Hockey,Hockey,"GREGG, Richard George",GBR,Men,Hockey,Silver
+1908,London,Hockey,Hockey,"HOLMES, Edgar Peter C.",GBR,Men,Hockey,Silver
+1908,London,Hockey,Hockey,"KENNEDY, Robert L.",GBR,Men,Hockey,Silver
+1908,London,Hockey,Hockey,"MURPHY, Henry Lawson",GBR,Men,Hockey,Silver
+1908,London,Hockey,Hockey,"PETERSON, Walter E.",GBR,Men,Hockey,Silver
+1908,London,Hockey,Hockey,"POWER, Charles F.",GBR,Men,Hockey,Silver
+1908,London,Hockey,Hockey,"ROBINSON, Frank L.",GBR,Men,Hockey,Silver
+1908,London,Jeu de paume,Jeu de Paume,"LYTTON, Neville Stephen",GBR,Men,Individual,Bronze
+1908,London,Jeu de paume,Jeu de Paume,"GOULD, Jay",USA,Men,Individual,Gold
+1908,London,Jeu de paume,Jeu de Paume,"MILES, Eustace Hamilton",GBR,Men,Individual,Silver
+1908,London,Lacrosse,Lacrosse,"BRENNAN, Patrick",CAN,Men,Lacrosse,Gold
+1908,London,Lacrosse,Lacrosse,"BRODERICK, John",CAN,Men,Lacrosse,Gold
+1908,London,Lacrosse,Lacrosse,"CAMPBELL, George H.",CAN,Men,Lacrosse,Gold
+1908,London,Lacrosse,Lacrosse,"DILLON, Angus F.",CAN,Men,Lacrosse,Gold
+1908,London,Lacrosse,Lacrosse,"DIXON, Frank J.",CAN,Men,Lacrosse,Gold
+1908,London,Lacrosse,Lacrosse,"DUCKETT, Richard Louis",CAN,Men,Lacrosse,Gold
+1908,London,Lacrosse,Lacrosse,"FYON, J.",CAN,Men,Lacrosse,Gold
+1908,London,Lacrosse,Lacrosse,"GORMAN, Thomas Patrick",CAN,Men,Lacrosse,Gold
+1908,London,Lacrosse,Lacrosse,"HAMILTON, Ernest",CAN,Men,Lacrosse,Gold
+1908,London,Lacrosse,Lacrosse,"HOOBIN, Henry Frank",CAN,Men,Lacrosse,Gold
+1908,London,Lacrosse,Lacrosse,"MARA, A.",CAN,Men,Lacrosse,Gold
+1908,London,Lacrosse,Lacrosse,"MCKERROW, Clarence D.",CAN,Men,Lacrosse,Gold
+1908,London,Lacrosse,Lacrosse,"MCLEOD, D.",CAN,Men,Lacrosse,Gold
+1908,London,Lacrosse,Lacrosse,"RENNIE, George H.",CAN,Men,Lacrosse,Gold
+1908,London,Lacrosse,Lacrosse,"TURNBULL, Alexander T.",CAN,Men,Lacrosse,Gold
+1908,London,Lacrosse,Lacrosse,"ALEXANDER, Gustav Bernhard",GBR,Men,Lacrosse,Silver
+1908,London,Lacrosse,Lacrosse,"ALEXANDER, J.",GBR,Men,Lacrosse,Silver
+1908,London,Lacrosse,Lacrosse,"BLOCKEY, L.",GBR,Men,Lacrosse,Silver
+1908,London,Lacrosse,Lacrosse,"BUCKLAND, Gerald Frederick",GBR,Men,Lacrosse,Silver
+1908,London,Lacrosse,Lacrosse,"DUTTON, E.O.",GBR,Men,Lacrosse,Silver
+1908,London,Lacrosse,Lacrosse,"GILBEY, V.G.",GBR,Men,Lacrosse,Silver
+1908,London,Lacrosse,Lacrosse,"HAYES, S.N.",GBR,Men,Lacrosse,Silver
+1908,London,Lacrosse,Lacrosse,"JOHNSON, F.S.",GBR,Men,Lacrosse,Silver
+1908,London,Lacrosse,Lacrosse,"JOHNSON, William Athelstan",GBR,Men,Lacrosse,Silver
+1908,London,Lacrosse,Lacrosse,"JONES, Edward Percy",GBR,Men,Lacrosse,Silver
+1908,London,Lacrosse,Lacrosse,"MARTIN, R.G.W.",GBR,Men,Lacrosse,Silver
+1908,London,Lacrosse,Lacrosse,"MASON, G.",GBR,Men,Lacrosse,Silver
+1908,London,Lacrosse,Lacrosse,"MASON, G.J.",GBR,Men,Lacrosse,Silver
+1908,London,Lacrosse,Lacrosse,"PARKER-SMITH, J.",GBR,Men,Lacrosse,Silver
+1908,London,Lacrosse,Lacrosse,"RAMSEY, H.W.",GBR,Men,Lacrosse,Silver
+1908,London,Lacrosse,Lacrosse,"SCOTT, Charles Hubert",GBR,Men,Lacrosse,Silver
+1908,London,Lacrosse,Lacrosse,"SHORROCKS, H.",GBR,Men,Lacrosse,Silver
+1908,London,Lacrosse,Lacrosse,"WHITLEY, Normnan Henry Pownall",GBR,Men,Lacrosse,Silver
+1908,London,Polo,Polo,"MILLER, Charles Darley",GBR,Men,Polo,Gold
+1908,London,Polo,Polo,"MILLER, George Arthur",GBR,Men,Polo,Gold
+1908,London,Polo,Polo,"NICKALLS, Patteson Wormesley",GBR,Men,Polo,Gold
+1908,London,Polo,Polo,"WILSON, Herbert Haydon",GBR,Men,Polo,Gold
+1908,London,Polo,Polo,"BUCKMASTER, Walter Selby",GBR,Men,Polo,Silver
+1908,London,Polo,Polo,"FREAKE, Frederick Maitland",GBR,Men,Polo,Silver
+1908,London,Polo,Polo,"HARDRESS, Lloyd",GBR,Men,Polo,Silver
+1908,London,Polo,Polo,"JONES, Walter John Henry",GBR,Men,Polo,Silver
+1908,London,Polo,Polo,"MCCANN, John Paul",GBR,Men,Polo,Silver
+1908,London,Polo,Polo,"O'REILLY, Percy Philip",GBR,Men,Polo,Silver
+1908,London,Polo,Polo,"ROTHERHAM, Anthony Morgan",GBR,Men,Polo,Silver
+1908,London,Polo,Polo,"WODEHOUSE, John",GBR,Men,Polo,Silver
+1908,London,Rackets,Rackets,"LEAF, Henry Meredith",GBR,Men,Double,Bronze
+1908,London,Rackets,Rackets,"NOEL, Evan Baille",GBR,Men,Double,Bronze
+1908,London,Rackets,Rackets,"ASTOR, John Jacob",GBR,Men,Double,Gold
+1908,London,Rackets,Rackets,"PENNELL, Vane Hungerford",GBR,Men,Double,Gold
+1908,London,Rackets,Rackets,"BROWNING, Cecil",GBR,Men,Double,Silver
+1908,London,Rackets,Rackets,"BURY, Edward William",GBR,Men,Double,Silver
+1908,London,Rackets,Rackets,"ASTOR, John Jacob",GBR,Men,Individual,Bronze
+1908,London,Rackets,Rackets,"BROUGHAM, Henry",GBR,Men,Individual,Bronze
+1908,London,Rackets,Rackets,"NOEL, Evan Baille",GBR,Men,Individual,Gold
+1908,London,Rackets,Rackets,"LEAF, Henry Meredith",GBR,Men,Individual,Silver
+1908,London,Rowing,Rowing,"DÜSKOW, Willi",GER,Men,Coxless Pair (2-),Bronze
+1908,London,Rowing,Rowing,"JACKES, Norman B.",CAN,Men,Coxless Pair (2-),Bronze
+1908,London,Rowing,Rowing,"STAHNKE, Martin",GER,Men,Coxless Pair (2-),Bronze
+1908,London,Rowing,Rowing,"TOMS, Fred P.",CAN,Men,Coxless Pair (2-),Bronze
+1908,London,Rowing,Rowing,"FENNING, John Reginald Keith",GBR,Men,Coxless Pair (2-),Gold
+1908,London,Rowing,Rowing,"THOMSON, Gordon Lindsay",GBR,Men,Coxless Pair (2-),Gold
+1908,London,Rowing,Rowing,"FAIRBAIRN, George Eric",GBR,Men,Coxless Pair (2-),Silver
+1908,London,Rowing,Rowing,"VERDON, Philip",GBR,Men,Coxless Pair (2-),Silver
+1908,London,Rowing,Rowing,"BALFOUR, Gordon Bruce",CAN,Men,Eight With Coxswain (8+),Bronze
+1908,London,Rowing,Rowing,"BOYLE, Richard Frederick",GBR,Men,Eight With Coxswain (8+),Bronze
+1908,London,Rowing,Rowing,"BURN, John Southerden",GBR,Men,Eight With Coxswain (8+),Bronze
+1908,London,Rowing,Rowing,"CARVER, Oswald Armitage",GBR,Men,Eight With Coxswain (8+),Bronze
+1908,London,Rowing,Rowing,"GALE, Becher Robert",CAN,Men,Eight With Coxswain (8+),Bronze
+1908,London,Rowing,Rowing,"GOLDSMITH, Henry Mills",GBR,Men,Eight With Coxswain (8+),Bronze
+1908,London,Rowing,Rowing,"JERWOOD, Frank Harold",GBR,Men,Eight With Coxswain (8+),Bronze
+1908,London,Rowing,Rowing,"KERTLAND, Douglas Edwin",CAN,Men,Eight With Coxswain (8+),Bronze
+1908,London,Rowing,Rowing,"KITCHING, Harold Edward",GBR,Men,Eight With Coxswain (8+),Bronze
+1908,London,Rowing,Rowing,"LEWIS, Walter Aiken",CAN,Men,Eight With Coxswain (8+),Bronze
+1908,London,Rowing,Rowing,"POWELL, Eric Walter",GBR,Men,Eight With Coxswain (8+),Bronze
+1908,London,Rowing,Rowing,"RIDDY, Charles",CAN,Men,Eight With Coxswain (8+),Bronze
+1908,London,Rowing,Rowing,"ROBERTSON, Irvine Geale",CAN,Men,Eight With Coxswain (8+),Bronze
+1908,London,Rowing,Rowing,"STUART, Douglas Cecil Rees",GBR,Men,Eight With Coxswain (8+),Bronze
+1908,London,Rowing,Rowing,"TAYLOR, Goeffrey Barron",CAN,Men,Eight With Coxswain (8+),Bronze
+1908,London,Rowing,Rowing,"THOMSON, Julius A.",CAN,Men,Eight With Coxswain (8+),Bronze
+1908,London,Rowing,Rowing,"WILLIAMS, Edward Gordon",GBR,Men,Eight With Coxswain (8+),Bronze
+1908,London,Rowing,Rowing,"WRIGHT, Joseph George",CAN,Men,Eight With Coxswain (8+),Bronze
+1908,London,Rowing,Rowing,"BUCKNALL, Henry Cresswell",GBR,Men,Eight With Coxswain (8+),Gold
+1908,London,Rowing,Rowing,"BURNELL, Charles Desborough",GBR,Men,Eight With Coxswain (8+),Gold
+1908,London,Rowing,Rowing,"ETHERINGTON-SMITH, Raymond Broadley",GBR,Men,Eight With Coxswain (8+),Gold
+1908,London,Rowing,Rowing,"GLADSTONE, Albert Charles",GBR,Men,Eight With Coxswain (8+),Gold
+1908,London,Rowing,Rowing,"JOHNSTONE, Banner Carruthers",GBR,Men,Eight With Coxswain (8+),Gold
+1908,London,Rowing,Rowing,"KELLY, Frederick Septimus",GBR,Men,Eight With Coxswain (8+),Gold
+1908,London,Rowing,Rowing,"MACLAGAN, Gilchrist Stanley",GBR,Men,Eight With Coxswain (8+),Gold
+1908,London,Rowing,Rowing,"NICKALLS, Guy O.",GBR,Men,Eight With Coxswain (8+),Gold
+1908,London,Rowing,Rowing,"SANDERSON, Ronald Harcour",GBR,Men,Eight With Coxswain (8+),Gold
+1908,London,Rowing,Rowing,"DE SOMVILLE, Oscar Charles",BEL,Men,Eight With Coxswain (8+),Silver
+1908,London,Rowing,Rowing,"MIJS, Georges",BEL,Men,Eight With Coxswain (8+),Silver
+1908,London,Rowing,Rowing,"MORIMONT, Marcel",BEL,Men,Eight With Coxswain (8+),Silver
+1908,London,Rowing,Rowing,"ORBAN, Rémy",BEL,Men,Eight With Coxswain (8+),Silver
+1908,London,Rowing,Rowing,"POMA, Rodolphe",BEL,Men,Eight With Coxswain (8+),Silver
+1908,London,Rowing,Rowing,"TAELMAN, Oscar",BEL,Men,Eight With Coxswain (8+),Silver
+1908,London,Rowing,Rowing,"VAN LANDEGHEM, Alfred",BEL,Men,Eight With Coxswain (8+),Silver
+1908,London,Rowing,Rowing,"VEIRMAN, Polydore",BEL,Men,Eight With Coxswain (8+),Silver
+1908,London,Rowing,Rowing,"VERGUCHT, François",BEL,Men,Eight With Coxswain (8+),Silver
+1908,London,Rowing,Rowing,"CUDMORE, Collier Robert",GBR,Men,Four Without Coxswain (4-),Gold
+1908,London,Rowing,Rowing,"GILLAN, James Angus",GBR,Men,Four Without Coxswain (4-),Gold
+1908,London,Rowing,Rowing,"MACKINNON, Duncan",GBR,Men,Four Without Coxswain (4-),Gold
+1908,London,Rowing,Rowing,"SOMERS-SMITH, John Robert",GBR,Men,Four Without Coxswain (4-),Gold
+1908,London,Rowing,Rowing,"BARKER, Harold Ross",GBR,Men,Four Without Coxswain (4-),Silver
+1908,London,Rowing,Rowing,"FENNING, John Reginald Keith",GBR,Men,Four Without Coxswain (4-),Silver
+1908,London,Rowing,Rowing,"FILLEUL, Philip Rowland",GBR,Men,Four Without Coxswain (4-),Silver
+1908,London,Rowing,Rowing,"THOMSON, Gordon Lindsay",GBR,Men,Four Without Coxswain (4-),Silver
+1908,London,Rowing,Rowing,"LEVICZKY, Károly",HUN,Men,Single Sculls (1X),Bronze
+1908,London,Rowing,Rowing,"VON GAZA, Bernhard",GER,Men,Single Sculls (1X),Bronze
+1908,London,Rowing,Rowing,"BLACKSTAFFE, Harry Thomas",GBR,Men,Single Sculls (1X),Gold
+1908,London,Rowing,Rowing,"MCCULLOCH, Alexander",GBR,Men,Single Sculls (1X),Silver
+1908,London,Rugby,Rugby,"BARNETT, Jumbo",ANZ,Men,Rugby,Gold
+1908,London,Rugby,Rugby,"BEDE-SMITH, Frank",ANZ,Men,Rugby,Gold
+1908,London,Rugby,Rugby,"CARMICHAEL, Philipp",ANZ,Men,Rugby,Gold
+1908,London,Rugby,Rugby,"CARROLL, Daniel Brendan",ANZ,Men,Rugby,Gold
+1908,London,Rugby,Rugby,"CRAIG, Robert R.",ANZ,Men,Rugby,Gold
+1908,London,Rugby,Rugby,"GRIFFEN, Thomas",ANZ,Men,Rugby,Gold
+1908,London,Rugby,Rugby,"HICKEY, John",ANZ,Men,Rugby,Gold
+1908,London,Rugby,Rugby,"MCARTHUR, Emmanuel",ANZ,Men,Rugby,Gold
+1908,London,Rugby,Rugby,"MCCABE, Arthur J.",ANZ,Men,Rugby,Gold
+1908,London,Rugby,Rugby,"MCCUE, Patrick",ANZ,Men,Rugby,Gold
+1908,London,Rugby,Rugby,"MCKIVATT, Christopher",ANZ,Men,Rugby,Gold
+1908,London,Rugby,Rugby,"MCMURTRIE, Charles",ANZ,Men,Rugby,Gold
+1908,London,Rugby,Rugby,"MIDDLETON, Albert Sidney",ANZ,Men,Rugby,Gold
+1908,London,Rugby,Rugby,"RICHARDS, Thomas",ANZ,Men,Rugby,Gold
+1908,London,Rugby,Rugby,"RUSSELL, Charles",ANZ,Men,Rugby,Gold
+1908,London,Rugby,Rugby,"DAVEY, James",GBR,Men,Rugby,Silver
+1908,London,Rugby,Rugby,"DEAN, L.F.",GBR,Men,Rugby,Silver
+1908,London,Rugby,Rugby,"JACKETT, Edward John",GBR,Men,Rugby,Silver
+1908,London,Rugby,Rugby,"JACKETT, Richard",GBR,Men,Rugby,Silver
+1908,London,Rugby,Rugby,"JONES, E.J.",GBR,Men,Rugby,Silver
+1908,London,Rugby,Rugby,"JOSE, J.T.",GBR,Men,Rugby,Silver
+1908,London,Rugby,Rugby,"LAWREY, A.",GBR,Men,Rugby,Silver
+1908,London,Rugby,Rugby,"MARSHALL, C.R.",GBR,Men,Rugby,Silver
+1908,London,Rugby,Rugby,"SOLOMON, Bertram",GBR,Men,Rugby,Silver
+1908,London,Rugby,Rugby,"SOLOMON, J.C Barney",GBR,Men,Rugby,Silver
+1908,London,Rugby,Rugby,"TREGURTHA, Nicholaos",GBR,Men,Rugby,Silver
+1908,London,Rugby,Rugby,"TREVASKIS, J.",GBR,Men,Rugby,Silver
+1908,London,Rugby,Rugby,"WEDGE, Thomas Greenfeld",GBR,Men,Rugby,Silver
+1908,London,Rugby,Rugby,"WILLCOCKS, A.",GBR,Men,Rugby,Silver
+1908,London,Rugby,Rugby,"WILSON, Arthur James",GBR,Men,Rugby,Silver
+1908,London,Sailing,Sailing,"ASPIN, John Symington",GBR,Men,12M,Gold
+1908,London,Sailing,Sailing,"BUCHANAN, John",GBR,Men,12M,Gold
+1908,London,Sailing,Sailing,"BUNTEN, James Clark",GBR,Men,12M,Gold
+1908,London,Sailing,Sailing,"DOWNES, Arthur Drummond",GBR,Men,12M,Gold
+1908,London,Sailing,Sailing,"DOWNES, John Henry",GBR,Men,12M,Gold
+1908,London,Sailing,Sailing,"DUNLOP, David",GBR,Men,12M,Gold
+1908,London,Sailing,Sailing,"GLEN COATS, Thomas Coats",GBR,Men,12M,Gold
+1908,London,Sailing,Sailing,"MACKENZIE, John",GBR,Men,12M,Gold
+1908,London,Sailing,Sailing,"MARTIN, Albert",GBR,Men,12M,Gold
+1908,London,Sailing,Sailing,"TAIT, Thomas Gerald",GBR,Men,12M,Gold
+1908,London,Sailing,Sailing,"ADAM, John M.",GBR,Men,12M,Silver
+1908,London,Sailing,Sailing,"BAXTER, James",GBR,Men,12M,Silver
+1908,London,Sailing,Sailing,"DAVIDSON, William P.",GBR,Men,12M,Silver
+1908,London,Sailing,Sailing,"JELLICO, John F.",GBR,Men,12M,Silver
+1908,London,Sailing,Sailing,"KENION, James G.",GBR,Men,12M,Silver
+1908,London,Sailing,Sailing,"LITTLEDALE, Thomas A.R.",GBR,Men,12M,Silver
+1908,London,Sailing,Sailing,"MACIVER, Cecil R.",GBR,Men,12M,Silver
+1908,London,Sailing,Sailing,"MACIVER, Charles",GBR,Men,12M,Silver
+1908,London,Sailing,Sailing,"MACLEOD-ROBERTSON, Charles",GBR,Men,12M,Silver
+1908,London,Sailing,Sailing,"SPENCE, John F.D.",GBR,Men,12M,Silver
+1908,London,Sailing,Sailing,"ARTHUS, Henri",FRA,Men,6M,Bronze
+1908,London,Sailing,Sailing,"POTHEAU, Louis",FRA,Men,6M,Bronze
+1908,London,Sailing,Sailing,"RABOT, Pierre",FRA,Men,6M,Bronze
+1908,London,Sailing,Sailing,"CRICHTON, Charles William Harry",GBR,Men,6M,Gold
+1908,London,Sailing,Sailing,"LAWS, Gilbert Umfreville",GBR,Men,6M,Gold
+1908,London,Sailing,Sailing,"MCMEEKIN, Thomas D.",GBR,Men,6M,Gold
+1908,London,Sailing,Sailing,"HUYBRECHTS, Léon",BEL,Men,6M,Silver
+1908,London,Sailing,Sailing,"HUYBRECHTS, Louis",BEL,Men,6M,Silver
+1908,London,Sailing,Sailing,"WEEWAUTERS, Henri",BEL,Men,6M,Silver
+1908,London,Sailing,Sailing,"BINGLEY, Norman",GBR,Men,7M,Gold
+1908,London,Sailing,Sailing,"DIXON, Richard Travers",GBR,Men,7M,Gold
+1908,London,Sailing,Sailing,"RIVETT-CARNAC, Charles James",GBR,Men,7M,Gold
+1908,London,Sailing,Sailing,"RIVETT-CARNAC, Frances Clytie",GBR,Men,7M,Gold
+1908,London,Sailing,Sailing,"HIMLOKE, Philipp",GBR,Men,8M,Bronze
+1908,London,Sailing,Sailing,"HUGHES, Collingwood Alfred",GBR,Men,8M,Bronze
+1908,London,Sailing,Sailing,"HUGHES, Saint John Frederick",GBR,Men,8M,Bronze
+1908,London,Sailing,Sailing,"RATSEY, George Ernest",GBR,Men,8M,Bronze
+1908,London,Sailing,Sailing,"WARD, William Dudley",GBR,Men,8M,Bronze
+1908,London,Sailing,Sailing,"CAMPBELL, Charles Ralph",GBR,Men,8M,Gold
+1908,London,Sailing,Sailing,"COCHRANE, Blair Onslow",GBR,Men,8M,Gold
+1908,London,Sailing,Sailing,"RHODES, John Eastwood",GBR,Men,8M,Gold
+1908,London,Sailing,Sailing,"SUTTON, Henry Cecil",GBR,Men,8M,Gold
+1908,London,Sailing,Sailing,"WOOD, Arthur Nicholas Lindsay",GBR,Men,8M,Gold
+1908,London,Sailing,Sailing,"HELLSTRÖM, Carl Ludwig",SWE,Men,8M,Silver
+1908,London,Sailing,Sailing,"SANDBERG, Erik",SWE,Men,8M,Silver
+1908,London,Sailing,Sailing,"THORMÄHLEN, Edmund",SWE,Men,8M,Silver
+1908,London,Sailing,Sailing,"WALLERIUS, Eric G.",SWE,Men,8M,Silver
+1908,London,Sailing,Sailing,"WALLIN, Harald",SWE,Men,8M,Silver
+1908,London,Shooting,Shooting,"BLOOD, Maurice",GBR,Men,"1000Y Free Rifle, Prone",Bronze
+1908,London,Shooting,Shooting,"MILNER, Joshua Kearney",GBR,Men,"1000Y Free Rifle, Prone",Gold
+1908,London,Shooting,Shooting,"CASEY, Kellog Kennon Venable",USA,Men,"1000Y Free Rifle, Prone",Silver
+1908,London,Shooting,Shooting,"SWAHN, Oscar",SWE,Men,"100M Running Deer, Double Shots",Bronze
+1908,London,Shooting,Shooting,"WINANS, Walter",USA,Men,"100M Running Deer, Double Shots",Gold
+1908,London,Shooting,Shooting,"RANKEN, Ted",GBR,Men,"100M Running Deer, Double Shots",Silver
+1908,London,Shooting,Shooting,"ROGERS, Alexander Elliott",GBR,Men,"100M Running Deer, Single Shots",Bronze
+1908,London,Shooting,Shooting,"SWAHN, Oscar",SWE,Men,"100M Running Deer, Single Shots",Gold
+1908,London,Shooting,Shooting,"RANKEN, Ted",GBR,Men,"100M Running Deer, Single Shots",Silver
+1908,London,Shooting,Shooting,"KNÖPPEL, Arvid",SWE,Men,"100M Running Deer, Single Shots, Team",Gold
+1908,London,Shooting,Shooting,"ROSELL, Ernest Oscar",SWE,Men,"100M Running Deer, Single Shots, Team",Gold
+1908,London,Shooting,Shooting,"SWAHN, Alfred",SWE,Men,"100M Running Deer, Single Shots, Team",Gold
+1908,London,Shooting,Shooting,"SWAHN, Oscar",SWE,Men,"100M Running Deer, Single Shots, Team",Gold
+1908,London,Shooting,Shooting,"ELLICOTT, Walter",GBR,Men,"100M Running Deer, Single Shots, Team",Silver
+1908,London,Shooting,Shooting,"LANE-JOYNT, William R.",GBR,Men,"100M Running Deer, Single Shots, Team",Silver
+1908,London,Shooting,Shooting,"NIX, Charles George Ashburn",GBR,Men,"100M Running Deer, Single Shots, Team",Silver
+1908,London,Shooting,Shooting,"RANKEN, Ted",GBR,Men,"100M Running Deer, Single Shots, Team",Silver
+1908,London,Shooting,Shooting,"AMOORE, Edward John",GBR,Men,"25Y Small Bore Rifle, Disappearing Target",Bronze
+1908,London,Shooting,Shooting,"STYLES, William Kensett",GBR,Men,"25Y Small Bore Rifle, Disappearing Target",Gold
+1908,London,Shooting,Shooting,"HAWKINS, Harold I.",GBR,Men,"25Y Small Bore Rifle, Disappearing Target",Silver
+1908,London,Shooting,Shooting,"MARSDEN, William B.",GBR,Men,"25Y Small Bore Rifle, Moving Target",Bronze
+1908,London,Shooting,Shooting,"FLEMING, John Francis",GBR,Men,"25Y Small Bore Rifle, Moving Target",Gold
+1908,London,Shooting,Shooting,"MATTHEWS, Michael K.",GBR,Men,"25Y Small Bore Rifle, Moving Target",Silver
+1908,London,Shooting,Shooting,"SAETHER, Olaf",NOR,Men,300M Free Rifle 3 Positions (3X40 Shots),Bronze
+1908,London,Shooting,Shooting,"HELGERUD, Albert",NOR,Men,300M Free Rifle 3 Positions (3X40 Shots),Gold
+1908,London,Shooting,Shooting,"SIMON, Harry E.",USA,Men,300M Free Rifle 3 Positions (3X40 Shots),Silver
+1908,London,Shooting,Shooting,"BONNEFOY, Henri",FRA,Men,"50+100Y Small Bore Rifle, Team",Bronze
+1908,London,Shooting,Shooting,"COLAS, Paul René",FRA,Men,"50+100Y Small Bore Rifle, Team",Bronze
+1908,London,Shooting,Shooting,"LECUYER, Léon",FRA,Men,"50+100Y Small Bore Rifle, Team",Bronze
+1908,London,Shooting,Shooting,"REGAUD, André",FRA,Men,"50+100Y Small Bore Rifle, Team",Bronze
+1908,London,Shooting,Shooting,"AMOORE, Edward John",GBR,Men,"50+100Y Small Bore Rifle, Team",Gold
+1908,London,Shooting,Shooting,"HUMBY, Harry Robinson",GBR,Men,"50+100Y Small Bore Rifle, Team",Gold
+1908,London,Shooting,Shooting,"MATTHEWS, Michael K.",GBR,Men,"50+100Y Small Bore Rifle, Team",Gold
+1908,London,Shooting,Shooting,"PIMM, William Edwin",GBR,Men,"50+100Y Small Bore Rifle, Team",Gold
+1908,London,Shooting,Shooting,"CARLBERG, Eric",SWE,Men,"50+100Y Small Bore Rifle, Team",Silver
+1908,London,Shooting,Shooting,"CARLBERG, G. Vilhelm",SWE,Men,"50+100Y Small Bore Rifle, Team",Silver
+1908,London,Shooting,Shooting,"SCHARTAU, Frans Albert",SWE,Men,"50+100Y Small Bore Rifle, Team",Silver
+1908,London,Shooting,Shooting,"VON HOLST, Johan Hübner",SWE,Men,"50+100Y Small Bore Rifle, Team",Silver
+1908,London,Shooting,Shooting,"GORMAN, James Edward",USA,Men,50M Pistol (60 Shots),Bronze
+1908,London,Shooting,Shooting,"VAN ASBROECK, Paul",BEL,Men,50M Pistol (60 Shots),Gold
+1908,London,Shooting,Shooting,"STORMS, Réginald",BEL,Men,50M Pistol (60 Shots),Silver
+1908,London,Shooting,Shooting,"BARNES, George",GBR,Men,50M Rifle Prone (60 Shots),Bronze
+1908,London,Shooting,Shooting,"CARNELL, Arthur Ashton",GBR,Men,50M Rifle Prone (60 Shots),Gold
+1908,London,Shooting,Shooting,"HUMBY, Harry Robinson",GBR,Men,50M Rifle Prone (60 Shots),Silver
+1908,London,Shooting,Shooting,"COLES, Geoffrey Horsman",GBR,Men,"50Y Army Pistol, Team",Bronze
+1908,London,Shooting,Shooting,"ELLICOTT, Walter",GBR,Men,"50Y Army Pistol, Team",Bronze
+1908,London,Shooting,Shooting,"LYNCH-STAUNTON, Henry George",GBR,Men,"50Y Army Pistol, Team",Bronze
+1908,London,Shooting,Shooting,"WALLINGFORD, Jesse Alfred",GBR,Men,"50Y Army Pistol, Team",Bronze
+1908,London,Shooting,Shooting,"AXTELL, Charles Sumner",USA,Men,"50Y Army Pistol, Team",Gold
+1908,London,Shooting,Shooting,"CALKINS, Irving Romaro",USA,Men,"50Y Army Pistol, Team",Gold
+1908,London,Shooting,Shooting,"DIETZ, John A.",USA,Men,"50Y Army Pistol, Team",Gold
+1908,London,Shooting,Shooting,"GORMAN, James Edward",USA,Men,"50Y Army Pistol, Team",Gold
+1908,London,Shooting,Shooting,"ENGLEBERT, René",BEL,Men,"50Y Army Pistol, Team",Silver
+1908,London,Shooting,Shooting,"PAUMIER DU VERGIER, Charles",BEL,Men,"50Y Army Pistol, Team",Silver
+1908,London,Shooting,Shooting,"STORMS, Réginald",BEL,Men,"50Y Army Pistol, Team",Silver
+1908,London,Shooting,Shooting,"VAN ASBROECK, Paul",BEL,Men,"50Y Army Pistol, Team",Silver
+1908,London,Shooting,Shooting,"BUTT, John Hurst",GBR,Men,"Clay Pigeons, Team",Bronze
+1908,London,Shooting,Shooting,"CREASEY, Harold P.",GBR,Men,"Clay Pigeons, Team",Bronze
+1908,London,Shooting,Shooting,"HUTTON, Richard",GBR,Men,"Clay Pigeons, Team",Bronze
+1908,London,Shooting,Shooting,"MORRIS, William B.",GBR,Men,"Clay Pigeons, Team",Bronze
+1908,London,Shooting,Shooting,"SKINNER, Gerald H.",GBR,Men,"Clay Pigeons, Team",Bronze
+1908,London,Shooting,Shooting,"WHITAKER, George",GBR,Men,"Clay Pigeons, Team",Bronze
+1908,London,Shooting,Shooting,"EASTE, Peter",GBR,Men,"Clay Pigeons, Team",Gold
+1908,London,Shooting,Shooting,"MAUNDER, Alexander",GBR,Men,"Clay Pigeons, Team",Gold
+1908,London,Shooting,Shooting,"MOORE, Frank W.",GBR,Men,"Clay Pigeons, Team",Gold
+1908,London,Shooting,Shooting,"PALMER, Charles",GBR,Men,"Clay Pigeons, Team",Gold
+1908,London,Shooting,Shooting,"PIKE, James F.",GBR,Men,"Clay Pigeons, Team",Gold
+1908,London,Shooting,Shooting,"POSTANS, John M.",GBR,Men,"Clay Pigeons, Team",Gold
+1908,London,Shooting,Shooting,"BEATTIE, George",CAN,Men,"Clay Pigeons, Team",Silver
+1908,London,Shooting,Shooting,"EWING, Walter Henry",CAN,Men,"Clay Pigeons, Team",Silver
+1908,London,Shooting,Shooting,"FLETCHER, Mylie E.",CAN,Men,"Clay Pigeons, Team",Silver
+1908,London,Shooting,Shooting,"MCMACKON, Donald",CAN,Men,"Clay Pigeons, Team",Silver
+1908,London,Shooting,Shooting,"VIVIAN, George L.",CAN,Men,"Clay Pigeons, Team",Silver
+1908,London,Shooting,Shooting,"WESTOVER, Arthur W.",CAN,Men,"Clay Pigeons, Team",Silver
+1908,London,Shooting,Shooting,"BALME, Eugène",FRA,Men,"Free Rifle, Team",Bronze
+1908,London,Shooting,Shooting,"COURQUIN, Albert",FRA,Men,"Free Rifle, Team",Bronze
+1908,London,Shooting,Shooting,"DE BOIGNE, Raoul",FRA,Men,"Free Rifle, Team",Bronze
+1908,London,Shooting,Shooting,"JOHNSON, Léon",FRA,Men,"Free Rifle, Team",Bronze
+1908,London,Shooting,Shooting,"LECOQ, Maurice",FRA,Men,"Free Rifle, Team",Bronze
+1908,London,Shooting,Shooting,"PARMENTIER, André",FRA,Men,"Free Rifle, Team",Bronze
+1908,London,Shooting,Shooting,"BRAATHE, Julius",NOR,Men,"Free Rifle, Team",Gold
+1908,London,Shooting,Shooting,"HELGERUD, Albert",NOR,Men,"Free Rifle, Team",Gold
+1908,London,Shooting,Shooting,"LIBERG, Einar",NOR,Men,"Free Rifle, Team",Gold
+1908,London,Shooting,Shooting,"SAETHER, Olaf",NOR,Men,"Free Rifle, Team",Gold
+1908,London,Shooting,Shooting,"SAETHER, Ole Andreas",NOR,Men,"Free Rifle, Team",Gold
+1908,London,Shooting,Shooting,"SKATTEBOE, Gudbrand Gudbrandsen",NOR,Men,"Free Rifle, Team",Gold
+1908,London,Shooting,Shooting,"ARVIDSSON, Per Olof",SWE,Men,"Free Rifle, Team",Silver
+1908,London,Shooting,Shooting,"GUSTAFSSON, Janne",SWE,Men,"Free Rifle, Team",Silver
+1908,London,Shooting,Shooting,"JANSSON, Axel",SWE,Men,"Free Rifle, Team",Silver
+1908,London,Shooting,Shooting,"JONSSON, Gustaf Adolf",SWE,Men,"Free Rifle, Team",Silver
+1908,London,Shooting,Shooting,"RUNDBERG, Claës",SWE,Men,"Free Rifle, Team",Silver
+1908,London,Shooting,Shooting,"SJÖBERG, Gustav Adolf",SWE,Men,"Free Rifle, Team",Silver
+1908,London,Shooting,Shooting,"CROWE, Charles Robert",CAN,Men,"Rifle, Team",Bronze
+1908,London,Shooting,Shooting,"EASTCOTT, William Merrill",CAN,Men,"Rifle, Team",Bronze
+1908,London,Shooting,Shooting,"KERR, Harry",CAN,Men,"Rifle, Team",Bronze
+1908,London,Shooting,Shooting,"MCINNIS, Dugald",CAN,Men,"Rifle, Team",Bronze
+1908,London,Shooting,Shooting,"SMITH, William Albert",CAN,Men,"Rifle, Team",Bronze
+1908,London,Shooting,Shooting,"WILLIAMS, Bruce M.",CAN,Men,"Rifle, Team",Bronze
+1908,London,Shooting,Shooting,"BENEDICT, Charles Summer",USA,Men,"Rifle, Team",Gold
+1908,London,Shooting,Shooting,"CASEY, Kellog Kennon Venable",USA,Men,"Rifle, Team",Gold
+1908,London,Shooting,Shooting,"EASTMAN, Albert",USA,Men,"Rifle, Team",Gold
+1908,London,Shooting,Shooting,"LEUSHNER, William F.",USA,Men,"Rifle, Team",Gold
+1908,London,Shooting,Shooting,"MARTIN, William",USA,Men,"Rifle, Team",Gold
+1908,London,Shooting,Shooting,"WINDER, Charles B.",USA,Men,"Rifle, Team",Gold
+1908,London,Shooting,Shooting,"FULTON, Arthur George",GBR,Men,"Rifle, Team",Silver
+1908,London,Shooting,Shooting,"MARTIN, John E.",GBR,Men,"Rifle, Team",Silver
+1908,London,Shooting,Shooting,"OMMUNDSEN, Harcourt",GBR,Men,"Rifle, Team",Silver
+1908,London,Shooting,Shooting,"PADGETT, William G.",GBR,Men,"Rifle, Team",Silver
+1908,London,Shooting,Shooting,"RICHARDSON, Philipp Wigam",GBR,Men,"Rifle, Team",Silver
+1908,London,Shooting,Shooting,"VARLEY, Fleetwood Ernest",GBR,Men,"Rifle, Team",Silver
+1908,London,Shooting,Shooting,"MAUNDER, Alexander",GBR,Men,Trap (125 Targets),Bronze
+1908,London,Shooting,Shooting,"EWING, Walter Henry",CAN,Men,Trap (125 Targets),Gold
+1908,London,Shooting,Shooting,"BEATTIE, George",CAN,Men,Trap (125 Targets),Silver
+1908,London,Skating,Figure skating,"THOREN, Per",SWE,Men,Individual,Bronze
+1908,London,Skating,Figure skating,"SALCHOW, Ulrich",SWE,Men,Individual,Gold
+1908,London,Skating,Figure skating,"JOHANSSON, Richard",SWE,Men,Individual,Silver
+1908,London,Skating,Figure skating,"GREENHOUGH-SMITH, Dorothy",GER,Women,Individual,Bronze
+1908,London,Skating,Figure skating,"SYERS, Florence",GBR,Women,Individual,Gold
+1908,London,Skating,Figure skating,"RENDSCHMIDT, Else",GER,Women,Individual,Silver
+1908,London,Skating,Figure skating,"SYERS, Edgar",GBR,Men,Pairs,Bronze
+1908,London,Skating,Figure skating,"BURGER, Heinrich",GER,Men,Pairs,Gold
+1908,London,Skating,Figure skating,"JOHNSON, James",GBR,Men,Pairs,Silver
+1908,London,Skating,Figure skating,"SYERS, Florence",GBR,Women,Pairs,Bronze
+1908,London,Skating,Figure skating,"HÜBLER, Anna",GER,Women,Pairs,Gold
+1908,London,Skating,Figure skating,"JOHNSON, Phyllis",GBR,Women,Pairs,Silver
+1908,London,Skating,Figure skating,"HALL-SAY, George Norman Ernest",GBR,Men,Special Figures,Bronze
+1908,London,Skating,Figure skating,"PANIN, Nikolay",RU1,Men,Special Figures,Gold
+1908,London,Skating,Figure skating,"CUMMING, Arthur",GBR,Men,Special Figures,Silver
+1908,London,Tennis,Tennis,"CAZALET, Clement Haughton Langston",GBR,Men,Doubles,Bronze
+1908,London,Tennis,Tennis,"DIXON, Charles Percy",GBR,Men,Doubles,Bronze
+1908,London,Tennis,Tennis,"DOHERTY, Reginald Frank",GBR,Men,Doubles,Gold
+1908,London,Tennis,Tennis,"HILLYARD, George Whiteside",GBR,Men,Doubles,Gold
+1908,London,Tennis,Tennis,"PARKE, James Cecil",GBR,Men,Doubles,Silver
+1908,London,Tennis,Tennis,"RITCHIE, Josiah George",GBR,Men,Doubles,Silver
+1908,London,Tennis,Tennis,"BOSTRÖM, Wollmar",SWE,Men,Doubles Indoor,Bronze
+1908,London,Tennis,Tennis,"SETTERWALL, Gunnar",SWE,Men,Doubles Indoor,Bronze
+1908,London,Tennis,Tennis,"BARRETT, Herbert Roper",GBR,Men,Doubles Indoor,Gold
+1908,London,Tennis,Tennis,"GORE, Arthur Wentworth",GBR,Men,Doubles Indoor,Gold
+1908,London,Tennis,Tennis,"CARIDIA, George Aristedes",GBR,Men,Doubles Indoor,Silver
+1908,London,Tennis,Tennis,"SIMOND, George Mievillle",GBR,Men,Doubles Indoor,Silver
+1908,London,Tennis,Tennis,"EAVES, Wilberforce Vaughan",GBR,Men,Singles,Bronze
+1908,London,Tennis,Tennis,"RITCHIE, Josiah George",GBR,Men,Singles,Gold
+1908,London,Tennis,Tennis,"FROITZHEIM, Otto",GER,Men,Singles,Silver
+1908,London,Tennis,Tennis,"WINCH, Ruth Joan",GBR,Women,Singles,Bronze
+1908,London,Tennis,Tennis,"CHAMBERS, Dorothy Katherine",GBR,Women,Singles,Gold
+1908,London,Tennis,Tennis,"BOOTHBY, Penelope Dora Harvey",GBR,Women,Singles,Silver
+1908,London,Tennis,Tennis,"RITCHIE, Josiah George",GBR,Men,Singles Indoor,Bronze
+1908,London,Tennis,Tennis,"GORE, Arthur Wentworth",GBR,Men,Singles Indoor,Gold
+1908,London,Tennis,Tennis,"CARIDIA, George Aristedes",GBR,Men,Singles Indoor,Silver
+1908,London,Tennis,Tennis,"ADLERSTRAHLE, Märtha",SWE,Women,Singles Indoor,Bronze
+1908,London,Tennis,Tennis,"EASTLAKE-SMITH, Gwendoline",GBR,Women,Singles Indoor,Gold
+1908,London,Tennis,Tennis,"GREENE, Angela Nora G.",GBR,Women,Singles Indoor,Silver
+1908,London,Tug of War,Tug of War,"CHAFFE, Walter",GBR,Men,Tug Of War,Bronze
+1908,London,Tug of War,Tug of War,"DOWLER, Joseph",GBR,Men,Tug Of War,Bronze
+1908,London,Tug of War,Tug of War,"EBBAGE, Ernest Walter",GBR,Men,Tug Of War,Bronze
+1908,London,Tug of War,Tug of War,"HOMEWOOD, Thomas",GBR,Men,Tug Of War,Bronze
+1908,London,Tug of War,Tug of War,"MUNRO, Alexander",GBR,Men,Tug Of War,Bronze
+1908,London,Tug of War,Tug of War,"SLADE, William",GBR,Men,Tug Of War,Bronze
+1908,London,Tug of War,Tug of War,"TAMMAS, Walter Baldry",GBR,Men,Tug Of War,Bronze
+1908,London,Tug of War,Tug of War,"WILLIAMS, T.J.",GBR,Men,Tug Of War,Bronze
+1908,London,Tug of War,Tug of War,"WOODGET, James Henry",GBR,Men,Tug Of War,Bronze
+1908,London,Tug of War,Tug of War,"BARRETT, Edward Edmond",GBR,Men,Tug Of War,Gold
+1908,London,Tug of War,Tug of War,"DUKE, John",GBR,Men,Tug Of War,Gold
+1908,London,Tug of War,Tug of War,"GOODFELLOW, Frederick William",GBR,Men,Tug Of War,Gold
+1908,London,Tug of War,Tug of War,"HIRONS, William",GBR,Men,Tug Of War,Gold
+1908,London,Tug of War,Tug of War,"HUMPHREYS, Frederick Harkness",GBR,Men,Tug Of War,Gold
+1908,London,Tug of War,Tug of War,"IRETON, Albert",GBR,Men,Tug Of War,Gold
+1908,London,Tug of War,Tug of War,"MERRIMAN, Frederick",GBR,Men,Tug Of War,Gold
+1908,London,Tug of War,Tug of War,"MILLS, Edwin Archer",GBR,Men,Tug Of War,Gold
+1908,London,Tug of War,Tug of War,"SHEPHERD, James",GBR,Men,Tug Of War,Gold
+1908,London,Tug of War,Tug of War,"BUTLER, Thomas",GBR,Men,Tug Of War,Silver
+1908,London,Tug of War,Tug of War,"CLARKE, James Michael",GBR,Men,Tug Of War,Silver
+1908,London,Tug of War,Tug of War,"FODEN, Charles",GBR,Men,Tug Of War,Silver
+1908,London,Tug of War,Tug of War,"GREGGAN, William",GBR,Men,Tug Of War,Silver
+1908,London,Tug of War,Tug of War,"KIDD, Alexander",GBR,Men,Tug Of War,Silver
+1908,London,Tug of War,Tug of War,"MCDONALD LOWEY, Daniel",GBR,Men,Tug Of War,Silver
+1908,London,Tug of War,Tug of War,"PHILBIN, Patrick",GBR,Men,Tug Of War,Silver
+1908,London,Tug of War,Tug of War,"SMITH, George",GBR,Men,Tug Of War,Silver
+1908,London,Tug of War,Tug of War,"SWINDLEHURST, Thomas",GBR,Men,Tug Of War,Silver
+1908,London,Water Motorsports,Water Motorspor,"REDWOOD, Bernard",GBR,Men,8M Class C,Gold
+1908,London,Water Motorsports,Water Motorspor,"THORNYCROFT, Thomas",GBR,Men,8M Class C,Gold
+1908,London,Water Motorsports,Water Motorspor,"REDWOOD, Bernard",GBR,Men,Class B Up To 60 Feet,Gold
+1908,London,Water Motorsports,Water Motorspor,"THORNYCROFT, Thomas",GBR,Men,Class B Up To 60 Feet,Gold
+1908,London,Water Motorsports,Water Motorspor,"THUBRON, Emile",FRA,Men,Open Class A,Gold
+1908,London,Wrestling,Wrestling Free.,"COTE, Aubert",CAN,Men,- 54KG (Bantamweight),Bronze
+1908,London,Wrestling,Wrestling Free.,"MEHNERT, George Nicholas",USA,Men,- 54KG (Bantamweight),Gold
+1908,London,Wrestling,Wrestling Free.,"PRESS, William J.",GBR,Men,- 54KG (Bantamweight),Silver
+1908,London,Wrestling,Wrestling Free.,"BARRETT, Edward Edmond",GBR,Men,+ 73KG (Heavyweight),Bronze
+1908,London,Wrestling,Wrestling Free.,"O'KELLY, George Cornelius",GBR,Men,+ 73KG (Heavyweight),Gold
+1908,London,Wrestling,Wrestling Free.,"GUNDERSON, Jacob",NOR,Men,+ 73KG (Heavyweight),Silver
+1908,London,Wrestling,Wrestling Free.,"MCKIE, William",GBR,Men,54 - 60.3KG (Featherweight),Bronze
+1908,London,Wrestling,Wrestling Free.,"DOLE, George Stuart",USA,Men,54 - 60.3KG (Featherweight),Gold
+1908,London,Wrestling,Wrestling Free.,"SLIM, James P.",GBR,Men,54 - 60.3KG (Featherweight),Silver
+1908,London,Wrestling,Wrestling Free.,"GINGELL, Albert",GBR,Men,60.3 - 66.6KG (Lightweight),Bronze
+1908,London,Wrestling,Wrestling Free.,"DE RELWYSKOW, George Frederick",GBR,Men,60.3 - 66.6KG (Lightweight),Gold
+1908,London,Wrestling,Wrestling Free.,"WOOD, William",GBR,Men,60.3 - 66.6KG (Lightweight),Silver
+1908,London,Wrestling,Wrestling Free.,"BECK, Frederick",GBR,Men,66.6 - 73KG (Middleweight),Bronze
+1908,London,Wrestling,Wrestling Free.,"BACON, Stanley Vivian",GBR,Men,66.6 - 73KG (Middleweight),Gold
+1908,London,Wrestling,Wrestling Free.,"DE RELWYSKOW, George Frederick",GBR,Men,66.6 - 73KG (Middleweight),Silver
+1908,London,Wrestling,Wrestling Gre-R,"LINDEN, Arvid",FIN,Men,- 66.6KG (Lightweight),Bronze
+1908,London,Wrestling,Wrestling Gre-R,"PORRO, Enrico",ITA,Men,- 66.6KG (Lightweight),Gold
+1908,London,Wrestling,Wrestling Gre-R,"ORLOFF, Nikolaï",RU1,Men,- 66.6KG (Lightweight),Silver
+1908,London,Wrestling,Wrestling Gre-R,"JENSEN, Sören Marius",DEN,Men,+ 93KG (Super Heavyweight),Bronze
+1908,London,Wrestling,Wrestling Gre-R,"WEISZ, Richard",HUN,Men,+ 93KG (Super Heavyweight),Gold
+1908,London,Wrestling,Wrestling Gre-R,"PETROFF, Aleksander",RU1,Men,+ 93KG (Super Heavyweight),Silver
+1908,London,Wrestling,Wrestling Gre-R,"ANDERSEN, Anders",DEN,Men,66.6 - 73KG (Middleweight),Bronze
+1908,London,Wrestling,Wrestling Gre-R,"MARTENSSON, Frithiof M.",SWE,Men,66.6 - 73KG (Middleweight),Gold
+1908,London,Wrestling,Wrestling Gre-R,"ANDERSSON, Mauritz",SWE,Men,66.6 - 73KG (Middleweight),Silver
+1908,London,Wrestling,Wrestling Gre-R,"JENSEN, Carl Marinus",DEN,Men,73 - 93KG (Light-Heavyweight),Bronze
+1908,London,Wrestling,Wrestling Gre-R,"WECKMAN, Werner",FIN,Men,73 - 93KG (Light-Heavyweight),Gold
+1908,London,Wrestling,Wrestling Gre-R,"SAARELA, Urjö Erik Mikael",FIN,Men,73 - 93KG (Light-Heavyweight),Silver

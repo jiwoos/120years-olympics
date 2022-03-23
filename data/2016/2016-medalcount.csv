@@ -1,0 +1,87 @@
+NOC,Gold,Silver,Bronze,Country_Name
+DEN,2,6,7,Denmark
+ARG,3,1,0,Argentina
+SWE,2,6,3,Sweden
+UKR,2,5,4,Ukraine
+RSA,2,6,2,South Africa
+COL,3,2,3,Colombia
+KAZ,3,5,10,Kazakhstan
+SUI,3,2,2,Switzerland
+GRE,3,1,2,Greece
+IRI,3,1,4,Iran
+SRB,2,4,2,Serbia
+AZE,1,7,10,Azerbaijan
+GEO,2,1,4,Georgia
+BLR,1,4,4,Belarus
+ARM,1,3,0,Armenia
+TUR,1,3,4,Turkey
+PRK,2,3,2,North Korea
+POL,2,3,6,Poland
+Bel,2,2,2,Belgium
+SVK,2,2,0,Slovakia
+THA,2,2,2,Thailand
+,4,2,7,Uzbekistan
+JPN,12,8,21,Japan
+GER,17,10,15,Germany
+FRA,10,18,14,France
+ITA,8,12,8,Italy
+KOR,9,3,9,South Korea
+USA,46,37,38,United States
+UAE,0,0,1,United Arab Emirates
+GBR,27,23,17,Great Britain
+RUS,19,17,20,Russia
+CHN,26,18,26,China
+AUS,8,11,10,Australia
+CRO,5,3,2,Croatia
+JAM,6,3,2,Jamaica
+CUB,5,2,4,Cuba
+CAN,4,3,15,Canada
+NZL,4,9,5,New Zealand
+HUN,8,3,4,Hungary
+NED,8,7,4,Netherlands
+BRA,7,6,6,Brazil
+KEN,6,6,1,Kenya
+ESP,7,4,6,Spain
+NIG,0,1,0,Niger
+GRN,0,1,0,Grenada
+PHI,0,1,0,Philippines
+NOR,0,0,4,Norway
+QAT,0,1,0,Qatar
+BUL,0,1,2,Bulgaria
+LTU,0,1,3,Lithuania
+IND,0,1,1,India
+BDI,0,1,0,Burundi
+MGL,0,1,1,Mongolia
+EGY,0,0,3,Egypt
+MAR,0,0,1,Morocco
+FIN,0,0,1,Finland
+NGR,0,0,1,Nigeria
+TTO,0,0,1,Trinidad and Tobago
+POR,0,0,1,Portugal
+ISR,0,0,2,Israel
+TUN,0,0,3,Tunisia
+AUT,0,0,1,Austria
+EST,0,0,1,Estonia
+DOM,0,0,1,Dominican Republic
+IRL,0,2,0,Ireland
+VIE,1,1,0,Vietnam
+BRN,1,1,0,Bahrain
+TPE,1,0,2,Chinese Taipei
+IOA,1,0,1,Independent Olympic Athletes
+BAH,1,0,1,Bahamas
+ETH,1,2,5,Ethiopia
+CZE,1,2,7,Czech Republic
+SLO,1,2,1,Slovenia
+ROU,1,1,2,Romania
+INA,1,2,0,Indonesia
+CIV,1,0,1,Ivory Coast
+MAS,0,4,1,Malaysia
+TJK,1,0,0,Tajikistan
+MEX,0,3,2,Mexico
+ALG,0,2,0,Algeria
+VEN,0,2,1,Venezuela
+JOR,1,0,0,Jordan
+FIJ,1,0,0,Fiji
+KOS,1,0,0,Kosovo
+SGP,1,0,0,Singapore
+PUR,1,0,0,Puerto Rico

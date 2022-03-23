@@ -1,0 +1,2016 @@
+Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
+2000,Sydney,Aquatics,Diving,"SAUTIN, Dmitry",RUS,Men,10M Platform,Bronze
+2000,Sydney,Aquatics,Diving,"TIAN, Liang",CHN,Men,10M Platform,Gold
+2000,Sydney,Aquatics,Diving,"HU, Jia",CHN,Men,10M Platform,Silver
+2000,Sydney,Aquatics,Diving,"MONTMINY, Anne Katherine",CAN,Women,10M Platform,Bronze
+2000,Sydney,Aquatics,Diving,"WILKINSON, Laura",USA,Women,10M Platform,Gold
+2000,Sydney,Aquatics,Diving,"LI, Na",CHN,Women,10M Platform,Silver
+2000,Sydney,Aquatics,Diving,"SAUTIN, Dmitry",RUS,Men,3M Springboard,Bronze
+2000,Sydney,Aquatics,Diving,"XIONG, Ni",CHN,Men,3M Springboard,Gold
+2000,Sydney,Aquatics,Diving,"PLATAS, Fernando",MEX,Men,3M Springboard,Silver
+2000,Sydney,Aquatics,Diving,"LINDNER, Doerte",GER,Women,3M Springboard,Bronze
+2000,Sydney,Aquatics,Diving,"FU, Mingxia",CHN,Women,3M Springboard,Gold
+2000,Sydney,Aquatics,Diving,"GUO, Jingjing",CHN,Women,3M Springboard,Silver
+2000,Sydney,Aquatics,Diving,"HEMPEL, Jan",GER,Men,Synchronized Diving 10M Platform,Bronze
+2000,Sydney,Aquatics,Diving,"MEYER, Heiko",GER,Men,Synchronized Diving 10M Platform,Bronze
+2000,Sydney,Aquatics,Diving,"LOUKACHINE, Igor",RUS,Men,Synchronized Diving 10M Platform,Gold
+2000,Sydney,Aquatics,Diving,"SAUTIN, Dmitry",RUS,Men,Synchronized Diving 10M Platform,Gold
+2000,Sydney,Aquatics,Diving,"HU, Jia",CHN,Men,Synchronized Diving 10M Platform,Silver
+2000,Sydney,Aquatics,Diving,"TIAN, Liang",CHN,Men,Synchronized Diving 10M Platform,Silver
+2000,Sydney,Aquatics,Diving,"GILMORE, Rebecca",AUS,Women,Synchronized Diving 10M Platform,Bronze
+2000,Sydney,Aquatics,Diving,"TOURKY, Loudy",AUS,Women,Synchronized Diving 10M Platform,Bronze
+2000,Sydney,Aquatics,Diving,"LI, Na",CHN,Women,Synchronized Diving 10M Platform,Gold
+2000,Sydney,Aquatics,Diving,"SANG, Xue",CHN,Women,Synchronized Diving 10M Platform,Gold
+2000,Sydney,Aquatics,Diving,"HEYMANS, Emilie",CAN,Women,Synchronized Diving 10M Platform,Silver
+2000,Sydney,Aquatics,Diving,"MONTMINY, Anne Katherine",CAN,Women,Synchronized Diving 10M Platform,Silver
+2000,Sydney,Aquatics,Diving,"NEWBERY, Robert",AUS,Men,Synchronized Diving 3M Springboard,Bronze
+2000,Sydney,Aquatics,Diving,"PULLAR, Dean",AUS,Men,Synchronized Diving 3M Springboard,Bronze
+2000,Sydney,Aquatics,Diving,"XIAO, Hailiang",CHN,Men,Synchronized Diving 3M Springboard,Gold
+2000,Sydney,Aquatics,Diving,"XIONG, Ni",CHN,Men,Synchronized Diving 3M Springboard,Gold
+2000,Sydney,Aquatics,Diving,"DOBROSKOK, Alexandre",RUS,Men,Synchronized Diving 3M Springboard,Silver
+2000,Sydney,Aquatics,Diving,"SAUTIN, Dmitry",RUS,Men,Synchronized Diving 3M Springboard,Silver
+2000,Sydney,Aquatics,Diving,"SOROKINA, Ganna",UKR,Women,Synchronized Diving 3M Springboard,Bronze
+2000,Sydney,Aquatics,Diving,"ZHUPINA, Olena",UKR,Women,Synchronized Diving 3M Springboard,Bronze
+2000,Sydney,Aquatics,Diving,"ILYINA, Vera",RUS,Women,Synchronized Diving 3M Springboard,Gold
+2000,Sydney,Aquatics,Diving,"PAKHALINA, Ioulia",RUS,Women,Synchronized Diving 3M Springboard,Gold
+2000,Sydney,Aquatics,Diving,"FU, Mingxia",CHN,Women,Synchronized Diving 3M Springboard,Silver
+2000,Sydney,Aquatics,Diving,"GUO, Jingjing",CHN,Women,Synchronized Diving 3M Springboard,Silver
+2000,Sydney,Aquatics,Swimming,"THELOKE, Stev",GER,Men,100M Backstroke,Bronze
+2000,Sydney,Aquatics,Swimming,"KRAYZELBURG, Lenny",USA,Men,100M Backstroke,Gold
+2000,Sydney,Aquatics,Swimming,"WELSH, Matthew",AUS,Men,100M Backstroke,Silver
+2000,Sydney,Aquatics,Swimming,"ZHIVANEVSKAYA, Nina Alexandrovna",ESP,Women,100M Backstroke,Bronze
+2000,Sydney,Aquatics,Swimming,"MOCANU, Diana",ROU,Women,100M Backstroke,Gold
+2000,Sydney,Aquatics,Swimming,"NAKAMURA, Mai",JPN,Women,100M Backstroke,Silver
+2000,Sydney,Aquatics,Swimming,"SLUDNOV, Roman",RUS,Men,100M Breaststroke,Bronze
+2000,Sydney,Aquatics,Swimming,"FIORAVANTI, Domenico",ITA,Men,100M Breaststroke,Gold
+2000,Sydney,Aquatics,Swimming,"MOSES, Ed",USA,Men,100M Breaststroke,Silver
+2000,Sydney,Aquatics,Swimming,"HEYNS, Penelope",RSA,Women,100M Breaststroke,Bronze
+2000,Sydney,Aquatics,Swimming,"QUANN, Megan",USA,Women,100M Breaststroke,Gold
+2000,Sydney,Aquatics,Swimming,"JONES, Leisel",AUS,Women,100M Breaststroke,Silver
+2000,Sydney,Aquatics,Swimming,"HUEGILL, Geoff",AUS,Men,100M Butterfly,Bronze
+2000,Sydney,Aquatics,Swimming,"FROLANDER, Lars",SWE,Men,100M Butterfly,Gold
+2000,Sydney,Aquatics,Swimming,"KLIM, Michael",AUS,Men,100M Butterfly,Silver
+2000,Sydney,Aquatics,Swimming,"TORRES, Dara",USA,Women,100M Butterfly,Bronze
+2000,Sydney,Aquatics,Swimming,"DE BRUIJN, Inge",NED,Women,100M Butterfly,Gold
+2000,Sydney,Aquatics,Swimming,"MORAVCOVA, Martina",SVK,Women,100M Butterfly,Silver
+2000,Sydney,Aquatics,Swimming,"HALL, Gary Jr.",USA,Men,100M Freestyle,Bronze
+2000,Sydney,Aquatics,Swimming,"VAN DEN HOOGENBAND, Pieter",NED,Men,100M Freestyle,Gold
+2000,Sydney,Aquatics,Swimming,"POPOV, Alexander",RUS,Men,100M Freestyle,Silver
+2000,Sydney,Aquatics,Swimming,"THOMPSON, Jenny",USA,Women,100M Freestyle,Bronze
+2000,Sydney,Aquatics,Swimming,"TORRES, Dara",USA,Women,100M Freestyle,Bronze
+2000,Sydney,Aquatics,Swimming,"DE BRUIJN, Inge",NED,Women,100M Freestyle,Gold
+2000,Sydney,Aquatics,Swimming,"ALSHAMMAR, Therese",SWE,Women,100M Freestyle,Silver
+2000,Sydney,Aquatics,Swimming,"THOMPSON, Chris",USA,Men,1500M Freestyle,Bronze
+2000,Sydney,Aquatics,Swimming,"HACKETT, Grant",AUS,Men,1500M Freestyle,Gold
+2000,Sydney,Aquatics,Swimming,"PERKINS, Kieren John",AUS,Men,1500M Freestyle,Silver
+2000,Sydney,Aquatics,Swimming,"WELSH, Matthew",AUS,Men,200M Backstroke,Bronze
+2000,Sydney,Aquatics,Swimming,"KRAYZELBURG, Lenny",USA,Men,200M Backstroke,Gold
+2000,Sydney,Aquatics,Swimming,"PEIRSOL, Aaron",USA,Men,200M Backstroke,Silver
+2000,Sydney,Aquatics,Swimming,"NAKAO, Miki",JPN,Women,200M Backstroke,Bronze
+2000,Sydney,Aquatics,Swimming,"MOCANU, Diana",ROU,Women,200M Backstroke,Gold
+2000,Sydney,Aquatics,Swimming,"MARACINEANU, Roxana",FRA,Women,200M Backstroke,Silver
+2000,Sydney,Aquatics,Swimming,"RUMMOLO, Davide",ITA,Men,200M Breaststroke,Bronze
+2000,Sydney,Aquatics,Swimming,"FIORAVANTI, Domenico",ITA,Men,200M Breaststroke,Gold
+2000,Sydney,Aquatics,Swimming,"PARKIN, Terence",RSA,Men,200M Breaststroke,Silver
+2000,Sydney,Aquatics,Swimming,"BEARD, Amanda",USA,Women,200M Breaststroke,Bronze
+2000,Sydney,Aquatics,Swimming,"KOVACS, Agnes",HUN,Women,200M Breaststroke,Gold
+2000,Sydney,Aquatics,Swimming,"KOWAL, Kristy",USA,Women,200M Breaststroke,Silver
+2000,Sydney,Aquatics,Swimming,"NORRIS, Justin",AUS,Men,200M Butterfly,Bronze
+2000,Sydney,Aquatics,Swimming,"MALCHOW, Tom",USA,Men,200M Butterfly,Gold
+2000,Sydney,Aquatics,Swimming,"SYLANTYEV, Denys",UKR,Men,200M Butterfly,Silver
+2000,Sydney,Aquatics,Swimming,"THOMAS, Petria",AUS,Women,200M Butterfly,Bronze
+2000,Sydney,Aquatics,Swimming,"HYMAN, Misty",USA,Women,200M Butterfly,Gold
+2000,Sydney,Aquatics,Swimming,"O'NEILL, Susan",AUS,Women,200M Butterfly,Silver
+2000,Sydney,Aquatics,Swimming,"ROSOLINO, Massimiliano",ITA,Men,200M Freestyle,Bronze
+2000,Sydney,Aquatics,Swimming,"VAN DEN HOOGENBAND, Pieter",NED,Men,200M Freestyle,Gold
+2000,Sydney,Aquatics,Swimming,"THORPE, Ian",AUS,Men,200M Freestyle,Silver
+2000,Sydney,Aquatics,Swimming,"POLL AHRENS, Claudia",CRC,Women,200M Freestyle,Bronze
+2000,Sydney,Aquatics,Swimming,"O'NEILL, Susan",AUS,Women,200M Freestyle,Gold
+2000,Sydney,Aquatics,Swimming,"MORAVCOVA, Martina",SVK,Women,200M Freestyle,Silver
+2000,Sydney,Aquatics,Swimming,"WILKENS, Tom",USA,Men,200M Individual Medley,Bronze
+2000,Sydney,Aquatics,Swimming,"ROSOLINO, Massimiliano",ITA,Men,200M Individual Medley,Gold
+2000,Sydney,Aquatics,Swimming,"DOLAN, Tom",USA,Men,200M Individual Medley,Silver
+2000,Sydney,Aquatics,Swimming,"TEUSCHER, Cristina",USA,Women,200M Individual Medley,Bronze
+2000,Sydney,Aquatics,Swimming,"KLOCHKOVA, Yana",UKR,Women,200M Individual Medley,Gold
+2000,Sydney,Aquatics,Swimming,"CASLARU, Beatrice",ROU,Women,200M Individual Medley,Silver
+2000,Sydney,Aquatics,Swimming,"KELLER, Klete",USA,Men,400M Freestyle,Bronze
+2000,Sydney,Aquatics,Swimming,"THORPE, Ian",AUS,Men,400M Freestyle,Gold
+2000,Sydney,Aquatics,Swimming,"ROSOLINO, Massimiliano",ITA,Men,400M Freestyle,Silver
+2000,Sydney,Aquatics,Swimming,"POLL AHRENS, Claudia",CRC,Women,400M Freestyle,Bronze
+2000,Sydney,Aquatics,Swimming,"BENNETT, Brooke",USA,Women,400M Freestyle,Gold
+2000,Sydney,Aquatics,Swimming,"MUNZ, Diana",USA,Women,400M Freestyle,Silver
+2000,Sydney,Aquatics,Swimming,"MYDEN, Curtis Allen",CAN,Men,400M Individual Medley,Bronze
+2000,Sydney,Aquatics,Swimming,"DOLAN, Tom",USA,Men,400M Individual Medley,Gold
+2000,Sydney,Aquatics,Swimming,"VENDT, Erik",USA,Men,400M Individual Medley,Silver
+2000,Sydney,Aquatics,Swimming,"CASLARU, Beatrice",ROU,Women,400M Individual Medley,Bronze
+2000,Sydney,Aquatics,Swimming,"KLOCHKOVA, Yana",UKR,Women,400M Individual Medley,Gold
+2000,Sydney,Aquatics,Swimming,"TAJIMA, Yasuko",JPN,Women,400M Individual Medley,Silver
+2000,Sydney,Aquatics,Swimming,"BORGES, Gustavo",BRA,Men,4X100M Freestyle Relay,Bronze
+2000,Sydney,Aquatics,Swimming,"JAYME, Carlos",BRA,Men,4X100M Freestyle Relay,Bronze
+2000,Sydney,Aquatics,Swimming,"SCHERER, Fernando",BRA,Men,4X100M Freestyle Relay,Bronze
+2000,Sydney,Aquatics,Swimming,"SILVA FILHO, Edvaldo",BRA,Men,4X100M Freestyle Relay,Bronze
+2000,Sydney,Aquatics,Swimming,"CALLUS, Ashley",AUS,Men,4X100M Freestyle Relay,Gold
+2000,Sydney,Aquatics,Swimming,"FYDLER, Christopher John",AUS,Men,4X100M Freestyle Relay,Gold
+2000,Sydney,Aquatics,Swimming,"KLIM, Michael",AUS,Men,4X100M Freestyle Relay,Gold
+2000,Sydney,Aquatics,Swimming,"PEARSON, Todd",AUS,Men,4X100M Freestyle Relay,Gold
+2000,Sydney,Aquatics,Swimming,"PINE, Adam",AUS,Men,4X100M Freestyle Relay,Gold
+2000,Sydney,Aquatics,Swimming,"THORPE, Ian",AUS,Men,4X100M Freestyle Relay,Gold
+2000,Sydney,Aquatics,Swimming,"DAVIS, Josh",USA,Men,4X100M Freestyle Relay,Silver
+2000,Sydney,Aquatics,Swimming,"ERVIN, Anthony",USA,Men,4X100M Freestyle Relay,Silver
+2000,Sydney,Aquatics,Swimming,"HALL, Gary Jr.",USA,Men,4X100M Freestyle Relay,Silver
+2000,Sydney,Aquatics,Swimming,"LEZAK, Jason",USA,Men,4X100M Freestyle Relay,Silver
+2000,Sydney,Aquatics,Swimming,"TUCKER, Scott",USA,Men,4X100M Freestyle Relay,Silver
+2000,Sydney,Aquatics,Swimming,"WALKER, Neil",USA,Men,4X100M Freestyle Relay,Silver
+2000,Sydney,Aquatics,Swimming,"ALSHAMMAR, Therese",SWE,Women,4X100M Freestyle Relay,Bronze
+2000,Sydney,Aquatics,Swimming,"JOHNCKE, Louise",SWE,Women,4X100M Freestyle Relay,Bronze
+2000,Sydney,Aquatics,Swimming,"KAMMERLING, Anna-Karin",SWE,Women,4X100M Freestyle Relay,Bronze
+2000,Sydney,Aquatics,Swimming,"LILLHAGE, Josefin",SWE,Women,4X100M Freestyle Relay,Bronze
+2000,Sydney,Aquatics,Swimming,"SJOBERG, Johanna",SWE,Women,4X100M Freestyle Relay,Bronze
+2000,Sydney,Aquatics,Swimming,"SVAHNSTROM, Malin",SWE,Women,4X100M Freestyle Relay,Bronze
+2000,Sydney,Aquatics,Swimming,"PHENIX, Erin Ashley",USA,Women,4X100M Freestyle Relay,Gold
+2000,Sydney,Aquatics,Swimming,"SHEALY, Courtney",USA,Women,4X100M Freestyle Relay,Gold
+2000,Sydney,Aquatics,Swimming,"TAPPIN, Ashley T",USA,Women,4X100M Freestyle Relay,Gold
+2000,Sydney,Aquatics,Swimming,"THOMPSON, Jenny",USA,Women,4X100M Freestyle Relay,Gold
+2000,Sydney,Aquatics,Swimming,"TORRES, Dara",USA,Women,4X100M Freestyle Relay,Gold
+2000,Sydney,Aquatics,Swimming,"VAN DYKEN, Amy",USA,Women,4X100M Freestyle Relay,Gold
+2000,Sydney,Aquatics,Swimming,"DE BRUIJN, Inge",NED,Women,4X100M Freestyle Relay,Silver
+2000,Sydney,Aquatics,Swimming,"GROOT, Chantal",NED,Women,4X100M Freestyle Relay,Silver
+2000,Sydney,Aquatics,Swimming,"HENNEKEN, Thamar",NED,Women,4X100M Freestyle Relay,Silver
+2000,Sydney,Aquatics,Swimming,"VAN RIJN, Wilma",NED,Women,4X100M Freestyle Relay,Silver
+2000,Sydney,Aquatics,Swimming,"VAN ROOIJEN, Manon",NED,Women,4X100M Freestyle Relay,Silver
+2000,Sydney,Aquatics,Swimming,"KRUPPA, Jens",GER,Men,4X100M Medley Relay,Bronze
+2000,Sydney,Aquatics,Swimming,"RUPPRATH, Thomas",GER,Men,4X100M Medley Relay,Bronze
+2000,Sydney,Aquatics,Swimming,"SPANNEBERG, Torsten",GER,Men,4X100M Medley Relay,Bronze
+2000,Sydney,Aquatics,Swimming,"THELOKE, Stev",GER,Men,4X100M Medley Relay,Bronze
+2000,Sydney,Aquatics,Swimming,"CROCKER, Ian",USA,Men,4X100M Medley Relay,Gold
+2000,Sydney,Aquatics,Swimming,"HALL, Gary Jr.",USA,Men,4X100M Medley Relay,Gold
+2000,Sydney,Aquatics,Swimming,"HANNAN, Tommy",USA,Men,4X100M Medley Relay,Gold
+2000,Sydney,Aquatics,Swimming,"KRAYZELBURG, Lenny",USA,Men,4X100M Medley Relay,Gold
+2000,Sydney,Aquatics,Swimming,"LEZAK, Jason",USA,Men,4X100M Medley Relay,Gold
+2000,Sydney,Aquatics,Swimming,"MOSES, Ed",USA,Men,4X100M Medley Relay,Gold
+2000,Sydney,Aquatics,Swimming,"WALKER, Neil",USA,Men,4X100M Medley Relay,Gold
+2000,Sydney,Aquatics,Swimming,"HARRISON, Regan",AUS,Men,4X100M Medley Relay,Silver
+2000,Sydney,Aquatics,Swimming,"HUEGILL, Geoff",AUS,Men,4X100M Medley Relay,Silver
+2000,Sydney,Aquatics,Swimming,"KLIM, Michael",AUS,Men,4X100M Medley Relay,Silver
+2000,Sydney,Aquatics,Swimming,"MITCHELL, Ryan",AUS,Men,4X100M Medley Relay,Silver
+2000,Sydney,Aquatics,Swimming,"PINE, Adam",AUS,Men,4X100M Medley Relay,Silver
+2000,Sydney,Aquatics,Swimming,"THORPE, Ian",AUS,Men,4X100M Medley Relay,Silver
+2000,Sydney,Aquatics,Swimming,"WATSON, Josh",AUS,Men,4X100M Medley Relay,Silver
+2000,Sydney,Aquatics,Swimming,"WELSH, Matthew",AUS,Men,4X100M Medley Relay,Silver
+2000,Sydney,Aquatics,Swimming,"MINAMOTO, Sumika",JPN,Women,4X100M Medley Relay,Bronze
+2000,Sydney,Aquatics,Swimming,"NAKAMURA, Mai",JPN,Women,4X100M Medley Relay,Bronze
+2000,Sydney,Aquatics,Swimming,"ONISHI, Junko",JPN,Women,4X100M Medley Relay,Bronze
+2000,Sydney,Aquatics,Swimming,"TANAKA, Masami",JPN,Women,4X100M Medley Relay,Bronze
+2000,Sydney,Aquatics,Swimming,"BEDFORD, B J",USA,Women,4X100M Medley Relay,Gold
+2000,Sydney,Aquatics,Swimming,"QUANN, Megan",USA,Women,4X100M Medley Relay,Gold
+2000,Sydney,Aquatics,Swimming,"SHEALY, Courtney",USA,Women,4X100M Medley Relay,Gold
+2000,Sydney,Aquatics,Swimming,"STITTS, Staciana",USA,Women,4X100M Medley Relay,Gold
+2000,Sydney,Aquatics,Swimming,"TAPPIN, Ashley T",USA,Women,4X100M Medley Relay,Gold
+2000,Sydney,Aquatics,Swimming,"THOMPSON, Jenny",USA,Women,4X100M Medley Relay,Gold
+2000,Sydney,Aquatics,Swimming,"TORRES, Dara",USA,Women,4X100M Medley Relay,Gold
+2000,Sydney,Aquatics,Swimming,"VAN DYKEN, Amy",USA,Women,4X100M Medley Relay,Gold
+2000,Sydney,Aquatics,Swimming,"CALUB, Dyana",AUS,Women,4X100M Medley Relay,Silver
+2000,Sydney,Aquatics,Swimming,"JONES, Leisel",AUS,Women,4X100M Medley Relay,Silver
+2000,Sydney,Aquatics,Swimming,"O'NEILL, Susan",AUS,Women,4X100M Medley Relay,Silver
+2000,Sydney,Aquatics,Swimming,"ROONEY, Giaan",AUS,Women,4X100M Medley Relay,Silver
+2000,Sydney,Aquatics,Swimming,"RYAN, Sarah",AUS,Women,4X100M Medley Relay,Silver
+2000,Sydney,Aquatics,Swimming,"THOMAS, Petria",AUS,Women,4X100M Medley Relay,Silver
+2000,Sydney,Aquatics,Swimming,"WHITE, Tarnee",AUS,Women,4X100M Medley Relay,Silver
+2000,Sydney,Aquatics,Swimming,"KENKHUIS, Johan",NED,Men,4X200M Freestyle Relay,Bronze
+2000,Sydney,Aquatics,Swimming,"VAN DEN HOOGENBAND, Pieter",NED,Men,4X200M Freestyle Relay,Bronze
+2000,Sydney,Aquatics,Swimming,"VAN DER ZIJDEN, Mark",NED,Men,4X200M Freestyle Relay,Bronze
+2000,Sydney,Aquatics,Swimming,"WOUDA, Marcel",NED,Men,4X200M Freestyle Relay,Bronze
+2000,Sydney,Aquatics,Swimming,"ZUIJDWEG, Martijn",NED,Men,4X200M Freestyle Relay,Bronze
+2000,Sydney,Aquatics,Swimming,"HACKETT, Grant",AUS,Men,4X200M Freestyle Relay,Gold
+2000,Sydney,Aquatics,Swimming,"KIRBY, William",AUS,Men,4X200M Freestyle Relay,Gold
+2000,Sydney,Aquatics,Swimming,"KLIM, Michael",AUS,Men,4X200M Freestyle Relay,Gold
+2000,Sydney,Aquatics,Swimming,"KOWALSKI, Daniel",AUS,Men,4X200M Freestyle Relay,Gold
+2000,Sydney,Aquatics,Swimming,"PEARSON, Todd",AUS,Men,4X200M Freestyle Relay,Gold
+2000,Sydney,Aquatics,Swimming,"THORPE, Ian",AUS,Men,4X200M Freestyle Relay,Gold
+2000,Sydney,Aquatics,Swimming,"CARVIN, Chad",USA,Men,4X200M Freestyle Relay,Silver
+2000,Sydney,Aquatics,Swimming,"DAVIS, Josh",USA,Men,4X200M Freestyle Relay,Silver
+2000,Sydney,Aquatics,Swimming,"DUSING, Nate",USA,Men,4X200M Freestyle Relay,Silver
+2000,Sydney,Aquatics,Swimming,"GOLDBLATT, Scott",USA,Men,4X200M Freestyle Relay,Silver
+2000,Sydney,Aquatics,Swimming,"KELLER, Klete",USA,Men,4X200M Freestyle Relay,Silver
+2000,Sydney,Aquatics,Swimming,"RAUCH, Jamie",USA,Men,4X200M Freestyle Relay,Silver
+2000,Sydney,Aquatics,Swimming,"BUSCHSCHULTE, Antje",GER,Women,4X200M Freestyle Relay,Bronze
+2000,Sydney,Aquatics,Swimming,"FREITAG, Meike",GER,Women,4X200M Freestyle Relay,Bronze
+2000,Sydney,Aquatics,Swimming,"HARSTICK, Sara",GER,Women,4X200M Freestyle Relay,Bronze
+2000,Sydney,Aquatics,Swimming,"KIELGASS, Kerstin",GER,Women,4X200M Freestyle Relay,Bronze
+2000,Sydney,Aquatics,Swimming,"STEFFEN, Britta",GER,Women,4X200M Freestyle Relay,Bronze
+2000,Sydney,Aquatics,Swimming,"VAN ALMSICK, Franziska",GER,Women,4X200M Freestyle Relay,Bronze
+2000,Sydney,Aquatics,Swimming,"ARSENAULT, Samantha",USA,Women,4X200M Freestyle Relay,Gold
+2000,Sydney,Aquatics,Swimming,"BENKO, Lindsay",USA,Women,4X200M Freestyle Relay,Gold
+2000,Sydney,Aquatics,Swimming,"BLACK, Kim",USA,Women,4X200M Freestyle Relay,Gold
+2000,Sydney,Aquatics,Swimming,"MUNZ, Diana",USA,Women,4X200M Freestyle Relay,Gold
+2000,Sydney,Aquatics,Swimming,"STOWERS, Julia",USA,Women,4X200M Freestyle Relay,Gold
+2000,Sydney,Aquatics,Swimming,"THOMPSON, Jenny",USA,Women,4X200M Freestyle Relay,Gold
+2000,Sydney,Aquatics,Swimming,"GRAHAM, Elka",AUS,Women,4X200M Freestyle Relay,Silver
+2000,Sydney,Aquatics,Swimming,"O'NEILL, Susan",AUS,Women,4X200M Freestyle Relay,Silver
+2000,Sydney,Aquatics,Swimming,"ROONEY, Giaan",AUS,Women,4X200M Freestyle Relay,Silver
+2000,Sydney,Aquatics,Swimming,"THOMAS, Petria",AUS,Women,4X200M Freestyle Relay,Silver
+2000,Sydney,Aquatics,Swimming,"THOMSON, Kirsten",AUS,Women,4X200M Freestyle Relay,Silver
+2000,Sydney,Aquatics,Swimming,"VAN LINT, Jacinta",AUS,Women,4X200M Freestyle Relay,Silver
+2000,Sydney,Aquatics,Swimming,"VAN DEN HOOGENBAND, Pieter",NED,Men,50M Freestyle,Bronze
+2000,Sydney,Aquatics,Swimming,"ERVIN, Anthony",USA,Men,50M Freestyle,Gold
+2000,Sydney,Aquatics,Swimming,"HALL, Gary Jr.",USA,Men,50M Freestyle,Gold
+2000,Sydney,Aquatics,Swimming,"TORRES, Dara",USA,Women,50M Freestyle,Bronze
+2000,Sydney,Aquatics,Swimming,"DE BRUIJN, Inge",NED,Women,50M Freestyle,Gold
+2000,Sydney,Aquatics,Swimming,"ALSHAMMAR, Therese",SWE,Women,50M Freestyle,Silver
+2000,Sydney,Aquatics,Swimming,"SANDENO, Kaitlin",USA,Women,800M Freestyle,Bronze
+2000,Sydney,Aquatics,Swimming,"BENNETT, Brooke",USA,Women,800M Freestyle,Gold
+2000,Sydney,Aquatics,Swimming,"KLOCHKOVA, Yana",UKR,Women,800M Freestyle,Silver
+2000,Sydney,Aquatics,Synchronized S.,"DEDIEU, Virginie",FRA,Women,Duet,Bronze
+2000,Sydney,Aquatics,Synchronized S.,"LIGNOT, Myriam",FRA,Women,Duet,Bronze
+2000,Sydney,Aquatics,Synchronized S.,"BRUSNIKINA, Olga",RUS,Women,Duet,Gold
+2000,Sydney,Aquatics,Synchronized S.,"KISSELEVA, Maria",RUS,Women,Duet,Gold
+2000,Sydney,Aquatics,Synchronized S.,"TACHIBANA, Miya",JPN,Women,Duet,Silver
+2000,Sydney,Aquatics,Synchronized S.,"TAKEDA, Miho",JPN,Women,Duet,Silver
+2000,Sydney,Aquatics,Synchronized S.,"BEAUMONT, Lyne",CAN,Women,Team,Bronze
+2000,Sydney,Aquatics,Synchronized S.,"CARVER-DIAS, Claire",CAN,Women,Team,Bronze
+2000,Sydney,Aquatics,Synchronized S.,"CHAN, Erin",CAN,Women,Team,Bronze
+2000,Sydney,Aquatics,Synchronized S.,"GARCEAU, Catherine",CAN,Women,Team,Bronze
+2000,Sydney,Aquatics,Synchronized S.,"LETOURNEAU, Fanny",CAN,Women,Team,Bronze
+2000,Sydney,Aquatics,Synchronized S.,"NORMAND, Kirstin",CAN,Women,Team,Bronze
+2000,Sydney,Aquatics,Synchronized S.,"TAILLON, Jacinthe",CAN,Women,Team,Bronze
+2000,Sydney,Aquatics,Synchronized S.,"TATHAM, Reidun",CAN,Women,Team,Bronze
+2000,Sydney,Aquatics,Synchronized S.,"AZAROVA, Elena",RUS,Women,Team,Gold
+2000,Sydney,Aquatics,Synchronized S.,"BRUSNIKINA, Olga",RUS,Women,Team,Gold
+2000,Sydney,Aquatics,Synchronized S.,"KISSELEVA, Maria",RUS,Women,Team,Gold
+2000,Sydney,Aquatics,Synchronized S.,"NOVOKSHCHENOVA, Olga",RUS,Women,Team,Gold
+2000,Sydney,Aquatics,Synchronized S.,"PERCHINA, Irina",RUS,Women,Team,Gold
+2000,Sydney,Aquatics,Synchronized S.,"SOIA, Elena",RUS,Women,Team,Gold
+2000,Sydney,Aquatics,Synchronized S.,"VASILIEVA, Yulia",RUS,Women,Team,Gold
+2000,Sydney,Aquatics,Synchronized S.,"VASSIOUKOVA, Olga",RUS,Women,Team,Gold
+2000,Sydney,Aquatics,Synchronized S.,"EGAMI, Ayano",JPN,Women,Team,Silver
+2000,Sydney,Aquatics,Synchronized S.,"FUJII, Raika",JPN,Women,Team,Silver
+2000,Sydney,Aquatics,Synchronized S.,"ISODA, Yoko",JPN,Women,Team,Silver
+2000,Sydney,Aquatics,Synchronized S.,"JIMBO, Rei",JPN,Women,Team,Silver
+2000,Sydney,Aquatics,Synchronized S.,"TACHIBANA, Miya",JPN,Women,Team,Silver
+2000,Sydney,Aquatics,Synchronized S.,"TAKEDA, Miho",JPN,Women,Team,Silver
+2000,Sydney,Aquatics,Synchronized S.,"YONEDA, Yoko",JPN,Women,Team,Silver
+2000,Sydney,Aquatics,Synchronized S.,"YONEDA, Yuko",JPN,Women,Team,Silver
+2000,Sydney,Aquatics,Water polo,"CIRIC, Aleksandar",YUG,Men,Water Polo,Bronze
+2000,Sydney,Aquatics,Water polo,"IKODINOVIC, Danilo",YUG,Men,Water Polo,Bronze
+2000,Sydney,Aquatics,Water polo,"JELENIC, Viktor",YUG,Men,Water Polo,Bronze
+2000,Sydney,Aquatics,Water polo,"KULJACA, Nikola",YUG,Men,Water Polo,Bronze
+2000,Sydney,Aquatics,Water polo,"SAPIC, Aleksandar",YUG,Men,Water Polo,Bronze
+2000,Sydney,Aquatics,Water polo,"SAVIC, Dejan",YUG,Men,Water Polo,Bronze
+2000,Sydney,Aquatics,Water polo,"SOSTAR, Aleksandar",YUG,Men,Water Polo,Bronze
+2000,Sydney,Aquatics,Water polo,"TRBOJEVIC, Petar",YUG,Men,Water Polo,Bronze
+2000,Sydney,Aquatics,Water polo,"USKOKOVIC, Veljko",YUG,Men,Water Polo,Bronze
+2000,Sydney,Aquatics,Water polo,"VASOVIC, Jugoslav",YUG,Men,Water Polo,Bronze
+2000,Sydney,Aquatics,Water polo,"VUJASINOVIC, Vladimir",YUG,Men,Water Polo,Bronze
+2000,Sydney,Aquatics,Water polo,"VUKANIC, Nenad",YUG,Men,Water Polo,Bronze
+2000,Sydney,Aquatics,Water polo,"ZIMONJIC, Predrag",YUG,Men,Water Polo,Bronze
+2000,Sydney,Aquatics,Water polo,"BENEDEK, Tibor",HUN,Men,Water Polo,Gold
+2000,Sydney,Aquatics,Water polo,"BIROS, Peter",HUN,Men,Water Polo,Gold
+2000,Sydney,Aquatics,Water polo,"FODOR, Rajmund",HUN,Men,Water Polo,Gold
+2000,Sydney,Aquatics,Water polo,"KASAS, Tamas",HUN,Men,Water Polo,Gold
+2000,Sydney,Aquatics,Water polo,"KISS, Gergely",HUN,Men,Water Polo,Gold
+2000,Sydney,Aquatics,Water polo,"KOSZ, Zoltan",HUN,Men,Water Polo,Gold
+2000,Sydney,Aquatics,Water polo,"MARCZ, Tamas",HUN,Men,Water Polo,Gold
+2000,Sydney,Aquatics,Water polo,"MOLNAR, Tamas",HUN,Men,Water Polo,Gold
+2000,Sydney,Aquatics,Water polo,"STEINMETZ, Barnabas",HUN,Men,Water Polo,Gold
+2000,Sydney,Aquatics,Water polo,"SZECSI, Zoltan",HUN,Men,Water Polo,Gold
+2000,Sydney,Aquatics,Water polo,"SZEKELY, Bulcsu",HUN,Men,Water Polo,Gold
+2000,Sydney,Aquatics,Water polo,"VARGA, Zsolt",HUN,Men,Water Polo,Gold
+2000,Sydney,Aquatics,Water polo,"VARI, Attila",HUN,Men,Water Polo,Gold
+2000,Sydney,Aquatics,Water polo,"BALACHOV, Roman",RUS,Men,Water Polo,Silver
+2000,Sydney,Aquatics,Water polo,"DOUGUINE, Dmitri",RUS,Men,Water Polo,Silver
+2000,Sydney,Aquatics,Water polo,"ERYSHOV, Alexandre",RUS,Men,Water Polo,Silver
+2000,Sydney,Aquatics,Water polo,"GARBOUZOV, Serguei",RUS,Men,Water Polo,Silver
+2000,Sydney,Aquatics,Water polo,"GORSHKOV, Dmitry",RUS,Men,Water Polo,Silver
+2000,Sydney,Aquatics,Water polo,"IATSEV, Iouri",RUS,Men,Water Polo,Silver
+2000,Sydney,Aquatics,Water polo,"KOZLOV, Nikolai",RUS,Men,Water Polo,Silver
+2000,Sydney,Aquatics,Water polo,"MAXIMOV, Nikolai",RUS,Men,Water Polo,Silver
+2000,Sydney,Aquatics,Water polo,"REKETCHINSKI, Andrei",RUS,Men,Water Polo,Silver
+2000,Sydney,Aquatics,Water polo,"STRATAN, Dmitri",RUS,Men,Water Polo,Silver
+2000,Sydney,Aquatics,Water polo,"TCHOMAKHIDZE, Revaz",RUS,Men,Water Polo,Silver
+2000,Sydney,Aquatics,Water polo,"ZAKIROV, Marat",RUS,Men,Water Polo,Silver
+2000,Sydney,Aquatics,Water polo,"ZINNOUROV, Irek",RUS,Men,Water Polo,Silver
+2000,Sydney,Aquatics,Water polo,"AKOBIA, Marina",RUS,Women,Water Polo,Bronze
+2000,Sydney,Aquatics,Water polo,"ANIKEEVA, Ekaterina",RUS,Women,Water Polo,Bronze
+2000,Sydney,Aquatics,Water polo,"KONOUKH, Sofia",RUS,Women,Water Polo,Bronze
+2000,Sydney,Aquatics,Water polo,"KOROLEVA, Maria",RUS,Women,Water Polo,Bronze
+2000,Sydney,Aquatics,Water polo,"KOUTOUZOVA, Natalia",RUS,Women,Water Polo,Bronze
+2000,Sydney,Aquatics,Water polo,"KOUZINA, Svetlana",RUS,Women,Water Polo,Bronze
+2000,Sydney,Aquatics,Water polo,"PETROVA, Ioulia",RUS,Women,Water Polo,Bronze
+2000,Sydney,Aquatics,Water polo,"PETROVA, Tatiana",RUS,Women,Water Polo,Bronze
+2000,Sydney,Aquatics,Water polo,"RYTOVA, Galina",RUS,Women,Water Polo,Bronze
+2000,Sydney,Aquatics,Water polo,"SMUROVA, Elena",RUS,Women,Water Polo,Bronze
+2000,Sydney,Aquatics,Water polo,"TOKOUN, Elena",RUS,Women,Water Polo,Bronze
+2000,Sydney,Aquatics,Water polo,"TOLKOUNOVA, Irina",RUS,Women,Water Polo,Bronze
+2000,Sydney,Aquatics,Water polo,"VASSILIEVA, Ekaterina",RUS,Women,Water Polo,Bronze
+2000,Sydney,Aquatics,Water polo,"CASTLE, Naomi",AUS,Women,Water Polo,Gold
+2000,Sydney,Aquatics,Water polo,"FOX, Joanne",AUS,Women,Water Polo,Gold
+2000,Sydney,Aquatics,Water polo,"GUSTERSON, Bridgette",AUS,Women,Water Polo,Gold
+2000,Sydney,Aquatics,Water polo,"HANKIN, Simone",AUS,Women,Water Polo,Gold
+2000,Sydney,Aquatics,Water polo,"HIGGINS, Yvette",AUS,Women,Water Polo,Gold
+2000,Sydney,Aquatics,Water polo,"HOOPER, Kate",AUS,Women,Water Polo,Gold
+2000,Sydney,Aquatics,Water polo,"MAYER, Bronwyn",AUS,Women,Water Polo,Gold
+2000,Sydney,Aquatics,Water polo,"MILLER, Gail",AUS,Women,Water Polo,Gold
+2000,Sydney,Aquatics,Water polo,"MILLS, Melissa",AUS,Women,Water Polo,Gold
+2000,Sydney,Aquatics,Water polo,"WATSON, Debbie",AUS,Women,Water Polo,Gold
+2000,Sydney,Aquatics,Water polo,"WEEKES, Liz",AUS,Women,Water Polo,Gold
+2000,Sydney,Aquatics,Water polo,"WOODHOUSE, Danielle",AUS,Women,Water Polo,Gold
+2000,Sydney,Aquatics,Water polo,"WOODS, Taryn",AUS,Women,Water Polo,Gold
+2000,Sydney,Aquatics,Water polo,"BEAUREGARD, Robin",USA,Women,Water Polo,Silver
+2000,Sydney,Aquatics,Water polo,"ESTES, Ellen",USA,Women,Water Polo,Silver
+2000,Sydney,Aquatics,Water polo,"JOHNSON, Courtney",USA,Women,Water Polo,Silver
+2000,Sydney,Aquatics,Water polo,"LORENZ, Ericka",USA,Women,Water Polo,Silver
+2000,Sydney,Aquatics,Water polo,"MOODY, Heather",USA,Women,Water Polo,Silver
+2000,Sydney,Aquatics,Water polo,"ORWIG, Bernice",USA,Women,Water Polo,Silver
+2000,Sydney,Aquatics,Water polo,"O'TOOLE, Maureen",USA,Women,Water Polo,Silver
+2000,Sydney,Aquatics,Water polo,"PAYNE, Nicolle",USA,Women,Water Polo,Silver
+2000,Sydney,Aquatics,Water polo,"PETRI, Heather",USA,Women,Water Polo,Silver
+2000,Sydney,Aquatics,Water polo,"SHEEHY, Kathy",USA,Women,Water Polo,Silver
+2000,Sydney,Aquatics,Water polo,"SIMMONS, Coralie",USA,Women,Water Polo,Silver
+2000,Sydney,Aquatics,Water polo,"SWAIL, Julie",USA,Women,Water Polo,Silver
+2000,Sydney,Aquatics,Water polo,"VILLA, Brenda",USA,Women,Water Polo,Silver
+2000,Sydney,Archery,Archery,"VAN ALTEN, Wietse",NED,Men,Individual (Fita Olympic Round - 70M),Bronze
+2000,Sydney,Archery,Archery,"FAIRWEATHER, Simon",AUS,Men,Individual (Fita Olympic Round - 70M),Gold
+2000,Sydney,Archery,Archery,"WUNDERLE, Victor",USA,Men,Individual (Fita Olympic Round - 70M),Silver
+2000,Sydney,Archery,Archery,"KIM, Soo-Nyung",KOR,Women,Individual (Fita Olympic Round - 70M),Bronze
+2000,Sydney,Archery,Archery,"YUN, Mi-Jin",KOR,Women,Individual (Fita Olympic Round - 70M),Gold
+2000,Sydney,Archery,Archery,"KIM, Nam-Soon",KOR,Women,Individual (Fita Olympic Round - 70M),Silver
+2000,Sydney,Archery,Archery,"JOHNSON, Richard",USA,Men,Team (Fita Olympic Round - 70M),Bronze
+2000,Sydney,Archery,Archery,"WHITE, Rodney",USA,Men,Team (Fita Olympic Round - 70M),Bronze
+2000,Sydney,Archery,Archery,"WUNDERLE, Victor",USA,Men,Team (Fita Olympic Round - 70M),Bronze
+2000,Sydney,Archery,Archery,"JANG, Yong-Ho",KOR,Men,Team (Fita Olympic Round - 70M),Gold
+2000,Sydney,Archery,Archery,"KIM, Chung-Tae",KOR,Men,Team (Fita Olympic Round - 70M),Gold
+2000,Sydney,Archery,Archery,"OH, Kyo-Moon",KOR,Men,Team (Fita Olympic Round - 70M),Gold
+2000,Sydney,Archery,Archery,"BISIANI, Matteo",ITA,Men,Team (Fita Olympic Round - 70M),Silver
+2000,Sydney,Archery,Archery,"DI BUO, Ilario",ITA,Men,Team (Fita Olympic Round - 70M),Silver
+2000,Sydney,Archery,Archery,"FRANGILLI, Michele",ITA,Men,Team (Fita Olympic Round - 70M),Silver
+2000,Sydney,Archery,Archery,"MENSING, Barbara",GER,Women,Team (Fita Olympic Round - 70M),Bronze
+2000,Sydney,Archery,Archery,"PFOHL, Cornelia",GER,Women,Team (Fita Olympic Round - 70M),Bronze
+2000,Sydney,Archery,Archery,"WAGNER, Sandra",GER,Women,Team (Fita Olympic Round - 70M),Bronze
+2000,Sydney,Archery,Archery,"KIM, Nam-Soon",KOR,Women,Team (Fita Olympic Round - 70M),Gold
+2000,Sydney,Archery,Archery,"KIM, Soo-Nyung",KOR,Women,Team (Fita Olympic Round - 70M),Gold
+2000,Sydney,Archery,Archery,"YUN, Mi-Jin",KOR,Women,Team (Fita Olympic Round - 70M),Gold
+2000,Sydney,Archery,Archery,"BURDEYNA, Nataliya",UKR,Women,Team (Fita Olympic Round - 70M),Silver
+2000,Sydney,Archery,Archery,"SADOVNYCHA, Olena",UKR,Women,Team (Fita Olympic Round - 70M),Silver
+2000,Sydney,Archery,Archery,"SERDYUK, Kateryna",UKR,Women,Team (Fita Olympic Round - 70M),Silver
+2000,Sydney,Athletics,Athletics,"MEZGEBU, Assefa",ETH,Men,10000M,Bronze
+2000,Sydney,Athletics,Athletics,"GEBRSELASSIE, Haile",ETH,Men,10000M,Gold
+2000,Sydney,Athletics,Athletics,"TERGAT, Paul",KEN,Men,10000M,Silver
+2000,Sydney,Athletics,Athletics,"RIBEIRO, Fernanda",POR,Women,10000M,Bronze
+2000,Sydney,Athletics,Athletics,"TULU, Derartu",ETH,Women,10000M,Gold
+2000,Sydney,Athletics,Athletics,"WAMI, Gete",ETH,Women,10000M,Silver
+2000,Sydney,Athletics,Athletics,"THOMPSON, Obadele",BAR,Men,100M,Bronze
+2000,Sydney,Athletics,Athletics,"GREENE, Maurice",USA,Men,100M,Gold
+2000,Sydney,Athletics,Athletics,"BOLDON, Ato",TRI,Men,100M,Silver
+2000,Sydney,Athletics,Athletics,"OTTEY-PAGE, Merlene",JAM,Women,100M,Bronze
+2000,Sydney,Athletics,Athletics,"LAWRENCE, Tanya",JAM,Women,100M,Silver
+2000,Sydney,Athletics,Athletics,"THANOU, Ekaterini",GRE,Women,100M,Silver
+2000,Sydney,Athletics,Athletics,"MORRISON, Melissa",USA,Women,100M Hurdles,Bronze
+2000,Sydney,Athletics,Athletics,"SHISHIGINA, Olga",KAZ,Women,100M Hurdles,Gold
+2000,Sydney,Athletics,Athletics,"ALOZIE, Gloria",NGR,Women,100M Hurdles,Silver
+2000,Sydney,Athletics,Athletics,"CREAR, Mark",USA,Men,110M Hurdles,Bronze
+2000,Sydney,Athletics,Athletics,"GARCIA, Anier",CUB,Men,110M Hurdles,Gold
+2000,Sydney,Athletics,Athletics,"TRAMMELL, Terrence",USA,Men,110M Hurdles,Silver
+2000,Sydney,Athletics,Athletics,"LAGAT, Bernard",KEN,Men,1500M,Bronze
+2000,Sydney,Athletics,Athletics,"NGENYI, Noah Kiprono",KEN,Men,1500M,Gold
+2000,Sydney,Athletics,Athletics,"EL GUERROUJ, Hicham",MAR,Men,1500M,Silver
+2000,Sydney,Athletics,Athletics,"SZABO, Gabriela",ROU,Women,1500M,Bronze
+2000,Sydney,Athletics,Athletics,"MERAH-BENIDA, Nouria",ALG,Women,1500M,Gold
+2000,Sydney,Athletics,Athletics,"SZEKELY, Violeta",ROU,Women,1500M,Silver
+2000,Sydney,Athletics,Athletics,"BOLDON, Ato",TRI,Men,200M,Bronze
+2000,Sydney,Athletics,Athletics,"KENTERIS, Konstantinos",GRE,Men,200M,Gold
+2000,Sydney,Athletics,Athletics,"CAMPBELL, Darren",GBR,Men,200M,Silver
+2000,Sydney,Athletics,Athletics,"MCDONALD, Beverly",JAM,Women,200M,Bronze
+2000,Sydney,Athletics,Athletics,"DAVIS, Pauline Elaine",BAH,Women,200M,Gold
+2000,Sydney,Athletics,Athletics,"JAYASINGHE, Susanthika",SRI,Women,200M,Silver
+2000,Sydney,Athletics,Athletics,"VASCO, Maria",ESP,Women,20KM Race Walk,Bronze
+2000,Sydney,Athletics,Athletics,"WANG, Liping",CHN,Women,20KM Race Walk,Gold
+2000,Sydney,Athletics,Athletics,"PLAETZER, Kjersti",NOR,Women,20KM Race Walk,Silver
+2000,Sydney,Athletics,Athletics,"ANDREYEV, Vladimir",RUS,Men,20KM Walk,Bronze
+2000,Sydney,Athletics,Athletics,"KORZENIOWSKI, Robert",POL,Men,20KM Walk,Gold
+2000,Sydney,Athletics,Athletics,"HERNANDEZ, Noe",MEX,Men,20KM Walk,Silver
+2000,Sydney,Athletics,Athletics,"EZZINE, Ali",MAR,Men,3000M Steeplechase,Bronze
+2000,Sydney,Athletics,Athletics,"KOSGEI, Reuben",KEN,Men,3000M Steeplechase,Gold
+2000,Sydney,Athletics,Athletics,"KIPKETER, Wilson Boit",KEN,Men,3000M Steeplechase,Silver
+2000,Sydney,Athletics,Athletics,"HAUGHTON, Greg",JAM,Men,400M,Bronze
+2000,Sydney,Athletics,Athletics,"JOHNSON, Michael",USA,Men,400M,Gold
+2000,Sydney,Athletics,Athletics,"HARRISON, Alvin",USA,Men,400M,Silver
+2000,Sydney,Athletics,Athletics,"MERRY, Katharine",GBR,Women,400M,Bronze
+2000,Sydney,Athletics,Athletics,"FREEMAN, Cathy",AUS,Women,400M,Gold
+2000,Sydney,Athletics,Athletics,"GRAHAM, Lorraine",JAM,Women,400M,Silver
+2000,Sydney,Athletics,Athletics,"HERBERT, Llewellyn",RSA,Men,400M Hurdles,Bronze
+2000,Sydney,Athletics,Athletics,"TAYLOR, Angelo",USA,Men,400M Hurdles,Gold
+2000,Sydney,Athletics,Athletics,"SOMAYLI, Hadi",KSA,Men,400M Hurdles,Silver
+2000,Sydney,Athletics,Athletics,"BIDOUANE, Nouzha",MAR,Women,400M Hurdles,Bronze
+2000,Sydney,Athletics,Athletics,"PRIVALOVA, Irina",RUS,Women,400M Hurdles,Gold
+2000,Sydney,Athletics,Athletics,"HEMMINGS, Deon Marie",JAM,Women,400M Hurdles,Silver
+2000,Sydney,Athletics,Athletics,"CESAR, Jose Angel",CUB,Men,4X100M Relay,Bronze
+2000,Sydney,Athletics,Athletics,"GARCIA, Ivan",CUB,Men,4X100M Relay,Bronze
+2000,Sydney,Athletics,Athletics,"MAYOLA, Freddy",CUB,Men,4X100M Relay,Bronze
+2000,Sydney,Athletics,Athletics,"PEREZ, Luis Alberto",CUB,Men,4X100M Relay,Bronze
+2000,Sydney,Athletics,Athletics,"BROKENBURR, Kenneth",USA,Men,4X100M Relay,Gold
+2000,Sydney,Athletics,Athletics,"DRUMMOND, Jon",USA,Men,4X100M Relay,Gold
+2000,Sydney,Athletics,Athletics,"GREENE, Maurice",USA,Men,4X100M Relay,Gold
+2000,Sydney,Athletics,Athletics,"LEWIS, Brian",USA,Men,4X100M Relay,Gold
+2000,Sydney,Athletics,Athletics,"MONTGOMERY, Tim",USA,Men,4X100M Relay,Gold
+2000,Sydney,Athletics,Athletics,"WILLIAMS III, Bernard",USA,Men,4X100M Relay,Gold
+2000,Sydney,Athletics,Athletics,"DE LIMA, Vicente",BRA,Men,4X100M Relay,Silver
+2000,Sydney,Athletics,Athletics,"RIBEIRO, Edson",BRA,Men,4X100M Relay,Silver
+2000,Sydney,Athletics,Athletics,"SILVA, Andre Domingos",BRA,Men,4X100M Relay,Silver
+2000,Sydney,Athletics,Athletics,"SILVA, Claudinei",BRA,Men,4X100M Relay,Silver
+2000,Sydney,Athletics,Athletics,"SOUZA, Claudio Roberto",BRA,Men,4X100M Relay,Silver
+2000,Sydney,Athletics,Athletics,"EDWARDS, Torri",USA,Women,4X100M Relay,Bronze
+2000,Sydney,Athletics,Athletics,"GAINES, Chryste",USA,Women,4X100M Relay,Bronze
+2000,Sydney,Athletics,Athletics,"PERRY, Nanceen",USA,Women,4X100M Relay,Bronze
+2000,Sydney,Athletics,Athletics,"RICHARDSON, Passion",USA,Women,4X100M Relay,Bronze
+2000,Sydney,Athletics,Athletics,"DAVIS, Pauline Elaine",BAH,Women,4X100M Relay,Gold
+2000,Sydney,Athletics,Athletics,"FERGUSON-MCKENZIE, Debbie",BAH,Women,4X100M Relay,Gold
+2000,Sydney,Athletics,Athletics,"FYNES, Sevatheda",BAH,Women,4X100M Relay,Gold
+2000,Sydney,Athletics,Athletics,"LEWIS, Eldice",BAH,Women,4X100M Relay,Gold
+2000,Sydney,Athletics,Athletics,"STURRUP, Chandra",BAH,Women,4X100M Relay,Gold
+2000,Sydney,Athletics,Athletics,"CAMPBELL-BROWN, Veronica",JAM,Women,4X100M Relay,Silver
+2000,Sydney,Athletics,Athletics,"FRAZER, Merlene",JAM,Women,4X100M Relay,Silver
+2000,Sydney,Athletics,Athletics,"LAWRENCE, Tanya",JAM,Women,4X100M Relay,Silver
+2000,Sydney,Athletics,Athletics,"MCDONALD, Beverly",JAM,Women,4X100M Relay,Silver
+2000,Sydney,Athletics,Athletics,"OTTEY-PAGE, Merlene",JAM,Women,4X100M Relay,Silver
+2000,Sydney,Athletics,Athletics,"AYRE, Sanjay",JAM,Men,4X400M Relay,Bronze
+2000,Sydney,Athletics,Athletics,"BLACKWOOD, Michael",JAM,Men,4X400M Relay,Bronze
+2000,Sydney,Athletics,Athletics,"HAUGHTON, Greg",JAM,Men,4X400M Relay,Bronze
+2000,Sydney,Athletics,Athletics,"MCDONALD, Michael",JAM,Men,4X400M Relay,Bronze
+2000,Sydney,Athletics,Athletics,"MCFARLANE, Danny",JAM,Men,4X400M Relay,Bronze
+2000,Sydney,Athletics,Athletics,"WILLIAMS, Christopher",JAM,Men,4X400M Relay,Bronze
+2000,Sydney,Athletics,Athletics,"AWAZIE, Nduka",NGR,Men,4X400M Relay,Silver
+2000,Sydney,Athletics,Athletics,"BADA, Sunday",NGR,Men,4X400M Relay,Silver
+2000,Sydney,Athletics,Athletics,"CHUKWU, Clement",NGR,Men,4X400M Relay,Silver
+2000,Sydney,Athletics,Athletics,"GADZAMA, Fidelis",NGR,Men,4X400M Relay,Silver
+2000,Sydney,Athletics,Athletics,"MONYE, Jude",NGR,Men,4X400M Relay,Silver
+2000,Sydney,Athletics,Athletics,"UDO OBONG, Enefiok",NGR,Men,4X400M Relay,Silver
+2000,Sydney,Athletics,Athletics,"GONCHARENKO, Svetlana",RUS,Women,4X400M Relay,Bronze
+2000,Sydney,Athletics,Athletics,"KOTLYAROVA, Olga",RUS,Women,4X400M Relay,Bronze
+2000,Sydney,Athletics,Athletics,"NAZAROVA, Natalya",RUS,Women,4X400M Relay,Bronze
+2000,Sydney,Athletics,Athletics,"PRIVALOVA, Irina",RUS,Women,4X400M Relay,Bronze
+2000,Sydney,Athletics,Athletics,"SOTNIKOVA, Yulia",RUS,Women,4X400M Relay,Bronze
+2000,Sydney,Athletics,Athletics,"ZYKINA, Olesya",RUS,Women,4X400M Relay,Bronze
+2000,Sydney,Athletics,Athletics,"ANDERSON, Andrea",USA,Women,4X400M Relay,Gold
+2000,Sydney,Athletics,Athletics,"COLANDER, LaTasha",USA,Women,4X400M Relay,Gold
+2000,Sydney,Athletics,Athletics,"HENNAGAN, Monique",USA,Women,4X400M Relay,Gold
+2000,Sydney,Athletics,Athletics,"MILES, Jearl",USA,Women,4X400M Relay,Gold
+2000,Sydney,Athletics,Athletics,"BURGHER, Michelle",JAM,Women,4X400M Relay,Silver
+2000,Sydney,Athletics,Athletics,"GRAHAM, Lorraine",JAM,Women,4X400M Relay,Silver
+2000,Sydney,Athletics,Athletics,"HEMMINGS, Deon Marie",JAM,Women,4X400M Relay,Silver
+2000,Sydney,Athletics,Athletics,"HOWELL, Charmaine",JAM,Women,4X400M Relay,Silver
+2000,Sydney,Athletics,Athletics,"RICHARDS, Sandie",JAM,Women,4X400M Relay,Silver
+2000,Sydney,Athletics,Athletics,"SCOTT-POMALES, Catherine",JAM,Women,4X400M Relay,Silver
+2000,Sydney,Athletics,Athletics,"LAHLAFI, Brahim",MAR,Men,5000M,Bronze
+2000,Sydney,Athletics,Athletics,"WOLDE, Millon",ETH,Men,5000M,Gold
+2000,Sydney,Athletics,Athletics,"SAIDI-SIEF, Ali",ALG,Men,5000M,Silver
+2000,Sydney,Athletics,Athletics,"WAMI, Gete",ETH,Women,5000M,Bronze
+2000,Sydney,Athletics,Athletics,"SZABO, Gabriela",ROU,Women,5000M,Gold
+2000,Sydney,Athletics,Athletics,"O'SULLIVAN, Sonia",IRL,Women,5000M,Silver
+2000,Sydney,Athletics,Athletics,"SANCHEZ GUERRERO, Joel",MEX,Men,50KM Walk,Bronze
+2000,Sydney,Athletics,Athletics,"KORZENIOWSKI, Robert",POL,Men,50KM Walk,Gold
+2000,Sydney,Athletics,Athletics,"FADEJEVS, Aigars",LAT,Men,50KM Walk,Silver
+2000,Sydney,Athletics,Athletics,"SAID GUERNI, Djabir",ALG,Men,800M,Bronze
+2000,Sydney,Athletics,Athletics,"SCHUMANN, Nils",GER,Men,800M,Gold
+2000,Sydney,Athletics,Athletics,"KIPKETER, Wilson",DEN,Men,800M,Silver
+2000,Sydney,Athletics,Athletics,"HOLMES, Kelly",GBR,Women,800M,Bronze
+2000,Sydney,Athletics,Athletics,"MUTOLA, Maria",MOZ,Women,800M,Gold
+2000,Sydney,Athletics,Athletics,"GRAF, Stephanie",AUT,Women,800M,Silver
+2000,Sydney,Athletics,Athletics,"HUFFINS, Chris",USA,Men,Decathlon,Bronze
+2000,Sydney,Athletics,Athletics,"NOOL, Erki",EST,Men,Decathlon,Gold
+2000,Sydney,Athletics,Athletics,"SEBRLE, Roman",CZE,Men,Decathlon,Silver
+2000,Sydney,Athletics,Athletics,"KRUGER, Frantz",RSA,Men,Discus Throw,Bronze
+2000,Sydney,Athletics,Athletics,"ALEKNA, Virgilijus",LTU,Men,Discus Throw,Gold
+2000,Sydney,Athletics,Athletics,"RIEDEL, Lars",GER,Men,Discus Throw,Silver
+2000,Sydney,Athletics,Athletics,"YATCHENKO, Iryna",BLR,Women,Discus Throw,Bronze
+2000,Sydney,Athletics,Athletics,"ZVEREVA, Ellina",BLR,Women,Discus Throw,Gold
+2000,Sydney,Athletics,Athletics,"KELESIDOU, Anastasia",GRE,Women,Discus Throw,Silver
+2000,Sydney,Athletics,Athletics,"ASTAPKOVICH, Igor",BLR,Men,Hammer Throw,Bronze
+2000,Sydney,Athletics,Athletics,"ZIOLKOWSKI, Szymon",POL,Men,Hammer Throw,Gold
+2000,Sydney,Athletics,Athletics,"VIZZONI, Nicola",ITA,Men,Hammer Throw,Silver
+2000,Sydney,Athletics,Athletics,"MUENCHOW, Kirsten",GER,Women,Hammer Throw,Bronze
+2000,Sydney,Athletics,Athletics,"SKOLIMOWSKA, Kamila",POL,Women,Hammer Throw,Gold
+2000,Sydney,Athletics,Athletics,"KUZENKOVA, Olga",RUS,Women,Hammer Throw,Silver
+2000,Sydney,Athletics,Athletics,"SAZANOVICH, Natalya",BLR,Women,Heptathlon,Bronze
+2000,Sydney,Athletics,Athletics,"LEWIS, Denise",GBR,Women,Heptathlon,Gold
+2000,Sydney,Athletics,Athletics,"PROKHOROVA, Yelena",RUS,Women,Heptathlon,Silver
+2000,Sydney,Athletics,Athletics,"HAMMAD, Abderrahmane",ALG,Men,High Jump,Bronze
+2000,Sydney,Athletics,Athletics,"KLIUGIN, Sergey",RUS,Men,High Jump,Gold
+2000,Sydney,Athletics,Athletics,"SOTOMAYOR, Javier",CUB,Men,High Jump,Silver
+2000,Sydney,Athletics,Athletics,"BERGQVIST, Kajsa",SWE,Women,High Jump,Bronze
+2000,Sydney,Athletics,Athletics,"PANTELIMON, Oana",ROU,Women,High Jump,Bronze
+2000,Sydney,Athletics,Athletics,"YELESINA, Yelena",RUS,Women,High Jump,Gold
+2000,Sydney,Athletics,Athletics,"CLOETE, Hestrie",RSA,Women,High Jump,Silver
+2000,Sydney,Athletics,Athletics,"MAKAROV, Sergey",RUS,Men,Javelin Throw,Bronze
+2000,Sydney,Athletics,Athletics,"ZELEZNY, Jan",CZE,Men,Javelin Throw,Gold
+2000,Sydney,Athletics,Athletics,"BACKLEY, Steve",GBR,Men,Javelin Throw,Silver
+2000,Sydney,Athletics,Athletics,"MENENDEZ, Osleidys",CUB,Women,Javelin Throw,Bronze
+2000,Sydney,Athletics,Athletics,"HATTESTAD, Trine",NOR,Women,Javelin Throw,Gold
+2000,Sydney,Athletics,Athletics,"MANIANI-TZELILI, Mirella",GRE,Women,Javelin Throw,Silver
+2000,Sydney,Athletics,Athletics,"SCHURENKO, Roman",UKR,Men,Long Jump,Bronze
+2000,Sydney,Athletics,Athletics,"PEDROSO, Ivan",CUB,Men,Long Jump,Gold
+2000,Sydney,Athletics,Athletics,"TAURIMA, Jai",AUS,Men,Long Jump,Silver
+2000,Sydney,Athletics,Athletics,"KOTOVA, Tatyana",RUS,Women,Long Jump,Bronze
+2000,Sydney,Athletics,Athletics,"DRECHSLER, Heike",GER,Women,Long Jump,Gold
+2000,Sydney,Athletics,Athletics,"MAY, Fiona",ITA,Women,Long Jump,Silver
+2000,Sydney,Athletics,Athletics,"TOLA, Tesfaye",ETH,Men,Marathon,Bronze
+2000,Sydney,Athletics,Athletics,"CHEPCHUMBA, Joyce",KEN,Men,Marathon,Bronze
+2000,Sydney,Athletics,Athletics,"ABERA, Gezahegne",ETH,Men,Marathon,Gold
+2000,Sydney,Athletics,Athletics,"WAINAINA, Erick",KEN,Men,Marathon,Silver
+2000,Sydney,Athletics,Athletics,"TAKAHASHI, Naoko",JPN,Women,Marathon,Gold
+2000,Sydney,Athletics,Athletics,"SIMON, Lidia Elena",ROU,Women,Marathon,Silver
+2000,Sydney,Athletics,Athletics,"TARASOV, Maksim",RUS,Men,Pole Vault,Bronze
+2000,Sydney,Athletics,Athletics,"HYSONG, Nick",USA,Men,Pole Vault,Gold
+2000,Sydney,Athletics,Athletics,"JOHNSON, Lawrence",USA,Men,Pole Vault,Silver
+2000,Sydney,Athletics,Athletics,"FLOSADOTTIR, Vala",ISL,Women,Pole Vault,Bronze
+2000,Sydney,Athletics,Athletics,"DRAGILA, Stacy",USA,Women,Pole Vault,Gold
+2000,Sydney,Athletics,Athletics,"GRIGORIEVA, Tatiana",AUS,Women,Pole Vault,Silver
+2000,Sydney,Athletics,Athletics,"GODINA, John",USA,Men,Shot Put,Bronze
+2000,Sydney,Athletics,Athletics,"HARJU, Arsi",FIN,Men,Shot Put,Gold
+2000,Sydney,Athletics,Athletics,"NELSON, Adam",USA,Men,Shot Put,Silver
+2000,Sydney,Athletics,Athletics,"KUMBERNUSS, Astrid",GER,Women,Shot Put,Bronze
+2000,Sydney,Athletics,Athletics,"KAROLCHIK, Yanina",BLR,Women,Shot Put,Gold
+2000,Sydney,Athletics,Athletics,"PELESHENKO, Larisa",RUS,Women,Shot Put,Silver
+2000,Sydney,Athletics,Athletics,"KAPUSTIN, Denis",RUS,Men,Triple Jump,Bronze
+2000,Sydney,Athletics,Athletics,"EDWARDS, Jonathan David",GBR,Men,Triple Jump,Gold
+2000,Sydney,Athletics,Athletics,"GARCIA, Yoel",CUB,Men,Triple Jump,Silver
+2000,Sydney,Athletics,Athletics,"HOVOROVA, Olena",UKR,Women,Triple Jump,Bronze
+2000,Sydney,Athletics,Athletics,"MARINOVA, Tereza",BUL,Women,Triple Jump,Gold
+2000,Sydney,Athletics,Athletics,"LEBEDEVA, Tatyana",RUS,Women,Triple Jump,Silver
+2000,Sydney,Badminton,Badminton,"HA, Tae-Kwon",KOR,Men,Doubles,Bronze
+2000,Sydney,Badminton,Badminton,"KIM, Dong Moon",KOR,Men,Doubles,Bronze
+2000,Sydney,Badminton,Badminton,"ARCHER, Simon",GBR,Men,Doubles,Bronze
+2000,Sydney,Badminton,Badminton,"GUNAWAN, Tony",INA,Men,Doubles,Gold
+2000,Sydney,Badminton,Badminton,"WIJAYA, Candra",INA,Men,Doubles,Gold
+2000,Sydney,Badminton,Badminton,"ZHANG, Jun",CHN,Men,Doubles,Gold
+2000,Sydney,Badminton,Badminton,"LEE, Dong Soo",KOR,Men,Doubles,Silver
+2000,Sydney,Badminton,Badminton,"YOO, Yong-Sung",KOR,Men,Doubles,Silver
+2000,Sydney,Badminton,Badminton,"KUSHANJANTO, Tri",INA,Men,Doubles,Silver
+2000,Sydney,Badminton,Badminton,"GAO, Ling",CHN,Women,Doubles,Bronze
+2000,Sydney,Badminton,Badminton,"QIN, Yiyuan",CHN,Women,Doubles,Bronze
+2000,Sydney,Badminton,Badminton,"GOODE, Joanne",GBR,Women,Doubles,Bronze
+2000,Sydney,Badminton,Badminton,"GE, Fei",CHN,Women,Doubles,Gold
+2000,Sydney,Badminton,Badminton,"GU, Jun",CHN,Women,Doubles,Gold
+2000,Sydney,Badminton,Badminton,"GAO, Ling",CHN,Women,Doubles,Gold
+2000,Sydney,Badminton,Badminton,"HUANG, Nanyan",CHN,Women,Doubles,Silver
+2000,Sydney,Badminton,Badminton,"YANG, Wei",CHN,Women,Doubles,Silver
+2000,Sydney,Badminton,Badminton,"TIMUR, Minarti",INA,Women,Doubles,Silver
+2000,Sydney,Badminton,Badminton,"XIA, Xuanze",CHN,Men,Singles,Bronze
+2000,Sydney,Badminton,Badminton,"JI, Xinpeng",CHN,Men,Singles,Gold
+2000,Sydney,Badminton,Badminton,HENDRAWAN,INA,Men,Singles,Silver
+2000,Sydney,Badminton,Badminton,"YE, Zhaoying",CHN,Women,Singles,Bronze
+2000,Sydney,Badminton,Badminton,"GONG, Zhichao",CHN,Women,Singles,Gold
+2000,Sydney,Badminton,Badminton,"MARTIN, Camilla",DEN,Women,Singles,Silver
+2000,Sydney,Baseball,Baseball,"CHANG, Song-Ho",KOR,Men,Baseball,Bronze
+2000,Sydney,Baseball,Baseball,"CHONG, Tae-Hyon",KOR,Men,Baseball,Bronze
+2000,Sydney,Baseball,Baseball,"CHUNG, Min-Tae",KOR,Men,Baseball,Bronze
+2000,Sydney,Baseball,Baseball,"CHUNG, Soo-Keun",KOR,Men,Baseball,Bronze
+2000,Sydney,Baseball,Baseball,"HONG, Sung-Heon",KOR,Men,Baseball,Bronze
+2000,Sydney,Baseball,Baseball,"JIN, Pil-Jung",KOR,Men,Baseball,Bronze
+2000,Sydney,Baseball,Baseball,"KIM, Dong-Joo",KOR,Men,Baseball,Bronze
+2000,Sydney,Baseball,Baseball,"KIM, Han-Soo",KOR,Men,Baseball,Bronze
+2000,Sydney,Baseball,Baseball,"KIM, Ki-Tae",KOR,Men,Baseball,Bronze
+2000,Sydney,Baseball,Baseball,"KIM, Soo-Kyung",KOR,Men,Baseball,Bronze
+2000,Sydney,Baseball,Baseball,"KIM, Tae-Gyun",KOR,Men,Baseball,Bronze
+2000,Sydney,Baseball,Baseball,"KOO, Dae-Sung",KOR,Men,Baseball,Bronze
+2000,Sydney,Baseball,Baseball,"LEE, Byoung-Kyu",KOR,Men,Baseball,Bronze
+2000,Sydney,Baseball,Baseball,"LEE, Seung-Ho",KOR,Men,Baseball,Bronze
+2000,Sydney,Baseball,Baseball,"LEE, Seung-Yub",KOR,Men,Baseball,Bronze
+2000,Sydney,Baseball,Baseball,"LIM, Chang-Yong",KOR,Men,Baseball,Bronze
+2000,Sydney,Baseball,Baseball,"LIM, Sun-Dong",KOR,Men,Baseball,Bronze
+2000,Sydney,Baseball,Baseball,"PARK, Jae-Hong",KOR,Men,Baseball,Bronze
+2000,Sydney,Baseball,Baseball,"PARK, Jinman",KOR,Men,Baseball,Bronze
+2000,Sydney,Baseball,Baseball,"PARK, Jong-Ho",KOR,Men,Baseball,Bronze
+2000,Sydney,Baseball,Baseball,"PARK, Kyung-Oan",KOR,Men,Baseball,Bronze
+2000,Sydney,Baseball,Baseball,"PARK, Seok-Jin",KOR,Men,Baseball,Bronze
+2000,Sydney,Baseball,Baseball,"SON, Min-Han",KOR,Men,Baseball,Bronze
+2000,Sydney,Baseball,Baseball,"SONG, Jin-Woo",KOR,Men,Baseball,Bronze
+2000,Sydney,Baseball,Baseball,"ABERNATHY, Brent",USA,Men,Baseball,Gold
+2000,Sydney,Baseball,Baseball,"AINSWORTH, Kurt",USA,Men,Baseball,Gold
+2000,Sydney,Baseball,Baseball,"BORDERS, Pat",USA,Men,Baseball,Gold
+2000,Sydney,Baseball,Baseball,"BURROUGHS, Sean",USA,Men,Baseball,Gold
+2000,Sydney,Baseball,Baseball,"COTTON, John",USA,Men,Baseball,Gold
+2000,Sydney,Baseball,Baseball,"DAWKINS, Travis",USA,Men,Baseball,Gold
+2000,Sydney,Baseball,Baseball,"EVERETT, Adam",USA,Men,Baseball,Gold
+2000,Sydney,Baseball,Baseball,"FRANKLIN, Ryan",USA,Men,Baseball,Gold
+2000,Sydney,Baseball,Baseball,"GEORGE, Chris",USA,Men,Baseball,Gold
+2000,Sydney,Baseball,Baseball,"HEAMS, Shane",USA,Men,Baseball,Gold
+2000,Sydney,Baseball,Baseball,"JENSEN, Marcus",USA,Men,Baseball,Gold
+2000,Sydney,Baseball,Baseball,"KINKADE, Mike",USA,Men,Baseball,Gold
+2000,Sydney,Baseball,Baseball,"KRIVDA, Rick",USA,Men,Baseball,Gold
+2000,Sydney,Baseball,Baseball,"MIENTKIEWICZ, Doug",USA,Men,Baseball,Gold
+2000,Sydney,Baseball,Baseball,"NEILL, Mike",USA,Men,Baseball,Gold
+2000,Sydney,Baseball,Baseball,"OSWALT, Roy",USA,Men,Baseball,Gold
+2000,Sydney,Baseball,Baseball,"RAUCH, Jon",USA,Men,Baseball,Gold
+2000,Sydney,Baseball,Baseball,"SANDERS, Anthony",USA,Men,Baseball,Gold
+2000,Sydney,Baseball,Baseball,"SEAY, Bobby",USA,Men,Baseball,Gold
+2000,Sydney,Baseball,Baseball,"SHEETS, Ben",USA,Men,Baseball,Gold
+2000,Sydney,Baseball,Baseball,"WILKERSON, Brad",USA,Men,Baseball,Gold
+2000,Sydney,Baseball,Baseball,"WILLIAMS, Todd",USA,Men,Baseball,Gold
+2000,Sydney,Baseball,Baseball,"YOUNG, Ernie",USA,Men,Baseball,Gold
+2000,Sydney,Baseball,Baseball,"YOUNG, Tim",USA,Men,Baseball,Gold
+2000,Sydney,Baseball,Baseball,"AJETE, Omar",CUB,Men,Baseball,Silver
+2000,Sydney,Baseball,Baseball,"ARAGON, Yovany",CUB,Men,Baseball,Silver
+2000,Sydney,Baseball,Baseball,"CALDES, Miguel",CUB,Men,Baseball,Silver
+2000,Sydney,Baseball,Baseball,"CASTRO, Danel",CUB,Men,Baseball,Silver
+2000,Sydney,Baseball,Baseball,"CONTRERAS, Jose Ariel",CUB,Men,Baseball,Silver
+2000,Sydney,Baseball,Baseball,"DUENAS, Yobal",CUB,Men,Baseball,Silver
+2000,Sydney,Baseball,Baseball,"GOMEZ, Yasser",CUB,Men,Baseball,Silver
+2000,Sydney,Baseball,Baseball,"IBAR, Jose",CUB,Men,Baseball,Silver
+2000,Sydney,Baseball,Baseball,"KINDELAN, Orestes",CUB,Men,Baseball,Silver
+2000,Sydney,Baseball,Baseball,"LAZO, Pedro Luis",CUB,Men,Baseball,Silver
+2000,Sydney,Baseball,Baseball,"LINARES, Omar",CUB,Men,Baseball,Silver
+2000,Sydney,Baseball,Baseball,"MACIAS, Oscar",CUB,Men,Baseball,Silver
+2000,Sydney,Baseball,Baseball,"MANRIQUE, Juan",CUB,Men,Baseball,Silver
+2000,Sydney,Baseball,Baseball,"MENDEZ, Javier",CUB,Men,Baseball,Silver
+2000,Sydney,Baseball,Baseball,"MERINO, Rolando",CUB,Men,Baseball,Silver
+2000,Sydney,Baseball,Baseball,"MESA FRESNEDA, German",CUB,Men,Baseball,Silver
+2000,Sydney,Baseball,Baseball,"PACHECO, Antonio",CUB,Men,Baseball,Silver
+2000,Sydney,Baseball,Baseball,"PESTANO, Ariel",CUB,Men,Baseball,Silver
+2000,Sydney,Baseball,Baseball,"PIERRE, Gabriel",CUB,Men,Baseball,Silver
+2000,Sydney,Baseball,Baseball,"RODRIGUEZ, Maels",CUB,Men,Baseball,Silver
+2000,Sydney,Baseball,Baseball,"SCULL, Antonio",CUB,Men,Baseball,Silver
+2000,Sydney,Baseball,Baseball,"ULACIA, Luis",CUB,Men,Baseball,Silver
+2000,Sydney,Baseball,Baseball,"VALLE, Lazaro",CUB,Men,Baseball,Silver
+2000,Sydney,Baseball,Baseball,"VERA, Norge Luis",CUB,Men,Baseball,Silver
+2000,Sydney,Basketball,Basketball,"ADOMAITIS, Dainius",LTU,Men,Basketball,Bronze
+2000,Sydney,Basketball,Basketball,"EINIKIS, Gintaras",LTU,Men,Basketball,Bronze
+2000,Sydney,Basketball,Basketball,"GIEDRAITIS, Audrius",LTU,Men,Basketball,Bronze
+2000,Sydney,Basketball,Basketball,"JASIKEVICIUS, Sarunas",LTU,Men,Basketball,Bronze
+2000,Sydney,Basketball,Basketball,"MARCIULIONIS, Kestutis",LTU,Men,Basketball,Bronze
+2000,Sydney,Basketball,Basketball,"MASIULIS, Tomas",LTU,Men,Basketball,Bronze
+2000,Sydney,Basketball,Basketball,"MASKOLIUNAS, Darius",LTU,Men,Basketball,Bronze
+2000,Sydney,Basketball,Basketball,"SISKAUSKAS, Ramunas",LTU,Men,Basketball,Bronze
+2000,Sydney,Basketball,Basketball,"SONGAILA, Darius",LTU,Men,Basketball,Bronze
+2000,Sydney,Basketball,Basketball,"STOMBERGAS, Saulius",LTU,Men,Basketball,Bronze
+2000,Sydney,Basketball,Basketball,"TIMINSKAS, Mindaugas",LTU,Men,Basketball,Bronze
+2000,Sydney,Basketball,Basketball,"ZUKAUSKAS, Eurelijus",LTU,Men,Basketball,Bronze
+2000,Sydney,Basketball,Basketball,"ABDUR-RAHIM, Shareef",USA,Men,Basketball,Gold
+2000,Sydney,Basketball,Basketball,"ALLEN, Ray",USA,Men,Basketball,Gold
+2000,Sydney,Basketball,Basketball,"BAKER, Vin",USA,Men,Basketball,Gold
+2000,Sydney,Basketball,Basketball,"CARTER, Vince",USA,Men,Basketball,Gold
+2000,Sydney,Basketball,Basketball,"GARNETT, Kevin",USA,Men,Basketball,Gold
+2000,Sydney,Basketball,Basketball,"HARDAWAY, Tim",USA,Men,Basketball,Gold
+2000,Sydney,Basketball,Basketball,"HOUSTON, Allan",USA,Men,Basketball,Gold
+2000,Sydney,Basketball,Basketball,"KIDD, Jason",USA,Men,Basketball,Gold
+2000,Sydney,Basketball,Basketball,"MCDYESS, Antonio",USA,Men,Basketball,Gold
+2000,Sydney,Basketball,Basketball,"MOURNING, Alonzo",USA,Men,Basketball,Gold
+2000,Sydney,Basketball,Basketball,"PAYTON, Gary",USA,Men,Basketball,Gold
+2000,Sydney,Basketball,Basketball,"SMITH, Steve",USA,Men,Basketball,Gold
+2000,Sydney,Basketball,Basketball,"BILBA, Jim",FRA,Men,Basketball,Silver
+2000,Sydney,Basketball,Basketball,"BONATO, Yann",FRA,Men,Basketball,Silver
+2000,Sydney,Basketball,Basketball,"DIOUMASSI, Makan",FRA,Men,Basketball,Silver
+2000,Sydney,Basketball,Basketball,"FOIREST, Laurent",FRA,Men,Basketball,Silver
+2000,Sydney,Basketball,Basketball,"GADOU, Thierry",FRA,Men,Basketball,Silver
+2000,Sydney,Basketball,Basketball,"JULIAN, Cyril",FRA,Men,Basketball,Silver
+2000,Sydney,Basketball,Basketball,"PALMER, Henry Crawford",FRA,Men,Basketball,Silver
+2000,Sydney,Basketball,Basketball,"RIGAUDEAU, Antoine",FRA,Men,Basketball,Silver
+2000,Sydney,Basketball,Basketball,"RISACHER, Stephane",FRA,Men,Basketball,Silver
+2000,Sydney,Basketball,Basketball,"SCIARRA, Laurent",FRA,Men,Basketball,Silver
+2000,Sydney,Basketball,Basketball,"SONKO, Mustapha",FRA,Men,Basketball,Silver
+2000,Sydney,Basketball,Basketball,"WEIS, Frederic",FRA,Men,Basketball,Silver
+2000,Sydney,Basketball,Basketball,"ARCAIN, Janeth",BRA,Women,Basketball,Bronze
+2000,Sydney,Basketball,Basketball,"DAVID, Ilisaine Karen",BRA,Women,Basketball,Bronze
+2000,Sydney,Basketball,Basketball,"GONCALVES, Lilian Cristina",BRA,Women,Basketball,Bronze
+2000,Sydney,Basketball,Basketball,"LUZ, Helen Cristina",BRA,Women,Basketball,Bronze
+2000,Sydney,Basketball,Basketball,"LUZ, Silvia",BRA,Women,Basketball,Bronze
+2000,Sydney,Basketball,Basketball,"NEVES, Claudia",BRA,Women,Basketball,Bronze
+2000,Sydney,Basketball,Basketball,"OLIVEIRA, Alessandra",BRA,Women,Basketball,Bronze
+2000,Sydney,Basketball,Basketball,"PINTO, Adriana",BRA,Women,Basketball,Bronze
+2000,Sydney,Basketball,Basketball,"SANTOS, Adriana Aparecida",BRA,Women,Basketball,Bronze
+2000,Sydney,Basketball,Basketball,"SANTOS, Cintia",BRA,Women,Basketball,Bronze
+2000,Sydney,Basketball,Basketball,"SANTOS, Kelly",BRA,Women,Basketball,Bronze
+2000,Sydney,Basketball,Basketball,"SOBRAL, Marta",BRA,Women,Basketball,Bronze
+2000,Sydney,Basketball,Basketball,"BOLTON, Ruthie",USA,Women,Basketball,Gold
+2000,Sydney,Basketball,Basketball,"EDWARDS, Teresa",USA,Women,Basketball,Gold
+2000,Sydney,Basketball,Basketball,"GRIFFITH, Yolanda",USA,Women,Basketball,Gold
+2000,Sydney,Basketball,Basketball,"HOLDSCLAW, Chamique",USA,Women,Basketball,Gold
+2000,Sydney,Basketball,Basketball,"LESLIE, Lisa",USA,Women,Basketball,Gold
+2000,Sydney,Basketball,Basketball,"MCCRAY, Nikki",USA,Women,Basketball,Gold
+2000,Sydney,Basketball,Basketball,"MILTON, Delisha",USA,Women,Basketball,Gold
+2000,Sydney,Basketball,Basketball,"SMITH, Katie",USA,Women,Basketball,Gold
+2000,Sydney,Basketball,Basketball,"STALEY, Dawn",USA,Women,Basketball,Gold
+2000,Sydney,Basketball,Basketball,"SWOOPES, Sheryl",USA,Women,Basketball,Gold
+2000,Sydney,Basketball,Basketball,"WILLIAMS, Natalie",USA,Women,Basketball,Gold
+2000,Sydney,Basketball,Basketball,"WOLTERS, Kara",USA,Women,Basketball,Gold
+2000,Sydney,Basketball,Basketball,"BOYD, Carla",AUS,Women,Basketball,Silver
+2000,Sydney,Basketball,Basketball,"BROGAN, Michelle",AUS,Women,Basketball,Silver
+2000,Sydney,Basketball,Basketball,"BRONDELLO, Alexandra",AUS,Women,Basketball,Silver
+2000,Sydney,Basketball,Basketball,"FALLON, Trish",AUS,Women,Basketball,Silver
+2000,Sydney,Basketball,Basketball,"HARROWER, Kristi",AUS,Women,Basketball,Silver
+2000,Sydney,Basketball,Basketball,"HILL, Jo",AUS,Women,Basketball,Silver
+2000,Sydney,Basketball,Basketball,"JACKSON, Lauren",AUS,Women,Basketball,Silver
+2000,Sydney,Basketball,Basketball,"LA FLEUR, Annie",AUS,Women,Basketball,Silver
+2000,Sydney,Basketball,Basketball,"SANDIE, Shelley",AUS,Women,Basketball,Silver
+2000,Sydney,Basketball,Basketball,"SPORN, Rachael",AUS,Women,Basketball,Silver
+2000,Sydney,Basketball,Basketball,"TIMMS, Michelle",AUS,Women,Basketball,Silver
+2000,Sydney,Basketball,Basketball,"WHITTLE, Jennifer",AUS,Women,Basketball,Silver
+2000,Sydney,Boxing,Boxing,"KIM, Un Chol",PRK,Men,- 48KG (Light-Flyweight),Bronze
+2000,Sydney,Boxing,Boxing,"ROMERO, Maikro",CUB,Men,- 48KG (Light-Flyweight),Bronze
+2000,Sydney,Boxing,Boxing,"ASLOUM, Brahim",FRA,Men,- 48KG (Light-Flyweight),Gold
+2000,Sydney,Boxing,Boxing,"LOZANO MUÑOZ, Rafael",ESP,Men,- 48KG (Light-Flyweight),Silver
+2000,Sydney,Boxing,Boxing,"SAIDOV, Rustam",UZB,Men,+ 91KG (Super Heavyweight),Bronze
+2000,Sydney,Boxing,Boxing,"VIDOZ, Paolo",ITA,Men,+ 91KG (Super Heavyweight),Bronze
+2000,Sydney,Boxing,Boxing,"HARRISON, Audley",GBR,Men,+ 91KG (Super Heavyweight),Gold
+2000,Sydney,Boxing,Boxing,"DILDABEKOV, Mukhtarkhan",KAZ,Men,+ 91KG (Super Heavyweight),Silver
+2000,Sydney,Boxing,Boxing,"SYDORENKO, Volodymyr",UKR,Men,48 - 51KG (Flyweight),Bronze
+2000,Sydney,Boxing,Boxing,"THOMAS, Jerome",FRA,Men,48 - 51KG (Flyweight),Bronze
+2000,Sydney,Boxing,Boxing,"PONLID, Wijan",THA,Men,48 - 51KG (Flyweight),Gold
+2000,Sydney,Boxing,Boxing,"JUMADILOV, Bulat",KAZ,Men,48 - 51KG (Flyweight),Silver
+2000,Sydney,Boxing,Boxing,"DANYLCHENKO, Sergiy",UKR,Men,51 - 54KG (Bantamweight),Bronze
+2000,Sydney,Boxing,Boxing,"VINSON, Clarence",USA,Men,51 - 54KG (Bantamweight),Bronze
+2000,Sydney,Boxing,Boxing,"RIGONDEAUX ORTIZ, Guillermo",CUB,Men,51 - 54KG (Bantamweight),Gold
+2000,Sydney,Boxing,Boxing,"MALAKHBEKOV, Raimkul",RUS,Men,51 - 54KG (Bantamweight),Silver
+2000,Sydney,Boxing,Boxing,"DJAMALOUDINOV, Kamil",RUS,Men,54 - 57KG (Featherweight),Bronze
+2000,Sydney,Boxing,Boxing,"TAMSAMANI, Tahar",MAR,Men,54 - 57KG (Featherweight),Bronze
+2000,Sydney,Boxing,Boxing,"SATTARKHANOV, Bekzat",KAZ,Men,54 - 57KG (Featherweight),Gold
+2000,Sydney,Boxing,Boxing,"JUAREZ, Ricardo",USA,Men,54 - 57KG (Featherweight),Silver
+2000,Sydney,Boxing,Boxing,"BEJARANO, Cristian",MEX,Men,57 - 60KG (Lightweight),Bronze
+2000,Sydney,Boxing,Boxing,"MALETINE, Alexandre",RUS,Men,57 - 60KG (Lightweight),Bronze
+2000,Sydney,Boxing,Boxing,"KINDELAN, Mario",CUB,Men,57 - 60KG (Lightweight),Gold
+2000,Sydney,Boxing,Boxing,"KOTELNYK, Andriy",UKR,Men,57 - 60KG (Lightweight),Silver
+2000,Sydney,Boxing,Boxing,"ALLALOU, Mohamed",ALG,Men,60 - 63.5KG (Light-Welterweight),Bronze
+2000,Sydney,Boxing,Boxing,"LUNA, Diogenes",CUB,Men,60 - 63.5KG (Light-Welterweight),Bronze
+2000,Sydney,Boxing,Boxing,"ABDOOLLAYEV, Mahammatkodir",UZB,Men,60 - 63.5KG (Light-Welterweight),Gold
+2000,Sydney,Boxing,Boxing,"WILLIAMS JR, Ricardo",USA,Men,60 - 63.5KG (Light-Welterweight),Silver
+2000,Sydney,Boxing,Boxing,"GRUSAC, Vitalie",MDA,Men,63.5 - 67KG (Welterweight),Bronze
+2000,Sydney,Boxing,Boxing,"SIMION, Dorel",ROU,Men,63.5 - 67KG (Welterweight),Bronze
+2000,Sydney,Boxing,Boxing,"SAITOV, Oleg",RUS,Men,63.5 - 67KG (Welterweight),Gold
+2000,Sydney,Boxing,Boxing,"DOTSENKO, Sergey",UKR,Men,63.5 - 67KG (Welterweight),Silver
+2000,Sydney,Boxing,Boxing,"TAYLOR, Jermain",USA,Men,67 - 71KG (Light-Middleweight),Bronze
+2000,Sydney,Boxing,Boxing,"THONGBURAN, Pornchai",THA,Men,67 - 71KG (Light-Middleweight),Bronze
+2000,Sydney,Boxing,Boxing,"IBRAIMOV, Yermakhan",KAZ,Men,67 - 71KG (Light-Middleweight),Gold
+2000,Sydney,Boxing,Boxing,"SIMION, Marian",ROU,Men,67 - 71KG (Light-Middleweight),Silver
+2000,Sydney,Boxing,Boxing,"ALAKPAROV, Vugar",AZE,Men,71-75KG,Bronze
+2000,Sydney,Boxing,Boxing,"ERDEI, Zsolt",HUN,Men,71-75KG,Bronze
+2000,Sydney,Boxing,Boxing,"GUTIERREZ, Jorge",CUB,Men,71-75KG,Gold
+2000,Sydney,Boxing,Boxing,"GAIDARBEKOV, Gaidarbek",RUS,Men,71-75KG,Silver
+2000,Sydney,Boxing,Boxing,"FEDCHUK, Andriy",UKR,Men,75 - 81KG (Light-Heavyweight),Bronze
+2000,Sydney,Boxing,Boxing,"MIHAYLOV, Sergey",UZB,Men,75 - 81KG (Light-Heavyweight),Bronze
+2000,Sydney,Boxing,Boxing,"LEBZIAK, Alexandre",RUS,Men,75 - 81KG (Light-Heavyweight),Gold
+2000,Sydney,Boxing,Boxing,"KRAJ, Rudolf",CZE,Men,75 - 81KG (Light-Heavyweight),Silver
+2000,Sydney,Boxing,Boxing,"KOEBER, Sebastian",GER,Men,81 - 91KG (Heavyweight),Bronze
+2000,Sydney,Boxing,Boxing,"TCHANTURIA, Vladimer",GEO,Men,81 - 91KG (Heavyweight),Bronze
+2000,Sydney,Boxing,Boxing,"SAVON, Felix",CUB,Men,81 - 91KG (Heavyweight),Gold
+2000,Sydney,Boxing,Boxing,"IBRAGUIMOV, Soultanakhmed",RUS,Men,81 - 91KG (Heavyweight),Silver
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"GILES, Stephen Cory",CAN,Men,C-1 1000M (Canoe Single),Bronze
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"DITTMER, Andreas",GER,Men,C-1 1000M (Canoe Single),Gold
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"BALCEIRO, Ledys Frank",CUB,Men,C-1 1000M (Canoe Single),Silver
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"DITTMER, Andreas",GER,Men,C-1 500M (Canoe Single),Bronze
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"KOLONICS, Gyorgy",HUN,Men,C-1 500M (Canoe Single),Gold
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"OPALEV, Maxim",RUS,Men,C-1 500M (Canoe Single),Silver
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"KOBER, Lars",GER,Men,C-2 1000M (Canoe Double),Bronze
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"UTESS, Stefan",GER,Men,C-2 1000M (Canoe Double),Bronze
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"POPESCU, Florin",ROU,Men,C-2 1000M (Canoe Double),Gold
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"PRICOP, Mitica",ROU,Men,C-2 1000M (Canoe Double),Gold
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"PEREIRA, Leobaldo",CUB,Men,C-2 1000M (Canoe Double),Silver
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"ROJAS, Ibrahin",CUB,Men,C-2 1000M (Canoe Double),Silver
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"POPESCU, Florin",ROU,Men,C-2 500M (Canoe Double),Bronze
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"PRICOP, Mitica",ROU,Men,C-2 500M (Canoe Double),Bronze
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"NOVAK, Ferenc",HUN,Men,C-2 500M (Canoe Double),Gold
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"PULAI, Imre",HUN,Men,C-2 500M (Canoe Double),Gold
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"BARASZKIEWICZ, Pawel",POL,Men,C-2 500M (Canoe Double),Silver
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"JEDRASZKO, Daniel",POL,Men,C-2 500M (Canoe Double),Silver
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"BRABANTS, Tim",GBR,Men,K-1 1000M (Kayak Single),Bronze
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"HOLMANN, Knut",NOR,Men,K-1 1000M (Kayak Single),Gold
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"MERKOV, Petar",BUL,Men,K-1 1000M (Kayak Single),Silver
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"KOLGANOV, Michael",ISR,Men,K-1 500M (Kayak Single),Bronze
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"HOLMANN, Knut",NOR,Men,K-1 500M (Kayak Single),Gold
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"MERKOV, Petar",BUL,Men,K-1 500M (Kayak Single),Silver
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"BORCHERT, Katrin",AUS,Women,K-1 500M (Kayak Single),Bronze
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"IDEM, Josefa",ITA,Women,K-1 500M (Kayak Single),Gold
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"BRUNET, Caroline",CAN,Women,K-1 500M (Kayak Single),Silver
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"BARTFAI, Krisztian",HUN,Men,K-2 1000M (Kayak Double),Bronze
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"VEREB, Krisztian",HUN,Men,K-2 1000M (Kayak Double),Bronze
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"BONOMI, Beniamino",ITA,Men,K-2 1000M (Kayak Double),Gold
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"ROSSI, Antonio",ITA,Men,K-2 1000M (Kayak Double),Gold
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"NILSSON, Henrik",SWE,Men,K-2 1000M (Kayak Double),Silver
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"OSCARSSON, Markus",SWE,Men,K-2 1000M (Kayak Double),Silver
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"RAUHE, Ronald",GER,Men,K-2 500M (Kayak Double),Bronze
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"WIESKOETTER, Tim",GER,Men,K-2 500M (Kayak Double),Bronze
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"KAMMERER, Zoltan",HUN,Men,K-2 500M (Kayak Double),Gold
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"STORCZ, Botond",HUN,Men,K-2 500M (Kayak Double),Gold
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"COLLINS, Daniel",AUS,Men,K-2 500M (Kayak Double),Silver
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"TRIM, Andrew Lawrence",AUS,Men,K-2 500M (Kayak Double),Silver
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"PASTUSZKA, Aneta",POL,Women,K-2 500M (Kayak Double),Bronze
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"SOKOLOWSKA KULESZA, Beata",POL,Women,K-2 500M (Kayak Double),Bronze
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"FISCHER, Birgit",GER,Women,K-2 500M (Kayak Double),Gold
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"WAGNER-AUGUSTIN, Katrin",GER,Women,K-2 500M (Kayak Double),Gold
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"KOVACS, Katalin",HUN,Women,K-2 500M (Kayak Double),Silver
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"SZABO, Szilvia",HUN,Women,K-2 500M (Kayak Double),Silver
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"BIALKOWSKI, Dariusz",POL,Men,K-4 1000M (Kayak Four),Bronze
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"KOTOWICZ, Grzegorz",POL,Men,K-4 1000M (Kayak Four),Bronze
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"SEROCZYNSKI, Adam",POL,Men,K-4 1000M (Kayak Four),Bronze
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"WITKOWSKI, Marek",POL,Men,K-4 1000M (Kayak Four),Bronze
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"HORVATH, Gabor",HUN,Men,K-4 1000M (Kayak Four),Gold
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"KAMMERER, Zoltan",HUN,Men,K-4 1000M (Kayak Four),Gold
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"STORCZ, Botond",HUN,Men,K-4 1000M (Kayak Four),Gold
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"VERECKEI, Akos",HUN,Men,K-4 1000M (Kayak Four),Gold
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"BACH, Bjoern",GER,Men,K-4 1000M (Kayak Four),Silver
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"SCHAEFER, Jan",GER,Men,K-4 1000M (Kayak Four),Silver
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"ULM, Stefan",GER,Men,K-4 1000M (Kayak Four),Silver
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"ZABEL, Mark",GER,Men,K-4 1000M (Kayak Four),Silver
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"IONITA, Raluca",ROU,Women,K-4 500M (Kayak Four),Bronze
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"LIMBAU, Mariana",ROU,Women,K-4 500M (Kayak Four),Bronze
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"RADU, Elena",ROU,Women,K-4 500M (Kayak Four),Bronze
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"TOMA, Sanda",ROU,Women,K-4 500M (Kayak Four),Bronze
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"FISCHER, Birgit",GER,Women,K-4 500M (Kayak Four),Gold
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"MUCKE, Manuela",GER,Women,K-4 500M (Kayak Four),Gold
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"SCHUCK, Anett",GER,Women,K-4 500M (Kayak Four),Gold
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"WAGNER-AUGUSTIN, Katrin",GER,Women,K-4 500M (Kayak Four),Gold
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"KOBAN, Rita",HUN,Women,K-4 500M (Kayak Four),Silver
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"KOVACS, Katalin",HUN,Women,K-4 500M (Kayak Four),Silver
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"SZABO, Szilvia",HUN,Women,K-4 500M (Kayak Four),Silver
+2000,Sydney,Canoe / Kayak,Canoe / Kayak F,"VISKI, Erzsebet",HUN,Women,K-4 500M (Kayak Four),Silver
+2000,Sydney,Canoe / Kayak,Canoe / Kayak S,"MINCIK, Juraj",SVK,Men,C-1 (Canoe Single),Bronze
+2000,Sydney,Canoe / Kayak,Canoe / Kayak S,"ESTANGUET, Tony",FRA,Men,C-1 (Canoe Single),Gold
+2000,Sydney,Canoe / Kayak,Canoe / Kayak S,"MARTIKAN, Michal",SVK,Men,C-1 (Canoe Single),Silver
+2000,Sydney,Canoe / Kayak,Canoe / Kayak S,"JIRAS, Marek",CZE,Men,C-2 (Canoe Double),Bronze
+2000,Sydney,Canoe / Kayak,Canoe / Kayak S,"MADER, Tomas",CZE,Men,C-2 (Canoe Double),Bronze
+2000,Sydney,Canoe / Kayak,Canoe / Kayak S,"HOCHSCHORNER, Pavol",SVK,Men,C-2 (Canoe Double),Gold
+2000,Sydney,Canoe / Kayak,Canoe / Kayak S,"HOCHSCHORNER, Peter",SVK,Men,C-2 (Canoe Double),Gold
+2000,Sydney,Canoe / Kayak,Canoe / Kayak S,"KOLOMANSKI, Krzysztof",POL,Men,C-2 (Canoe Double),Silver
+2000,Sydney,Canoe / Kayak,Canoe / Kayak S,"STANISZEWSKI, Michal",POL,Men,C-2 (Canoe Double),Silver
+2000,Sydney,Canoe / Kayak,Canoe / Kayak S,"FERRAZZI, Pierpaolo",ITA,Men,K-1 (Kayak Single),Bronze
+2000,Sydney,Canoe / Kayak,Canoe / Kayak S,"SCHMIDT, Thomas",GER,Men,K-1 (Kayak Single),Gold
+2000,Sydney,Canoe / Kayak,Canoe / Kayak S,"RATCLIFFE, Paul",GBR,Men,K-1 (Kayak Single),Silver
+2000,Sydney,Canoe / Kayak,Canoe / Kayak S,"BARDET, Anne-Lise",FRA,Women,K-1 (Kayak Single),Bronze
+2000,Sydney,Canoe / Kayak,Canoe / Kayak S,"HILGERTOVA, Stepanka",CZE,Women,K-1 (Kayak Single),Gold
+2000,Sydney,Canoe / Kayak,Canoe / Kayak S,"GUIBAL, Brigitte",FRA,Women,K-1 (Kayak Single),Silver
+2000,Sydney,Cycling,Cycling Road,"KLODEN, Andreas",GER,Men,Individual Road Race,Bronze
+2000,Sydney,Cycling,Cycling Road,"ULLRICH, Jan",GER,Men,Individual Road Race,Gold
+2000,Sydney,Cycling,Cycling Road,"VINOKUROV, Alexandr",KAZ,Men,Individual Road Race,Silver
+2000,Sydney,Cycling,Cycling Road,"ZILIUTE, Diana",LTU,Women,Individual Road Race,Bronze
+2000,Sydney,Cycling,Cycling Road,"ZIJLAARD-VAN MOORSEL, Leontien",NED,Women,Individual Road Race,Gold
+2000,Sydney,Cycling,Cycling Road,"KUPFERNAGEL, Hanka",GER,Women,Individual Road Race,Silver
+2000,Sydney,Cycling,Cycling Road,"ARMSTRONG, Lance E.",USA,Men,Individual Time Trial,Bronze
+2000,Sydney,Cycling,Cycling Road,"EKIMOV, Vyacheslav",RUS,Men,Individual Time Trial,Gold
+2000,Sydney,Cycling,Cycling Road,"ULLRICH, Jan",GER,Men,Individual Time Trial,Silver
+2000,Sydney,Cycling,Cycling Road,"LONGO-CIPRELLI, Jeannie",FRA,Women,Individual Time Trial,Bronze
+2000,Sydney,Cycling,Cycling Road,"ZIJLAARD-VAN MOORSEL, Leontien",NED,Women,Individual Time Trial,Gold
+2000,Sydney,Cycling,Cycling Road,"HOLDEN, Mari",USA,Women,Individual Time Trial,Silver
+2000,Sydney,Cycling,Cycling Track,"KELLY, Shane",AUS,Men,1KM Time Trial,Bronze
+2000,Sydney,Cycling,Cycling Track,"QUEALLY, Jason",GBR,Men,1KM Time Trial,Gold
+2000,Sydney,Cycling,Cycling Track,"NIMKE, Stefan",GER,Men,1KM Time Trial,Silver
+2000,Sydney,Cycling,Cycling Track,"JIANG, Cuihua",CHN,Women,500M Time Trial,Bronze
+2000,Sydney,Cycling,Cycling Track,"BALLANGER, Felicia",FRA,Women,500M Time Trial,Gold
+2000,Sydney,Cycling,Cycling Track,"FERRIS, Michelle",AUS,Women,500M Time Trial,Silver
+2000,Sydney,Cycling,Cycling Track,"MCGEE, Bradley",AUS,Men,Individual Pursuit,Bronze
+2000,Sydney,Cycling,Cycling Track,"BARTKO, Robert",GER,Men,Individual Pursuit,Gold
+2000,Sydney,Cycling,Cycling Track,"LEHMANN, Jens",GER,Men,Individual Pursuit,Silver
+2000,Sydney,Cycling,Cycling Track,"MCGREGOR, Yvonne",GBR,Women,Individual Pursuit,Bronze
+2000,Sydney,Cycling,Cycling Track,"ZIJLAARD-VAN MOORSEL, Leontien",NED,Women,Individual Pursuit,Gold
+2000,Sydney,Cycling,Cycling Track,"CLIGNET, Marion",FRA,Women,Individual Pursuit,Silver
+2000,Sydney,Cycling,Cycling Track,"FIEDLER, Jens",GER,Men,Keirin,Bronze
+2000,Sydney,Cycling,Cycling Track,"ROUSSEAU, Florian",FRA,Men,Keirin,Gold
+2000,Sydney,Cycling,Cycling Track,"NEIWAND, Garry Malcolm",AUS,Men,Keirin,Silver
+2000,Sydney,Cycling,Cycling Track,"MARTINELLO, Silvio",ITA,Men,Madison,Bronze
+2000,Sydney,Cycling,Cycling Track,"VILLA, Marco",ITA,Men,Madison,Bronze
+2000,Sydney,Cycling,Cycling Track,"AITKEN, Brett",AUS,Men,Madison,Gold
+2000,Sydney,Cycling,Cycling Track,"MCGRORY, Scott",AUS,Men,Madison,Gold
+2000,Sydney,Cycling,Cycling Track,"DE WILDE, Etienne",BEL,Men,Madison,Silver
+2000,Sydney,Cycling,Cycling Track,"GILMORE, Matthew",BEL,Men,Madison,Silver
+2000,Sydney,Cycling,Cycling Track,"EADIE, Sean",AUS,Men,Olympic Sprint,Bronze
+2000,Sydney,Cycling,Cycling Track,"HILL, Darryn",AUS,Men,Olympic Sprint,Bronze
+2000,Sydney,Cycling,Cycling Track,"NEIWAND, Garry Malcolm",AUS,Men,Olympic Sprint,Bronze
+2000,Sydney,Cycling,Cycling Track,"GANE, Laurent",FRA,Men,Olympic Sprint,Gold
+2000,Sydney,Cycling,Cycling Track,"ROUSSEAU, Florian",FRA,Men,Olympic Sprint,Gold
+2000,Sydney,Cycling,Cycling Track,"TOURNANT, Arnaud",FRA,Men,Olympic Sprint,Gold
+2000,Sydney,Cycling,Cycling Track,"HOY, Chris",GBR,Men,Olympic Sprint,Silver
+2000,Sydney,Cycling,Cycling Track,"MACLEAN, Craig",GBR,Men,Olympic Sprint,Silver
+2000,Sydney,Cycling,Cycling Track,"QUEALLY, Jason",GBR,Men,Olympic Sprint,Silver
+2000,Sydney,Cycling,Cycling Track,"MARKOV, Alexei",RUS,Men,Points Race,Bronze
+2000,Sydney,Cycling,Cycling Track,"LLANERAS, Joan",ESP,Men,Points Race,Gold
+2000,Sydney,Cycling,Cycling Track,"WYNANTS, Milton Ariel",URU,Men,Points Race,Silver
+2000,Sydney,Cycling,Cycling Track,"SLIOUSSAREVA, Olga",RUS,Women,Points Race,Bronze
+2000,Sydney,Cycling,Cycling Track,"BELLUTTI, Antonella",ITA,Women,Points Race,Gold
+2000,Sydney,Cycling,Cycling Track,"ZIJLAARD-VAN MOORSEL, Leontien",NED,Women,Points Race,Silver
+2000,Sydney,Cycling,Cycling Track,"YANOVYCH, Iryna",UKR,Women,Sprint,Bronze
+2000,Sydney,Cycling,Cycling Track,"BALLANGER, Felicia",FRA,Women,Sprint,Gold
+2000,Sydney,Cycling,Cycling Track,"GRISHINA, Oksana",RUS,Women,Sprint,Silver
+2000,Sydney,Cycling,Cycling Track,"FIEDLER, Jens",GER,Men,Sprint Indivual,Bronze
+2000,Sydney,Cycling,Cycling Track,"NOTHSTEIN, Marty",USA,Men,Sprint Indivual,Gold
+2000,Sydney,Cycling,Cycling Track,"ROUSSEAU, Florian",FRA,Men,Sprint Indivual,Silver
+2000,Sydney,Cycling,Cycling Track,"CLAY, Jonny",GBR,Men,Team Pursuit (4000M),Bronze
+2000,Sydney,Cycling,Cycling Track,"HAYLES, Rob",GBR,Men,Team Pursuit (4000M),Bronze
+2000,Sydney,Cycling,Cycling Track,"MANNING, Paul",GBR,Men,Team Pursuit (4000M),Bronze
+2000,Sydney,Cycling,Cycling Track,"NEWTON, Chris",GBR,Men,Team Pursuit (4000M),Bronze
+2000,Sydney,Cycling,Cycling Track,"STEEL, Bryan",GBR,Men,Team Pursuit (4000M),Bronze
+2000,Sydney,Cycling,Cycling Track,"WIGGINS, Bradley",GBR,Men,Team Pursuit (4000M),Bronze
+2000,Sydney,Cycling,Cycling Track,"BARTKO, Robert",GER,Men,Team Pursuit (4000M),Gold
+2000,Sydney,Cycling,Cycling Track,"BECKE, Daniel",GER,Men,Team Pursuit (4000M),Gold
+2000,Sydney,Cycling,Cycling Track,"FULST, Guido",GER,Men,Team Pursuit (4000M),Gold
+2000,Sydney,Cycling,Cycling Track,"LEHMANN, Jens",GER,Men,Team Pursuit (4000M),Gold
+2000,Sydney,Cycling,Cycling Track,"POLLACK, Olaf",GER,Men,Team Pursuit (4000M),Gold
+2000,Sydney,Cycling,Cycling Track,"CHERNYAVSKYY, Sergiy",UKR,Men,Team Pursuit (4000M),Silver
+2000,Sydney,Cycling,Cycling Track,"FEDENKO, Oleksandr",UKR,Men,Team Pursuit (4000M),Silver
+2000,Sydney,Cycling,Cycling Track,"MATVEYEV, Sergiy",UKR,Men,Team Pursuit (4000M),Silver
+2000,Sydney,Cycling,Cycling Track,"SIMONENKO, Alexander",UKR,Men,Team Pursuit (4000M),Silver
+2000,Sydney,Cycling,Mountain Bike,"SAUSER, Christoph",SUI,Men,Cross-Country,Bronze
+2000,Sydney,Cycling,Mountain Bike,"MARTINEZ, Miguel",FRA,Men,Cross-Country,Gold
+2000,Sydney,Cycling,Mountain Bike,"MEIRHAEGHE, Filip",BEL,Men,Cross-Country,Silver
+2000,Sydney,Cycling,Mountain Bike,"FULLANA, Marga",ESP,Women,Cross-Country,Bronze
+2000,Sydney,Cycling,Mountain Bike,"PEZZO, Paola",ITA,Women,Cross-Country,Gold
+2000,Sydney,Cycling,Mountain Bike,"BLATTER, Barbara",SUI,Women,Cross-Country,Silver
+2000,Sydney,Equestrian,Dressage,"SALZGEBER, Ulla",GER,Women,Individual,Bronze
+2000,Sydney,Equestrian,Dressage,"VAN GRUNSVEN, Anky",NED,Women,Individual,Gold
+2000,Sydney,Equestrian,Dressage,"WERTH, Isabell",GER,Women,Individual,Silver
+2000,Sydney,Equestrian,Dressage,"DOVER, Robert",USA,Men,Team,Bronze
+2000,Sydney,Equestrian,Dressage,"SEIDEL, Guenter",USA,Men,Team,Bronze
+2000,Sydney,Equestrian,Dressage,"TEEUWISSEN, Arjen",NED,Men,Team,Silver
+2000,Sydney,Equestrian,Dressage,"BLINKS, Susan",USA,Women,Team,Bronze
+2000,Sydney,Equestrian,Dressage,"TRAURIG, Christine",USA,Women,Team,Bronze
+2000,Sydney,Equestrian,Dressage,"CAPELLMANN, Nadine",GER,Women,Team,Gold
+2000,Sydney,Equestrian,Dressage,"SALZGEBER, Ulla",GER,Women,Team,Gold
+2000,Sydney,Equestrian,Dressage,"SIMONS DE RIDDER, Alexandra",GER,Women,Team,Gold
+2000,Sydney,Equestrian,Dressage,"WERTH, Isabell",GER,Women,Team,Gold
+2000,Sydney,Equestrian,Dressage,"BONTJE, Ellen",NED,Women,Team,Silver
+2000,Sydney,Equestrian,Dressage,"VAN BAALEN, Coby",NED,Women,Team,Silver
+2000,Sydney,Equestrian,Dressage,"VAN GRUNSVEN, Anky",NED,Women,Team,Silver
+2000,Sydney,Equestrian,Eventing,"TODD, Mark",NZL,Men,Individual,Bronze
+2000,Sydney,Equestrian,Eventing,"O'CONNOR, David",USA,Men,Individual,Gold
+2000,Sydney,Equestrian,Eventing,"HOY, Andrew",AUS,Men,Individual,Silver
+2000,Sydney,Equestrian,Eventing,"O'CONNOR, David",USA,Men,Team,Bronze
+2000,Sydney,Equestrian,Eventing,"DUTTON, Phillip",AUS,Men,Team,Gold
+2000,Sydney,Equestrian,Eventing,"HOY, Andrew",AUS,Men,Team,Gold
+2000,Sydney,Equestrian,Eventing,"RYAN, Matthew Morgan",AUS,Men,Team,Gold
+2000,Sydney,Equestrian,Eventing,"TINNEY, Stuart",AUS,Men,Team,Gold
+2000,Sydney,Equestrian,Eventing,"LAW, Leslie",GBR,Men,Team,Silver
+2000,Sydney,Equestrian,Eventing,"STARK, Ian",GBR,Men,Team,Silver
+2000,Sydney,Equestrian,Eventing,"FOUT, Nina",USA,Women,Team,Bronze
+2000,Sydney,Equestrian,Eventing,"O'CONNOR, Karen",USA,Women,Team,Bronze
+2000,Sydney,Equestrian,Eventing,"WIESMAN, Linden",USA,Women,Team,Bronze
+2000,Sydney,Equestrian,Eventing,"BRAKEWELL, Jeanette",GBR,Women,Team,Silver
+2000,Sydney,Equestrian,Eventing,"FUNNELL, Pippa",GBR,Women,Team,Silver
+2000,Sydney,Equestrian,Jumping,"ALEID, Khaled",KSA,Men,Individual,Bronze
+2000,Sydney,Equestrian,Jumping,"DUBBELDAM, Jeroen",NED,Men,Individual,Gold
+2000,Sydney,Equestrian,Jumping,"VOORN, Albert",NED,Men,Individual,Silver
+2000,Sydney,Equestrian,Jumping,"AZEVEDO, Luiz Felipe",BRA,Men,Team,Bronze
+2000,Sydney,Equestrian,Jumping,"JOHANNPETER, Andre",BRA,Men,Team,Bronze
+2000,Sydney,Equestrian,Jumping,"MIRANDA NETO, Alvaro",BRA,Men,Team,Bronze
+2000,Sydney,Equestrian,Jumping,"PESSOA, Rodrigo",BRA,Men,Team,Bronze
+2000,Sydney,Equestrian,Jumping,"BECKER, Otto",GER,Men,Team,Gold
+2000,Sydney,Equestrian,Jumping,"BEERBAUM, Ludger",GER,Men,Team,Gold
+2000,Sydney,Equestrian,Jumping,"EHNING, Marcus",GER,Men,Team,Gold
+2000,Sydney,Equestrian,Jumping,"NIEBERG, Lars",GER,Men,Team,Gold
+2000,Sydney,Equestrian,Jumping,"FUCHS, Markus",SUI,Men,Team,Silver
+2000,Sydney,Equestrian,Jumping,"MANDLI, Beat",SUI,Men,Team,Silver
+2000,Sydney,Equestrian,Jumping,"MELLIGER, Wilhelm",SUI,Men,Team,Silver
+2000,Sydney,Equestrian,Jumping,"MCNAUGHT, Lesley",SUI,Women,Team,Silver
+2000,Sydney,Fencing,Fencing,"LEE, Sang-Ki",KOR,Men,Épée Individual,Bronze
+2000,Sydney,Fencing,Fencing,"KOLOBKOV, Pavel",RUS,Men,Épée Individual,Gold
+2000,Sydney,Fencing,Fencing,"OBRY, Hughes",FRA,Men,Épée Individual,Silver
+2000,Sydney,Fencing,Fencing,"FLESSEL-COLOVIC, Laura",FRA,Women,Épée Individual,Bronze
+2000,Sydney,Fencing,Fencing,"NAGY, Timea",HUN,Women,Épée Individual,Gold
+2000,Sydney,Fencing,Fencing,"BUERKI, Gianna",SUI,Women,Épée Individual,Silver
+2000,Sydney,Fencing,Fencing,"LOYOLA, Nelson",CUB,Men,Épée Team,Bronze
+2000,Sydney,Fencing,Fencing,"PEDROSO, Carlos",CUB,Men,Épée Team,Bronze
+2000,Sydney,Fencing,Fencing,"TREVEJO, Ivan",CUB,Men,Épée Team,Bronze
+2000,Sydney,Fencing,Fencing,"MAZZONI, Angelo",ITA,Men,Épée Team,Gold
+2000,Sydney,Fencing,Fencing,"MILANOLI, Paolo",ITA,Men,Épée Team,Gold
+2000,Sydney,Fencing,Fencing,"RANDAZZO, Maurizio",ITA,Men,Épée Team,Gold
+2000,Sydney,Fencing,Fencing,"ROTA, Alfredo",ITA,Men,Épée Team,Gold
+2000,Sydney,Fencing,Fencing,"DI MARTINO, Jean-Francois",FRA,Men,Épée Team,Silver
+2000,Sydney,Fencing,Fencing,"OBRY, Hughes",FRA,Men,Épée Team,Silver
+2000,Sydney,Fencing,Fencing,"SRECKI, Eric",FRA,Men,Épée Team,Silver
+2000,Sydney,Fencing,Fencing,"LI, Na",CHN,Women,Épée Team,Bronze
+2000,Sydney,Fencing,Fencing,"LIANG, Qin",CHN,Women,Épée Team,Bronze
+2000,Sydney,Fencing,Fencing,"YANG, Shaoqi",CHN,Women,Épée Team,Bronze
+2000,Sydney,Fencing,Fencing,"AZNAVOURIAN, Karina",RUS,Women,Épée Team,Gold
+2000,Sydney,Fencing,Fencing,"ERMAKOVA, Oxana",RUS,Women,Épée Team,Gold
+2000,Sydney,Fencing,Fencing,"LOGOUNOVA, Tatiana",RUS,Women,Épée Team,Gold
+2000,Sydney,Fencing,Fencing,"MAZINA, Mariya",RUS,Women,Épée Team,Gold
+2000,Sydney,Fencing,Fencing,"BUERKI, Gianna",SUI,Women,Épée Team,Silver
+2000,Sydney,Fencing,Fencing,"LAMON, Sophie",SUI,Women,Épée Team,Silver
+2000,Sydney,Fencing,Fencing,"ROMAGNOLI, Diana",SUI,Women,Épée Team,Silver
+2000,Sydney,Fencing,Fencing,"SHEVCHENKO, Dmitri",RUS,Men,Foil Individual,Bronze
+2000,Sydney,Fencing,Fencing,"KIM, Young Ho",KOR,Men,Foil Individual,Gold
+2000,Sydney,Fencing,Fencing,"BISSDORF, Ralf",GER,Men,Foil Individual,Silver
+2000,Sydney,Fencing,Fencing,"TRILLINI, Giovanna",ITA,Women,Foil Individual,Bronze
+2000,Sydney,Fencing,Fencing,"VEZZALI, Valentina",ITA,Women,Foil Individual,Gold
+2000,Sydney,Fencing,Fencing,"KOENIG, Rita",GER,Women,Foil Individual,Silver
+2000,Sydney,Fencing,Fencing,"CROSTA, Daniele",ITA,Men,Foil Team,Bronze
+2000,Sydney,Fencing,Fencing,"MAGNI, Gabriele",ITA,Men,Foil Team,Bronze
+2000,Sydney,Fencing,Fencing,"SANZO, Salvatore",ITA,Men,Foil Team,Bronze
+2000,Sydney,Fencing,Fencing,"ZENNARO, Matteo",ITA,Men,Foil Team,Bronze
+2000,Sydney,Fencing,Fencing,"FERRARI, Jean-Noel",FRA,Men,Foil Team,Gold
+2000,Sydney,Fencing,Fencing,"GUYART, Brice",FRA,Men,Foil Team,Gold
+2000,Sydney,Fencing,Fencing,"LHOTELLIER, Patrice",FRA,Men,Foil Team,Gold
+2000,Sydney,Fencing,Fencing,"PLUMENAIL, Lionel",FRA,Men,Foil Team,Gold
+2000,Sydney,Fencing,Fencing,"DONG, Zhaozhi",CHN,Men,Foil Team,Silver
+2000,Sydney,Fencing,Fencing,"WANG, Haibin",CHN,Men,Foil Team,Silver
+2000,Sydney,Fencing,Fencing,"YE, Chong",CHN,Men,Foil Team,Silver
+2000,Sydney,Fencing,Fencing,"BAU, Sabine Christiane",GER,Women,Foil Team,Bronze
+2000,Sydney,Fencing,Fencing,"KOENIG, Rita",GER,Women,Foil Team,Bronze
+2000,Sydney,Fencing,Fencing,"WEBER-KOSZTO, Monika",GER,Women,Foil Team,Bronze
+2000,Sydney,Fencing,Fencing,"BIANCHEDI, Diana",ITA,Women,Foil Team,Gold
+2000,Sydney,Fencing,Fencing,"TRILLINI, Giovanna",ITA,Women,Foil Team,Gold
+2000,Sydney,Fencing,Fencing,"VEZZALI, Valentina",ITA,Women,Foil Team,Gold
+2000,Sydney,Fencing,Fencing,"GRUCHALA, Sylwia",POL,Women,Foil Team,Silver
+2000,Sydney,Fencing,Fencing,"MROCZKIEWICZ, Magdalena",POL,Women,Foil Team,Silver
+2000,Sydney,Fencing,Fencing,"RYBICKA, Anna",POL,Women,Foil Team,Silver
+2000,Sydney,Fencing,Fencing,"SZEWCZYK, Barbara",POL,Women,Foil Team,Silver
+2000,Sydney,Fencing,Fencing,"KOTHNY, Wiradech",GER,Men,Sabre Individual,Bronze
+2000,Sydney,Fencing,Fencing,"COVALIU, Mihai",ROU,Men,Sabre Individual,Gold
+2000,Sydney,Fencing,Fencing,"GOURDAIN, Mathieu",FRA,Men,Sabre Individual,Silver
+2000,Sydney,Fencing,Fencing,"BAUER, Dennis",GER,Men,Sabre Team,Bronze
+2000,Sydney,Fencing,Fencing,"KOTHNY, Wiradech",GER,Men,Sabre Team,Bronze
+2000,Sydney,Fencing,Fencing,"WEBER, Alexander",GER,Men,Sabre Team,Bronze
+2000,Sydney,Fencing,Fencing,"CHARIKOV, Serguei",RUS,Men,Sabre Team,Gold
+2000,Sydney,Fencing,Fencing,"FROSSINE, Alexei",RUS,Men,Sabre Team,Gold
+2000,Sydney,Fencing,Fencing,"POZDNYAKOV, Stanislav",RUS,Men,Sabre Team,Gold
+2000,Sydney,Fencing,Fencing,"GOURDAIN, Mathieu",FRA,Men,Sabre Team,Silver
+2000,Sydney,Fencing,Fencing,"PILLET, Julien",FRA,Men,Sabre Team,Silver
+2000,Sydney,Fencing,Fencing,"SEGUIN, Cedric",FRA,Men,Sabre Team,Silver
+2000,Sydney,Fencing,Fencing,"TOUYA, Damien",FRA,Men,Sabre Team,Silver
+2000,Sydney,Football,Football,"ALVAREZ, Cristian",CHI,Men,Football,Bronze
+2000,Sydney,Football,Football,"ARRUE, Francisco",CHI,Men,Football,Bronze
+2000,Sydney,Football,Football,"CONTRERAS, Pablo",CHI,Men,Football,Bronze
+2000,Sydney,Football,Football,"DI GREGORIO, Javier",CHI,Men,Football,Bronze
+2000,Sydney,Football,Football,"GONZALEZ, Sebastian",CHI,Men,Football,Bronze
+2000,Sydney,Football,Football,"HENRIQUEZ, David",CHI,Men,Football,Bronze
+2000,Sydney,Football,Football,"IBARRA, Manuel",CHI,Men,Football,Bronze
+2000,Sydney,Football,Football,"MALDONADO, Claudio",CHI,Men,Football,Bronze
+2000,Sydney,Football,Football,"NAVIA, Reinaldo",CHI,Men,Football,Bronze
+2000,Sydney,Football,Football,"NUNEZ, Rodrigo",CHI,Men,Football,Bronze
+2000,Sydney,Football,Football,"OLARRA, Rafael",CHI,Men,Football,Bronze
+2000,Sydney,Football,Football,"ORMAZABAL, Patricio",CHI,Men,Football,Bronze
+2000,Sydney,Football,Football,"PIZARRO, David",CHI,Men,Football,Bronze
+2000,Sydney,Football,Football,"REYES, Pedro",CHI,Men,Football,Bronze
+2000,Sydney,Football,Football,"ROJAS, Mauricio",CHI,Men,Football,Bronze
+2000,Sydney,Football,Football,"TAPIA, Nelson",CHI,Men,Football,Bronze
+2000,Sydney,Football,Football,"TELLO, Rodrigo",CHI,Men,Football,Bronze
+2000,Sydney,Football,Football,"ZAMORANO, Ivan",CHI,Men,Football,Bronze
+2000,Sydney,Football,Football,"ABANDA ETONG, Patrice",CMR,Men,Football,Gold
+2000,Sydney,Football,Football,"ALNOUDJI, Nicolas",CMR,Men,Football,Gold
+2000,Sydney,Football,Football,"BEAUD, Clement",CMR,Men,Football,Gold
+2000,Sydney,Football,Football,"BEKONO NDENE, Daniel",CMR,Men,Football,Gold
+2000,Sydney,Football,Football,"BRANCO, Serge",CMR,Men,Football,Gold
+2000,Sydney,Football,Football,"EPALLE, Joel",CMR,Men,Football,Gold
+2000,Sydney,Football,Football,"ETAME MAYER, Lawren",CMR,Men,Football,Gold
+2000,Sydney,Football,Football,"ETO'O FILS, Samuel",CMR,Men,Football,Gold
+2000,Sydney,Football,Football,"KAMENI, Idriss C",CMR,Men,Football,Gold
+2000,Sydney,Football,Football,"MBAMI, Modeste",CMR,Men,Football,Gold
+2000,Sydney,Football,Football,"MBOMA DEM, Patrick",CMR,Men,Football,Gold
+2000,Sydney,Football,Football,"MEYONG ZE, Albert",CMR,Men,Football,Gold
+2000,Sydney,Football,Football,"MIMPO, Serge",CMR,Men,Football,Gold
+2000,Sydney,Football,Football,"NGOME KOME, Daniel",CMR,Men,Football,Gold
+2000,Sydney,Football,Football,"NGUIMBAT, Aaron",CMR,Men,Football,Gold
+2000,Sydney,Football,Football,"NJITAP FOTSO, Geremi",CMR,Men,Football,Gold
+2000,Sydney,Football,Football,"SUFFO K, Patrick",CMR,Men,Football,Gold
+2000,Sydney,Football,Football,"WOME NLEND, Pierre",CMR,Men,Football,Gold
+2000,Sydney,Football,Football,"ALBELDA, David",ESP,Men,Football,Silver
+2000,Sydney,Football,Football,"AMAYA, Ivan",ESP,Men,Football,Silver
+2000,Sydney,Football,Football,"ANGULO, Miguel Angel",ESP,Men,Football,Silver
+2000,Sydney,Football,Football,"ARANZUBIA, Daniel",ESP,Men,Football,Silver
+2000,Sydney,Football,Football,"CAPDEVILA, Juan",ESP,Men,Football,Silver
+2000,Sydney,Football,Football,"FERRON, Jordi",ESP,Men,Football,Silver
+2000,Sydney,Football,Football,"GARCIA, Gabriel",ESP,Men,Football,Silver
+2000,Sydney,Football,Football,"HERNANDEZ, Xavier",ESP,Men,Football,Silver
+2000,Sydney,Football,Football,"LACRUZ, Jesus Maria",ESP,Men,Football,Silver
+2000,Sydney,Football,Football,"LUQUE, Alberto",ESP,Men,Football,Silver
+2000,Sydney,Football,Football,"MARCHENA, Carlos",ESP,Men,Football,Silver
+2000,Sydney,Football,Football,"ORTIZ, Felipe",ESP,Men,Football,Silver
+2000,Sydney,Football,Football,"PUYOL, Carlos",ESP,Men,Football,Silver
+2000,Sydney,Football,Football,"ROMERO, Jose Maria",ESP,Men,Football,Silver
+2000,Sydney,Football,Football,"RUIZ, Ismael",ESP,Men,Football,Silver
+2000,Sydney,Football,Football,"TAMUDO, Raul",ESP,Men,Football,Silver
+2000,Sydney,Football,Football,"VELAMAZAN, Antonio",ESP,Men,Football,Silver
+2000,Sydney,Football,Football,"VERGARA, Unai",ESP,Men,Football,Silver
+2000,Sydney,Football,Football,"ANGERER, Nadine",GER,Women,Football,Bronze
+2000,Sydney,Football,Football,"BRANDEBUSEMEYER, Nicole",GER,Women,Football,Bronze
+2000,Sydney,Football,Football,"FITSCHEN, Doris",GER,Women,Football,Bronze
+2000,Sydney,Football,Football,"GOETTE, Jeannette",GER,Women,Football,Bronze
+2000,Sydney,Football,Football,"GOTTSCHLICH, Stefanie",GER,Women,Football,Bronze
+2000,Sydney,Football,Football,"GRINGS, Inka",GER,Women,Football,Bronze
+2000,Sydney,Football,Football,"HINGST, Ariane",GER,Women,Football,Bronze
+2000,Sydney,Football,Football,"HOFFMANN, Melanie",GER,Women,Football,Bronze
+2000,Sydney,Football,Football,"JONES, Steffi",GER,Women,Football,Bronze
+2000,Sydney,Football,Football,"LINGOR, Renate",GER,Women,Football,Bronze
+2000,Sydney,Football,Football,"MEINERT, Maren",GER,Women,Football,Bronze
+2000,Sydney,Football,Football,"MINNERT, Sandra",GER,Women,Football,Bronze
+2000,Sydney,Football,Football,"MUELLER, Claudia",GER,Women,Football,Bronze
+2000,Sydney,Football,Football,"PRINZ, Birgit",GER,Women,Football,Bronze
+2000,Sydney,Football,Football,"ROTTENBERG, Silke",GER,Women,Football,Bronze
+2000,Sydney,Football,Football,"STEGEMANN, Kerstin",GER,Women,Football,Bronze
+2000,Sydney,Football,Football,"WIEGMANN, Bettina",GER,Women,Football,Bronze
+2000,Sydney,Football,Football,"WUNDERLICH, Tina",GER,Women,Football,Bronze
+2000,Sydney,Football,Football,"BEKKEVOLD, Kristin",NOR,Women,Football,Gold
+2000,Sydney,Football,Football,"ESPESETH, Gro",NOR,Women,Football,Gold
+2000,Sydney,Football,Football,"GULBRANDSEN, Ragnhild",NOR,Women,Football,Gold
+2000,Sydney,Football,Football,"GULBRANDSEN, Solveig",NOR,Women,Football,Gold
+2000,Sydney,Football,Football,"HAUGENES, Margunn",NOR,Women,Football,Gold
+2000,Sydney,Football,Football,"HOVLAND, Ingeborg",NOR,Women,Football,Gold
+2000,Sydney,Football,Football,"JENSEN, Christine Boe",NOR,Women,Football,Gold
+2000,Sydney,Football,Football,"JOERGENSEN, Silje",NOR,Women,Football,Gold
+2000,Sydney,Football,Football,"KNUDSEN, Monica",NOR,Women,Football,Gold
+2000,Sydney,Football,Football,"KRINGEN, Goeril",NOR,Women,Football,Gold
+2000,Sydney,Football,Football,"KVITLAND, Bente",NOR,Women,Football,Gold
+2000,Sydney,Football,Football,"LEHN, Unni",NOR,Women,Football,Gold
+2000,Sydney,Football,Football,"MELLGREN, Dagny",NOR,Women,Football,Gold
+2000,Sydney,Football,Football,"NORDBY, Bente",NOR,Women,Football,Gold
+2000,Sydney,Football,Football,"PETTERSEN, Marianne",NOR,Women,Football,Gold
+2000,Sydney,Football,Football,"RAPP, Anita",NOR,Women,Football,Gold
+2000,Sydney,Football,Football,"RIISE, Hege",NOR,Women,Football,Gold
+2000,Sydney,Football,Football,"SANDAUNE, Brit",NOR,Women,Football,Gold
+2000,Sydney,Football,Football,"CHASTAIN, Brandi",USA,Women,Football,Silver
+2000,Sydney,Football,Football,"FAIR, Lorrie",USA,Women,Football,Silver
+2000,Sydney,Football,Football,"FAWCETT, Joy",USA,Women,Football,Silver
+2000,Sydney,Football,Football,"FOUDY, Julie",USA,Women,Football,Silver
+2000,Sydney,Football,Football,"FRENCH, Michelle",USA,Women,Football,Silver
+2000,Sydney,Football,Football,"HAMM, Mia",USA,Women,Football,Silver
+2000,Sydney,Football,Football,"LILLY, Kristine",USA,Women,Football,Silver
+2000,Sydney,Football,Football,"MACMILLAN, Shannon",USA,Women,Football,Silver
+2000,Sydney,Football,Football,"MILBRETT, Tiffeny",USA,Women,Football,Silver
+2000,Sydney,Football,Football,"MULLINIX, Siri",USA,Women,Football,Silver
+2000,Sydney,Football,Football,"OVERBECK, Carla",USA,Women,Football,Silver
+2000,Sydney,Football,Football,"PARLOW, Cindy",USA,Women,Football,Silver
+2000,Sydney,Football,Football,"PEARCE, Christie",USA,Women,Football,Silver
+2000,Sydney,Football,Football,"SCURRY, Briana",USA,Women,Football,Silver
+2000,Sydney,Football,Football,"SERLENGA, Nikki",USA,Women,Football,Silver
+2000,Sydney,Football,Football,"SLATON, Danielle",USA,Women,Football,Silver
+2000,Sydney,Football,Football,"SOBRERO, Kate",USA,Women,Football,Silver
+2000,Sydney,Football,Football,"WHALEN, Sara",USA,Women,Football,Silver
+2000,Sydney,Gymnastics,Artistic G.,"PRODOUNOVA, Elena",RUS,Women,Balance Beam,Bronze
+2000,Sydney,Gymnastics,Artistic G.,"LIU, Xuan",CHN,Women,Balance Beam,Gold
+2000,Sydney,Gymnastics,Artistic G.,"LOBAZNIOUK, Ekaterina",RUS,Women,Balance Beam,Silver
+2000,Sydney,Gymnastics,Artistic G.,"IOVTCHEV, Iordan",BUL,Men,Floor Exercises,Bronze
+2000,Sydney,Gymnastics,Artistic G.,"VIHROVS, Igors",LAT,Men,Floor Exercises,Gold
+2000,Sydney,Gymnastics,Artistic G.,"NEMOV, Alexei",RUS,Men,Floor Exercises,Silver
+2000,Sydney,Gymnastics,Artistic G.,"AMANAR, Simona",ROU,Women,Floor Exercises,Bronze
+2000,Sydney,Gymnastics,Artistic G.,"ZAMOLODCHIKOVA, Elena",RUS,Women,Floor Exercises,Gold
+2000,Sydney,Gymnastics,Artistic G.,"KHORKINA, Svetlana",RUS,Women,Floor Exercises,Silver
+2000,Sydney,Gymnastics,Artistic G.,"LEE, Joo Hyung",KOR,Men,Horizontal Bar,Bronze
+2000,Sydney,Gymnastics,Artistic G.,"NEMOV, Alexei",RUS,Men,Horizontal Bar,Gold
+2000,Sydney,Gymnastics,Artistic G.,"VARONIAN, Benjamin",FRA,Men,Horizontal Bar,Silver
+2000,Sydney,Gymnastics,Artistic G.,"BERESH, Oleksandr",UKR,Men,Individual All-Round,Bronze
+2000,Sydney,Gymnastics,Artistic G.,"NEMOV, Alexei",RUS,Men,Individual All-Round,Gold
+2000,Sydney,Gymnastics,Artistic G.,"YANG, Wey",CHN,Men,Individual All-Round,Silver
+2000,Sydney,Gymnastics,Artistic G.,"LIU, Xuan",CHN,Women,Individual All-Round,Bronze
+2000,Sydney,Gymnastics,Artistic G.,"AMANAR, Simona",ROU,Women,Individual All-Round,Gold
+2000,Sydney,Gymnastics,Artistic G.,"OLARU, Maria",ROU,Women,Individual All-Round,Silver
+2000,Sydney,Gymnastics,Artistic G.,"NEMOV, Alexei",RUS,Men,Parallel Bars,Bronze
+2000,Sydney,Gymnastics,Artistic G.,"LI, Xiaopeng",CHN,Men,Parallel Bars,Gold
+2000,Sydney,Gymnastics,Artistic G.,"LEE, Joo Hyung",KOR,Men,Parallel Bars,Silver
+2000,Sydney,Gymnastics,Artistic G.,"NEMOV, Alexei",RUS,Men,Pommel Horse,Bronze
+2000,Sydney,Gymnastics,Artistic G.,"URZICA, Marius Daniel",ROU,Men,Pommel Horse,Gold
+2000,Sydney,Gymnastics,Artistic G.,"POUJADE, Eric",FRA,Men,Pommel Horse,Silver
+2000,Sydney,Gymnastics,Artistic G.,"IOVTCHEV, Iordan",BUL,Men,Rings,Bronze
+2000,Sydney,Gymnastics,Artistic G.,"CSOLLANY, Szilveszter",HUN,Men,Rings,Gold
+2000,Sydney,Gymnastics,Artistic G.,"TAMPAKOS, Dimosthenis",GRE,Men,Rings,Silver
+2000,Sydney,Gymnastics,Artistic G.,"ALECHINE, Maxim",RUS,Men,Team Competition,Bronze
+2000,Sydney,Gymnastics,Artistic G.,"BONDARENKO, Alexei",RUS,Men,Team Competition,Bronze
+2000,Sydney,Gymnastics,Artistic G.,"DREVINE, Dmitri",RUS,Men,Team Competition,Bronze
+2000,Sydney,Gymnastics,Artistic G.,"KRUKOV, Nikolay",RUS,Men,Team Competition,Bronze
+2000,Sydney,Gymnastics,Artistic G.,"NEMOV, Alexei",RUS,Men,Team Competition,Bronze
+2000,Sydney,Gymnastics,Artistic G.,"PODGORNYI, Evgueni",RUS,Men,Team Competition,Bronze
+2000,Sydney,Gymnastics,Artistic G.,"HUANG, Xu",CHN,Men,Team Competition,Gold
+2000,Sydney,Gymnastics,Artistic G.,"LI, Xiaopeng",CHN,Men,Team Competition,Gold
+2000,Sydney,Gymnastics,Artistic G.,"XIAO, Junfeng",CHN,Men,Team Competition,Gold
+2000,Sydney,Gymnastics,Artistic G.,"XING, Aowei",CHN,Men,Team Competition,Gold
+2000,Sydney,Gymnastics,Artistic G.,"YANG, Wey",CHN,Men,Team Competition,Gold
+2000,Sydney,Gymnastics,Artistic G.,"ZHENG, Lihui",CHN,Men,Team Competition,Gold
+2000,Sydney,Gymnastics,Artistic G.,"BERESH, Oleksandr",UKR,Men,Team Competition,Silver
+2000,Sydney,Gymnastics,Artistic G.,"GONCHAROV, Valeri",UKR,Men,Team Competition,Silver
+2000,Sydney,Gymnastics,Artistic G.,"MYEZYENTSEV, Ruslan",UKR,Men,Team Competition,Silver
+2000,Sydney,Gymnastics,Artistic G.,"PERESHKURA, Valeriy",UKR,Men,Team Competition,Silver
+2000,Sydney,Gymnastics,Artistic G.,"SVETLICHNYI, Alexandre",UKR,Men,Team Competition,Silver
+2000,Sydney,Gymnastics,Artistic G.,"ZOZULIA, Roman",UKR,Men,Team Competition,Silver
+2000,Sydney,Gymnastics,Artistic G.,"CHOW, Amy",USA,Women,Team Competition,Bronze
+2000,Sydney,Gymnastics,Artistic G.,"DANTZSCHER, Jamie",USA,Women,Team Competition,Bronze
+2000,Sydney,Gymnastics,Artistic G.,"DAWES, Dominique",USA,Women,Team Competition,Bronze
+2000,Sydney,Gymnastics,Artistic G.,"MALONEY, Kristin",USA,Women,Team Competition,Bronze
+2000,Sydney,Gymnastics,Artistic G.,"RAY, Elise",USA,Women,Team Competition,Bronze
+2000,Sydney,Gymnastics,Artistic G.,"SCHWIKERT-WARREN, Tasha",USA,Women,Team Competition,Bronze
+2000,Sydney,Gymnastics,Artistic G.,"AMANAR, Simona",ROU,Women,Team Competition,Gold
+2000,Sydney,Gymnastics,Artistic G.,"BOBOC, Loredana",ROU,Women,Team Competition,Gold
+2000,Sydney,Gymnastics,Artistic G.,"ISARESCU, Andreea Florenta",ROU,Women,Team Competition,Gold
+2000,Sydney,Gymnastics,Artistic G.,"OLARU, Maria",ROU,Women,Team Competition,Gold
+2000,Sydney,Gymnastics,Artistic G.,"PRESACAN, Maria Claudia",ROU,Women,Team Competition,Gold
+2000,Sydney,Gymnastics,Artistic G.,"RADUCAN, Andreea Madalina",ROU,Women,Team Competition,Gold
+2000,Sydney,Gymnastics,Artistic G.,"KHORKINA, Svetlana",RUS,Women,Team Competition,Silver
+2000,Sydney,Gymnastics,Artistic G.,"KOLESNIKOVA, Anastassia",RUS,Women,Team Competition,Silver
+2000,Sydney,Gymnastics,Artistic G.,"LOBAZNIOUK, Ekaterina",RUS,Women,Team Competition,Silver
+2000,Sydney,Gymnastics,Artistic G.,"PRODOUNOVA, Elena",RUS,Women,Team Competition,Silver
+2000,Sydney,Gymnastics,Artistic G.,"TCHEPELEVA, Anna",RUS,Women,Team Competition,Silver
+2000,Sydney,Gymnastics,Artistic G.,"ZAMOLODCHIKOVA, Elena",RUS,Women,Team Competition,Silver
+2000,Sydney,Gymnastics,Artistic G.,"YANG, Yun",CHN,Women,Uneven Bars,Bronze
+2000,Sydney,Gymnastics,Artistic G.,"KHORKINA, Svetlana",RUS,Women,Uneven Bars,Gold
+2000,Sydney,Gymnastics,Artistic G.,"LING, Jie",CHN,Women,Uneven Bars,Silver
+2000,Sydney,Gymnastics,Artistic G.,"BLANIK, Leszek",POL,Men,Vault,Bronze
+2000,Sydney,Gymnastics,Artistic G.,"DEFERR, Gervasio",ESP,Men,Vault,Gold
+2000,Sydney,Gymnastics,Artistic G.,"BONDARENKO, Alexei",RUS,Men,Vault,Silver
+2000,Sydney,Gymnastics,Artistic G.,"LOBAZNIOUK, Ekaterina",RUS,Women,Vault,Bronze
+2000,Sydney,Gymnastics,Artistic G.,"ZAMOLODCHIKOVA, Elena",RUS,Women,Vault,Gold
+2000,Sydney,Gymnastics,Artistic G.,"RADUCAN, Andreea Madalina",ROU,Women,Vault,Silver
+2000,Sydney,Gymnastics,Rhythmic G.,"AINDILI, Eirini",GRE,Women,Group Competition,Bronze
+2000,Sydney,Gymnastics,Rhythmic G.,"CHRISTODOULOU, Evangelia",GRE,Women,Group Competition,Bronze
+2000,Sydney,Gymnastics,Rhythmic G.,"GEORGATOU, Maria",GRE,Women,Group Competition,Bronze
+2000,Sydney,Gymnastics,Rhythmic G.,"KARYAMI, Zacharoula",GRE,Women,Group Competition,Bronze
+2000,Sydney,Gymnastics,Rhythmic G.,"PANTAZI, Charikleia",GRE,Women,Group Competition,Bronze
+2000,Sydney,Gymnastics,Rhythmic G.,"POLLATOU, Anna",GRE,Women,Group Competition,Bronze
+2000,Sydney,Gymnastics,Rhythmic G.,"BELOVA, Irina",RUS,Women,Group Competition,Gold
+2000,Sydney,Gymnastics,Rhythmic G.,"CHALAMOVA, Elena",RUS,Women,Group Competition,Gold
+2000,Sydney,Gymnastics,Rhythmic G.,"LAVROVA, Natalia",RUS,Women,Group Competition,Gold
+2000,Sydney,Gymnastics,Rhythmic G.,"NETESSOVA, Maria",RUS,Women,Group Competition,Gold
+2000,Sydney,Gymnastics,Rhythmic G.,"SHIMANSKAYA, Vera",RUS,Women,Group Competition,Gold
+2000,Sydney,Gymnastics,Rhythmic G.,"ZILBER, Irina",RUS,Women,Group Competition,Gold
+2000,Sydney,Gymnastics,Rhythmic G.,"ANANKO, Tatyana",BLR,Women,Group Competition,Silver
+2000,Sydney,Gymnastics,Rhythmic G.,"BELAN, Tatyana",BLR,Women,Group Competition,Silver
+2000,Sydney,Gymnastics,Rhythmic G.,"GLAZKOVA, Anna",BLR,Women,Group Competition,Silver
+2000,Sydney,Gymnastics,Rhythmic G.,"ILYENKOVA, Irina",BLR,Women,Group Competition,Silver
+2000,Sydney,Gymnastics,Rhythmic G.,"LAZUK, Maria",BLR,Women,Group Competition,Silver
+2000,Sydney,Gymnastics,Rhythmic G.,"PUZHEVICH, Olga",BLR,Women,Group Competition,Silver
+2000,Sydney,Gymnastics,Rhythmic G.,"KABAEVA, Alina",RUS,Women,Individual All-Round,Bronze
+2000,Sydney,Gymnastics,Rhythmic G.,"BARSLUKOVA, Yulia",RUS,Women,Individual All-Round,Gold
+2000,Sydney,Gymnastics,Rhythmic G.,"RASKINA, Yulia",BLR,Women,Individual All-Round,Silver
+2000,Sydney,Gymnastics,Trampoline,"TURGEON, Mathieu",CAN,Men,Individual,Bronze
+2000,Sydney,Gymnastics,Trampoline,"MOSKALENKO, Alexander",RUS,Men,Individual,Gold
+2000,Sydney,Gymnastics,Trampoline,"WALLACE, Ji",AUS,Men,Individual,Silver
+2000,Sydney,Gymnastics,Trampoline,"COCKBURN, Karen",CAN,Women,Individual,Bronze
+2000,Sydney,Gymnastics,Trampoline,"KARAVAEVA, Irina",RUS,Women,Individual,Gold
+2000,Sydney,Gymnastics,Trampoline,"TSYHULEVA, Oksana",UKR,Women,Individual,Silver
+2000,Sydney,Handball,Handball,"BARRUFET, David",ESP,Men,Handball,Bronze
+2000,Sydney,Handball,Handball,"DOUICHEBAEV, Talant",ESP,Men,Handball,Bronze
+2000,Sydney,Handball,Handball,"GARRALDA, Mateo",ESP,Men,Handball,Bronze
+2000,Sydney,Handball,Handball,"GUIJOSA, Rafael",ESP,Men,Handball,Bronze
+2000,Sydney,Handball,Handball,"LOZANO, Demetrio",ESP,Men,Handball,Bronze
+2000,Sydney,Handball,Handball,"MASIP BORRAS, Enric",ESP,Men,Handball,Bronze
+2000,Sydney,Handball,Handball,"NUNEZ, Jordi",ESP,Men,Handball,Bronze
+2000,Sydney,Handball,Handball,"O'CALLAGHAN, Xavier",ESP,Men,Handball,Bronze
+2000,Sydney,Handball,Handball,"OLALLA, Jesus",ESP,Men,Handball,Bronze
+2000,Sydney,Handball,Handball,"ORTEGA, Antonio",ESP,Men,Handball,Bronze
+2000,Sydney,Handball,Handball,"PEREZ, Juan",ESP,Men,Handball,Bronze
+2000,Sydney,Handball,Handball,"UGALDE, Antonio",ESP,Men,Handball,Bronze
+2000,Sydney,Handball,Handball,"URDANGARIN, Ignacio",ESP,Men,Handball,Bronze
+2000,Sydney,Handball,Handball,"URDIALES, Alberto",ESP,Men,Handball,Bronze
+2000,Sydney,Handball,Handball,"XEPKIN, Andriy",ESP,Men,Handball,Bronze
+2000,Sydney,Handball,Handball,"FILIPPOV, Dmitriy",RUS,Men,Handball,Gold
+2000,Sydney,Handball,Handball,"GORPICHIN, Viatcheslav",RUS,Men,Handball,Gold
+2000,Sydney,Handball,Handball,"KHODKOV, Oleg",RUS,Men,Handball,Gold
+2000,Sydney,Handball,Handball,"KOKCHAROV, Edouard",RUS,Men,Handball,Gold
+2000,Sydney,Handball,Handball,"KOUDINOV, Vassili",RUS,Men,Handball,Gold
+2000,Sydney,Handball,Handball,"KOULINTCHENKO, Stanislav",RUS,Men,Handball,Gold
+2000,Sydney,Handball,Handball,"KOUZELEV, Dmitri",RUS,Men,Handball,Gold
+2000,Sydney,Handball,Handball,"KRIVOSHLYKOV, Denis",RUS,Men,Handball,Gold
+2000,Sydney,Handball,Handball,"LAVROV, Andrey",RUS,Men,Handball,Gold
+2000,Sydney,Handball,Handball,"LAVROV, Igor",RUS,Men,Handball,Gold
+2000,Sydney,Handball,Handball,"POGORELOV, Serguei",RUS,Men,Handball,Gold
+2000,Sydney,Handball,Handball,"SUKOSSIAN, Pavel",RUS,Men,Handball,Gold
+2000,Sydney,Handball,Handball,"TORGOVANOV, Dmitri",RUS,Men,Handball,Gold
+2000,Sydney,Handball,Handball,"TUCHKIN, Alexandre",RUS,Men,Handball,Gold
+2000,Sydney,Handball,Handball,"VORONIN, Lev",RUS,Men,Handball,Gold
+2000,Sydney,Handball,Handball,"ANDERSSON, Magnus",SWE,Men,Handball,Silver
+2000,Sydney,Handball,Handball,"BOQUIST, Martin",SWE,Men,Handball,Silver
+2000,Sydney,Handball,Handball,"FRANDESJO, Martin",SWE,Men,Handball,Silver
+2000,Sydney,Handball,Handball,"FRANZEN, Mathias",SWE,Men,Handball,Silver
+2000,Sydney,Handball,Handball,"GENTZEL, Peter",SWE,Men,Handball,Silver
+2000,Sydney,Handball,Handball,"LARSSON, Andreas",SWE,Men,Handball,Silver
+2000,Sydney,Handball,Handball,"LINDGREN, Ola",SWE,Men,Handball,Silver
+2000,Sydney,Handball,Handball,"LOFGREN, Stefan",SWE,Men,Handball,Silver
+2000,Sydney,Handball,Handball,"OLSSON, Staffan",SWE,Men,Handball,Silver
+2000,Sydney,Handball,Handball,"PETTERSSON, Johan",SWE,Men,Handball,Silver
+2000,Sydney,Handball,Handball,"SIVERTSSON, Thomas",SWE,Men,Handball,Silver
+2000,Sydney,Handball,Handball,"SVENSSON, Tomas",SWE,Men,Handball,Silver
+2000,Sydney,Handball,Handball,"THORSSON, Pierre",SWE,Men,Handball,Silver
+2000,Sydney,Handball,Handball,"VRANJES, Ljubomir",SWE,Men,Handball,Silver
+2000,Sydney,Handball,Handball,"WISLANDER, Magnus",SWE,Men,Handball,Silver
+2000,Sydney,Handball,Handball,"BJERKRHEIM, Susann Goksoer",NOR,Women,Handball,Bronze
+2000,Sydney,Handball,Handball,"DUVHOLT, Kristine",NOR,Women,Handball,Bronze
+2000,Sydney,Handball,Handball,"ERIKSEN, Ann",NOR,Women,Handball,Bronze
+2000,Sydney,Handball,Handball,"GRINI, Kjersti",NOR,Women,Handball,Bronze
+2000,Sydney,Handball,Handball,"HALTVIK, Trine",NOR,Women,Handball,Bronze
+2000,Sydney,Handball,Handball,"HILMO, Elisabeth",NOR,Women,Handball,Bronze
+2000,Sydney,Handball,Handball,"HUNDVIN, Mia",NOR,Women,Handball,Bronze
+2000,Sydney,Handball,Handball,"LARSEN, Tonje",NOR,Women,Handball,Bronze
+2000,Sydney,Handball,Handball,"LEGANGER, Cecilie",NOR,Women,Handball,Bronze
+2000,Sydney,Handball,Handball,"NILSEN, Jeanette",NOR,Women,Handball,Bronze
+2000,Sydney,Handball,Handball,"ROKNE, Marianne",NOR,Women,Handball,Bronze
+2000,Sydney,Handball,Handball,"SAETTEM, Birgitte",NOR,Women,Handball,Bronze
+2000,Sydney,Handball,Handball,"SANDVE, Monica",NOR,Women,Handball,Bronze
+2000,Sydney,Handball,Handball,"SOERLIE, Else-Marthe",NOR,Women,Handball,Bronze
+2000,Sydney,Handball,Handball,"TJUGUM, Heidi Maire",NOR,Women,Handball,Bronze
+2000,Sydney,Handball,Handball,"ANDERSEN, Camilla",DEN,Women,Handball,Gold
+2000,Sydney,Handball,Handball,"BOTTZAU, Tina",DEN,Women,Handball,Gold
+2000,Sydney,Handball,Handball,"BRODSGAARD, Karen",DEN,Women,Handball,Gold
+2000,Sydney,Handball,Handball,"FRUELUND, Katrine",DEN,Women,Handball,Gold
+2000,Sydney,Handball,Handball,"GRONBEK, Maja",DEN,Women,Handball,Gold
+2000,Sydney,Handball,Handball,"HANSEN, Christina Roslyng",DEN,Women,Handball,Gold
+2000,Sydney,Handball,Handball,"HOFFMAN, Anette",DEN,Women,Handball,Gold
+2000,Sydney,Handball,Handball,"KIAERSKOU, Lotte",DEN,Women,Handball,Gold
+2000,Sydney,Handball,Handball,"KJAERGAARD, Tonje",DEN,Women,Handball,Gold
+2000,Sydney,Handball,Handball,"KOLLING, Janne",DEN,Women,Handball,Gold
+2000,Sydney,Handball,Handball,"MORTENSEN, Karin",DEN,Women,Handball,Gold
+2000,Sydney,Handball,Handball,"NIELSEN, Anja",DEN,Women,Handball,Gold
+2000,Sydney,Handball,Handball,"PETERSEN, Rikke",DEN,Women,Handball,Gold
+2000,Sydney,Handball,Handball,"RANTALA, Lene",DEN,Women,Handball,Gold
+2000,Sydney,Handball,Handball,"VESTERGAARD LARSEN, Mette",DEN,Women,Handball,Gold
+2000,Sydney,Handball,Handball,"BALOGH, Beatrix",HUN,Women,Handball,Silver
+2000,Sydney,Handball,Handball,"DELI, Rita",HUN,Women,Handball,Silver
+2000,Sydney,Handball,Handball,"FARKAS, Agnes",HUN,Women,Handball,Silver
+2000,Sydney,Handball,Handball,"FARKAS, Andrea",HUN,Women,Handball,Silver
+2000,Sydney,Handball,Handball,"KANTOR, Aniko",HUN,Women,Handball,Silver
+2000,Sydney,Handball,Handball,"KOKENY, Beatrix",HUN,Women,Handball,Silver
+2000,Sydney,Handball,Handball,"KULCSAR, Anita",HUN,Women,Handball,Silver
+2000,Sydney,Handball,Handball,"LOWY, Dora",HUN,Women,Handball,Silver
+2000,Sydney,Handball,Handball,"NAGY, Aniko",HUN,Women,Handball,Silver
+2000,Sydney,Handball,Handball,"PADAR, Ildiko",HUN,Women,Handball,Silver
+2000,Sydney,Handball,Handball,"PALINGER, Katalin",HUN,Women,Handball,Silver
+2000,Sydney,Handball,Handball,"PIGNICZKI, Krisztina",HUN,Women,Handball,Silver
+2000,Sydney,Handball,Handball,"RADULOVICS, Bojana",HUN,Women,Handball,Silver
+2000,Sydney,Handball,Handball,"SITI, Beata",HUN,Women,Handball,Silver
+2000,Sydney,Handball,Handball,"ZSEMBERY, Tamasne",HUN,Women,Handball,Silver
+2000,Sydney,Hockey,Hockey,"BRENNAN, Michael",AUS,Men,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"COMMENS, Adam",AUS,Men,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"DAVIES, Stephen",AUS,Men,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"DILETTI, Damon",AUS,Men,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"DREHER, Lachlan",AUS,Men,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"DUFF, Jason",AUS,Men,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"ELDER, Troy",AUS,Men,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"ELMER, James",AUS,Men,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"GAUDOIN, Paul",AUS,Men,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"HOLT, Stephen",AUS,Men,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"LIVERMORE, Brent",AUS,Men,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"SPROULE, Daniel",AUS,Men,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"STACEY, Jay Jason",AUS,Men,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"VICTORY, Craig",AUS,Men,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"WELLS, Matthew",AUS,Men,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"YORK, Michael",AUS,Men,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"BRINKMAN, Jacques",NED,Men,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"BUMA, Jaap Derk",NED,Men,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"DE NOOIJER, Teun",NED,Men,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"DELMEE, Jeroen",NED,Men,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"EIKELBOOM, Marten",NED,Men,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"GEERIS, Piet-Hein",NED,Men,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"JANSEN, Franciscus Ronaldus Maria",NED,Men,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"JAZET, Erik",NED,Men,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"LOMANS, Bram",NED,Men,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"VAN DER WEIDE, Sander",NED,Men,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"VAN PELT, Wouter",NED,Men,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"VAN WEEL, Diederik",NED,Men,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"VAN WIJK, Remco",NED,Men,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"VEEN, Stephan",NED,Men,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"VOGELS, Guus",NED,Men,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"WIND, Peter",NED,Men,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"HAN, Hyung-Bae",KOR,Men,Hockey,Silver
+2000,Sydney,Hockey,Hockey,"HWANG, Jong-Hyun",KOR,Men,Hockey,Silver
+2000,Sydney,Hockey,Hockey,"JEON, Hong-Kwon",KOR,Men,Hockey,Silver
+2000,Sydney,Hockey,Hockey,"JEON, Jong-Ha",KOR,Men,Hockey,Silver
+2000,Sydney,Hockey,Hockey,"JI, Seong-Hwan",KOR,Men,Hockey,Silver
+2000,Sydney,Hockey,Hockey,"KANG, Keon-Wook",KOR,Men,Hockey,Silver
+2000,Sydney,Hockey,Hockey,"KIM, Chel-Hwan",KOR,Men,Hockey,Silver
+2000,Sydney,Hockey,Hockey,"KIM, Jung-Chul",KOR,Men,Hockey,Silver
+2000,Sydney,Hockey,Hockey,"KIM, Kyung Seok",KOR,Men,Hockey,Silver
+2000,Sydney,Hockey,Hockey,"KIM, Yong-Bae",KOR,Men,Hockey,Silver
+2000,Sydney,Hockey,Hockey,"KIM, Yoon",KOR,Men,Hockey,Silver
+2000,Sydney,Hockey,Hockey,"LIM, Jong-Chun",KOR,Men,Hockey,Silver
+2000,Sydney,Hockey,Hockey,"LIM, Jung-Woo",KOR,Men,Hockey,Silver
+2000,Sydney,Hockey,Hockey,"SEO, Jong-Ho",KOR,Men,Hockey,Silver
+2000,Sydney,Hockey,Hockey,"SONG, Seung-Tae",KOR,Men,Hockey,Silver
+2000,Sydney,Hockey,Hockey,"YEO, Woon-Kon",KOR,Men,Hockey,Silver
+2000,Sydney,Hockey,Hockey,"BOOIJ, Minke",NED,Women,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"BOOMGAARDT, Ageeth",NED,Women,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"DEITERS, Julie",NED,Women,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"DONNERS, Wilhelmina",NED,Women,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"MOREIRA DE MELO, Fatima",NED,Women,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"SINNIGE, Clarinda",NED,Women,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"SMABERS, Hanneke",NED,Women,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"SMABERS, Minke",NED,Women,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"TEEUWEN, Josepha",NED,Women,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"THATE, Carole",NED,Women,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"TOUW, Daphne",NED,Women,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"VAN DE KIEFT, Fleur",NED,Women,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"VAN DEN BOOGAARD, Dillianne",NED,Women,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"VAN DER VAART, Macha",NED,Women,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"VAN DER WIELEN, Suzan",NED,Women,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"VEENSTRA, Myrna",NED,Women,Hockey,Bronze
+2000,Sydney,Hockey,Hockey,"ALLEN, Katie",AUS,Women,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"ANNAN, Alyson",AUS,Women,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"CARRUTHERS, Lisa",AUS,Women,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"FARRELL, Renita",AUS,Women,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"HASLAM, Juliet",AUS,Women,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"HAWKES, Rechelle",AUS,Women,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"HUDSON, Nicole",AUS,Women,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"IMISON, Rachel",AUS,Women,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"MAITLAND, Clover",AUS,Women,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"MITCHELL-TAVERNER, Claire",AUS,Women,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"MORRIS, Jenny",AUS,Women,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"PEEK, Alison Louise",AUS,Women,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"POWELL, Katrina",AUS,Women,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"SKIRVING, Angie",AUS,Women,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"STARRE, Katie",AUS,Women,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"TOWERS, Julie",AUS,Women,Hockey,Gold
+2000,Sydney,Hockey,Hockey,"AICEGA, Magdalena",ARG,Women,Hockey,Silver
+2000,Sydney,Hockey,Hockey,"ANTONISKA, Mariela",ARG,Women,Hockey,Silver
+2000,Sydney,Hockey,Hockey,"ARRONDO, Ines",ARG,Women,Hockey,Silver
+2000,Sydney,Hockey,Hockey,"AYMAR, Luciana",ARG,Women,Hockey,Silver
+2000,Sydney,Hockey,Hockey,"FERRARI, Maria Paz",ARG,Women,Hockey,Silver
+2000,Sydney,Hockey,Hockey,"GAMBERO, Ana",ARG,Women,Hockey,Silver
+2000,Sydney,Hockey,Hockey,"GARCIA, Agustina",ARG,Women,Hockey,Silver
+2000,Sydney,Hockey,Hockey,"HERNANDEZ, Maria de la Paz",ARG,Women,Hockey,Silver
+2000,Sydney,Hockey,Hockey,"MAIZTEGUI, Laura",ARG,Women,Hockey,Silver
+2000,Sydney,Hockey,Hockey,"MARGALOT, Mercedes",ARG,Women,Hockey,Silver
+2000,Sydney,Hockey,Hockey,"MASOTTA, Paula Karina",ARG,Women,Hockey,Silver
+2000,Sydney,Hockey,Hockey,"ONETO, Vanina Paula",ARG,Women,Hockey,Silver
+2000,Sydney,Hockey,Hockey,"RIMOLDI PUIG, Jorgelina",ARG,Women,Hockey,Silver
+2000,Sydney,Hockey,Hockey,"ROGNONI, Maria Cecilia",ARG,Women,Hockey,Silver
+2000,Sydney,Hockey,Hockey,"STEPNIK, Ayelen Iara",ARG,Women,Hockey,Silver
+2000,Sydney,Hockey,Hockey,"VUKOJICIC, Paola",ARG,Women,Hockey,Silver
+2000,Sydney,Judo,Judo,"GRADANTE, Anna-Maria",GER,Women,- 48KG (Extra-Lightweight),Bronze
+2000,Sydney,Judo,Judo,"SIMONS, Ann",BEL,Women,- 48KG (Extra-Lightweight),Bronze
+2000,Sydney,Judo,Judo,"TANI, Ryoko",JPN,Women,- 48KG (Extra-Lightweight),Gold
+2000,Sydney,Judo,Judo,"BROULETOVA, Lioubov",RUS,Women,- 48KG (Extra-Lightweight),Silver
+2000,Sydney,Judo,Judo,"POULOT RAMOS, Manolo",CUB,Men,- 60 KG,Bronze
+2000,Sydney,Judo,Judo,"SMAGULOV, Aidyn",KGZ,Men,- 60 KG,Bronze
+2000,Sydney,Judo,Judo,"NOMURA, Tadahiro",JPN,Men,- 60 KG,Gold
+2000,Sydney,Judo,Judo,"JUNG, Bu-Kyung",KOR,Men,- 60 KG,Silver
+2000,Sydney,Judo,Judo,"PERTELSON, Indrek",EST,Men,+ 100KG (Heavyweight),Bronze
+2000,Sydney,Judo,Judo,"TMENOV, Tamerlan",RUS,Men,+ 100KG (Heavyweight),Bronze
+2000,Sydney,Judo,Judo,"DOUILLET, David",FRA,Men,+ 100KG (Heavyweight),Gold
+2000,Sydney,Judo,Judo,"SHINOHARA, Shinichi",JPN,Men,+ 100KG (Heavyweight),Silver
+2000,Sydney,Judo,Judo,"KIM, Seon-Young",KOR,Women,+ 78KG (Heavyweight),Bronze
+2000,Sydney,Judo,Judo,"YAMASHITA, Mayumi",JPN,Women,+ 78KG (Heavyweight),Bronze
+2000,Sydney,Judo,Judo,"YUAN, Hua",CHN,Women,+ 78KG (Heavyweight),Gold
+2000,Sydney,Judo,Judo,"BELTRAN, Daima Mayelis",CUB,Women,+ 78KG (Heavyweight),Silver
+2000,Sydney,Judo,Judo,"KYE, Sun Hui",PRK,Women,48 - 52KG (Half-Lightweight),Bronze
+2000,Sydney,Judo,Judo,"LIU, Yuxiang",CHN,Women,48 - 52KG (Half-Lightweight),Bronze
+2000,Sydney,Judo,Judo,"VERDECIA, Legna",CUB,Women,48 - 52KG (Half-Lightweight),Gold
+2000,Sydney,Judo,Judo,"NARAZAKI, Noriko",JPN,Women,48 - 52KG (Half-Lightweight),Silver
+2000,Sydney,Judo,Judo,"KUSAKABE, Kie",JPN,Women,52 - 57KG (Lightweight),Bronze
+2000,Sydney,Judo,Judo,"PEKLI, Maria",AUS,Women,52 - 57KG (Lightweight),Bronze
+2000,Sydney,Judo,Judo,"FERNANDEZ, Isabel",ESP,Women,52 - 57KG (Lightweight),Gold
+2000,Sydney,Judo,Judo,"GONZALEZ, Driulys",CUB,Women,52 - 57KG (Lightweight),Silver
+2000,Sydney,Judo,Judo,"JUNG, Sung-Sook",KOR,Women,57 - 63KG (Half-Middleweight),Bronze
+2000,Sydney,Judo,Judo,"VANDECAVEYE, Gella",BEL,Women,57 - 63KG (Half-Middleweight),Bronze
+2000,Sydney,Judo,Judo,"VANDENHENDE, Severine",FRA,Women,57 - 63KG (Half-Middleweight),Gold
+2000,Sydney,Judo,Judo,"LI, Shufang",CHN,Women,57 - 63KG (Half-Middleweight),Silver
+2000,Sydney,Judo,Judo,"GIOVINAZZO, Girolamo",ITA,Men,60 - 66KG (Half-Lightweight),Bronze
+2000,Sydney,Judo,Judo,"VAZAGASHVILI, Giorgi",GEO,Men,60 - 66KG (Half-Lightweight),Bronze
+2000,Sydney,Judo,Judo,"OZKAN, Huseyin",TUR,Men,60 - 66KG (Half-Lightweight),Gold
+2000,Sydney,Judo,Judo,"BENBOUDAOUD, Larbi",FRA,Men,60 - 66KG (Half-Lightweight),Silver
+2000,Sydney,Judo,Judo,"CHO, Min-Sun",KOR,Women,63 - 70KG (Middleweight),Bronze
+2000,Sydney,Judo,Judo,"SCAPIN, Ylenia",ITA,Women,63 - 70KG (Middleweight),Bronze
+2000,Sydney,Judo,Judo,"VERANES, Sibelis",CUB,Women,63 - 70KG (Middleweight),Gold
+2000,Sydney,Judo,Judo,"HOWEY, Kate",GBR,Women,63 - 70KG (Middleweight),Silver
+2000,Sydney,Judo,Judo,"LARYUKOV, Anatoly",BLR,Men,66 - 73KG (Lightweight),Bronze
+2000,Sydney,Judo,Judo,"ZELONIJS, Vsevolods",LAT,Men,66 - 73KG (Lightweight),Bronze
+2000,Sydney,Judo,Judo,"MADDALONI, Giuseppe",ITA,Men,66 - 73KG (Lightweight),Gold
+2000,Sydney,Judo,Judo,"CAMILO, Tiago",BRA,Men,66 - 73KG (Lightweight),Silver
+2000,Sydney,Judo,Judo,"PIERANTOZZI, Emanuela",ITA,Women,70 - 78KG (Half-Heavyweight),Bronze
+2000,Sydney,Judo,Judo,"RICHTER, Simona Marcela",ROU,Women,70 - 78KG (Half-Heavyweight),Bronze
+2000,Sydney,Judo,Judo,"TANG, Lin",CHN,Women,70 - 78KG (Half-Heavyweight),Gold
+2000,Sydney,Judo,Judo,"LEBRUN, Celine",FRA,Women,70 - 78KG (Half-Heavyweight),Silver
+2000,Sydney,Judo,Judo,"BUDOLIN, Aleksei",EST,Men,73 - 81KG (Half-Middleweight),Bronze
+2000,Sydney,Judo,Judo,"DELGADO, Nuno",POR,Men,73 - 81KG (Half-Middleweight),Bronze
+2000,Sydney,Judo,Judo,"TAKIMOTO, Makoto",JPN,Men,73 - 81KG (Half-Middleweight),Gold
+2000,Sydney,Judo,Judo,"CHO, In-Chul",KOR,Men,73 - 81KG (Half-Middleweight),Silver
+2000,Sydney,Judo,Judo,"DEMONTFAUCON, Frederic",FRA,Men,81 - 90KG (Middleweight),Bronze
+2000,Sydney,Judo,Judo,"MASHURENKO, Ruslan",UKR,Men,81 - 90KG (Middleweight),Bronze
+2000,Sydney,Judo,Judo,"HUIZINGA, Mark",NED,Men,81 - 90KG (Middleweight),Gold
+2000,Sydney,Judo,Judo,"HONORATO, Carlos",BRA,Men,81 - 90KG (Middleweight),Silver
+2000,Sydney,Judo,Judo,"STEPKINE, Iouri",RUS,Men,90 - 100KG (Half-Heavyweight),Bronze
+2000,Sydney,Judo,Judo,"TRAINEAU, Stephane",FRA,Men,90 - 100KG (Half-Heavyweight),Bronze
+2000,Sydney,Judo,Judo,"INOUE, Kosei",JPN,Men,90 - 100KG (Half-Heavyweight),Gold
+2000,Sydney,Judo,Judo,"GILL, Nicolas",CAN,Men,90 - 100KG (Half-Heavyweight),Silver
+2000,Sydney,Modern Pentathlon,Modern Pentath.,"DOVGAL, Pavel",BLR,Men,Individual Competition,Bronze
+2000,Sydney,Modern Pentathlon,Modern Pentath.,"SVATKOVSKIY, Dmitri",RUS,Men,Individual Competition,Gold
+2000,Sydney,Modern Pentathlon,Modern Pentath.,"BALOGH, Gabor",HUN,Men,Individual Competition,Silver
+2000,Sydney,Modern Pentathlon,Modern Pentath.,"ALLENBY, Kate",GBR,Women,Individual Competition,Bronze
+2000,Sydney,Modern Pentathlon,Modern Pentath.,"COOK, Stephanie",GBR,Women,Individual Competition,Gold
+2000,Sydney,Modern Pentathlon,Modern Pentath.,"DE RIEL, Emily",USA,Women,Individual Competition,Silver
+2000,Sydney,Rowing,Rowing,"LONG, Matthew",AUS,Men,Coxless Pair (2-),Bronze
+2000,Sydney,Rowing,Rowing,"TOMKINS, James",AUS,Men,Coxless Pair (2-),Bronze
+2000,Sydney,Rowing,Rowing,"ANDRIEUX, Michel",FRA,Men,Coxless Pair (2-),Gold
+2000,Sydney,Rowing,Rowing,"ROLLAND, Jean Christophe",FRA,Men,Coxless Pair (2-),Gold
+2000,Sydney,Rowing,Rowing,"BEA, Sebastian",USA,Men,Coxless Pair (2-),Silver
+2000,Sydney,Rowing,Rowing,"MURPHY, Edward",USA,Men,Coxless Pair (2-),Silver
+2000,Sydney,Rowing,Rowing,"CALABRESE, Giovanni",ITA,Men,Double Sculls (2X),Bronze
+2000,Sydney,Rowing,Rowing,"SARTORI, Nicola",ITA,Men,Double Sculls (2X),Bronze
+2000,Sydney,Rowing,Rowing,"COP, Iztok",SLO,Men,Double Sculls (2X),Gold
+2000,Sydney,Rowing,Rowing,"SPIK, Luka",SLO,Men,Double Sculls (2X),Gold
+2000,Sydney,Rowing,Rowing,"BEKKEN, Fredrik",NOR,Men,Double Sculls (2X),Silver
+2000,Sydney,Rowing,Rowing,"TUFTE, Olaf",NOR,Men,Double Sculls (2X),Silver
+2000,Sydney,Rowing,Rowing,"POPLAVSKAJA, Kristina",LTU,Women,Double Sculls (2X),Bronze
+2000,Sydney,Rowing,Rowing,"SAKICKIENE, Birute",LTU,Women,Double Sculls (2X),Bronze
+2000,Sydney,Rowing,Rowing,"BORON, Kathrin",GER,Women,Double Sculls (2X),Gold
+2000,Sydney,Rowing,Rowing,"THIEME, Jana",GER,Women,Double Sculls (2X),Gold
+2000,Sydney,Rowing,Rowing,"VAN DISHOECK, Pieta",NED,Women,Double Sculls (2X),Silver
+2000,Sydney,Rowing,Rowing,"VAN NES, Eeke",NED,Women,Double Sculls (2X),Silver
+2000,Sydney,Rowing,Rowing,"BORASKA, Igor",CRO,Men,Eight With Coxswain (8+),Bronze
+2000,Sydney,Rowing,Rowing,"CULJAK, Kresimir",CRO,Men,Eight With Coxswain (8+),Bronze
+2000,Sydney,Rowing,Rowing,"FRANCETIC, Igor",CRO,Men,Eight With Coxswain (8+),Bronze
+2000,Sydney,Rowing,Rowing,"FRANKOVIC, Tihomir",CRO,Men,Eight With Coxswain (8+),Bronze
+2000,Sydney,Rowing,Rowing,"PETRISKO, Silvijo",CRO,Men,Eight With Coxswain (8+),Bronze
+2000,Sydney,Rowing,Rowing,"SKELIN, Niksa",CRO,Men,Eight With Coxswain (8+),Bronze
+2000,Sydney,Rowing,Rowing,"SKELIN, Sinisa",CRO,Men,Eight With Coxswain (8+),Bronze
+2000,Sydney,Rowing,Rowing,"SMOLJANOVIC, Tomislav",CRO,Men,Eight With Coxswain (8+),Bronze
+2000,Sydney,Rowing,Rowing,"VUJEVIC, Branimir",CRO,Men,Eight With Coxswain (8+),Bronze
+2000,Sydney,Rowing,Rowing,"ATTRILL, Louis",GBR,Men,Eight With Coxswain (8+),Gold
+2000,Sydney,Rowing,Rowing,"DENNIS, Simon",GBR,Men,Eight With Coxswain (8+),Gold
+2000,Sydney,Rowing,Rowing,"DOUGLAS, Rowley",GBR,Men,Eight With Coxswain (8+),Gold
+2000,Sydney,Rowing,Rowing,"GRUBOR, Luka",GBR,Men,Eight With Coxswain (8+),Gold
+2000,Sydney,Rowing,Rowing,"HUNT-DAVIS, Ben",GBR,Men,Eight With Coxswain (8+),Gold
+2000,Sydney,Rowing,Rowing,"LINDSAY, Andrew",GBR,Men,Eight With Coxswain (8+),Gold
+2000,Sydney,Rowing,Rowing,"SCARLETT, Fred",GBR,Men,Eight With Coxswain (8+),Gold
+2000,Sydney,Rowing,Rowing,"TRAPMORE, Steve",GBR,Men,Eight With Coxswain (8+),Gold
+2000,Sydney,Rowing,Rowing,"WEST, Kieran",GBR,Men,Eight With Coxswain (8+),Gold
+2000,Sydney,Rowing,Rowing,"BURKE, Daniel",AUS,Men,Eight With Coxswain (8+),Silver
+2000,Sydney,Rowing,Rowing,"FERNANDEZ, Jaime",AUS,Men,Eight With Coxswain (8+),Silver
+2000,Sydney,Rowing,Rowing,"GORDON, Alastair",AUS,Men,Eight With Coxswain (8+),Silver
+2000,Sydney,Rowing,Rowing,"HAYMAN, Brett",AUS,Men,Eight With Coxswain (8+),Silver
+2000,Sydney,Rowing,Rowing,"JAHRLING, Rob",AUS,Men,Eight With Coxswain (8+),Silver
+2000,Sydney,Rowing,Rowing,"MCKAY, Mike",AUS,Men,Eight With Coxswain (8+),Silver
+2000,Sydney,Rowing,Rowing,"PORZIG, Nicholas",AUS,Men,Eight With Coxswain (8+),Silver
+2000,Sydney,Rowing,Rowing,"RYAN, Christian",AUS,Men,Eight With Coxswain (8+),Silver
+2000,Sydney,Rowing,Rowing,"WELCH, Stuart",AUS,Men,Eight With Coxswain (8+),Silver
+2000,Sydney,Rowing,Rowing,"ALEXANDER, Buffy",CAN,Women,Eight With Coxswain (8+),Bronze
+2000,Sydney,Rowing,Rowing,"BIESENTHAL, Laryssa",CAN,Women,Eight With Coxswain (8+),Bronze
+2000,Sydney,Rowing,Rowing,"DAVIS, Heather",CAN,Women,Eight With Coxswain (8+),Bronze
+2000,Sydney,Rowing,Rowing,"KORN, Alison",CAN,Women,Eight With Coxswain (8+),Bronze
+2000,Sydney,Rowing,Rowing,"LUKE, Theresa",CAN,Women,Eight With Coxswain (8+),Bronze
+2000,Sydney,Rowing,Rowing,"MCDERMID, Heather",CAN,Women,Eight With Coxswain (8+),Bronze
+2000,Sydney,Rowing,Rowing,"ROBINSON, Emma",CAN,Women,Eight With Coxswain (8+),Bronze
+2000,Sydney,Rowing,Rowing,"THOMPSON, Lesley Allison",CAN,Women,Eight With Coxswain (8+),Bronze
+2000,Sydney,Rowing,Rowing,"URBANIAK, Dorota",CAN,Women,Eight With Coxswain (8+),Bronze
+2000,Sydney,Rowing,Rowing,"ANDRUNACHE, Georgeta",ROU,Women,Eight With Coxswain (8+),Gold
+2000,Sydney,Rowing,Rowing,"COCHELEA, Veronica",ROU,Women,Eight With Coxswain (8+),Gold
+2000,Sydney,Rowing,Rowing,"DUMITRACHE, Maria Magdalena",ROU,Women,Eight With Coxswain (8+),Gold
+2000,Sydney,Rowing,Rowing,"GAFENCU, Liliana",ROU,Women,Eight With Coxswain (8+),Gold
+2000,Sydney,Rowing,Rowing,"GEORGESCU, Elena",ROU,Women,Eight With Coxswain (8+),Gold
+2000,Sydney,Rowing,Rowing,"IGNAT, Doina",ROU,Women,Eight With Coxswain (8+),Gold
+2000,Sydney,Rowing,Rowing,"LIPA, Elisabeta",ROU,Women,Eight With Coxswain (8+),Gold
+2000,Sydney,Rowing,Rowing,"OLTEANU, Ioana",ROU,Women,Eight With Coxswain (8+),Gold
+2000,Sydney,Rowing,Rowing,"SUSANU, Viorica",ROU,Women,Eight With Coxswain (8+),Gold
+2000,Sydney,Rowing,Rowing,"APPELDOORN, Tessa",NED,Women,Eight With Coxswain (8+),Silver
+2000,Sydney,Rowing,Rowing,"BEEK TER, Carin",NED,Women,Eight With Coxswain (8+),Silver
+2000,Sydney,Rowing,Rowing,"MEIJER, Elien",NED,Women,Eight With Coxswain (8+),Silver
+2000,Sydney,Rowing,Rowing,"PENNINX, Nelleke",NED,Women,Eight With Coxswain (8+),Silver
+2000,Sydney,Rowing,Rowing,"QUIK, Martijntje",NED,Women,Eight With Coxswain (8+),Silver
+2000,Sydney,Rowing,Rowing,"VAN DISHOECK, Pieta",NED,Women,Eight With Coxswain (8+),Silver
+2000,Sydney,Rowing,Rowing,"VAN NES, Eeke",NED,Women,Eight With Coxswain (8+),Silver
+2000,Sydney,Rowing,Rowing,"VENEMA, Anneke",NED,Women,Eight With Coxswain (8+),Silver
+2000,Sydney,Rowing,Rowing,"WESTERHOF, Marieke",NED,Women,Eight With Coxswain (8+),Silver
+2000,Sydney,Rowing,Rowing,"DODWELL, Ben Philip",AUS,Men,Four Without Coxswain (4-),Bronze
+2000,Sydney,Rowing,Rowing,"HANSON, Boden Joseph",AUS,Men,Four Without Coxswain (4-),Bronze
+2000,Sydney,Rowing,Rowing,"STEWART, Geoff",AUS,Men,Four Without Coxswain (4-),Bronze
+2000,Sydney,Rowing,Rowing,"STEWART, James",AUS,Men,Four Without Coxswain (4-),Bronze
+2000,Sydney,Rowing,Rowing,"CRACKNELL, James",GBR,Men,Four Without Coxswain (4-),Gold
+2000,Sydney,Rowing,Rowing,"FOSTER, Tim James",GBR,Men,Four Without Coxswain (4-),Gold
+2000,Sydney,Rowing,Rowing,"PINSENT, Matthew",GBR,Men,Four Without Coxswain (4-),Gold
+2000,Sydney,Rowing,Rowing,"REDGRAVE, Steven",GBR,Men,Four Without Coxswain (4-),Gold
+2000,Sydney,Rowing,Rowing,"CARBONCINI, Lorenzo",ITA,Men,Four Without Coxswain (4-),Silver
+2000,Sydney,Rowing,Rowing,"DEI ROSSI, Riccardo",ITA,Men,Four Without Coxswain (4-),Silver
+2000,Sydney,Rowing,Rowing,"MOLEA, Walter",ITA,Men,Four Without Coxswain (4-),Silver
+2000,Sydney,Rowing,Rowing,"MORNATI, Carlo",ITA,Men,Four Without Coxswain (4-),Silver
+2000,Sydney,Rowing,Rowing,"EBBESEN, Eskild Balschmidt",DEN,Men,Lightweight Coxless Four (4-),Bronze
+2000,Sydney,Rowing,Rowing,"EBERT, Thomas",DEN,Men,Lightweight Coxless Four (4-),Bronze
+2000,Sydney,Rowing,Rowing,"FEDDERSEN, Victor",DEN,Men,Lightweight Coxless Four (4-),Bronze
+2000,Sydney,Rowing,Rowing,"MADSEN, Soren",DEN,Men,Lightweight Coxless Four (4-),Bronze
+2000,Sydney,Rowing,Rowing,"BETTE, Jean-Christophe",FRA,Men,Lightweight Coxless Four (4-),Gold
+2000,Sydney,Rowing,Rowing,"DORFMANN, Xavier",FRA,Men,Lightweight Coxless Four (4-),Gold
+2000,Sydney,Rowing,Rowing,"HOCDE, Yves",FRA,Men,Lightweight Coxless Four (4-),Gold
+2000,Sydney,Rowing,Rowing,"PORCHIER, Laurent",FRA,Men,Lightweight Coxless Four (4-),Gold
+2000,Sydney,Rowing,Rowing,"BALMFORTH, Darren",AUS,Men,Lightweight Coxless Four (4-),Silver
+2000,Sydney,Rowing,Rowing,"BURGESS, Simon",AUS,Men,Lightweight Coxless Four (4-),Silver
+2000,Sydney,Rowing,Rowing,"EDWARDS, Anthony",AUS,Men,Lightweight Coxless Four (4-),Silver
+2000,Sydney,Rowing,Rowing,"RICHARDS, Robert",AUS,Men,Lightweight Coxless Four (4-),Silver
+2000,Sydney,Rowing,Rowing,"CHAPELLE, Thibaud",FRA,Men,Lightweight Double Sculls (2X),Bronze
+2000,Sydney,Rowing,Rowing,"TOURON, Pascal",FRA,Men,Lightweight Double Sculls (2X),Bronze
+2000,Sydney,Rowing,Rowing,"KUCHARSKI, Tomasz",POL,Men,Lightweight Double Sculls (2X),Gold
+2000,Sydney,Rowing,Rowing,"SYCZ, Robert",POL,Men,Lightweight Double Sculls (2X),Gold
+2000,Sydney,Rowing,Rowing,"LUINI, Elia",ITA,Men,Lightweight Double Sculls (2X),Silver
+2000,Sydney,Rowing,Rowing,"PETTINARI, Leonardo",ITA,Men,Lightweight Double Sculls (2X),Silver
+2000,Sydney,Rowing,Rowing,"COLLINS, Christine",USA,Women,Lightweight Double Sculls (2X),Bronze
+2000,Sydney,Rowing,Rowing,"GARNER, Sarah",USA,Women,Lightweight Double Sculls (2X),Bronze
+2000,Sydney,Rowing,Rowing,"ALUPEI, Angela",ROU,Women,Lightweight Double Sculls (2X),Gold
+2000,Sydney,Rowing,Rowing,"BURCICA, Constanta",ROU,Women,Lightweight Double Sculls (2X),Gold
+2000,Sydney,Rowing,Rowing,"BLASBERG, Claudia",GER,Women,Lightweight Double Sculls (2X),Silver
+2000,Sydney,Rowing,Rowing,"VIEHOFF, Valerie",GER,Women,Lightweight Double Sculls (2X),Silver
+2000,Sydney,Rowing,Rowing,"KRAFT, Karen",USA,Women,Pair Without Coxswain (2-),Bronze
+2000,Sydney,Rowing,Rowing,"RYAN, Melissa",USA,Women,Pair Without Coxswain (2-),Bronze
+2000,Sydney,Rowing,Rowing,"ANDRUNACHE, Georgeta",ROU,Women,Pair Without Coxswain (2-),Gold
+2000,Sydney,Rowing,Rowing,"IGNAT, Doina",ROU,Women,Pair Without Coxswain (2-),Gold
+2000,Sydney,Rowing,Rowing,"SLATTER, Kate Elizabeth",AUS,Women,Pair Without Coxswain (2-),Silver
+2000,Sydney,Rowing,Rowing,"TAYLOR, Rachael",AUS,Women,Pair Without Coxswain (2-),Silver
+2000,Sydney,Rowing,Rowing,"GEISLER, Marco",GER,Men,Quadruple Sculls Without Coxswain (4X),Bronze
+2000,Sydney,Rowing,Rowing,"HAJEK, Andreas",GER,Men,Quadruple Sculls Without Coxswain (4X),Bronze
+2000,Sydney,Rowing,Rowing,"VOLKERT, Stephan",GER,Men,Quadruple Sculls Without Coxswain (4X),Bronze
+2000,Sydney,Rowing,Rowing,"WILLMS, Andre",GER,Men,Quadruple Sculls Without Coxswain (4X),Bronze
+2000,Sydney,Rowing,Rowing,"ABBAGNALE, Agostino",ITA,Men,Quadruple Sculls Without Coxswain (4X),Gold
+2000,Sydney,Rowing,Rowing,"GALTAROSSA, Rossano",ITA,Men,Quadruple Sculls Without Coxswain (4X),Gold
+2000,Sydney,Rowing,Rowing,"RAINERI, Simone",ITA,Men,Quadruple Sculls Without Coxswain (4X),Gold
+2000,Sydney,Rowing,Rowing,"SARTORI, Alessio",ITA,Men,Quadruple Sculls Without Coxswain (4X),Gold
+2000,Sydney,Rowing,Rowing,"BARTMAN, Michiel",NED,Men,Quadruple Sculls Without Coxswain (4X),Silver
+2000,Sydney,Rowing,Rowing,"LIPPITS, Dirk",NED,Men,Quadruple Sculls Without Coxswain (4X),Silver
+2000,Sydney,Rowing,Rowing,"SIMON, Diederik",NED,Men,Quadruple Sculls Without Coxswain (4X),Silver
+2000,Sydney,Rowing,Rowing,"VERBERNE, Jochem",NED,Men,Quadruple Sculls Without Coxswain (4X),Silver
+2000,Sydney,Rowing,Rowing,"DORODNOVA, Oxana",RUS,Women,Quadruple Sculls Without Coxswain (4X),Bronze
+2000,Sydney,Rowing,Rowing,"FEDOTOVA, Irina",RUS,Women,Quadruple Sculls Without Coxswain (4X),Bronze
+2000,Sydney,Rowing,Rowing,"LEVINA, Yulia",RUS,Women,Quadruple Sculls Without Coxswain (4X),Bronze
+2000,Sydney,Rowing,Rowing,"MERK, Larisa",RUS,Women,Quadruple Sculls Without Coxswain (4X),Bronze
+2000,Sydney,Rowing,Rowing,"EVERS, Meike",GER,Women,Quadruple Sculls Without Coxswain (4X),Gold
+2000,Sydney,Rowing,Rowing,"KOWALSKI, Kerstin",GER,Women,Quadruple Sculls Without Coxswain (4X),Gold
+2000,Sydney,Rowing,Rowing,"KOWALSKI, Manja",GER,Women,Quadruple Sculls Without Coxswain (4X),Gold
+2000,Sydney,Rowing,Rowing,"LUTZE, Manuela",GER,Women,Quadruple Sculls Without Coxswain (4X),Gold
+2000,Sydney,Rowing,Rowing,"BATTEN, Guin",GBR,Women,Quadruple Sculls Without Coxswain (4X),Silver
+2000,Sydney,Rowing,Rowing,"BATTEN, Miriam",GBR,Women,Quadruple Sculls Without Coxswain (4X),Silver
+2000,Sydney,Rowing,Rowing,"GRAINGER, Katherine",GBR,Women,Quadruple Sculls Without Coxswain (4X),Silver
+2000,Sydney,Rowing,Rowing,"LINDSAY, Gillian Anne",GBR,Women,Quadruple Sculls Without Coxswain (4X),Silver
+2000,Sydney,Rowing,Rowing,"HACKER, Marcel",GER,Men,Single Sculls (1X),Bronze
+2000,Sydney,Rowing,Rowing,"WADDELL, Rob",NZL,Men,Single Sculls (1X),Gold
+2000,Sydney,Rowing,Rowing,"MUELLER, Xeno",SUI,Men,Single Sculls (1X),Silver
+2000,Sydney,Rowing,Rowing,"RUTSCHOW, Katrin",GER,Women,Single Sculls (1X),Bronze
+2000,Sydney,Rowing,Rowing,"KARSTEN, Ekaterina",BLR,Women,Single Sculls (1X),Gold
+2000,Sydney,Rowing,Rowing,"NEYKOVA, Rumyana",BUL,Women,Single Sculls (1X),Silver
+2000,Sydney,Sailing,Sailing,"CONTE, Javier",ARG,Men,470 - Two Person Dinghy,Bronze
+2000,Sydney,Sailing,Sailing,"DE LA FUENTE, Juan",ARG,Men,470 - Two Person Dinghy,Bronze
+2000,Sydney,Sailing,Sailing,"KING, Tom",AUS,Men,470 - Two Person Dinghy,Gold
+2000,Sydney,Sailing,Sailing,"TURNBULL, Mark",AUS,Men,470 - Two Person Dinghy,Gold
+2000,Sydney,Sailing,Sailing,"FOERSTER, Paul",USA,Men,470 - Two Person Dinghy,Silver
+2000,Sydney,Sailing,Sailing,"MERRICK, Robert",USA,Men,470 - Two Person Dinghy,Silver
+2000,Sydney,Sailing,Sailing,"PAKHOLCHIK, Olena",UKR,Women,470 - Two Person Dinghy,Bronze
+2000,Sydney,Sailing,Sailing,"TARAN, Ruslana",UKR,Women,470 - Two Person Dinghy,Bronze
+2000,Sydney,Sailing,Sailing,"ARMSTRONG, Jenny",AUS,Women,470 - Two Person Dinghy,Gold
+2000,Sydney,Sailing,Sailing,"STOWELL, Belinda",AUS,Women,470 - Two Person Dinghy,Gold
+2000,Sydney,Sailing,Sailing,"GLASER, Sarah",USA,Women,470 - Two Person Dinghy,Silver
+2000,Sydney,Sailing,Sailing,"ISLER, Jennifer",USA,Women,470 - Two Person Dinghy,Silver
+2000,Sydney,Sailing,Sailing,"MCKEE, Charles",USA,Men,49Er - Skiff,Bronze
+2000,Sydney,Sailing,Sailing,"MCKEE, Jonathan Dunn",USA,Men,49Er - Skiff,Bronze
+2000,Sydney,Sailing,Sailing,"JARVI, Jyrki",FIN,Men,49Er - Skiff,Gold
+2000,Sydney,Sailing,Sailing,"JOHANSON, Thomas",FIN,Men,49Er - Skiff,Gold
+2000,Sydney,Sailing,Sailing,"BARKER, Ian",GBR,Men,49Er - Skiff,Silver
+2000,Sydney,Sailing,Sailing,"HISCOCKS, Simon",GBR,Men,49Er - Skiff,Silver
+2000,Sydney,Sailing,Sailing,"MCINTOSH, Aaron",NZL,Men,Board (Mistral),Bronze
+2000,Sydney,Sailing,Sailing,"SIEBER, Christoph",AUT,Men,Board (Mistral),Gold
+2000,Sydney,Sailing,Sailing,"ESPINOLA, Carlos",ARG,Men,Board (Mistral),Silver
+2000,Sydney,Sailing,Sailing,"KENDALL, Barbara",NZL,Women,Board (Mistral),Bronze
+2000,Sydney,Sailing,Sailing,"SENSINI, Alessandra",ITA,Women,Board (Mistral),Gold
+2000,Sydney,Sailing,Sailing,"LUX, Amelie",GER,Women,Board (Mistral),Silver
+2000,Sydney,Sailing,Sailing,"DAVIS, Paul",NOR,Men,Fleet/Match Race Keelboat Open (Soling),Bronze
+2000,Sydney,Sailing,Sailing,"JOHANNESSEN, Herman Horn",NOR,Men,Fleet/Match Race Keelboat Open (Soling),Bronze
+2000,Sydney,Sailing,Sailing,"STOKKELAND, Espen",NOR,Men,Fleet/Match Race Keelboat Open (Soling),Bronze
+2000,Sydney,Sailing,Sailing,"BANK, Jesper",DEN,Men,Fleet/Match Race Keelboat Open (Soling),Gold
+2000,Sydney,Sailing,Sailing,"BLAKSKJAER, Henrik",DEN,Men,Fleet/Match Race Keelboat Open (Soling),Gold
+2000,Sydney,Sailing,Sailing,"JACOBSEN, Thomas",DEN,Men,Fleet/Match Race Keelboat Open (Soling),Gold
+2000,Sydney,Sailing,Sailing,"BAHR, Gunnar",GER,Men,Fleet/Match Race Keelboat Open (Soling),Silver
+2000,Sydney,Sailing,Sailing,"BORKOWSKI, Ingo",GER,Men,Fleet/Match Race Keelboat Open (Soling),Silver
+2000,Sydney,Sailing,Sailing,"SCHÜMANN, Jochen",GER,Men,Fleet/Match Race Keelboat Open (Soling),Silver
+2000,Sydney,Sailing,Sailing,"AMATO, Serena",ARG,Women,Single-Handed Dinghy (Europe),Bronze
+2000,Sydney,Sailing,Sailing,"ROBERTSON, Shirley",GBR,Women,Single-Handed Dinghy (Europe),Gold
+2000,Sydney,Sailing,Sailing,"MATTHIJSSE, Margriet",NED,Women,Single-Handed Dinghy (Europe),Silver
+2000,Sydney,Sailing,Sailing,"LOOF, Fredrik",SWE,Men,Single-Handed Dinghy (Finn),Bronze
+2000,Sydney,Sailing,Sailing,"PERCY, Iain",GBR,Men,Single-Handed Dinghy (Finn),Gold
+2000,Sydney,Sailing,Sailing,"DEVOTI, Luca",ITA,Men,Single-Handed Dinghy (Finn),Silver
+2000,Sydney,Sailing,Sailing,"BLACKBURN, Michael",AUS,Men,Single-Handed Dinghy Open (Laser),Bronze
+2000,Sydney,Sailing,Sailing,"AINSLIE, Ben",GBR,Men,Single-Handed Dinghy Open (Laser),Gold
+2000,Sydney,Sailing,Sailing,"SCHEIDT, Robert",BRA,Men,Single-Handed Dinghy Open (Laser),Silver
+2000,Sydney,Sailing,Sailing,"GAEBLER, Roland",GER,Men,Tornado - Multihull,Bronze
+2000,Sydney,Sailing,Sailing,"SCHWALL, Rene",GER,Men,Tornado - Multihull,Bronze
+2000,Sydney,Sailing,Sailing,"HAGARA, Roman",AUT,Men,Tornado - Multihull,Gold
+2000,Sydney,Sailing,Sailing,"STEINACHER, Hans Peter",AUT,Men,Tornado - Multihull,Gold
+2000,Sydney,Sailing,Sailing,"BUNDOCK, Darren",AUS,Men,Tornado - Multihull,Silver
+2000,Sydney,Sailing,Sailing,"FORBES, John",AUS,Men,Tornado - Multihull,Silver
+2000,Sydney,Sailing,Sailing,"FERREIRA, Marcelo",BRA,Men,Two-Person Keelboat Open (Star),Bronze
+2000,Sydney,Sailing,Sailing,"GRAEL, Torben",BRA,Men,Two-Person Keelboat Open (Star),Bronze
+2000,Sydney,Sailing,Sailing,"LILJEDAHL, Magnus",USA,Men,Two-Person Keelboat Open (Star),Gold
+2000,Sydney,Sailing,Sailing,"REYNOLDS, Mark Jeffrey",USA,Men,Two-Person Keelboat Open (Star),Gold
+2000,Sydney,Sailing,Sailing,"COVELL, Mark",GBR,Men,Two-Person Keelboat Open (Star),Silver
+2000,Sydney,Sailing,Sailing,"WALKER, Ian",GBR,Men,Two-Person Keelboat Open (Star),Silver
+2000,Sydney,Shooting,Shooting,"FORDER, Annemarie",AUS,Women,10M Air Pistol (40 Shots),Bronze
+2000,Sydney,Shooting,Shooting,"TAO, Luna",CHN,Women,10M Air Pistol (40 Shots),Gold
+2000,Sydney,Shooting,Shooting,"SEKARIC, Jasna",YUG,Women,10M Air Pistol (40 Shots),Silver
+2000,Sydney,Shooting,Shooting,"BASINSKI, Igor",BLR,Men,10M Air Pistol (60 Shots),Bronze
+2000,Sydney,Shooting,Shooting,"DUMOULIN, Franck",FRA,Men,10M Air Pistol (60 Shots),Gold
+2000,Sydney,Shooting,Shooting,"WANG, Yifu",CHN,Men,10M Air Pistol (60 Shots),Silver
+2000,Sydney,Shooting,Shooting,"GAO, Jing",CHN,Women,10M Air Rifle (40 Shots),Bronze
+2000,Sydney,Shooting,Shooting,"JOHNSON, Nancy",USA,Women,10M Air Rifle (40 Shots),Gold
+2000,Sydney,Shooting,Shooting,"KANG, Cho-Hyun",KOR,Women,10M Air Rifle (40 Shots),Silver
+2000,Sydney,Shooting,Shooting,"ALEINIKOV, Evgeni",RUS,Men,10M Air Rifle (60 Shots),Bronze
+2000,Sydney,Shooting,Shooting,"CAI, Yalin",CHN,Men,10M Air Rifle (60 Shots),Gold
+2000,Sydney,Shooting,Shooting,"KHADJIBEKOV, Artem",RUS,Men,10M Air Rifle (60 Shots),Silver
+2000,Sydney,Shooting,Shooting,"NIU, Zhiyuan",CHN,Men,10M Running Target (30+30 Shots),Bronze
+2000,Sydney,Shooting,Shooting,"YANG, Ling",CHN,Men,10M Running Target (30+30 Shots),Gold
+2000,Sydney,Shooting,Shooting,"MOLDOVAN, Oleg",MDA,Men,10M Running Target (30+30 Shots),Silver
+2000,Sydney,Shooting,Shooting,"EVGLEVSKAYA, Lolita",BLR,Women,25M Pistol (30+30 Shots),Bronze
+2000,Sydney,Shooting,Shooting,"GROZDEVA, Maria",BUL,Women,25M Pistol (30+30 Shots),Gold
+2000,Sydney,Shooting,Shooting,"TAO, Luna",CHN,Women,25M Pistol (30+30 Shots),Silver
+2000,Sydney,Shooting,Shooting,"RAICEA, Iulian",ROU,Men,25M Rapid Fire Pistol (60 Shots),Bronze
+2000,Sydney,Shooting,Shooting,"ALIFIRENKO, Sergei",RUS,Men,25M Rapid Fire Pistol (60 Shots),Gold
+2000,Sydney,Shooting,Shooting,"ANSERMET, Michel",SUI,Men,25M Rapid Fire Pistol (60 Shots),Silver
+2000,Sydney,Shooting,Shooting,"TENK, Martin",CZE,Men,50M Pistol (60 Shots),Bronze
+2000,Sydney,Shooting,Shooting,"KIRIAKOV, Tanyu",BUL,Men,50M Pistol (60 Shots),Gold
+2000,Sydney,Shooting,Shooting,"BASINSKI, Igor",BLR,Men,50M Pistol (60 Shots),Silver
+2000,Sydney,Shooting,Shooting,"FEKLISTOVA, Maria",RUS,Women,50M Rifle 3 Positions (3X20 Shots),Bronze
+2000,Sydney,Shooting,Shooting,"MAUER, Renata",POL,Women,50M Rifle 3 Positions (3X20 Shots),Gold
+2000,Sydney,Shooting,Shooting,"GOLDOBINA, Tatiana",RUS,Women,50M Rifle 3 Positions (3X20 Shots),Silver
+2000,Sydney,Shooting,Shooting,"STENVAAG, Harald",NOR,Men,50M Rifle 3 Positions (3X40 Shots),Bronze
+2000,Sydney,Shooting,Shooting,"DEBEVEC, Rajmond",SLO,Men,50M Rifle 3 Positions (3X40 Shots),Gold
+2000,Sydney,Shooting,Shooting,"HIRVI, Juha",FIN,Men,50M Rifle 3 Positions (3X40 Shots),Silver
+2000,Sydney,Shooting,Shooting,"MARTYNOV, Sergei",BLR,Men,50M Rifle Prone (60 Shots),Bronze
+2000,Sydney,Shooting,Shooting,"EDMAN, Jonas",SWE,Men,50M Rifle Prone (60 Shots),Gold
+2000,Sydney,Shooting,Shooting,"GRIMMEL, Torben",DEN,Men,50M Rifle Prone (60 Shots),Silver
+2000,Sydney,Shooting,Shooting,"RHODE, Kimberly",USA,Women,Double Trap (120 Targets),Bronze
+2000,Sydney,Shooting,Shooting,"HANSEN, Pia",SWE,Women,Double Trap (120 Targets),Gold
+2000,Sydney,Shooting,Shooting,"GELISIO, Deborah",ITA,Women,Double Trap (120 Targets),Silver
+2000,Sydney,Shooting,Shooting,"ALDEEHANI, Fehaid",KUW,Men,Double Trap (150 Targets),Bronze
+2000,Sydney,Shooting,Shooting,"FAULDS, Richard",GBR,Men,Double Trap (150 Targets),Gold
+2000,Sydney,Shooting,Shooting,"MARK, Russell",AUS,Men,Double Trap (150 Targets),Silver
+2000,Sydney,Shooting,Shooting,"GRAVES, James",USA,Men,Skeet (125 Targets),Bronze
+2000,Sydney,Shooting,Shooting,"MILCHEV, Mykola",UKR,Men,Skeet (125 Targets),Gold
+2000,Sydney,Shooting,Shooting,"MALEK, Petr",CZE,Men,Skeet (125 Targets),Silver
+2000,Sydney,Shooting,Shooting,"IGALY, Diana",HUN,Women,Skeet (75 Targets),Bronze
+2000,Sydney,Shooting,Shooting,"MEFTAKHETDINOVA, Zemfira",AZE,Women,Skeet (75 Targets),Gold
+2000,Sydney,Shooting,Shooting,"DEMINA, Svetlana",RUS,Women,Skeet (75 Targets),Silver
+2000,Sydney,Shooting,Shooting,"PELLIELO, Giovanni",ITA,Men,Trap (125 Targets),Bronze
+2000,Sydney,Shooting,Shooting,"DIAMOND, Michael",AUS,Men,Trap (125 Targets),Gold
+2000,Sydney,Shooting,Shooting,"PEEL, Ian",GBR,Men,Trap (125 Targets),Silver
+2000,Sydney,Shooting,Shooting,"GAO, E",CHN,Women,Trap (75 Targets),Bronze
+2000,Sydney,Shooting,Shooting,"GUDZINEVICIUTE, Daina",LTU,Women,Trap (75 Targets),Gold
+2000,Sydney,Shooting,Shooting,"RACINET, Delphine",FRA,Women,Trap (75 Targets),Silver
+2000,Sydney,Softball,Softball,"ALLEN, Sandra",AUS,Women,Softball,Bronze
+2000,Sydney,Softball,Softball,"BROWN, Joanne",AUS,Women,Softball,Bronze
+2000,Sydney,Softball,Softball,"DIENELT, Kerry",AUS,Women,Softball,Bronze
+2000,Sydney,Softball,Softball,"EDEBONE, Peta",AUS,Women,Softball,Bronze
+2000,Sydney,Softball,Softball,"FAIRHURST, Sue",AUS,Women,Softball,Bronze
+2000,Sydney,Softball,Softball,"FOLLAS, Selina",AUS,Women,Softball,Bronze
+2000,Sydney,Softball,Softball,"HANES, Fiona",AUS,Women,Softball,Bronze
+2000,Sydney,Softball,Softball,"HARDIE, Kelly",AUS,Women,Softball,Bronze
+2000,Sydney,Softball,Softball,"HARDING, Tanya",AUS,Women,Softball,Bronze
+2000,Sydney,Softball,Softball,"MCDERMID, Sally",AUS,Women,Softball,Bronze
+2000,Sydney,Softball,Softball,"MORROW, Simmone",AUS,Women,Softball,Bronze
+2000,Sydney,Softball,Softball,"ROCHE, Melanie",AUS,Women,Softball,Bronze
+2000,Sydney,Softball,Softball,"TITCUME, Natalie",AUS,Women,Softball,Bronze
+2000,Sydney,Softball,Softball,"WARD, Natalie",AUS,Women,Softball,Bronze
+2000,Sydney,Softball,Softball,"WILKINS, Brooke",AUS,Women,Softball,Bronze
+2000,Sydney,Softball,Softball,"AMBROSI, Christie",USA,Women,Softball,Gold
+2000,Sydney,Softball,Softball,"BERG, Laura",USA,Women,Softball,Gold
+2000,Sydney,Softball,Softball,"BRUNDAGE, Jennifer",USA,Women,Softball,Gold
+2000,Sydney,Softball,Softball,"BUSTOS, Crystl",USA,Women,Softball,Gold
+2000,Sydney,Softball,Softball,"CORNELL, Sheila",USA,Women,Softball,Gold
+2000,Sydney,Softball,Softball,"FERNANDEZ, Lisa",USA,Women,Softball,Gold
+2000,Sydney,Softball,Softball,"HARRIGAN, Lori",USA,Women,Softball,Gold
+2000,Sydney,Softball,Softball,"HENDERSON, Danielle",USA,Women,Softball,Gold
+2000,Sydney,Softball,Softball,"MCFALLS, Jennifer",USA,Women,Softball,Gold
+2000,Sydney,Softball,Softball,"NUVEMAN, Stacey",USA,Women,Softball,Gold
+2000,Sydney,Softball,Softball,"O'BRIEN, Leah",USA,Women,Softball,Gold
+2000,Sydney,Softball,Softball,"RICHARDSON, Dorothy",USA,Women,Softball,Gold
+2000,Sydney,Softball,Softball,"SMITH, Michele",USA,Women,Softball,Gold
+2000,Sydney,Softball,Softball,"VENTURELLA, Michelle",USA,Women,Softball,Gold
+2000,Sydney,Softball,Softball,"WILLIAMS, Christa Lee",USA,Women,Softball,Gold
+2000,Sydney,Softball,Softball,"ANDO, Misako",JPN,Women,Softball,Silver
+2000,Sydney,Softball,Softball,"FUJII, Yumiko",JPN,Women,Softball,Silver
+2000,Sydney,Softball,Softball,"ISHIKAWA, Taeko",JPN,Women,Softball,Silver
+2000,Sydney,Softball,Softball,"ITO, Kazue",JPN,Women,Softball,Silver
+2000,Sydney,Softball,Softball,"KOBAYASHI, Yoshimi",JPN,Women,Softball,Silver
+2000,Sydney,Softball,Softball,"KOSEKI, Shiori",JPN,Women,Softball,Silver
+2000,Sydney,Softball,Softball,"MASUBUCHI, Mariko",JPN,Women,Softball,Silver
+2000,Sydney,Softball,Softball,"MATSUMOTO, Naomi",JPN,Women,Softball,Silver
+2000,Sydney,Softball,Softball,"NAITO, Emi",JPN,Women,Softball,Silver
+2000,Sydney,Softball,Softball,"SAITO, Haruka",JPN,Women,Softball,Silver
+2000,Sydney,Softball,Softball,"TAKAYAMA, Juri",JPN,Women,Softball,Silver
+2000,Sydney,Softball,Softball,"TAMOTO, Hiroko",JPN,Women,Softball,Silver
+2000,Sydney,Softball,Softball,"UTSUGI, Reika",JPN,Women,Softball,Silver
+2000,Sydney,Softball,Softball,"YAMADA, Miyo",JPN,Women,Softball,Silver
+2000,Sydney,Softball,Softball,"YAMAJI, Noriko",JPN,Women,Softball,Silver
+2000,Sydney,Table Tennis,Table Tennis,"CHILA, Patrick Antoine Edouard",FRA,Men,Doubles,Bronze
+2000,Sydney,Table Tennis,Table Tennis,"GATIEN, Jean-Philippe",FRA,Men,Doubles,Bronze
+2000,Sydney,Table Tennis,Table Tennis,"WANG, Liqin",CHN,Men,Doubles,Gold
+2000,Sydney,Table Tennis,Table Tennis,"YAN, Sen",CHN,Men,Doubles,Gold
+2000,Sydney,Table Tennis,Table Tennis,"KONG, Linghui",CHN,Men,Doubles,Silver
+2000,Sydney,Table Tennis,Table Tennis,"LIU, Guoliang",CHN,Men,Doubles,Silver
+2000,Sydney,Table Tennis,Table Tennis,"KIM, Moo-Kyo",KOR,Women,Doubles,Bronze
+2000,Sydney,Table Tennis,Table Tennis,"RYU, Ji-Hye",KOR,Women,Doubles,Bronze
+2000,Sydney,Table Tennis,Table Tennis,"LI, Ju",CHN,Women,Doubles,Gold
+2000,Sydney,Table Tennis,Table Tennis,"WANG, Nan",CHN,Women,Doubles,Gold
+2000,Sydney,Table Tennis,Table Tennis,"SUN, Jin",CHN,Women,Doubles,Silver
+2000,Sydney,Table Tennis,Table Tennis,"YANG, Ying",CHN,Women,Doubles,Silver
+2000,Sydney,Table Tennis,Table Tennis,"LIU, Guoliang",CHN,Men,Singles,Bronze
+2000,Sydney,Table Tennis,Table Tennis,"KONG, Linghui",CHN,Men,Singles,Gold
+2000,Sydney,Table Tennis,Table Tennis,"WALDNER, Jan-Ove",SWE,Men,Singles,Silver
+2000,Sydney,Table Tennis,Table Tennis,"CHEN, Jing",TPE,Women,Singles,Bronze
+2000,Sydney,Table Tennis,Table Tennis,"WANG, Nan",CHN,Women,Singles,Gold
+2000,Sydney,Table Tennis,Table Tennis,"LI, Ju",CHN,Women,Singles,Silver
+2000,Sydney,Taekwondo,Taekwondo,"CHI, Shu-Ju",TPE,Women,- 49 KG,Bronze
+2000,Sydney,Taekwondo,Taekwondo,"BURNS, Lauren",AUS,Women,- 49 KG,Gold
+2000,Sydney,Taekwondo,Taekwondo,"MELENDEZ RODRIGUEZ, Urbia",CUB,Women,- 49 KG,Silver
+2000,Sydney,Taekwondo,Taekwondo,"HUANG, Chih Hsiung",TPE,Men,- 58 KG,Bronze
+2000,Sydney,Taekwondo,Taekwondo,"MOUROUTSOS, Michail",GRE,Men,- 58 KG,Gold
+2000,Sydney,Taekwondo,Taekwondo,"ESPARZA, Gabriel",ESP,Men,- 58 KG,Silver
+2000,Sydney,Taekwondo,Taekwondo,"BOSSHART, Dominique",CAN,Women,+ 67 KG,Bronze
+2000,Sydney,Taekwondo,Taekwondo,"CHEN, Zhong",CHN,Women,+ 67 KG,Gold
+2000,Sydney,Taekwondo,Taekwondo,"IVANOVA, Natalia",RUS,Women,+ 67 KG,Silver
+2000,Sydney,Taekwondo,Taekwondo,"GENTIL, Pascal",FRA,Men,+ 80 KG,Bronze
+2000,Sydney,Taekwondo,Taekwondo,"KIM, Kyong-Hun",KOR,Men,+ 80 KG,Gold
+2000,Sydney,Taekwondo,Taekwondo,"TRENTON, Daniel",AUS,Men,+ 80 KG,Silver
+2000,Sydney,Taekwondo,Taekwondo,"BIKCIN, Hamide",TUR,Women,49 - 57 KG,Bronze
+2000,Sydney,Taekwondo,Taekwondo,"JUNG, Jae-Eun",KOR,Women,49 - 57 KG,Gold
+2000,Sydney,Taekwondo,Taekwondo,"TRAN, Hieu Ngan",VIE,Women,49 - 57 KG,Silver
+2000,Sydney,Taekwondo,Taekwondo,"OKAMOTO, Yoriko",JPN,Women,57 - 67 KG,Bronze
+2000,Sydney,Taekwondo,Taekwondo,"LEE, Sun-Hee",KOR,Women,57 - 67 KG,Gold
+2000,Sydney,Taekwondo,Taekwondo,"GUNDERSEN, Trude",NOR,Women,57 - 67 KG,Silver
+2000,Sydney,Taekwondo,Taekwondo,"SAEI, Hadi",IRI,Men,58 - 68 KG,Bronze
+2000,Sydney,Taekwondo,Taekwondo,"LOPEZ, Steven",USA,Men,58 - 68 KG,Gold
+2000,Sydney,Taekwondo,Taekwondo,"SIN, Joon-Sik",KOR,Men,58 - 68 KG,Silver
+2000,Sydney,Taekwondo,Taekwondo,"ESTRADA GARIBAY, Victor Manuel",MEX,Men,68 - 80 KG,Bronze
+2000,Sydney,Taekwondo,Taekwondo,"MATOS, Angel Valodia",CUB,Men,68 - 80 KG,Gold
+2000,Sydney,Taekwondo,Taekwondo,"EBNOUTALIB, Faissal",GER,Men,68 - 80 KG,Silver
+2000,Sydney,Tennis,Tennis,"CORRETJA, Alex",ESP,Men,Doubles,Bronze
+2000,Sydney,Tennis,Tennis,"COSTA, Alberto",ESP,Men,Doubles,Bronze
+2000,Sydney,Tennis,Tennis,"LAREAU, Sebastien",CAN,Men,Doubles,Gold
+2000,Sydney,Tennis,Tennis,"NESTOR, Daniel",CAN,Men,Doubles,Gold
+2000,Sydney,Tennis,Tennis,"WOODBRIDGE, Todd",AUS,Men,Doubles,Silver
+2000,Sydney,Tennis,Tennis,"WOODFORDE, Mark",AUS,Men,Doubles,Silver
+2000,Sydney,Tennis,Tennis,"CALLENS, Els",BEL,Women,Doubles,Bronze
+2000,Sydney,Tennis,Tennis,"VAN ROOST, Dominique",BEL,Women,Doubles,Bronze
+2000,Sydney,Tennis,Tennis,"WILLIAMS, Serena",USA,Women,Doubles,Gold
+2000,Sydney,Tennis,Tennis,"WILLIAMS, Venus",USA,Women,Doubles,Gold
+2000,Sydney,Tennis,Tennis,"BOOGERT, Kristie",NED,Women,Doubles,Silver
+2000,Sydney,Tennis,Tennis,"OREMANS, Miriam",NED,Women,Doubles,Silver
+2000,Sydney,Tennis,Tennis,"DI PASQUALE, Arnaud",FRA,Men,Singles,Bronze
+2000,Sydney,Tennis,Tennis,"KAFELNIKOV, Eugueni",RUS,Men,Singles,Gold
+2000,Sydney,Tennis,Tennis,"HAAS, Tommy",GER,Men,Singles,Silver
+2000,Sydney,Tennis,Tennis,"SELES, Monica",USA,Women,Singles,Bronze
+2000,Sydney,Tennis,Tennis,"WILLIAMS, Venus",USA,Women,Singles,Gold
+2000,Sydney,Tennis,Tennis,"DEMENTIEVA, Elena",RUS,Women,Singles,Silver
+2000,Sydney,Triathlon,Triathlon,"REHULA, Jan",CZE,Men,Individual,Bronze
+2000,Sydney,Triathlon,Triathlon,"WHITFIELD, Simon",CAN,Men,Individual,Gold
+2000,Sydney,Triathlon,Triathlon,"VUCKOVIC, Stephan",GER,Men,Individual,Silver
+2000,Sydney,Triathlon,Triathlon,"MESSMER, Magali",SUI,Women,Individual,Bronze
+2000,Sydney,Triathlon,Triathlon,"MCMAHON, Brigitte",SUI,Women,Individual,Gold
+2000,Sydney,Triathlon,Triathlon,"JONES, Michellie",AUS,Women,Individual,Silver
+2000,Sydney,Volleyball,Beach volley.,"AHMANN, Jörg",GER,Men,Beach Volleyball,Bronze
+2000,Sydney,Volleyball,Beach volley.,"HAGER, Axel",GER,Men,Beach Volleyball,Bronze
+2000,Sydney,Volleyball,Beach volley.,"BLANTON, Dain",USA,Men,Beach Volleyball,Gold
+2000,Sydney,Volleyball,Beach volley.,"FONOIMOANA, Eric",USA,Men,Beach Volleyball,Gold
+2000,Sydney,Volleyball,Beach volley.,"MELO, Jose Marco",BRA,Men,Beach Volleyball,Silver
+2000,Sydney,Volleyball,Beach volley.,"SANTOS, Ricardo",BRA,Men,Beach Volleyball,Silver
+2000,Sydney,Volleyball,Beach volley.,"PIRES, Sandra",BRA,Women,Beach Volleyball,Bronze
+2000,Sydney,Volleyball,Beach volley.,"SAMUEL RAMOS, Adriana",BRA,Women,Beach Volleyball,Bronze
+2000,Sydney,Volleyball,Beach volley.,"COOK, Natalie",AUS,Women,Beach Volleyball,Gold
+2000,Sydney,Volleyball,Beach volley.,"POTTHARST, Kerri",AUS,Women,Beach Volleyball,Gold
+2000,Sydney,Volleyball,Beach volley.,"BEDE, Shelda",BRA,Women,Beach Volleyball,Silver
+2000,Sydney,Volleyball,Beach volley.,"BEHAR, Adriana",BRA,Women,Beach Volleyball,Silver
+2000,Sydney,Volleyball,Volleyball,"BRACCI, Marco",ITA,Men,Volleyball,Bronze
+2000,Sydney,Volleyball,Volleyball,"CORSANO, Mirko",ITA,Men,Volleyball,Bronze
+2000,Sydney,Volleyball,Volleyball,"FEI, Alessandro",ITA,Men,Volleyball,Bronze
+2000,Sydney,Volleyball,Volleyball,"GARDINI, Andrea",ITA,Men,Volleyball,Bronze
+2000,Sydney,Volleyball,Volleyball,"GIANI, Andrea",ITA,Men,Volleyball,Bronze
+2000,Sydney,Volleyball,Volleyball,"GRAVINA, Pasquale",ITA,Men,Volleyball,Bronze
+2000,Sydney,Volleyball,Volleyball,"MASTRANGELO, Luigi",ITA,Men,Volleyball,Bronze
+2000,Sydney,Volleyball,Volleyball,"MEONI, Marco",ITA,Men,Volleyball,Bronze
+2000,Sydney,Volleyball,Volleyball,"PAPI, Samuele",ITA,Men,Volleyball,Bronze
+2000,Sydney,Volleyball,Volleyball,"ROSALBA, Simone",ITA,Men,Volleyball,Bronze
+2000,Sydney,Volleyball,Volleyball,"SARTORETTI, Andrea",ITA,Men,Volleyball,Bronze
+2000,Sydney,Volleyball,Volleyball,"TOFOLI, Paolo",ITA,Men,Volleyball,Bronze
+2000,Sydney,Volleyball,Volleyball,"BATEZ, Vladimir",YUG,Men,Volleyball,Gold
+2000,Sydney,Volleyball,Volleyball,"BOSKAN, Slobodan",YUG,Men,Volleyball,Gold
+2000,Sydney,Volleyball,Volleyball,"GERIC, Andrija",YUG,Men,Volleyball,Gold
+2000,Sydney,Volleyball,Volleyball,"GRBIC, Nikola",YUG,Men,Volleyball,Gold
+2000,Sydney,Volleyball,Volleyball,"GRBIC, Vladimir",YUG,Men,Volleyball,Gold
+2000,Sydney,Volleyball,Volleyball,"KOVAC, Slobodan",YUG,Men,Volleyball,Gold
+2000,Sydney,Volleyball,Volleyball,"MESTER, Djula",YUG,Men,Volleyball,Gold
+2000,Sydney,Volleyball,Volleyball,"MIJIC, Vasa",YUG,Men,Volleyball,Gold
+2000,Sydney,Volleyball,Volleyball,"MILJKOVIC, Ivan",YUG,Men,Volleyball,Gold
+2000,Sydney,Volleyball,Volleyball,"PETKOVIC, Veljko",YUG,Men,Volleyball,Gold
+2000,Sydney,Volleyball,Volleyball,"VUJEVIC, Goran",YUG,Men,Volleyball,Gold
+2000,Sydney,Volleyball,Volleyball,"VUSUROVIC, Igor",YUG,Men,Volleyball,Gold
+2000,Sydney,Volleyball,Volleyball,"CHOULEPOV, Igor",RUS,Men,Volleyball,Silver
+2000,Sydney,Volleyball,Volleyball,"GORYUSHEV, Valeriy",RUS,Men,Volleyball,Silver
+2000,Sydney,Volleyball,Volleyball,"GUERASSIMOV, Alexandre",RUS,Men,Volleyball,Silver
+2000,Sydney,Volleyball,Volleyball,"IAKOVLEV, Roman",RUS,Men,Volleyball,Silver
+2000,Sydney,Volleyball,Volleyball,"KAZAKOV, Alexei",RUS,Men,Volleyball,Silver
+2000,Sydney,Volleyball,Volleyball,"KHAMUTTSKIKH, Vadim",RUS,Men,Volleyball,Silver
+2000,Sydney,Volleyball,Volleyball,"KULESHOV, Alexey",RUS,Men,Volleyball,Silver
+2000,Sydney,Volleyball,Volleyball,"MITKOV, Evgueni",RUS,Men,Volleyball,Silver
+2000,Sydney,Volleyball,Volleyball,"OLIKHVER, Ruslan",RUS,Men,Volleyball,Silver
+2000,Sydney,Volleyball,Volleyball,"SAVELIEV, Ilia",RUS,Men,Volleyball,Silver
+2000,Sydney,Volleyball,Volleyball,"TETYUKHIN, Sergey",RUS,Men,Volleyball,Silver
+2000,Sydney,Volleyball,Volleyball,"USHAKOV, Konstantin",RUS,Men,Volleyball,Silver
+2000,Sydney,Volleyball,Volleyball,"BARROS, Leila",BRA,Women,Volleyball,Bronze
+2000,Sydney,Volleyball,Volleyball,"COIMBRA, Erika",BRA,Women,Volleyball,Bronze
+2000,Sydney,Volleyball,Volleyball,"CONCEICAO, Janina",BRA,Women,Volleyball,Bronze
+2000,Sydney,Volleyball,Volleyball,"DIAS, Virna",BRA,Women,Volleyball,Bronze
+2000,Sydney,Volleyball,Volleyball,"FRAGA, Kely",BRA,Women,Volleyball,Bronze
+2000,Sydney,Volleyball,Volleyball,"LIMA, Ricarda",BRA,Women,Volleyball,Bronze
+2000,Sydney,Volleyball,Volleyball,"LOPES, Katia",BRA,Women,Volleyball,Bronze
+2000,Sydney,Volleyball,Volleyball,"OLIVEIRA, Elisangela",BRA,Women,Volleyball,Bronze
+2000,Sydney,Volleyball,Volleyball,"OLIVEIRA, Walewska",BRA,Women,Volleyball,Bronze
+2000,Sydney,Volleyball,Volleyball,"RODRIGUES, Karin",BRA,Women,Volleyball,Bronze
+2000,Sydney,Volleyball,Volleyball,"SILVA, Raquel",BRA,Women,Volleyball,Bronze
+2000,Sydney,Volleyball,Volleyball,"SOUZA, Helia",BRA,Women,Volleyball,Bronze
+2000,Sydney,Volleyball,Volleyball,"AGUERO, Taimaris",CUB,Women,Volleyball,Gold
+2000,Sydney,Volleyball,Volleyball,"BARROS, Zoila",CUB,Women,Volleyball,Gold
+2000,Sydney,Volleyball,Volleyball,"BELL, Regla Maritza",CUB,Women,Volleyball,Gold
+2000,Sydney,Volleyball,Volleyball,"COSTA, Marlenis",CUB,Women,Volleyball,Gold
+2000,Sydney,Volleyball,Volleyball,"FERNANDEZ, Ana Ibis",CUB,Women,Volleyball,Gold
+2000,Sydney,Volleyball,Volleyball,"FRANCIA, Mirka",CUB,Women,Volleyball,Gold
+2000,Sydney,Volleyball,Volleyball,"GATO, Idalmis",CUB,Women,Volleyball,Gold
+2000,Sydney,Volleyball,Volleyball,"IZQUIERDO, Lilia",CUB,Women,Volleyball,Gold
+2000,Sydney,Volleyball,Volleyball,"LUIS, Alejandrina",CUB,Women,Volleyball,Gold
+2000,Sydney,Volleyball,Volleyball,"RUIZ, Yumilka",CUB,Women,Volleyball,Gold
+2000,Sydney,Volleyball,Volleyball,"SANCHEZ SALFRAN, Martha",CUB,Women,Volleyball,Gold
+2000,Sydney,Volleyball,Volleyball,"TORRES, Regla",CUB,Women,Volleyball,Gold
+2000,Sydney,Volleyball,Volleyball,"ARTAMONOVA, Evgenya",RUS,Women,Volleyball,Silver
+2000,Sydney,Volleyball,Volleyball,"BELIKOVA, Anastassia",RUS,Women,Volleyball,Silver
+2000,Sydney,Volleyball,Volleyball,"CHACHKOVA, Lioubov",RUS,Women,Volleyball,Silver
+2000,Sydney,Volleyball,Volleyball,"GAMOVA, Ekaterina",RUS,Women,Volleyball,Silver
+2000,Sydney,Volleyball,Volleyball,"GODINA, Elena",RUS,Women,Volleyball,Silver
+2000,Sydney,Volleyball,Volleyball,"GRATCHEVA, Tatiana",RUS,Women,Volleyball,Silver
+2000,Sydney,Volleyball,Volleyball,"MOROZOVA, Natalia",RUS,Women,Volleyball,Silver
+2000,Sydney,Volleyball,Volleyball,"POTACHOVA, Olga",RUS,Women,Volleyball,Silver
+2000,Sydney,Volleyball,Volleyball,"SARGSIAN, Inessa",RUS,Women,Volleyball,Silver
+2000,Sydney,Volleyball,Volleyball,"TICHTCHENKO, Elizaveta",RUS,Women,Volleyball,Silver
+2000,Sydney,Volleyball,Volleyball,"TYURINA, Elena",RUS,Women,Volleyball,Silver
+2000,Sydney,Volleyball,Volleyball,"VASSILEVSKAIA, Elena",RUS,Women,Volleyball,Silver
+2000,Sydney,Weightlifting,Weightlifting,"CHEMERKIN, Andrey",RUS,Men,+ 105KG,Bronze
+2000,Sydney,Weightlifting,Weightlifting,"REZA ZADEH, Hossein",IRI,Men,+ 105KG,Gold
+2000,Sydney,Weightlifting,Weightlifting,"WELLER, Ronny",GER,Men,+ 105KG,Silver
+2000,Sydney,Weightlifting,Weightlifting,"HAWORTH, Cheryl",USA,Women,+ 75KG,Bronze
+2000,Sydney,Weightlifting,Weightlifting,"DING, Meiyuan",CHN,Women,+ 75KG,Gold
+2000,Sydney,Weightlifting,Weightlifting,"WROBEL, Agata",POL,Women,+ 75KG,Silver
+2000,Sydney,Weightlifting,Weightlifting,"ASAAD, Said Saif",QAT,Men,105KG,Bronze
+2000,Sydney,Weightlifting,Weightlifting,"TAVAKOLI, Hossein",IRI,Men,105KG,Gold
+2000,Sydney,Weightlifting,Weightlifting,"TSAGAEV, Alan",BUL,Men,105KG,Silver
+2000,Sydney,Weightlifting,Weightlifting,"INDRIYANI, Sri",INA,Women,48KG,Bronze
+2000,Sydney,Weightlifting,Weightlifting,"NOTT, Tara",USA,Women,48KG,Gold
+2000,Sydney,Weightlifting,Weightlifting,"RUMBEWAS, Raema Lisa",INA,Women,48KG,Silver
+2000,Sydney,Weightlifting,Weightlifting,"SLAMET, Winarni Binti",INA,Women,53KG,Bronze
+2000,Sydney,Weightlifting,Weightlifting,"YANG, Xia",CHN,Women,53KG,Gold
+2000,Sydney,Weightlifting,Weightlifting,"LI, Feng-Ying",TPE,Women,53KG,Silver
+2000,Sydney,Weightlifting,Weightlifting,"ZHANG, Xiangxiang",CHN,Men,56KG,Bronze
+2000,Sydney,Weightlifting,Weightlifting,"MUTLU, Halil",TUR,Men,56KG,Gold
+2000,Sydney,Weightlifting,Weightlifting,"WU, Wenxiong",CHN,Men,56KG,Silver
+2000,Sydney,Weightlifting,Weightlifting,"SUTA, Khassaraporn",THA,Women,58KG,Bronze
+2000,Sydney,Weightlifting,Weightlifting,"JIMENEZ MENDIVIL, Soraya",MEX,Women,58KG,Gold
+2000,Sydney,Weightlifting,Weightlifting,"RI, Song Hui",PRK,Women,58KG,Silver
+2000,Sydney,Weightlifting,Weightlifting,"OLESHCHUK, Gennady",BLR,Men,62KG,Bronze
+2000,Sydney,Weightlifting,Weightlifting,"PECHALOV, Nikolay",CRO,Men,62KG,Gold
+2000,Sydney,Weightlifting,Weightlifting,"SAMPANIS, Leonidas",GRE,Men,62KG,Silver
+2000,Sydney,Weightlifting,Weightlifting,"CHATZIIOANNOU, Ioanna",GRE,Women,63KG,Bronze
+2000,Sydney,Weightlifting,Weightlifting,"CHEN, Xiaomin",CHN,Women,63KG,Gold
+2000,Sydney,Weightlifting,Weightlifting,"POPOVA, Valentina",RUS,Women,63KG,Silver
+2000,Sydney,Weightlifting,Weightlifting,"LAVRENOV, Sergei",BLR,Men,69KG,Bronze
+2000,Sydney,Weightlifting,Weightlifting,"BOEVSKI, Galabin",BUL,Men,69KG,Gold
+2000,Sydney,Weightlifting,Weightlifting,"MARKOV, Georgi",BUL,Men,69KG,Silver
+2000,Sydney,Weightlifting,Weightlifting,"MALLESWARI, Karnam",IND,Women,69KG,Bronze
+2000,Sydney,Weightlifting,Weightlifting,"LIN, Weining",CHN,Women,69KG,Gold
+2000,Sydney,Weightlifting,Weightlifting,"PERESZTEGINE MARKUS, Erzsebet",HUN,Women,69KG,Silver
+2000,Sydney,Weightlifting,Weightlifting,"KUO, Yi-Hang",TPE,Women,75KG,Bronze
+2000,Sydney,Weightlifting,Weightlifting,"URRUTIA, Maria Isabel",COL,Women,75KG,Gold
+2000,Sydney,Weightlifting,Weightlifting,"OGBEIFO, Ruth",NGR,Women,75KG,Silver
+2000,Sydney,Weightlifting,Weightlifting,"MELIKYAN, Arsen",ARM,Men,77KG,Bronze
+2000,Sydney,Weightlifting,Weightlifting,"ZHAN, Xugang",CHN,Men,77KG,Gold
+2000,Sydney,Weightlifting,Weightlifting,"MITROU, Viktor",GRE,Men,77KG,Silver
+2000,Sydney,Weightlifting,Weightlifting,"ASANIDZE, George",GEO,Men,85KG,Bronze
+2000,Sydney,Weightlifting,Weightlifting,"DIMAS, Pyrros",GRE,Men,85KG,Gold
+2000,Sydney,Weightlifting,Weightlifting,"HUSTER, Marc",GER,Men,85KG,Silver
+2000,Sydney,Weightlifting,Weightlifting,"PETROV, Aleksey",RUS,Men,94KG,Bronze
+2000,Sydney,Weightlifting,Weightlifting,"KAKIASVILIS, Akakios",GRE,Men,94KG,Gold
+2000,Sydney,Weightlifting,Weightlifting,"KOLECKI, Szymon",POL,Men,94KG,Silver
+2000,Sydney,Wrestling,Wrestling Free.,"KARNTANOV, Amiran",GRE,Men,48 - 54KG,Bronze
+2000,Sydney,Wrestling,Wrestling Free.,"ABDULLAYEV, Namig",AZE,Men,48 - 54KG,Gold
+2000,Sydney,Wrestling,Wrestling Free.,"HENSON, Samuel",USA,Men,48 - 54KG,Silver
+2000,Sydney,Wrestling,Wrestling Free.,"BRANDS, Terry",USA,Men,54 - 58KG,Bronze
+2000,Sydney,Wrestling,Wrestling Free.,"DABIR, Alireza",IRI,Men,54 - 58KG,Gold
+2000,Sydney,Wrestling,Wrestling Free.,"BUSLOVYCH, Yevgen",UKR,Men,54 - 58KG,Silver
+2000,Sydney,Wrestling,Wrestling Free.,"JANG, Jae-Sung",KOR,Men,58 - 63KG,Bronze
+2000,Sydney,Wrestling,Wrestling Free.,"OUMAKHANOV, Mourad",RUS,Men,58 - 63KG,Gold
+2000,Sydney,Wrestling,Wrestling Free.,"BARZAKOV, Serafim",BUL,Men,58 - 63KG,Silver
+2000,Sydney,Wrestling,Wrestling Free.,"MCILRAVY, Lincoln",USA,Men,63 - 69KG,Bronze
+2000,Sydney,Wrestling,Wrestling Free.,"IGALI, Daniel",CAN,Men,63 - 69KG,Gold
+2000,Sydney,Wrestling,Wrestling Free.,"GITINOV, Arsen",RUS,Men,63 - 69KG,Silver
+2000,Sydney,Wrestling,Wrestling Free.,"BEREKET, Adem",TUR,Men,69 - 76KG,Bronze
+2000,Sydney,Wrestling,Wrestling Free.,"SLAY, Brandon",USA,Men,69 - 76KG,Gold
+2000,Sydney,Wrestling,Wrestling Free.,"MOON, Eui Jae",KOR,Men,69 - 76KG,Silver
+2000,Sydney,Wrestling,Wrestling Free.,"IBRAGIMOV, Mogamed",MKD,Men,76 - 85KG,Bronze
+2000,Sydney,Wrestling,Wrestling Free.,"SAITIEV, Adam",RUS,Men,76 - 85KG,Gold
+2000,Sydney,Wrestling,Wrestling Free.,"ROMERO, Yoel",CUB,Men,76 - 85KG,Silver
+2000,Sydney,Wrestling,Wrestling Free.,"KURTANIDZE, Eldari",GEO,Men,85 - 97KG,Bronze
+2000,Sydney,Wrestling,Wrestling Free.,"MOURTASALIYEV, Saghid",RUS,Men,85 - 97KG,Gold
+2000,Sydney,Wrestling,Wrestling Free.,"BAIRAMUKOV, Islam",KAZ,Men,85 - 97KG,Silver
+2000,Sydney,Wrestling,Wrestling Free.,"RODRIGUEZ, Alexis",CUB,Men,97 - 130KG,Bronze
+2000,Sydney,Wrestling,Wrestling Free.,"MOUSSOULBES, David",RUS,Men,97 - 130KG,Gold
+2000,Sydney,Wrestling,Wrestling Free.,"TAYMAZOV, Artur",UZB,Men,97 - 130KG,Silver
+2000,Sydney,Wrestling,Wrestling Gre-R,"KANG, Yong Gyun",PRK,Men,48 - 54KG,Bronze
+2000,Sydney,Wrestling,Wrestling Gre-R,"SIM, Kwon-Ho",KOR,Men,48 - 54KG,Gold
+2000,Sydney,Wrestling,Wrestling Gre-R,"RIVAS, Lazaro",CUB,Men,48 - 54KG,Silver
+2000,Sydney,Wrestling,Wrestling Gre-R,"SHENG, Zetian",CHN,Men,54 - 58KG,Bronze
+2000,Sydney,Wrestling,Wrestling Gre-R,"NAZARIAN, Armen",BUL,Men,54 - 58KG,Gold
+2000,Sydney,Wrestling,Wrestling Gre-R,"KIM, In-Sub",KOR,Men,54 - 58KG,Silver
+2000,Sydney,Wrestling,Wrestling Gre-R,"CHACHUA, Akaki",GEO,Men,58 - 63KG,Bronze
+2000,Sydney,Wrestling,Wrestling Gre-R,"SAMURGASHEV, Varteres",RUS,Men,58 - 63KG,Gold
+2000,Sydney,Wrestling,Wrestling Gre-R,"MAREN, Juan Luis",CUB,Men,58 - 63KG,Silver
+2000,Sydney,Wrestling,Wrestling Gre-R,"GLOUCHKOV, Alexei",RUS,Men,63 - 69KG,Bronze
+2000,Sydney,Wrestling,Wrestling Gre-R,"ASCUY AGUILERA, Feliberto",CUB,Men,63 - 69KG,Gold
+2000,Sydney,Wrestling,Wrestling Gre-R,"NAGATA, Katsuhiko",JPN,Men,63 - 69KG,Silver
+2000,Sydney,Wrestling,Wrestling Gre-R,"YLI-HANNUKSELA, Marko",FIN,Men,69 - 76KG,Bronze
+2000,Sydney,Wrestling,Wrestling Gre-R,"KARDANOV, Mourat",RUS,Men,69 - 76KG,Gold
+2000,Sydney,Wrestling,Wrestling Gre-R,"LINDLAND, Matt James",USA,Men,69 - 76KG,Silver
+2000,Sydney,Wrestling,Wrestling Gre-R,"VAKHTANGADZE, Mukhran",GEO,Men,76 - 85KG,Bronze
+2000,Sydney,Wrestling,Wrestling Gre-R,"YERLIKAYA, Hamza",TUR,Men,76 - 85KG,Gold
+2000,Sydney,Wrestling,Wrestling Gre-R,"BARDOSI, Sandor Istvan",HUN,Men,76 - 85KG,Silver
+2000,Sydney,Wrestling,Wrestling Gre-R,"LOWNEY, Steven",USA,Men,85 - 97KG,Bronze
+2000,Sydney,Wrestling,Wrestling Gre-R,"LJUNGBERG, Mikael",SWE,Men,85 - 97KG,Gold
+2000,Sydney,Wrestling,Wrestling Gre-R,"SALDADZE, Davyd",UKR,Men,85 - 97KG,Silver
+2000,Sydney,Wrestling,Wrestling Gre-R,"DEBELKA, Dmitry",BLR,Men,97 - 130KG,Bronze
+2000,Sydney,Wrestling,Wrestling Gre-R,"GARDNER, Rulon",USA,Men,97 - 130KG,Gold
+2000,Sydney,Wrestling,Wrestling Gre-R,"KARELIN, Aleksandr",RUS,Men,97 - 130KG,Silver

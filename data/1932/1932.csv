@@ -1,0 +1,616 @@
+Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
+1932,Los Angeles,Aquatics,Diving,"KURTZ, Frank Allen",USA,Men,10M Platform,Bronze
+1932,Los Angeles,Aquatics,Diving,"SMITH, Harold Edwin",USA,Men,10M Platform,Gold
+1932,Los Angeles,Aquatics,Diving,"GALITZEN, Michael Riley",USA,Men,10M Platform,Silver
+1932,Los Angeles,Aquatics,Diving,"ROPER, Marion Dale",USA,Women,10M Platform,Bronze
+1932,Los Angeles,Aquatics,Diving,"POYNTON-HILL, Dorothy",USA,Women,10M Platform,Gold
+1932,Los Angeles,Aquatics,Diving,"COLEMAN, Georgia V.",USA,Women,10M Platform,Silver
+1932,Los Angeles,Aquatics,Diving,"DEGENER, Richard Kempster",USA,Men,3M Springboard,Bronze
+1932,Los Angeles,Aquatics,Diving,"GALITZEN, Michael Riley",USA,Men,3M Springboard,Gold
+1932,Los Angeles,Aquatics,Diving,"SMITH, Harold Edwin",USA,Men,3M Springboard,Silver
+1932,Los Angeles,Aquatics,Diving,"FAUNTZ, Jane",USA,Women,3M Springboard,Bronze
+1932,Los Angeles,Aquatics,Diving,"COLEMAN, Georgia V.",USA,Women,3M Springboard,Gold
+1932,Los Angeles,Aquatics,Diving,"RAWLS, Katherine Louise",USA,Women,3M Springboard,Silver
+1932,Los Angeles,Aquatics,Swimming,"KAWATSU, Kentaro",JPN,Men,100M Backstroke,Bronze
+1932,Los Angeles,Aquatics,Swimming,"KIYOKAWA, Masaji",JPN,Men,100M Backstroke,Gold
+1932,Los Angeles,Aquatics,Swimming,"IRIYE, Toshio",JPN,Men,100M Backstroke,Silver
+1932,Los Angeles,Aquatics,Swimming,"DAVIES, Elizabeth Valerie",GBR,Women,100M Backstroke,Bronze
+1932,Los Angeles,Aquatics,Swimming,"HOLM, Eleanor",USA,Women,100M Backstroke,Gold
+1932,Los Angeles,Aquatics,Swimming,"MEALING, Philomenia Alecia",AUS,Women,100M Backstroke,Silver
+1932,Los Angeles,Aquatics,Swimming,"SCHWARTZ, Albert",USA,Men,100M Freestyle,Bronze
+1932,Los Angeles,Aquatics,Swimming,"MIOYAZAKI, Yasuji",JPN,Men,100M Freestyle,Gold
+1932,Los Angeles,Aquatics,Swimming,"KAWAISHI, Tatsugo",JPN,Men,100M Freestyle,Silver
+1932,Los Angeles,Aquatics,Swimming,"SAVILLE, Eleanor",USA,Women,100M Freestyle,Bronze
+1932,Los Angeles,Aquatics,Swimming,"MADISON, Helene",USA,Women,100M Freestyle,Gold
+1932,Los Angeles,Aquatics,Swimming,"DEN OUDEN, Willemyntje (Willy)",NED,Women,100M Freestyle,Silver
+1932,Los Angeles,Aquatics,Swimming,"CRISTY, James Crapo Jr.",USA,Men,1500M Freestyle,Bronze
+1932,Los Angeles,Aquatics,Swimming,"KITAMURA, Kusuo",JPN,Men,1500M Freestyle,Gold
+1932,Los Angeles,Aquatics,Swimming,"MAKINO, Shozo",JPN,Men,1500M Freestyle,Silver
+1932,Los Angeles,Aquatics,Swimming,"YLDEFONSO, Teofilo",PHI,Men,200M Breaststroke,Bronze
+1932,Los Angeles,Aquatics,Swimming,"TSURUTA, Yoshiyuki",JPN,Men,200M Breaststroke,Gold
+1932,Los Angeles,Aquatics,Swimming,"KOIKE, Reizo",JPN,Men,200M Breaststroke,Silver
+1932,Los Angeles,Aquatics,Swimming,"JACOBSEN, Else Agnes Ella",DEN,Women,200M Breaststroke,Bronze
+1932,Los Angeles,Aquatics,Swimming,"DENNIS, Clare",AUS,Women,200M Breaststroke,Gold
+1932,Los Angeles,Aquatics,Swimming,"MAEHATA, Hideko",JPN,Women,200M Breaststroke,Silver
+1932,Los Angeles,Aquatics,Swimming,"OYOKOTA, Tsutomu",JPN,Men,400M Freestyle,Bronze
+1932,Los Angeles,Aquatics,Swimming,"CRABBE, Clarence",USA,Men,400M Freestyle,Gold
+1932,Los Angeles,Aquatics,Swimming,"TARIS, Jean",FRA,Men,400M Freestyle,Silver
+1932,Los Angeles,Aquatics,Swimming,"MAAKAL, Jenny",RSA,Women,400M Freestyle,Bronze
+1932,Los Angeles,Aquatics,Swimming,"MADISON, Helene",USA,Women,400M Freestyle,Gold
+1932,Los Angeles,Aquatics,Swimming,"KIGHT-WINGARD, Lenore",USA,Women,400M Freestyle,Silver
+1932,Los Angeles,Aquatics,Swimming,"COOPER, Margaret Joyce",GBR,Women,4X100M Freestyle Relay,Bronze
+1932,Los Angeles,Aquatics,Swimming,"DAVIES, Elizabeth Valerie",GBR,Women,4X100M Freestyle Relay,Bronze
+1932,Los Angeles,Aquatics,Swimming,"HUGHES, Edna Tildesley",GBR,Women,4X100M Freestyle Relay,Bronze
+1932,Los Angeles,Aquatics,Swimming,"VARCOE, Helen Gradwell",GBR,Women,4X100M Freestyle Relay,Bronze
+1932,Los Angeles,Aquatics,Swimming,"JOHNS, Helen Eileen",USA,Women,4X100M Freestyle Relay,Gold
+1932,Los Angeles,Aquatics,Swimming,"MADISON, Helene",USA,Women,4X100M Freestyle Relay,Gold
+1932,Los Angeles,Aquatics,Swimming,"MCKIM, Josephine E.",USA,Women,4X100M Freestyle Relay,Gold
+1932,Los Angeles,Aquatics,Swimming,"SAVILLE, Eleanor",USA,Women,4X100M Freestyle Relay,Gold
+1932,Los Angeles,Aquatics,Swimming,"DEN OUDEN, Willemyntje (Willy)",NED,Women,4X100M Freestyle Relay,Silver
+1932,Los Angeles,Aquatics,Swimming,"LADDE, Cornelia",NED,Women,4X100M Freestyle Relay,Silver
+1932,Los Angeles,Aquatics,Swimming,"OVERSLOOT, Maria Petronella",NED,Women,4X100M Freestyle Relay,Silver
+1932,Los Angeles,Aquatics,Swimming,"VIERDAG, Maria",NED,Women,4X100M Freestyle Relay,Silver
+1932,Los Angeles,Aquatics,Swimming,"BARANY, Istvan",HUN,Men,4X200M Freestyle Relay,Bronze
+1932,Los Angeles,Aquatics,Swimming,"SZABADOS, László",HUN,Men,4X200M Freestyle Relay,Bronze
+1932,Los Angeles,Aquatics,Swimming,"SZEKELY, Andras",HUN,Men,4X200M Freestyle Relay,Bronze
+1932,Los Angeles,Aquatics,Swimming,"WANIE, Andras",HUN,Men,4X200M Freestyle Relay,Bronze
+1932,Los Angeles,Aquatics,Swimming,"MIOYAZAKI, Yasuji",JPN,Men,4X200M Freestyle Relay,Gold
+1932,Los Angeles,Aquatics,Swimming,"TOYODA, Hisakichi",JPN,Men,4X200M Freestyle Relay,Gold
+1932,Los Angeles,Aquatics,Swimming,"YOKOYAMA, Takashi",JPN,Men,4X200M Freestyle Relay,Gold
+1932,Los Angeles,Aquatics,Swimming,"YUSA, Masanori",JPN,Men,4X200M Freestyle Relay,Gold
+1932,Los Angeles,Aquatics,Swimming,"BOOTH, Francis Ewen",USA,Men,4X200M Freestyle Relay,Silver
+1932,Los Angeles,Aquatics,Swimming,"FISSLER, George",USA,Men,4X200M Freestyle Relay,Silver
+1932,Los Angeles,Aquatics,Swimming,"KALILI, Maiola",USA,Men,4X200M Freestyle Relay,Silver
+1932,Los Angeles,Aquatics,Swimming,"KALILI, Manuella",USA,Men,4X200M Freestyle Relay,Silver
+1932,Los Angeles,Aquatics,Water polo,"CLAPP, Austin Rhone",USA,Men,Water Polo,Bronze
+1932,Los Angeles,Aquatics,Water polo,"DAUBENSPECK, Philip Burton",USA,Men,Water Polo,Bronze
+1932,Los Angeles,Aquatics,Water polo,"FINN, Charles Thornton",USA,Men,Water Polo,Bronze
+1932,Los Angeles,Aquatics,Water polo,"MCCALLISTER, Charles Harold",USA,Men,Water Polo,Bronze
+1932,Los Angeles,Aquatics,Water polo,"O'CONNOR, James Wallace",USA,Men,Water Polo,Bronze
+1932,Los Angeles,Aquatics,Water polo,"STRONG, F.Calvert",USA,Men,Water Polo,Bronze
+1932,Los Angeles,Aquatics,Water polo,"WILDMAN, Herbert Henry",USA,Men,Water Polo,Bronze
+1932,Los Angeles,Aquatics,Water polo,"BARTA, István",HUN,Men,Water Polo,Gold
+1932,Los Angeles,Aquatics,Water polo,"BRODY, György",HUN,Men,Water Polo,Gold
+1932,Los Angeles,Aquatics,Water polo,"HALASSY, Oliver",HUN,Men,Water Polo,Gold
+1932,Los Angeles,Aquatics,Water polo,"HOMONNAI, Lajos",HUN,Men,Water Polo,Gold
+1932,Los Angeles,Aquatics,Water polo,"IVÁDY, Sándor",HUN,Men,Water Polo,Gold
+1932,Los Angeles,Aquatics,Water polo,"KESERU, Alajos",HUN,Men,Water Polo,Gold
+1932,Los Angeles,Aquatics,Water polo,"KESERU, Ferenc",HUN,Men,Water Polo,Gold
+1932,Los Angeles,Aquatics,Water polo,"NEMETH, János",HUN,Men,Water Polo,Gold
+1932,Los Angeles,Aquatics,Water polo,"SÁRKÁNY, Miklós",HUN,Men,Water Polo,Gold
+1932,Los Angeles,Aquatics,Water polo,"VÉRTESI (VRABELY), József",HUN,Men,Water Polo,Gold
+1932,Los Angeles,Aquatics,Water polo,"BENECKE, Emil",GER,Men,Water Polo,Silver
+1932,Los Angeles,Aquatics,Water polo,"CORDES, Otto",GER,Men,Water Polo,Silver
+1932,Los Angeles,Aquatics,Water polo,"ECKSTEIN, Hans",GER,Men,Water Polo,Silver
+1932,Los Angeles,Aquatics,Water polo,"GUNST, Fritz",GER,Men,Water Polo,Silver
+1932,Los Angeles,Aquatics,Water polo,"RADEMACHER, Erich",GER,Men,Water Polo,Silver
+1932,Los Angeles,Aquatics,Water polo,"RADEMACHER, Joachim",GER,Men,Water Polo,Silver
+1932,Los Angeles,Aquatics,Water polo,"SCHULZE, Hans",GER,Men,Water Polo,Silver
+1932,Los Angeles,Aquatics,Water polo,"SCHWARTZ, Heiko",GER,Men,Water Polo,Silver
+1932,Los Angeles,Athletics,Athletics,"VIRTANEN, Lauri",FIN,Men,10000M,Bronze
+1932,Los Angeles,Athletics,Athletics,"KUSOCINSKI, Janusz",POL,Men,10000M,Gold
+1932,Los Angeles,Athletics,Athletics,"ISO-HOLLO, Volmari",FIN,Men,10000M,Silver
+1932,Los Angeles,Athletics,Athletics,"JONATH, Arthur",GER,Men,100M,Bronze
+1932,Los Angeles,Athletics,Athletics,"TOLAN, Eddie",USA,Men,100M,Gold
+1932,Los Angeles,Athletics,Athletics,"METCALFE, Ralph",USA,Men,100M,Silver
+1932,Los Angeles,Athletics,Athletics,"VON BREMEN, Wilhelmina",USA,Women,100M,Bronze
+1932,Los Angeles,Athletics,Athletics,"WALASIEWICZ, Stanislawa",POL,Women,100M,Gold
+1932,Los Angeles,Athletics,Athletics,"STRIKE-SISSON, Hilda",CAN,Women,100M,Silver
+1932,Los Angeles,Athletics,Athletics,"FINLAY, Donald",GBR,Men,110M Hurdles,Bronze
+1932,Los Angeles,Athletics,Athletics,"SALING, George J. Jr.",USA,Men,110M Hurdles,Gold
+1932,Los Angeles,Athletics,Athletics,"BEARD, Percy",USA,Men,110M Hurdles,Silver
+1932,Los Angeles,Athletics,Athletics,"EDWARDS, Philip",CAN,Men,1500M,Bronze
+1932,Los Angeles,Athletics,Athletics,"BECCALI, Luigi",ITA,Men,1500M,Gold
+1932,Los Angeles,Athletics,Athletics,"CORNES, John",GBR,Men,1500M,Silver
+1932,Los Angeles,Athletics,Athletics,"METCALFE, Ralph",USA,Men,200M,Bronze
+1932,Los Angeles,Athletics,Athletics,"TOLAN, Eddie",USA,Men,200M,Gold
+1932,Los Angeles,Athletics,Athletics,"SIMPSON, George Sidney",USA,Men,200M,Silver
+1932,Los Angeles,Athletics,Athletics,"MCCLUSKEY, Joseph Paul",USA,Men,3000M Steeplechase,Bronze
+1932,Los Angeles,Athletics,Athletics,"ISO-HOLLO, Volmari",FIN,Men,3000M Steeplechase,Gold
+1932,Los Angeles,Athletics,Athletics,"EVENSON, Thomas",GBR,Men,3000M Steeplechase,Silver
+1932,Los Angeles,Athletics,Athletics,"WILSON, Alexander S.",CAN,Men,400M,Bronze
+1932,Los Angeles,Athletics,Athletics,"CARR, William Arthur",USA,Men,400M,Gold
+1932,Los Angeles,Athletics,Athletics,"EASTMAN, Benjamin Bangs",USA,Men,400M,Silver
+1932,Los Angeles,Athletics,Athletics,"TAYLOR, Frederick Morgan",USA,Men,400M Hurdles,Bronze
+1932,Los Angeles,Athletics,Athletics,"TISDALL, Robert Morton Newburgh",IRL,Men,400M Hurdles,Gold
+1932,Los Angeles,Athletics,Athletics,"HARDIN, Glenn Foster",USA,Men,400M Hurdles,Silver
+1932,Los Angeles,Athletics,Athletics,"CASTELLI, Giuseppe",ITA,Men,4X100M Relay,Bronze
+1932,Los Angeles,Athletics,Athletics,"FACELLI, Luigi",ITA,Men,4X100M Relay,Bronze
+1932,Los Angeles,Athletics,Athletics,"MAREGATTI, Ruggero",ITA,Men,4X100M Relay,Bronze
+1932,Los Angeles,Athletics,Athletics,"TOETTI, Edgardo",ITA,Men,4X100M Relay,Bronze
+1932,Los Angeles,Athletics,Athletics,"DYER, Hector Monroe",USA,Men,4X100M Relay,Gold
+1932,Los Angeles,Athletics,Athletics,"KIESEL, Robert Allan",USA,Men,4X100M Relay,Gold
+1932,Los Angeles,Athletics,Athletics,"TOPPINO, Martin Emmett",USA,Men,4X100M Relay,Gold
+1932,Los Angeles,Athletics,Athletics,"WYKOFF, Frank Clifford",USA,Men,4X100M Relay,Gold
+1932,Los Angeles,Athletics,Athletics,"BORCHMEYER, Erich",GER,Men,4X100M Relay,Silver
+1932,Los Angeles,Athletics,Athletics,"HENDRIX, Fritz",GER,Men,4X100M Relay,Silver
+1932,Los Angeles,Athletics,Athletics,"JONATH, Arthur",GER,Men,4X100M Relay,Silver
+1932,Los Angeles,Athletics,Athletics,"KÖRNIG, Helmuth",GER,Men,4X100M Relay,Silver
+1932,Los Angeles,Athletics,Athletics,"HALSTEAD, Nellie",GBR,Women,4X100M Relay,Bronze
+1932,Los Angeles,Athletics,Athletics,"HISCOCK, Eileen May",GBR,Women,4X100M Relay,Bronze
+1932,Los Angeles,Athletics,Athletics,"PORTER, Gwendoline Alice",GBR,Women,4X100M Relay,Bronze
+1932,Los Angeles,Athletics,Athletics,"WEBB, Violet B.",GBR,Women,4X100M Relay,Bronze
+1932,Los Angeles,Athletics,Athletics,"CAREW, Mary Louise",USA,Women,4X100M Relay,Gold
+1932,Los Angeles,Athletics,Athletics,"FURTSCH, Evelyn",USA,Women,4X100M Relay,Gold
+1932,Los Angeles,Athletics,Athletics,"ROGERS, Annette Joan",USA,Women,4X100M Relay,Gold
+1932,Los Angeles,Athletics,Athletics,"VON BREMEN, Wilhelmina",USA,Women,4X100M Relay,Gold
+1932,Los Angeles,Athletics,Athletics,"FRIZZELL, Mary",CAN,Women,4X100M Relay,Silver
+1932,Los Angeles,Athletics,Athletics,"FRIZZELL, Mildred",CAN,Women,4X100M Relay,Silver
+1932,Los Angeles,Athletics,Athletics,"PALMER-ALDERSON, Lillian",CAN,Women,4X100M Relay,Silver
+1932,Los Angeles,Athletics,Athletics,"STRIKE-SISSON, Hilda",CAN,Women,4X100M Relay,Silver
+1932,Los Angeles,Athletics,Athletics,"BALL, James A.",CAN,Men,4X400M Relay,Bronze
+1932,Los Angeles,Athletics,Athletics,"EDWARDS, Philip",CAN,Men,4X400M Relay,Bronze
+1932,Los Angeles,Athletics,Athletics,"LEWIS, Raymond Gray",CAN,Men,4X400M Relay,Bronze
+1932,Los Angeles,Athletics,Athletics,"WILSON, Alexander S.",CAN,Men,4X400M Relay,Bronze
+1932,Los Angeles,Athletics,Athletics,"ABLOWICH, Edgar Allen",USA,Men,4X400M Relay,Gold
+1932,Los Angeles,Athletics,Athletics,"CARR, William Arthur",USA,Men,4X400M Relay,Gold
+1932,Los Angeles,Athletics,Athletics,"FUQUA, Ivan William",USA,Men,4X400M Relay,Gold
+1932,Los Angeles,Athletics,Athletics,"WARNER, Karl De Witt",USA,Men,4X400M Relay,Gold
+1932,Los Angeles,Athletics,Athletics,"BURGHLEY, David George",GBR,Men,4X400M Relay,Silver
+1932,Los Angeles,Athletics,Athletics,"HAMPSON, Thomas",GBR,Men,4X400M Relay,Silver
+1932,Los Angeles,Athletics,Athletics,"RAMPLING, Godfrey Lionel",GBR,Men,4X400M Relay,Silver
+1932,Los Angeles,Athletics,Athletics,"STONELEY, Crew Hallett",GBR,Men,4X400M Relay,Silver
+1932,Los Angeles,Athletics,Athletics,"VIRTANEN, Lauri",FIN,Men,5000M,Bronze
+1932,Los Angeles,Athletics,Athletics,"LEHTINEN, Lauri Aleksanteri",FIN,Men,5000M,Gold
+1932,Los Angeles,Athletics,Athletics,"HILL, Ralph Anthony",USA,Men,5000M,Silver
+1932,Los Angeles,Athletics,Athletics,"FRIGERIO, Ugo",ITA,Men,50KM Walk,Bronze
+1932,Los Angeles,Athletics,Athletics,"GREEN, Thomas William",GBR,Men,50KM Walk,Gold
+1932,Los Angeles,Athletics,Athletics,"DALINS, Janis",LAT,Men,50KM Walk,Silver
+1932,Los Angeles,Athletics,Athletics,"EDWARDS, Philip",CAN,Men,800M,Bronze
+1932,Los Angeles,Athletics,Athletics,"HAMPSON, Thomas",GBR,Men,800M,Gold
+1932,Los Angeles,Athletics,Athletics,"WILSON, Alexander S.",CAN,Men,800M,Silver
+1932,Los Angeles,Athletics,Athletics,"CLARK, Marjorie R.",RSA,Women,80M Hurdles,Bronze
+1932,Los Angeles,Athletics,Athletics,"DIDRIKSON, Mildred",USA,Women,80M Hurdles,Gold
+1932,Los Angeles,Athletics,Athletics,"HALL, Evelyne Ruth",USA,Women,80M Hurdles,Silver
+1932,Los Angeles,Athletics,Athletics,"EBERLE, Wolrad",GER,Men,Decathlon,Bronze
+1932,Los Angeles,Athletics,Athletics,"BAUSCH, James Aloysius Bernard",USA,Men,Decathlon,Gold
+1932,Los Angeles,Athletics,Athletics,"JÄRVINEN, Akiles Eero Johannes",FIN,Men,Decathlon,Silver
+1932,Los Angeles,Athletics,Athletics,"WINTER, Paul",FRA,Men,Discus Throw,Bronze
+1932,Los Angeles,Athletics,Athletics,"ANDERSON, John Franklin",USA,Men,Discus Throw,Gold
+1932,Los Angeles,Athletics,Athletics,"LABORDE, Henri Jean",USA,Men,Discus Throw,Silver
+1932,Los Angeles,Athletics,Athletics,"WAJSOURNA, Jadwiga",POL,Women,Discus Throw,Bronze
+1932,Los Angeles,Athletics,Athletics,"COPELAND, Lillian",USA,Women,Discus Throw,Gold
+1932,Los Angeles,Athletics,Athletics,"OSBURN, Ruth",USA,Women,Discus Throw,Silver
+1932,Los Angeles,Athletics,Athletics,"ZAREMBA, Peter Timothy",USA,Men,Hammer Throw,Bronze
+1932,Los Angeles,Athletics,Athletics,"O'CALLAGHAN, Patrick",IRL,Men,Hammer Throw,Gold
+1932,Los Angeles,Athletics,Athletics,"PÖRHÖLÄ, Frans Wilhelmi",FIN,Men,Hammer Throw,Silver
+1932,Los Angeles,Athletics,Athletics,"TORIBIO, Simeon Galvez",PHI,Men,High Jump,Bronze
+1932,Los Angeles,Athletics,Athletics,"MCNAUGHTON, Duncan",CAN,Men,High Jump,Gold
+1932,Los Angeles,Athletics,Athletics,"VAN OSDEL, Robert",USA,Men,High Jump,Silver
+1932,Los Angeles,Athletics,Athletics,"DAWES-SPINKS, Eva",CAN,Women,High Jump,Bronze
+1932,Los Angeles,Athletics,Athletics,"SHILEY, Jean",USA,Women,High Jump,Gold
+1932,Los Angeles,Athletics,Athletics,"DIDRIKSON, Mildred",USA,Women,High Jump,Silver
+1932,Los Angeles,Athletics,Athletics,"PENTTILA, Eino",FIN,Men,Javelin Throw,Bronze
+1932,Los Angeles,Athletics,Athletics,"JARVINEN, Matti Henrik",FIN,Men,Javelin Throw,Gold
+1932,Los Angeles,Athletics,Athletics,"SIPPALA, Matti Kalervo",FIN,Men,Javelin Throw,Silver
+1932,Los Angeles,Athletics,Athletics,"FLEISCHER, Mathilde (Tilly)",GER,Women,Javelin Throw,Bronze
+1932,Los Angeles,Athletics,Athletics,"DIDRIKSON, Mildred",USA,Women,Javelin Throw,Gold
+1932,Los Angeles,Athletics,Athletics,"BRAUMÜLLER, Ellen",GER,Women,Javelin Throw,Silver
+1932,Los Angeles,Athletics,Athletics,"NAMBU, Chuhei",JPN,Men,Long Jump,Bronze
+1932,Los Angeles,Athletics,Athletics,"GORDON, Edward Lansing",USA,Men,Long Jump,Gold
+1932,Los Angeles,Athletics,Athletics,"REDD, Charles Lambert",USA,Men,Long Jump,Silver
+1932,Los Angeles,Athletics,Athletics,"TOIVONEN, Armas Adam",FIN,Men,Marathon,Bronze
+1932,Los Angeles,Athletics,Athletics,"ZABALA, Juan Carlos",ARG,Men,Marathon,Gold
+1932,Los Angeles,Athletics,Athletics,"FERRIS, Samuel",GBR,Men,Marathon,Silver
+1932,Los Angeles,Athletics,Athletics,"JEFFERSON, George G.",USA,Men,Pole Vault,Bronze
+1932,Los Angeles,Athletics,Athletics,"MILLER, William Waring",USA,Men,Pole Vault,Gold
+1932,Los Angeles,Athletics,Athletics,"NISHIDA, Shuhei",JPN,Men,Pole Vault,Silver
+1932,Los Angeles,Athletics,Athletics,"DOUDA, Frantisek",TCH,Men,Shot Put,Bronze
+1932,Los Angeles,Athletics,Athletics,"SEXTON, Leo Joseph",USA,Men,Shot Put,Gold
+1932,Los Angeles,Athletics,Athletics,"ROTHERT, Harlow Phelps",USA,Men,Shot Put,Silver
+1932,Los Angeles,Athletics,Athletics,"OSHIMA, Kenkichi",JPN,Men,Triple Jump,Bronze
+1932,Los Angeles,Athletics,Athletics,"NAMBU, Chuhei",JPN,Men,Triple Jump,Gold
+1932,Los Angeles,Athletics,Athletics,"SVENSSON, Eric",SWE,Men,Triple Jump,Silver
+1932,Los Angeles,Boxing,Boxing,"SALICA, Louis",USA,Men,- 50.8KG (Flyweight),Bronze
+1932,Los Angeles,Boxing,Boxing,"ENEKES, Istvan",HUN,Men,- 50.8KG (Flyweight),Gold
+1932,Los Angeles,Boxing,Boxing,"CABANAS, Francisco",MEX,Men,- 50.8KG (Flyweight),Silver
+1932,Los Angeles,Boxing,Boxing,"FEARY, Frederick",USA,Men,+ 79.38KG (Heavyweight),Bronze
+1932,Los Angeles,Boxing,Boxing,"LOVELL, Alberto Santiago",ARG,Men,+ 79.38KG (Heavyweight),Gold
+1932,Los Angeles,Boxing,Boxing,"ROVATI, Luigi",ITA,Men,+ 79.38KG (Heavyweight),Silver
+1932,Los Angeles,Boxing,Boxing,"VILLANUEVA, Jose",PHI,Men,50.8 - 54KG (Bantamweight),Bronze
+1932,Los Angeles,Boxing,Boxing,"GWYNNE, Horace Lefty",CAN,Men,50.8 - 54KG (Bantamweight),Gold
+1932,Los Angeles,Boxing,Boxing,"ZIGLARSKI, Hans",GER,Men,50.8 - 54KG (Bantamweight),Silver
+1932,Los Angeles,Boxing,Boxing,"CARLSSON-EKEBACK, Allan",SWE,Men,54 - 57.15KG (Featherweight),Bronze
+1932,Los Angeles,Boxing,Boxing,"ROBLEDO, Carmelo Ambrosio",ARG,Men,54 - 57.15KG (Featherweight),Gold
+1932,Los Angeles,Boxing,Boxing,"SCHLEINKOFER, Josef",GER,Men,54 - 57.15KG (Featherweight),Silver
+1932,Los Angeles,Boxing,Boxing,"BOR, Nathan",USA,Men,57.15 - 61.24KG (Lightweight),Bronze
+1932,Los Angeles,Boxing,Boxing,"STEVENS, Lawrence",RSA,Men,57.15 - 61.24KG (Lightweight),Gold
+1932,Los Angeles,Boxing,Boxing,"AHLQVIST, Thure",SWE,Men,57.15 - 61.24KG (Lightweight),Silver
+1932,Los Angeles,Boxing,Boxing,"AHLBERG, Bruno Valfrid",FIN,Men,61.24 - 66.68KG (Welterweight),Bronze
+1932,Los Angeles,Boxing,Boxing,"FLYNN, Edward L.",USA,Men,61.24 - 66.68KG (Welterweight),Gold
+1932,Los Angeles,Boxing,Boxing,"CAMPE, Erich",GER,Men,61.24 - 66.68KG (Welterweight),Silver
+1932,Los Angeles,Boxing,Boxing,"PIERCE, Ernest",RSA,Men,66.68 - 72.57KG (Middleweight),Bronze
+1932,Los Angeles,Boxing,Boxing,"BARTH, Carmen",USA,Men,66.68 - 72.57KG (Middleweight),Gold
+1932,Los Angeles,Boxing,Boxing,"AZAR, Amado",ARG,Men,66.68 - 72.57KG (Middleweight),Silver
+1932,Los Angeles,Boxing,Boxing,"JORGENSEN, Peter Oscar",DEN,Men,72.57 - 79.38KG (Light-Heavyweight),Bronze
+1932,Los Angeles,Boxing,Boxing,"CARSTENS, David Daniel",RSA,Men,72.57 - 79.38KG (Light-Heavyweight),Gold
+1932,Los Angeles,Boxing,Boxing,"ROSSI, Gino",ITA,Men,72.57 - 79.38KG (Light-Heavyweight),Silver
+1932,Los Angeles,Cycling,Cycling Road,"BRITZ, Bernhard",SWE,Men,Individual Time Trial,Bronze
+1932,Los Angeles,Cycling,Cycling Road,"PAVESI, Attilio",ITA,Men,Individual Time Trial,Gold
+1932,Los Angeles,Cycling,Cycling Road,"SEGATO, Guglielmo",ITA,Men,Individual Time Trial,Silver
+1932,Los Angeles,Cycling,Cycling Road,"BERG, Arne",SWE,Men,Team Time Trial,Bronze
+1932,Los Angeles,Cycling,Cycling Road,"BRITZ, Bernhard",SWE,Men,Team Time Trial,Bronze
+1932,Los Angeles,Cycling,Cycling Road,"HÖGLUND, Sven",SWE,Men,Team Time Trial,Bronze
+1932,Los Angeles,Cycling,Cycling Road,"OLMO, Giuseppe",ITA,Men,Team Time Trial,Gold
+1932,Los Angeles,Cycling,Cycling Road,"PAVESI, Attilio",ITA,Men,Team Time Trial,Gold
+1932,Los Angeles,Cycling,Cycling Road,"SEGATO, Guglielmo",ITA,Men,Team Time Trial,Gold
+1932,Los Angeles,Cycling,Cycling Road,"HANSEN, Henry Peter Christian",DEN,Men,Team Time Trial,Silver
+1932,Los Angeles,Cycling,Cycling Road,"NIELSEN, Leo",DEN,Men,Team Time Trial,Silver
+1932,Los Angeles,Cycling,Cycling Road,"SÖRENSEN, Frode Otto",DEN,Men,Team Time Trial,Silver
+1932,Los Angeles,Cycling,Cycling Track,"RAMPELBERG, Charles",FRA,Men,1KM Time Trial,Bronze
+1932,Los Angeles,Cycling,Cycling Track,"GRAY, Edgar Laurence",AUS,Men,1KM Time Trial,Gold
+1932,Los Angeles,Cycling,Cycling Track,"VAN EGMOND, Jacobus Johannes",NED,Men,1KM Time Trial,Silver
+1932,Los Angeles,Cycling,Cycling Track,"CHRISTENSEN, Harald",DEN,Men,2000M Tandem,Bronze
+1932,Los Angeles,Cycling,Cycling Track,"GERVIN, Willy Viggo",DEN,Men,2000M Tandem,Bronze
+1932,Los Angeles,Cycling,Cycling Track,"CHAILLOT, Louis",FRA,Men,2000M Tandem,Gold
+1932,Los Angeles,Cycling,Cycling Track,"PERRIN, Maurice",FRA,Men,2000M Tandem,Gold
+1932,Los Angeles,Cycling,Cycling Track,"CHAMBERS, Ernest Henry",GBR,Men,2000M Tandem,Silver
+1932,Los Angeles,Cycling,Cycling Track,"CHAMBERS, Stanley",GBR,Men,2000M Tandem,Silver
+1932,Los Angeles,Cycling,Cycling Track,"PELLIZZARI, Bruno",ITA,Men,Sprint Indivual,Bronze
+1932,Los Angeles,Cycling,Cycling Track,"VAN EGMOND, Jacobus Johannes",NED,Men,Sprint Indivual,Gold
+1932,Los Angeles,Cycling,Cycling Track,"CHAILLOT, Louis",FRA,Men,Sprint Indivual,Silver
+1932,Los Angeles,Cycling,Cycling Track,"HARWELL, William Gladstone",GBR,Men,Team Pursuit (4000M),Bronze
+1932,Los Angeles,Cycling,Cycling Track,"HOLLAND, Charles Alfred",GBR,Men,Team Pursuit (4000M),Bronze
+1932,Los Angeles,Cycling,Cycling Track,"JOHNSON, Ernest Alfred",GBR,Men,Team Pursuit (4000M),Bronze
+1932,Los Angeles,Cycling,Cycling Track,"SOUTHALL, Frank William",GBR,Men,Team Pursuit (4000M),Bronze
+1932,Los Angeles,Cycling,Cycling Track,"BORSARI, Nino",ITA,Men,Team Pursuit (4000M),Gold
+1932,Los Angeles,Cycling,Cycling Track,"CIMATTI, Marco",ITA,Men,Team Pursuit (4000M),Gold
+1932,Los Angeles,Cycling,Cycling Track,"GHILARDI, Alberto",ITA,Men,Team Pursuit (4000M),Gold
+1932,Los Angeles,Cycling,Cycling Track,"PEDRETTI, Paolo",ITA,Men,Team Pursuit (4000M),Gold
+1932,Los Angeles,Cycling,Cycling Track,"CHOCQUE, Paul",FRA,Men,Team Pursuit (4000M),Silver
+1932,Los Angeles,Cycling,Cycling Track,"FOURNIER, Amede",FRA,Men,Team Pursuit (4000M),Silver
+1932,Los Angeles,Cycling,Cycling Track,"LEGREVES, Rene",FRA,Men,Team Pursuit (4000M),Silver
+1932,Los Angeles,Cycling,Cycling Track,"MOUILLEFARINE, Henri",FRA,Men,Team Pursuit (4000M),Silver
+1932,Los Angeles,Equestrian,Dressage,"TUTTLE, Hiram E.",USA,Men,Individual,Bronze
+1932,Los Angeles,Equestrian,Dressage,"LESAGE, Xavier François",FRA,Men,Individual,Gold
+1932,Los Angeles,Equestrian,Dressage,"MARION, Charles Louis Pierre",FRA,Men,Individual,Silver
+1932,Los Angeles,Equestrian,Dressage,"KITTS, Isaac Leonard",USA,Men,Team,Bronze
+1932,Los Angeles,Equestrian,Dressage,"MOORE, Alvin H.",USA,Men,Team,Bronze
+1932,Los Angeles,Equestrian,Dressage,"TUTTLE, Hiram E.",USA,Men,Team,Bronze
+1932,Los Angeles,Equestrian,Dressage,"JOUSSEAUME, Andre Rene",FRA,Men,Team,Gold
+1932,Los Angeles,Equestrian,Dressage,"LESAGE, Xavier François",FRA,Men,Team,Gold
+1932,Los Angeles,Equestrian,Dressage,"MARION, Charles Louis Pierre",FRA,Men,Team,Gold
+1932,Los Angeles,Equestrian,Dressage,"BOLTENSTERN JR., Gustaf Adolf",SWE,Men,Team,Silver
+1932,Los Angeles,Equestrian,Dressage,"BYSTRÖM, Thomas",SWE,Men,Team,Silver
+1932,Los Angeles,Equestrian,Dressage,"SANDSTRÖM, Bertil",SWE,Men,Team,Silver
+1932,Los Angeles,Equestrian,Eventing,"VON ROSEN JR., Clarence",SWE,Men,Individual,Bronze
+1932,Los Angeles,Equestrian,Eventing,"PAHUD DE MORTANGES, Charles Ferdinand",NED,Men,Individual,Gold
+1932,Los Angeles,Equestrian,Eventing,"THOMSON, Earl Foster",USA,Men,Individual,Silver
+1932,Los Angeles,Equestrian,Eventing,"ARGO, Edwin Yancey",USA,Men,Team,Gold
+1932,Los Angeles,Equestrian,Eventing,"CHAMBERLIN, Harry Dwight",USA,Men,Team,Gold
+1932,Los Angeles,Equestrian,Eventing,"THOMSON, Earl Foster",USA,Men,Team,Gold
+1932,Los Angeles,Equestrian,Eventing,"PAHUD DE MORTANGES, Charles Ferdinand",NED,Men,Team,Silver
+1932,Los Angeles,Equestrian,Eventing,"SCHUMMELKETEL, Karel Johan",NED,Men,Team,Silver
+1932,Los Angeles,Equestrian,Eventing,"VAN LENNEP, Aernout",NED,Men,Team,Silver
+1932,Los Angeles,Equestrian,Jumping,"VON ROSEN JR., Clarence",SWE,Men,Individual,Bronze
+1932,Los Angeles,Equestrian,Jumping,"NISHI, Takeichi",JPN,Men,Individual,Gold
+1932,Los Angeles,Equestrian,Jumping,"CHAMBERLIN, Harry Dwight",USA,Men,Individual,Silver
+1932,Los Angeles,Fencing,Fencing,"AGOSTONI, Carlo",ITA,Men,Épée Individual,Bronze
+1932,Los Angeles,Fencing,Fencing,"CORNAGGIA-MEDICI, Giancarlo C.",ITA,Men,Épée Individual,Gold
+1932,Los Angeles,Fencing,Fencing,"BUCHARD, Georges",FRA,Men,Épée Individual,Silver
+1932,Los Angeles,Fencing,Fencing,"CALNAN, George Charles",USA,Men,Épée Team,Bronze
+1932,Los Angeles,Fencing,Fencing,"DE CAPRILES, Miguel Angel",USA,Men,Épée Team,Bronze
+1932,Los Angeles,Fencing,Fencing,"HEISS, Gustave Marinius",USA,Men,Épée Team,Bronze
+1932,Los Angeles,Fencing,Fencing,"JAECKEL, Tracy",USA,Men,Épée Team,Bronze
+1932,Los Angeles,Fencing,Fencing,"RIGHEIMER, Frank Stahl Jr.",USA,Men,Épée Team,Bronze
+1932,Los Angeles,Fencing,Fencing,"SHEARS, Curtis Charles",USA,Men,Épée Team,Bronze
+1932,Los Angeles,Fencing,Fencing,"BUCHARD, Georges",FRA,Men,Épée Team,Gold
+1932,Los Angeles,Fencing,Fencing,"CATTIAU, Philippe",FRA,Men,Épée Team,Gold
+1932,Los Angeles,Fencing,Fencing,"JOURDANT, Fernand",FRA,Men,Épée Team,Gold
+1932,Los Angeles,Fencing,Fencing,"PIOT, Jean",FRA,Men,Épée Team,Gold
+1932,Los Angeles,Fencing,Fencing,"SCHMETZ, Bernard",FRA,Men,Épée Team,Gold
+1932,Los Angeles,Fencing,Fencing,"TAINTURIER, Georges",FRA,Men,Épée Team,Gold
+1932,Los Angeles,Fencing,Fencing,"AGOSTONI, Carlo",ITA,Men,Épée Team,Silver
+1932,Los Angeles,Fencing,Fencing,"CORNAGGIA-MEDICI, Giancarlo C.",ITA,Men,Épée Team,Silver
+1932,Los Angeles,Fencing,Fencing,"MINOLI, Renzo",ITA,Men,Épée Team,Silver
+1932,Los Angeles,Fencing,Fencing,"RAGNO, Saverio",ITA,Men,Épée Team,Silver
+1932,Los Angeles,Fencing,Fencing,"RICCARDI, Franco",ITA,Men,Épée Team,Silver
+1932,Los Angeles,Fencing,Fencing,"GAUDINI, Giulio",ITA,Men,Foil Individual,Bronze
+1932,Los Angeles,Fencing,Fencing,"MARZI, Gustavo",ITA,Men,Foil Individual,Gold
+1932,Los Angeles,Fencing,Fencing,"LEVIS, Joseph L.",USA,Men,Foil Individual,Silver
+1932,Los Angeles,Fencing,Fencing,"BOGEN, Erna",HUN,Women,Foil Individual,Bronze
+1932,Los Angeles,Fencing,Fencing,"PREIS-MÜLLER, Ellen S.",AUT,Women,Foil Individual,Gold
+1932,Los Angeles,Fencing,Fencing,"GUINNESS, Heather Seymour",GBR,Women,Foil Individual,Silver
+1932,Los Angeles,Fencing,Fencing,"ALESSANDRONI, Hugh Vincent",USA,Men,Foil Team,Bronze
+1932,Los Angeles,Fencing,Fencing,"CALNAN, George Charles",USA,Men,Foil Team,Bronze
+1932,Los Angeles,Fencing,Fencing,"EVERY, Dernell",USA,Men,Foil Team,Bronze
+1932,Los Angeles,Fencing,Fencing,"LEVIS, Joseph L.",USA,Men,Foil Team,Bronze
+1932,Los Angeles,Fencing,Fencing,"RIGHEIMER, Frank Stahl Jr.",USA,Men,Foil Team,Bronze
+1932,Los Angeles,Fencing,Fencing,"STEERE, Richard Clarke",USA,Men,Foil Team,Bronze
+1932,Los Angeles,Fencing,Fencing,"BONDOUX, René",FRA,Men,Foil Team,Gold
+1932,Los Angeles,Fencing,Fencing,"BOUGNOL, René",FRA,Men,Foil Team,Gold
+1932,Los Angeles,Fencing,Fencing,"CATTIAU, Philippe",FRA,Men,Foil Team,Gold
+1932,Los Angeles,Fencing,Fencing,"GARDERE, Edouard",FRA,Men,Foil Team,Gold
+1932,Los Angeles,Fencing,Fencing,"LEMOINE, René",FRA,Men,Foil Team,Gold
+1932,Los Angeles,Fencing,Fencing,"PIOT, Jean",FRA,Men,Foil Team,Gold
+1932,Los Angeles,Fencing,Fencing,"GAUDINI, Giulio",ITA,Men,Foil Team,Silver
+1932,Los Angeles,Fencing,Fencing,"GUARAGNA, Gioachino",ITA,Men,Foil Team,Silver
+1932,Los Angeles,Fencing,Fencing,"MARZI, Gustavo",ITA,Men,Foil Team,Silver
+1932,Los Angeles,Fencing,Fencing,"PESSINA, Giorgio",ITA,Men,Foil Team,Silver
+1932,Los Angeles,Fencing,Fencing,"PIGNOTTI, Ugo",ITA,Men,Foil Team,Silver
+1932,Los Angeles,Fencing,Fencing,"TERLIZZI, Rodolfo",ITA,Men,Foil Team,Silver
+1932,Los Angeles,Fencing,Fencing,"KABOS, Endre",HUN,Men,Sabre Individual,Bronze
+1932,Los Angeles,Fencing,Fencing,"PILLER JEKELFALUSSY, György",HUN,Men,Sabre Individual,Gold
+1932,Los Angeles,Fencing,Fencing,"GAUDINI, Giulio",ITA,Men,Sabre Individual,Silver
+1932,Los Angeles,Fencing,Fencing,"DOBROWOLSKI, Wladyslaw",POL,Men,Sabre Team,Bronze
+1932,Los Angeles,Fencing,Fencing,"FRIEDRICH, Tadeusz",POL,Men,Sabre Team,Bronze
+1932,Los Angeles,Fencing,Fencing,"LUBICZ-NYCZ, Leszek",POL,Men,Sabre Team,Bronze
+1932,Los Angeles,Fencing,Fencing,"PAPÉE, Adam",POL,Men,Sabre Team,Bronze
+1932,Los Angeles,Fencing,Fencing,"SEGDA, Wladyslaw",POL,Men,Sabre Team,Bronze
+1932,Los Angeles,Fencing,Fencing,"SUSKI, Marian",POL,Men,Sabre Team,Bronze
+1932,Los Angeles,Fencing,Fencing,"GEREVICH, Aladar",HUN,Men,Sabre Team,Gold
+1932,Los Angeles,Fencing,Fencing,"GLYKAIS, Gyula",HUN,Men,Sabre Team,Gold
+1932,Los Angeles,Fencing,Fencing,"KABOS, Endre",HUN,Men,Sabre Team,Gold
+1932,Los Angeles,Fencing,Fencing,"NAGY, Erno",HUN,Men,Sabre Team,Gold
+1932,Los Angeles,Fencing,Fencing,"PETSCHAUER, Attila",HUN,Men,Sabre Team,Gold
+1932,Los Angeles,Fencing,Fencing,"PILLER JEKELFALUSSY, György",HUN,Men,Sabre Team,Gold
+1932,Los Angeles,Fencing,Fencing,"ANSELMI, Renato",ITA,Men,Sabre Team,Silver
+1932,Los Angeles,Fencing,Fencing,"DE VECCHI, Arturo",ITA,Men,Sabre Team,Silver
+1932,Los Angeles,Fencing,Fencing,"GAUDINI, Giulio",ITA,Men,Sabre Team,Silver
+1932,Los Angeles,Fencing,Fencing,"MARZI, Gustavo",ITA,Men,Sabre Team,Silver
+1932,Los Angeles,Fencing,Fencing,"PIGNOTTI, Ugo",ITA,Men,Sabre Team,Silver
+1932,Los Angeles,Fencing,Fencing,"SALAFIA, Emilio",ITA,Men,Sabre Team,Silver
+1932,Los Angeles,Gymnastics,Artistic G.,"LERTORA, Mario",ITA,Men,Floor Exercises,Bronze
+1932,Los Angeles,Gymnastics,Artistic G.,"PELLE, István",HUN,Men,Floor Exercises,Gold
+1932,Los Angeles,Gymnastics,Artistic G.,"MIEZ, Georges",SUI,Men,Floor Exercises,Silver
+1932,Los Angeles,Gymnastics,Artistic G.,"TERÄSVIRTA, Einari Allan",FIN,Men,Horizontal Bar,Bronze
+1932,Los Angeles,Gymnastics,Artistic G.,"BIXLER, Dallas Denver",USA,Men,Horizontal Bar,Gold
+1932,Los Angeles,Gymnastics,Artistic G.,"SAVOLAINEN, Heikki",FIN,Men,Horizontal Bar,Silver
+1932,Los Angeles,Gymnastics,Artistic G.,"KUHLEMEIER, William Harmon",USA,Men,Indian Clubs,Bronze
+1932,Los Angeles,Gymnastics,Artistic G.,"ROTH, George Helm",USA,Men,Indian Clubs,Gold
+1932,Los Angeles,Gymnastics,Artistic G.,"ERENBERG, Philip Richard",USA,Men,Indian Clubs,Silver
+1932,Los Angeles,Gymnastics,Artistic G.,"SAVOLAINEN, Heikki",FIN,Men,Individual All-Round,Bronze
+1932,Los Angeles,Gymnastics,Artistic G.,"NERI, Romeo",ITA,Men,Individual All-Round,Gold
+1932,Los Angeles,Gymnastics,Artistic G.,"PELLE, István",HUN,Men,Individual All-Round,Silver
+1932,Los Angeles,Gymnastics,Artistic G.,"SAVOLAINEN, Heikki",FIN,Men,Parallel Bars,Bronze
+1932,Los Angeles,Gymnastics,Artistic G.,"NERI, Romeo",ITA,Men,Parallel Bars,Gold
+1932,Los Angeles,Gymnastics,Artistic G.,"PELLE, István",HUN,Men,Parallel Bars,Silver
+1932,Los Angeles,Gymnastics,Artistic G.,"HAUBOLD, Frank Otto",USA,Men,Pommel Horse,Bronze
+1932,Los Angeles,Gymnastics,Artistic G.,"PELLE, István",HUN,Men,Pommel Horse,Gold
+1932,Los Angeles,Gymnastics,Artistic G.,"BONOLI, Omero",ITA,Men,Pommel Horse,Silver
+1932,Los Angeles,Gymnastics,Artistic G.,"LATTUADA, Giovanni",ITA,Men,Rings,Bronze
+1932,Los Angeles,Gymnastics,Artistic G.,"GULACK, George Julius",USA,Men,Rings,Gold
+1932,Los Angeles,Gymnastics,Artistic G.,"DENTON, William Thomas",USA,Men,Rings,Silver
+1932,Los Angeles,Gymnastics,Artistic G.,"CONNELLY, Thomas Francis Jr.",USA,Men,Rope Climbing,Bronze
+1932,Los Angeles,Gymnastics,Artistic G.,"BASS, Raymond Henry",USA,Men,Rope Climbing,Gold
+1932,Los Angeles,Gymnastics,Artistic G.,"GALBRAITH, William Jackson",USA,Men,Rope Climbing,Silver
+1932,Los Angeles,Gymnastics,Artistic G.,"NYBERG-NOROMA, Mauri Kalervo",FIN,Men,Team Competition,Bronze
+1932,Los Angeles,Gymnastics,Artistic G.,"PAKARINEN, Veikko Ilmari",FIN,Men,Team Competition,Bronze
+1932,Los Angeles,Gymnastics,Artistic G.,"SAVOLAINEN, Heikki",FIN,Men,Team Competition,Bronze
+1932,Los Angeles,Gymnastics,Artistic G.,"TERÄSVIRTA, Einari Allan",FIN,Men,Team Competition,Bronze
+1932,Los Angeles,Gymnastics,Artistic G.,"UOSIKKINEN, Martti",FIN,Men,Team Competition,Bronze
+1932,Los Angeles,Gymnastics,Artistic G.,"CAPUZZO, Oreste",ITA,Men,Team Competition,Gold
+1932,Los Angeles,Gymnastics,Artistic G.,"GUGLIELMETTI, Savino",ITA,Men,Team Competition,Gold
+1932,Los Angeles,Gymnastics,Artistic G.,"LERTORA, Mario",ITA,Men,Team Competition,Gold
+1932,Los Angeles,Gymnastics,Artistic G.,"NERI, Romeo",ITA,Men,Team Competition,Gold
+1932,Los Angeles,Gymnastics,Artistic G.,"TOGNINI, Franco",ITA,Men,Team Competition,Gold
+1932,Los Angeles,Gymnastics,Artistic G.,"CUMISKEY, Frank Joseph",USA,Men,Team Competition,Silver
+1932,Los Angeles,Gymnastics,Artistic G.,"HAUBOLD, Frank Otto",USA,Men,Team Competition,Silver
+1932,Los Angeles,Gymnastics,Artistic G.,"JOCHIM, Alfred",USA,Men,Team Competition,Silver
+1932,Los Angeles,Gymnastics,Artistic G.,"MEYER, Frederick H.",USA,Men,Team Competition,Silver
+1932,Los Angeles,Gymnastics,Artistic G.,"SCHULER, Michael",USA,Men,Team Competition,Silver
+1932,Los Angeles,Gymnastics,Artistic G.,"HERRMANN, William John",USA,Men,Tumbling,Bronze
+1932,Los Angeles,Gymnastics,Artistic G.,"WOLFE, Rowland",USA,Men,Tumbling,Gold
+1932,Los Angeles,Gymnastics,Artistic G.,"GROSS, Edward",USA,Men,Tumbling,Silver
+1932,Los Angeles,Gymnastics,Artistic G.,"CARMICHAEL, Edward",USA,Men,Vault,Bronze
+1932,Los Angeles,Gymnastics,Artistic G.,"GUGLIELMETTI, Savino",ITA,Men,Vault,Gold
+1932,Los Angeles,Gymnastics,Artistic G.,"JOCHIM, Alfred",USA,Men,Vault,Silver
+1932,Los Angeles,Hockey,Hockey,"BODDINGTON, William Westcott",USA,Men,Hockey,Bronze
+1932,Los Angeles,Hockey,Hockey,"BREWSTER, Harold S.",USA,Men,Hockey,Bronze
+1932,Los Angeles,Hockey,Hockey,"DEACON, Amos R.Little",USA,Men,Hockey,Bronze
+1932,Los Angeles,Hockey,Hockey,"DISSTON, Horace Cumberland",USA,Men,Hockey,Bronze
+1932,Los Angeles,Hockey,Hockey,"EWING, Samuel Evans Jr.",USA,Men,Hockey,Bronze
+1932,Los Angeles,Hockey,Hockey,"GENTLE, James Cuthbert",USA,Men,Hockey,Bronze
+1932,Los Angeles,Hockey,Hockey,"GREER, Henry Kirk",USA,Men,Hockey,Bronze
+1932,Los Angeles,Hockey,Hockey,"KNAPP, Lawrence A.",USA,Men,Hockey,Bronze
+1932,Los Angeles,Hockey,Hockey,"MCMULLIN, David III.",USA,Men,Hockey,Bronze
+1932,Los Angeles,Hockey,Hockey,"O'BRIEN, Leonard Francis",USA,Men,Hockey,Bronze
+1932,Los Angeles,Hockey,Hockey,"SHEAFFER, Charles Miller",USA,Men,Hockey,Bronze
+1932,Los Angeles,Hockey,Hockey,"WOLTERS, Frederick Stanley",USA,Men,Hockey,Bronze
+1932,Los Angeles,Hockey,Hockey,"BAIS, Dhyan Chand",IND,Men,Hockey,Gold
+1932,Los Angeles,Hockey,Hockey,"BAIS, Roop Singh",IND,Men,Hockey,Gold
+1932,Los Angeles,Hockey,Hockey,"BOKHARI, Lal Shah",IND,Men,Hockey,Gold
+1932,Los Angeles,Hockey,Hockey,"CARR, Richard John",IND,Men,Hockey,Gold
+1932,Los Angeles,Hockey,Hockey,"HAMMOND, Leslie Charles",IND,Men,Hockey,Gold
+1932,Los Angeles,Hockey,Hockey,"HIND, Arthur Charles",IND,Men,Hockey,Gold
+1932,Los Angeles,Hockey,Hockey,"JAFFAR, Sayed Mohomed",IND,Men,Hockey,Gold
+1932,Los Angeles,Hockey,Hockey,"MINHAS, Masud Ali Khan",IND,Men,Hockey,Gold
+1932,Los Angeles,Hockey,Hockey,"PINNIGER, Broome Eric",IND,Men,Hockey,Gold
+1932,Los Angeles,Hockey,Hockey,"SINGH KULLAR, Gurmit",IND,Men,Hockey,Gold
+1932,Los Angeles,Hockey,Hockey,"TAPSELL, Carlyle Carrol",IND,Men,Hockey,Gold
+1932,Los Angeles,Hockey,Hockey,"HAMADA, Shunkichi",JPN,Men,Hockey,Silver
+1932,Los Angeles,Hockey,Hockey,"INOHARA, Junzo",JPN,Men,Hockey,Silver
+1932,Los Angeles,Hockey,Hockey,"KOBAYASHI, Sadayoshi",JPN,Men,Hockey,Silver
+1932,Los Angeles,Hockey,Hockey,"KON, Haruhiko",JPN,Men,Hockey,Silver
+1932,Los Angeles,Hockey,Hockey,"KONISHI, Kenichi",JPN,Men,Hockey,Silver
+1932,Los Angeles,Hockey,Hockey,"NAGATA, Hiroshi",JPN,Men,Hockey,Silver
+1932,Los Angeles,Hockey,Hockey,"NAKAMURA, Eiichi",JPN,Men,Hockey,Silver
+1932,Los Angeles,Hockey,Hockey,"SAKAI, Yoshio",JPN,Men,Hockey,Silver
+1932,Los Angeles,Hockey,Hockey,"SHIBATA, Katsumi",JPN,Men,Hockey,Silver
+1932,Los Angeles,Hockey,Hockey,"SODA, Akio",JPN,Men,Hockey,Silver
+1932,Los Angeles,Hockey,Hockey,"USAMI, Toshio",JPN,Men,Hockey,Silver
+1932,Los Angeles,Modern Pentathlon,Modern Pentath.,"MAYO, Richard Walden",USA,Men,Individual Competition,Bronze
+1932,Los Angeles,Modern Pentathlon,Modern Pentath.,"OXENSTIERNA, Johan Gabriel",SWE,Men,Individual Competition,Gold
+1932,Los Angeles,Modern Pentathlon,Modern Pentath.,"LINDMAN, Bo Sigfrid Gabriel",SWE,Men,Individual Competition,Silver
+1932,Los Angeles,Rowing,Rowing,"BUDZINSKI, Henryk",POL,Men,Coxless Pair (2-),Bronze
+1932,Los Angeles,Rowing,Rowing,"KRENZ-MIKOLAJCZAK, Janusz",POL,Men,Coxless Pair (2-),Bronze
+1932,Los Angeles,Rowing,Rowing,"CLIVE, Lewis",GBR,Men,Coxless Pair (2-),Gold
+1932,Los Angeles,Rowing,Rowing,"EDWARDS, Hugh",GBR,Men,Coxless Pair (2-),Gold
+1932,Los Angeles,Rowing,Rowing,"STILES, Cyril Alec",NZL,Men,Coxless Pair (2-),Silver
+1932,Los Angeles,Rowing,Rowing,"THOMPSON, Fred Houghton",NZL,Men,Coxless Pair (2-),Silver
+1932,Los Angeles,Rowing,Rowing,"DE MILLE, Noel",CAN,Men,Double Sculls (2X),Bronze
+1932,Los Angeles,Rowing,Rowing,"PRATT, Charles E.",CAN,Men,Double Sculls (2X),Bronze
+1932,Los Angeles,Rowing,Rowing,"GILMORE, Williams  E.Garrett",USA,Men,Double Sculls (2X),Gold
+1932,Los Angeles,Rowing,Rowing,"MYERS, Kenneth",USA,Men,Double Sculls (2X),Gold
+1932,Los Angeles,Rowing,Rowing,"BOETZELEN, Gerhard",GER,Men,Double Sculls (2X),Silver
+1932,Los Angeles,Rowing,Rowing,"BUHTZ, Herbert",GER,Men,Double Sculls (2X),Silver
+1932,Los Angeles,Rowing,Rowing,"BOAL, Donald G.",CAN,Men,Eight With Coxswain (8+),Bronze
+1932,Los Angeles,Rowing,Rowing,"EASTWOOD, Earl",CAN,Men,Eight With Coxswain (8+),Bronze
+1932,Los Angeles,Rowing,Rowing,"FRY, Harry Britain",CAN,Men,Eight With Coxswain (8+),Bronze
+1932,Los Angeles,Rowing,Rowing,"HARRIS, Joseph John",CAN,Men,Eight With Coxswain (8+),Bronze
+1932,Los Angeles,Rowing,Rowing,"LIDDELL, Cedric Haswell",CAN,Men,Eight With Coxswain (8+),Bronze
+1932,Los Angeles,Rowing,Rowing,"MAC DONALD, George Leslie",CAN,Men,Eight With Coxswain (8+),Bronze
+1932,Los Angeles,Rowing,Rowing,"STANYAR, Stanley",CAN,Men,Eight With Coxswain (8+),Bronze
+1932,Los Angeles,Rowing,Rowing,"TAYLOR, Albert",CAN,Men,Eight With Coxswain (8+),Bronze
+1932,Los Angeles,Rowing,Rowing,"THOBURN, William",CAN,Men,Eight With Coxswain (8+),Bronze
+1932,Los Angeles,Rowing,Rowing,"BLAIR, James Howard",USA,Men,Eight With Coxswain (8+),Gold
+1932,Los Angeles,Rowing,Rowing,"CHANDLER, Charles",USA,Men,Eight With Coxswain (8+),Gold
+1932,Los Angeles,Rowing,Rowing,"DUNLAP, David Coombs",USA,Men,Eight With Coxswain (8+),Gold
+1932,Los Angeles,Rowing,Rowing,"GRAHAM, Norris James",USA,Men,Eight With Coxswain (8+),Gold
+1932,Los Angeles,Rowing,Rowing,"GREGG, Duncan Smith",USA,Men,Eight With Coxswain (8+),Gold
+1932,Los Angeles,Rowing,Rowing,"HALL, Winslow William",USA,Men,Eight With Coxswain (8+),Gold
+1932,Los Angeles,Rowing,Rowing,"JASTRAM, Burton Albert",USA,Men,Eight With Coxswain (8+),Gold
+1932,Los Angeles,Rowing,Rowing,"SALISBURY, Edwin Lyle",USA,Men,Eight With Coxswain (8+),Gold
+1932,Los Angeles,Rowing,Rowing,"TOWER, Harold",USA,Men,Eight With Coxswain (8+),Gold
+1932,Los Angeles,Rowing,Rowing,"BALLERI, Mario",ITA,Men,Eight With Coxswain (8+),Silver
+1932,Los Angeles,Rowing,Rowing,"BARBIERI, Renato",ITA,Men,Eight With Coxswain (8+),Silver
+1932,Los Angeles,Rowing,Rowing,"BARSOTTI, Dino",ITA,Men,Eight With Coxswain (8+),Silver
+1932,Los Angeles,Rowing,Rowing,"BRACCI, Renato",ITA,Men,Eight With Coxswain (8+),Silver
+1932,Los Angeles,Rowing,Rowing,"CIONI, Vittorio",ITA,Men,Eight With Coxswain (8+),Silver
+1932,Los Angeles,Rowing,Rowing,"DEL BIMBO, Guglielmo",ITA,Men,Eight With Coxswain (8+),Silver
+1932,Los Angeles,Rowing,Rowing,"GARZELLI, Enrico",ITA,Men,Eight With Coxswain (8+),Silver
+1932,Los Angeles,Rowing,Rowing,"MILANI, Cesare",ITA,Men,Eight With Coxswain (8+),Silver
+1932,Los Angeles,Rowing,Rowing,"VESTRINI, Roberto",ITA,Men,Eight With Coxswain (8+),Silver
+1932,Los Angeles,Rowing,Rowing,"COSSU, Francesco",ITA,Men,Four Without Coxswain (4-),Bronze
+1932,Los Angeles,Rowing,Rowing,"D, Giliante",ITA,Men,Four Without Coxswain (4-),Bronze
+1932,Los Angeles,Rowing,Rowing,"GHIARDELLO, Antonio",ITA,Men,Four Without Coxswain (4-),Bronze
+1932,Los Angeles,Rowing,Rowing,"PROVENZANI GARZONI, Antonio",ITA,Men,Four Without Coxswain (4-),Bronze
+1932,Los Angeles,Rowing,Rowing,"BADCOCK, John Charles",GBR,Men,Four Without Coxswain (4-),Gold
+1932,Los Angeles,Rowing,Rowing,"BERESFORD, Jack",GBR,Men,Four Without Coxswain (4-),Gold
+1932,Los Angeles,Rowing,Rowing,"EDWARDS, Hugh",GBR,Men,Four Without Coxswain (4-),Gold
+1932,Los Angeles,Rowing,Rowing,"GEORGE, Rowland David",GBR,Men,Four Without Coxswain (4-),Gold
+1932,Los Angeles,Rowing,Rowing,"ALETTER, Karl",GER,Men,Four Without Coxswain (4-),Silver
+1932,Los Angeles,Rowing,Rowing,"FLINSCH, Walter",GER,Men,Four Without Coxswain (4-),Silver
+1932,Los Angeles,Rowing,Rowing,"GABER, Ernst",GER,Men,Four Without Coxswain (4-),Silver
+1932,Los Angeles,Rowing,Rowing,"MAIER, Hans",GER,Men,Four Without Coxswain (4-),Silver
+1932,Los Angeles,Rowing,Rowing,"BRAUN, Jerzy",POL,Men,Four-Oared Shell With Coxswain (4-),Bronze
+1932,Los Angeles,Rowing,Rowing,"KOBYLINSKI, Edward",POL,Men,Four-Oared Shell With Coxswain (4-),Bronze
+1932,Los Angeles,Rowing,Rowing,"SKOLIMOWSKI, Jerzy",POL,Men,Four-Oared Shell With Coxswain (4-),Bronze
+1932,Los Angeles,Rowing,Rowing,"SLAZAK, Janusz",POL,Men,Four-Oared Shell With Coxswain (4-),Bronze
+1932,Los Angeles,Rowing,Rowing,"URBAN, Stanislaw",POL,Men,Four-Oared Shell With Coxswain (4-),Bronze
+1932,Los Angeles,Rowing,Rowing,"ELLER, Hans",GER,Men,Four-Oared Shell With Coxswain (4-),Gold
+1932,Los Angeles,Rowing,Rowing,"HOECK, Horst",GER,Men,Four-Oared Shell With Coxswain (4-),Gold
+1932,Los Angeles,Rowing,Rowing,"MEYER, Walter",GER,Men,Four-Oared Shell With Coxswain (4-),Gold
+1932,Los Angeles,Rowing,Rowing,"NEUMANN, Karl-Heinz",GER,Men,Four-Oared Shell With Coxswain (4-),Gold
+1932,Los Angeles,Rowing,Rowing,"SPREMBERG, Joachim",GER,Men,Four-Oared Shell With Coxswain (4-),Gold
+1932,Los Angeles,Rowing,Rowing,"DIVORA, Riccardo",ITA,Men,Four-Oared Shell With Coxswain (4-),Silver
+1932,Los Angeles,Rowing,Rowing,"PAROVEL, Bruno",ITA,Men,Four-Oared Shell With Coxswain (4-),Silver
+1932,Los Angeles,Rowing,Rowing,"PLAZZER, Giovanni",ITA,Men,Four-Oared Shell With Coxswain (4-),Silver
+1932,Los Angeles,Rowing,Rowing,"SCHER, Giorgio",ITA,Men,Four-Oared Shell With Coxswain (4-),Silver
+1932,Los Angeles,Rowing,Rowing,"VATTOVAZ, Bruno",ITA,Men,Four-Oared Shell With Coxswain (4-),Silver
+1932,Los Angeles,Rowing,Rowing,"BRUNET, Pierre",FRA,Men,Pair-Oared Shell With Coxswain (2+),Bronze
+1932,Los Angeles,Rowing,Rowing,"BRUSA, Anselme",FRA,Men,Pair-Oared Shell With Coxswain (2+),Bronze
+1932,Los Angeles,Rowing,Rowing,"GIRIAT, Andre",FRA,Men,Pair-Oared Shell With Coxswain (2+),Bronze
+1932,Los Angeles,Rowing,Rowing,"JENNINGS, Edward Francis",USA,Men,Pair-Oared Shell With Coxswain (2+),Gold
+1932,Los Angeles,Rowing,Rowing,"KIEFFER, Charles M.",USA,Men,Pair-Oared Shell With Coxswain (2+),Gold
+1932,Los Angeles,Rowing,Rowing,"SCHAUERS, Joseph Anthony",USA,Men,Pair-Oared Shell With Coxswain (2+),Gold
+1932,Los Angeles,Rowing,Rowing,"BRAUN, Jerzy",POL,Men,Pair-Oared Shell With Coxswain (2+),Silver
+1932,Los Angeles,Rowing,Rowing,"SKOLIMOWSKI, Jerzy",POL,Men,Pair-Oared Shell With Coxswain (2+),Silver
+1932,Los Angeles,Rowing,Rowing,"SLAZAK, Janusz",POL,Men,Pair-Oared Shell With Coxswain (2+),Silver
+1932,Los Angeles,Rowing,Rowing,"DOUGLAS, Guillermo",URU,Men,Single Sculls (1X),Bronze
+1932,Los Angeles,Rowing,Rowing,"PEARCE, Henry Robert",AUS,Men,Single Sculls (1X),Gold
+1932,Los Angeles,Rowing,Rowing,"MILLER, William G.",USA,Men,Single Sculls (1X),Silver
+1932,Los Angeles,Sailing,Sailing,"BOULTBEE, Gardner",CAN,Men,6M,Bronze
+1932,Los Angeles,Sailing,Sailing,"GLASS, Kenneth",CAN,Men,6M,Bronze
+1932,Los Angeles,Sailing,Sailing,"ROGERS, Philip T.",CAN,Men,6M,Bronze
+1932,Los Angeles,Sailing,Sailing,"WILSON, Gerald",CAN,Men,6M,Bronze
+1932,Los Angeles,Sailing,Sailing,"AKERLUND, Olle",SWE,Men,6M,Gold
+1932,Los Angeles,Sailing,Sailing,"BERGQVIST, Ake",SWE,Men,6M,Gold
+1932,Los Angeles,Sailing,Sailing,"HINDORFF, Martin",SWE,Men,6M,Gold
+1932,Los Angeles,Sailing,Sailing,"HOLM, Tore",SWE,Men,6M,Gold
+1932,Los Angeles,Sailing,Sailing,"ASHBROOK, Temple W.",USA,Men,6M,Silver
+1932,Los Angeles,Sailing,Sailing,"CARLSON, Robert",USA,Men,6M,Silver
+1932,Los Angeles,Sailing,Sailing,"CONANT, Frederic Warren",USA,Men,6M,Silver
+1932,Los Angeles,Sailing,Sailing,"DAVIS, Emmett S.",USA,Men,6M,Silver
+1932,Los Angeles,Sailing,Sailing,"DOUGLAS, Donald Willis Jr.",USA,Men,6M,Silver
+1932,Los Angeles,Sailing,Sailing,"SMITH, Charles E.",USA,Men,6M,Silver
+1932,Los Angeles,Sailing,Sailing,"BIBY, John Edward Jr.",USA,Men,8M,Gold
+1932,Los Angeles,Sailing,Sailing,"BURNAND, Alphonse A.,Jr.",USA,Men,8M,Gold
+1932,Los Angeles,Sailing,Sailing,"CAREY, Kenneth A.",USA,Men,8M,Gold
+1932,Los Angeles,Sailing,Sailing,"CHURCHILL, Owen Porter",USA,Men,8M,Gold
+1932,Los Angeles,Sailing,Sailing,"COOPER, William H.",USA,Men,8M,Gold
+1932,Los Angeles,Sailing,Sailing,"DAVIS, Pierpont",USA,Men,8M,Gold
+1932,Los Angeles,Sailing,Sailing,"DORSEY, Carl James",USA,Men,8M,Gold
+1932,Los Angeles,Sailing,Sailing,"HUETTNER, John E.",USA,Men,8M,Gold
+1932,Los Angeles,Sailing,Sailing,"MOORE, Richard",USA,Men,8M,Gold
+1932,Los Angeles,Sailing,Sailing,"MORGAN, Alan C.",USA,Men,8M,Gold
+1932,Los Angeles,Sailing,Sailing,"SUTTON, Robert Mandel",USA,Men,8M,Gold
+1932,Los Angeles,Sailing,Sailing,"WEBSTER, Thomas C.",USA,Men,8M,Gold
+1932,Los Angeles,Sailing,Sailing,"CRIBB, Ernest F.",CAN,Men,8M,Silver
+1932,Los Angeles,Sailing,Sailing,"GORDON, Peter D.",CAN,Men,8M,Silver
+1932,Los Angeles,Sailing,Sailing,"GYLES, George F.",CAN,Men,8M,Silver
+1932,Los Angeles,Sailing,Sailing,"JONES, Harry A.",CAN,Men,8M,Silver
+1932,Los Angeles,Sailing,Sailing,"MAITLAND, Ronald Monteith",CAN,Men,8M,Silver
+1932,Los Angeles,Sailing,Sailing,"WALLACE, Hubert Alfred",CAN,Men,8M,Silver
+1932,Los Angeles,Sailing,Sailing,"AMAT CANSINO, Santiago",ESP,Men,Olympic Class Monotype,Bronze
+1932,Los Angeles,Sailing,Sailing,"LEBRUN, Jacques Baptiste",FRA,Men,Olympic Class Monotype,Gold
+1932,Los Angeles,Sailing,Sailing,"MAAS, Adriaan Lambertus Joseph",NED,Men,Olympic Class Monotype,Silver
+1932,Los Angeles,Sailing,Sailing,"ASTHER, Gunnar Anton Edvard",SWE,Men,Two-Person Keelboat Open (Star),Bronze
+1932,Los Angeles,Sailing,Sailing,"SUNDÉN-CULLBERG, Daniel (Dan)",SWE,Men,Two-Person Keelboat Open (Star),Bronze
+1932,Los Angeles,Sailing,Sailing,"GRAY, Gilbert T.",USA,Men,Two-Person Keelboat Open (Star),Gold
+1932,Los Angeles,Sailing,Sailing,"LIBANO, Andrew J. Jr.",USA,Men,Two-Person Keelboat Open (Star),Gold
+1932,Los Angeles,Sailing,Sailing,"JAFFE, Peter",GBR,Men,Two-Person Keelboat Open (Star),Silver
+1932,Los Angeles,Sailing,Sailing,"RATSEY, George Colin",GBR,Men,Two-Person Keelboat Open (Star),Silver
+1932,Los Angeles,Shooting,Shooting,"MATTEUCCI, Domenico",ITA,Men,25M Rapid Fire Pistol (60 Shots),Bronze
+1932,Los Angeles,Shooting,Shooting,"MORIGI, Renzo",ITA,Men,25M Rapid Fire Pistol (60 Shots),Gold
+1932,Los Angeles,Shooting,Shooting,"HAX, Heinz",GER,Men,25M Rapid Fire Pistol (60 Shots),Silver
+1932,Los Angeles,Shooting,Shooting,"HRADETZKY-SOOS-RUSZKA, Zoltan",HUN,Men,50M Rifle Prone (60 Shots),Bronze
+1932,Los Angeles,Shooting,Shooting,"RÖNNMARK, Bertil Vilhelm",SWE,Men,50M Rifle Prone (60 Shots),Gold
+1932,Los Angeles,Shooting,Shooting,"HUET BOBADILLA, Gustavo",MEX,Men,50M Rifle Prone (60 Shots),Silver
+1932,Los Angeles,Weightlifting,Weightlifting,"TERLAZZO, Anthony",USA,Men,"- 60KG, Total (Featherweight)",Bronze
+1932,Los Angeles,Weightlifting,Weightlifting,"SUVIGNY, Raymond",FRA,Men,"- 60KG, Total (Featherweight)",Gold
+1932,Los Angeles,Weightlifting,Weightlifting,"WÖLPERT, Johannes (Hans)",GER,Men,"- 60KG, Total (Featherweight)",Silver
+1932,Los Angeles,Weightlifting,Weightlifting,"STRASSBERGER, Josef",GER,Men,"+ 82.5KG, Total (Heavyweight)",Bronze
+1932,Los Angeles,Weightlifting,Weightlifting,"SKOBLA, Jaroslav",TCH,Men,"+ 82.5KG, Total (Heavyweight)",Gold
+1932,Los Angeles,Weightlifting,Weightlifting,"PSENICKA SR., Václav",TCH,Men,"+ 82.5KG, Total (Heavyweight)",Silver
+1932,Los Angeles,Weightlifting,Weightlifting,"PIERINI, Gastone",ITA,Men,"60 - 67.5KG, Total (Lightweight)",Bronze
+1932,Los Angeles,Weightlifting,Weightlifting,"DUVERGER, René",FRA,Men,"60 - 67.5KG, Total (Lightweight)",Gold
+1932,Los Angeles,Weightlifting,Weightlifting,"HAAS, Hans",AUT,Men,"60 - 67.5KG, Total (Lightweight)",Silver
+1932,Los Angeles,Weightlifting,Weightlifting,"HIPFINGER, Karl",AUT,Men,"67.5 - 75KG, Total (Middleweight)",Bronze
+1932,Los Angeles,Weightlifting,Weightlifting,"ISMAYR, Rudolf",GER,Men,"67.5 - 75KG, Total (Middleweight)",Gold
+1932,Los Angeles,Weightlifting,Weightlifting,"GALIMBERTI, Carlo",ITA,Men,"67.5 - 75KG, Total (Middleweight)",Silver
+1932,Los Angeles,Weightlifting,Weightlifting,"DUEY, Henry Ludwig",USA,Men,"75 - 82.5KG, Total (Light-Heavyweight)",Bronze
+1932,Los Angeles,Weightlifting,Weightlifting,"HOSTIN, Louis",FRA,Men,"75 - 82.5KG, Total (Light-Heavyweight)",Gold
+1932,Los Angeles,Weightlifting,Weightlifting,"OLSEN, Svend Egil Benjamin",DEN,Men,"75 - 82.5KG, Total (Light-Heavyweight)",Silver
+1932,Los Angeles,Wrestling,Wrestling Free.,"JASKARI, Aatos Tuomas",FIN,Men,- 56KG (Bantamweight),Bronze
+1932,Los Angeles,Wrestling,Wrestling Free.,"PEARCE, Robert Edward",USA,Men,- 56KG (Bantamweight),Gold
+1932,Los Angeles,Wrestling,Wrestling Free.,"ZOMBORI, Ödön",HUN,Men,- 56KG (Bantamweight),Silver
+1932,Los Angeles,Wrestling,Wrestling Free.,"HIRSCHL, Nikolaus",AUT,Men,+ 87KG (Heavyweight),Bronze
+1932,Los Angeles,Wrestling,Wrestling Free.,"RICKTTOFF, Johan",SWE,Men,+ 87KG (Heavyweight),Gold
+1932,Los Angeles,Wrestling,Wrestling Free.,"RILEY, John Horn",USA,Men,+ 87KG (Heavyweight),Silver
+1932,Los Angeles,Wrestling,Wrestling Free.,"KARLSSON, Einar",SWE,Men,56 - 61KG (Featherweight),Bronze
+1932,Los Angeles,Wrestling,Wrestling Free.,"PIHLAJAMÄKI, Hermanni",FIN,Men,56 - 61KG (Featherweight),Gold
+1932,Los Angeles,Wrestling,Wrestling Free.,"NEMIR, Edgar",USA,Men,56 - 61KG (Featherweight),Silver
+1932,Los Angeles,Wrestling,Wrestling Free.,"KLARÉN, Gustaf",SWE,Men,61 - 66KG (Lightweight),Bronze
+1932,Los Angeles,Wrestling,Wrestling Free.,"PACÔME, Charles",FRA,Men,61 - 66KG (Lightweight),Gold
+1932,Los Angeles,Wrestling,Wrestling Free.,"KÁRPÁTI, Károly",HUN,Men,61 - 66KG (Lightweight),Silver
+1932,Los Angeles,Wrestling,Wrestling Free.,"LEINO, Eino Aukusti",FIN,Men,66 - 72KG (Welterweight),Bronze
+1932,Los Angeles,Wrestling,Wrestling Free.,"VAN BEBBER, Jack Francis",USA,Men,66 - 72KG (Welterweight),Gold
+1932,Los Angeles,Wrestling,Wrestling Free.,"MACDONALD, Daniel",CAN,Men,66 - 72KG (Welterweight),Silver
+1932,Los Angeles,Wrestling,Wrestling Free.,"TUNYOGI, Jozsef",HUN,Men,72 - 79KG (Middleweight),Bronze
+1932,Los Angeles,Wrestling,Wrestling Free.,"JOHANSSON, Ivar",SWE,Men,72 - 79KG (Middleweight),Gold
+1932,Los Angeles,Wrestling,Wrestling Free.,"LUUKKO, Kyösti Aukusti",FIN,Men,72 - 79KG (Middleweight),Silver
+1932,Los Angeles,Wrestling,Wrestling Free.,"SCARF, Richard Edward",AUS,Men,79 - 87KG (Light-Heavyweight),Bronze
+1932,Los Angeles,Wrestling,Wrestling Free.,"MEHRINGER, Peter Joseph",USA,Men,79 - 87KG (Light-Heavyweight),Gold
+1932,Los Angeles,Wrestling,Wrestling Free.,"SJÖSTEDT, Thure",SWE,Men,79 - 87KG (Light-Heavyweight),Silver
+1932,Los Angeles,Wrestling,Wrestling Gre-R,"FRANCOIS, Louis",FRA,Men,- 56KG (Bantamweight),Bronze
+1932,Los Angeles,Wrestling,Wrestling Gre-R,"BRENDEL, Jacob",GER,Men,- 56KG (Bantamweight),Gold
+1932,Los Angeles,Wrestling,Wrestling Gre-R,"NIZZOLA, Marcello",ITA,Men,- 56KG (Bantamweight),Silver
+1932,Los Angeles,Wrestling,Wrestling Gre-R,"HIRSCHL, Nikolaus",AUT,Men,+ 87KG (Super Heavyweight),Bronze
+1932,Los Angeles,Wrestling,Wrestling Gre-R,"WESTERGREN, Carl",SWE,Men,+ 87KG (Super Heavyweight),Gold
+1932,Los Angeles,Wrestling,Wrestling Gre-R,"URBAN, Josef",TCH,Men,+ 87KG (Super Heavyweight),Silver
+1932,Los Angeles,Wrestling,Wrestling Gre-R,"KOSKELA, Lauri",FIN,Men,56 - 61KG (Featherweight),Bronze
+1932,Los Angeles,Wrestling,Wrestling Gre-R,"GOZZI, Giovanni",ITA,Men,56 - 61KG (Featherweight),Gold
+1932,Los Angeles,Wrestling,Wrestling Gre-R,"EHRL, Wolfgang",GER,Men,56 - 61KG (Featherweight),Silver
+1932,Los Angeles,Wrestling,Wrestling Gre-R,"SPERLING, Eduard",GER,Men,61 - 66KG (Lightweight),Bronze
+1932,Los Angeles,Wrestling,Wrestling Gre-R,"MALMBERG, Eric",SWE,Men,61 - 66KG (Lightweight),Gold
+1932,Los Angeles,Wrestling,Wrestling Gre-R,"KURLAND, Abraham",DEN,Men,61 - 66KG (Lightweight),Silver
+1932,Los Angeles,Wrestling,Wrestling Gre-R,"GALLEGATI, Ercole",ITA,Men,66 - 72KG (Welterweight),Bronze
+1932,Los Angeles,Wrestling,Wrestling Gre-R,"JOHANSSON, Ivar",SWE,Men,66 - 72KG (Welterweight),Gold
+1932,Los Angeles,Wrestling,Wrestling Gre-R,"KAJANDER, Väinö",FIN,Men,66 - 72KG (Welterweight),Silver
+1932,Los Angeles,Wrestling,Wrestling Gre-R,"CADIER, Axel",SWE,Men,72 - 79KG (Middleweight),Bronze
+1932,Los Angeles,Wrestling,Wrestling Gre-R,"KOKKINEN, Väinö Anselmi",FIN,Men,72 - 79KG (Middleweight),Gold
+1932,Los Angeles,Wrestling,Wrestling Gre-R,"FÖLDEÁK, Jean",GER,Men,72 - 79KG (Middleweight),Silver
+1932,Los Angeles,Wrestling,Wrestling Gre-R,"GRUPPIONI, Mario",ITA,Men,79 - 87KG (Light-Heavyweight),Bronze
+1932,Los Angeles,Wrestling,Wrestling Gre-R,"SVENSSON, Rudolf",SWE,Men,79 - 87KG (Light-Heavyweight),Gold
+1932,Los Angeles,Wrestling,Wrestling Gre-R,"PELLINEN, Onni",FIN,Men,79 - 87KG (Light-Heavyweight),Silver

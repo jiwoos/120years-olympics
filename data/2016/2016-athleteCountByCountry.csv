@@ -1,0 +1,208 @@
+nationality,count,continent,Country_Name
+AFG,3,Asia,Afghanistan
+ALB,6,Europe,Albania
+ALG,68,Africa,Algeria
+AND,5,Europe,Andorra
+ANG,26,Africa,Angola
+ANT,9,America,Antigua and Barbuda
+ARG,223,America,Argentina
+ARM,32,Asia,Armenia
+ARU,7,America,Aruba
+ASA,4,Oceania,American Samoa
+AUS,431,Oceania,Australia
+AUT,71,Europe,Austria
+AZE,56,Asia,Azerbaijan
+BAH,30,America,Bahamas
+BAN,7,Asia,Bangladesh
+BAR,11,America,Barbados
+BDI,9,Africa,Burundi
+BEL,108,Europe,Belgium
+BEN,6,Africa,Benin
+BER,8,America,Bermuda
+BHU,2,Asia,Bhutan
+BIH,11,Europe,Bosnia and Herzegovina
+BIZ,3,America,Belize
+BLR,124,Europe,Belarus
+BOL,12,America,Bolivia
+BOT,12,Africa,Botswana
+BRA,485,America,Brazil
+BRN,34,Asia,Bahrain
+BRU,3,Asia,Brunei
+BUL,50,Europe,Bulgaria
+BUR,5,Africa,Burkina Faso
+CAF,6,Africa,Central African Republic
+CAM,6,Asia,Cambodia
+CAN,321,America,Canada
+CAY,5,America,Cayman Islands
+CGO,10,Africa,Republic of the Congo
+CHA,2,Africa,Chad
+CHI,42,America,Chile
+CHN,404,Asia,China
+CIV,12,Africa,Ivory Coast
+CMR,24,Africa,Cameroon
+COD,4,Africa,Democratic Republic of the Congo
+COK,9,Oceania,Cook Islands
+COL,154,America,Colombia
+COM,4,Africa,Comoros
+CPV,5,Africa,Cape Verde
+CRC,11,America,Costa Rica
+CRO,88,Europe,Croatia
+CUB,123,America,Cuba
+CYP,16,Asia,Cyprus
+CZE,104,Europe,Czechia
+DEN,128,Europe,Denmark
+DJI,7,Africa,Djibouti
+DMA,2,America,Dominica
+DOM,29,America,Dominican Republic
+ECU,38,America,Ecuador
+EGY,122,Africa,Egypt
+ERI,12,Africa,Eritrea
+ESA,8,America,El Salvador
+ESP,313,Europe,Spain
+EST,46,Europe,Estonia
+ETH,38,Africa,Ethiopia
+FIJ,54,Oceania,Fiji
+FIN,54,Europe,Finland
+FRA,410,Europe,France
+FSM,5,Oceania,Federated States of Micronesia
+GAB,6,Africa,Gabon
+GAM,4,Africa,Gambia
+GBR,374,Europe,United Kingdom
+GBS,5,Africa,Guinea-Bissau
+GEO,40,Asia,Georgia
+GEQ,2,Africa,Equatorial Guinea
+GER,441,Europe,Germany
+GHA,16,Africa,Ghana
+GRE,93,Europe,Greece
+GRN,7,America,Grenada
+GUA,21,America,Guatemala
+GUI,5,Africa,Guinea
+GUM,5,Oceania,Guam
+GUY,6,America,Guyana
+HAI,10,America,Haiti
+HKG,38,Asia,Hong Kong
+HON,30,America,Honduras
+HUN,154,Europe,Hungary
+INA,28,Asia,Indonesia
+IND,123,Asia,India
+IOA,9,Special,Independent Olympic Athlete 
+IRI,64,Asia,Iran
+IRL,80,Europe,Ireland
+IRQ,26,Asia,Iraq
+ISL,8,Europe,Iceland
+ISR,47,Asia,Israel
+ISV,7,America,Virgin Islands
+ITA,312,Europe,Italy
+IVB,4,America,British Virgin Islands
+JAM,57,America,Jamaica
+JOR,8,Asia,Jordan
+JPN,346,Asia,Japan
+KAZ,103,Asia,Kazakhstan
+KEN,80,Africa,Kenya
+KGZ,19,Asia,Kyrgyzstan
+KIR,3,Oceania,Kiribati
+KOR,213,Asia,South Korea
+KOS,8,Europe,Kosovo
+KSA,11,Asia,Saudi Arabia
+LAO,6,Asia,Laos
+LAT,32,Europe,Latvia
+LBA,7,Africa,Libya
+LBR,2,Africa,Liberia
+LCA,5,America,Saint Lucia
+LES,8,Africa,Lesotho
+LIB,9,Asia,Lebanon
+LIE,3,Europe,Liechtenstein
+LTU,67,Europe,Lithuania
+LUX,10,Europe,Luxembourg
+MAD,6,Africa,Madagascar
+MAR,49,Africa,Morocco
+MAS,32,Asia,Malaysia
+MAW,5,Africa,Malawi
+MDA,23,Europe,Moldova
+MDV,4,Asia,Maldives
+MEX,126,America,Mexico
+MGL,43,Asia,Mongolia
+MHL,5,Oceania,Marshall Islands
+MKD,6,Europe,North Macedonia
+MLI,6,Africa,Mali
+MLT,7,Europe,Malta
+MNE,35,Europe,Montenegro
+MON,3,Europe,Monaco
+MOZ,6,Africa,Mozambique
+MRI,11,Africa,Mauritius
+MTN,2,Africa,Mauritania
+MYA,7,Asia,Burma
+NAM,10,Africa,Namibia
+NCA,5,America,Nicaragua
+NED,249,Europe,Netherlands
+NEP,7,Asia,Nepal
+NGR,78,Africa,Nigeria
+NIG,6,Africa,Niger
+NOR,62,Europe,Norway
+NRU,2,Oceania,Nauru
+NZL,208,Oceania,New Zealand
+OMA,4,Asia,Oman
+PAK,7,Asia,Pakistan
+PAN,10,America,Panama
+PAR,11,America,Paraguay
+PER,29,America,Peru
+PHI,13,Asia,Philippines
+PLE,6,Asia,Palestine
+PLW,5,Oceania,Palau
+PNG,8,Oceania,Papua New Guinea
+POL,242,Europe,Poland
+POR,95,Europe,Portugal
+PRK,31,Asia,North Korea
+PUR,40,America,Puerto Rico
+QAT,39,Asia,Qatar
+ROT,10,Special,Refugee Olympic Team
+ROU,98,Europe,Romania
+RSA,146,Africa,South Africa
+RUS,286,Europe,Russia
+RWA,7,Africa,Rwanda
+SAM,8,Oceania,Samoa
+SEN,22,Africa,Senegal
+SEY,10,Africa,Seychelles
+SIN,25,Asia,Singapore
+SKN,7,America,Saint Kitts and Nevis
+SLE,4,Africa,Sierra Leone
+SLO,63,Europe,Slovenia
+SMR,5,Europe,San Marino
+SOL,3,Oceania,Solomon Islands
+SOM,2,Africa,Somalia
+SRB,103,Europe,Serbia
+SRI,9,Asia,Sri Lanka
+SSD,3,Africa,South Sudan
+STP,3,Africa,Sao Tome and Principe
+SUD,6,Africa,Sudan
+SUI,104,Europe,Switzerland
+SUR,6,America,Suriname
+SVK,51,Europe,Slovakia
+SWE,164,Europe,Sweden
+SWZ,2,Africa,Eswatini
+SYR,7,Asia,Syria
+TAN,7,Africa,Tanzania
+TGA,7,Oceania,Tonga
+THA,54,Asia,Thailand
+TJK,7,Asia,Tajikistan
+TKM,9,Asia,Turkmenistan
+TLS,3,Asia,East Timor
+TOG,5,Africa,Togo
+TPE,56,Asia,Taiwan
+TTO,32,America,Trinidad and Tobago
+TUN,61,Africa,Tunisia
+TUR,103,Asia,Turkey
+TUV,1,Oceania,Tuvalu
+UAE,13,Asia,United Arab Emirates
+UGA,21,Africa,Uganda
+UKR,205,Europe,Ukraine
+URU,17,America,Uruguay
+USA,567,America,United States
+UZB,70,Asia,Uzbekistan
+VAN,4,Oceania,Vanuatu
+VEN,88,America,Venezuela
+VIE,23,Asia,Vietnam
+VIN,4,America,Saint Vincent and the Grenadines
+YEM,3,Asia,Yemen
+ZAM,7,Africa,Zambia
+ZIM,35,Africa,Zimbabwe

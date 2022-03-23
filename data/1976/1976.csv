@@ -1,0 +1,1306 @@
+Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
+1976,Montreal,Aquatics,Diving,"ALEINIK, Vladimir",URS,Men,10M Platform,Bronze
+1976,Montreal,Aquatics,Diving,"DIBIASI, Klaus",ITA,Men,10M Platform,Gold
+1976,Montreal,Aquatics,Diving,"LOUGANIS, Gregory",USA,Men,10M Platform,Silver
+1976,Montreal,Aquatics,Diving,"WILSON, Deborah Keplar",USA,Women,10M Platform,Bronze
+1976,Montreal,Aquatics,Diving,"VAYTSEKHOVSKAYA, Elena",URS,Women,10M Platform,Gold
+1976,Montreal,Aquatics,Diving,"KNAPE-LINDBERGH, Ulrika",SWE,Women,10M Platform,Silver
+1976,Montreal,Aquatics,Diving,"KOSENKOV, Aleksandr",URS,Men,3M Springboard,Bronze
+1976,Montreal,Aquatics,Diving,"BOGGS, Philip George",USA,Men,3M Springboard,Gold
+1976,Montreal,Aquatics,Diving,"CAGNOTTO, Giorgio Franco",ITA,Men,3M Springboard,Silver
+1976,Montreal,Aquatics,Diving,"POTTER-MCINGVALE, Cynthia",USA,Women,3M Springboard,Bronze
+1976,Montreal,Aquatics,Diving,"CHANDLER, Jennifer Kay",USA,Women,3M Springboard,Gold
+1976,Montreal,Aquatics,Diving,"KÖHLER, Christa",GDR,Women,3M Springboard,Silver
+1976,Montreal,Aquatics,Swimming,"MATTHES, Roland",GDR,Men,100M Backstroke,Bronze
+1976,Montreal,Aquatics,Swimming,"NABER, John Phillips",USA,Men,100M Backstroke,Gold
+1976,Montreal,Aquatics,Swimming,"ROCCA, Peter Drake",USA,Men,100M Backstroke,Silver
+1976,Montreal,Aquatics,Swimming,"GARAPICK, Nancy Ellen",CAN,Women,100M Backstroke,Bronze
+1976,Montreal,Aquatics,Swimming,"RICHTER, Ulrike",GDR,Women,100M Backstroke,Gold
+1976,Montreal,Aquatics,Swimming,"TREIBER, Birgit",GDR,Women,100M Backstroke,Silver
+1976,Montreal,Aquatics,Swimming,"YOZAITIS, Arvidas",URS,Men,100M Breaststroke,Bronze
+1976,Montreal,Aquatics,Swimming,"HENCKEN, John Frederick",USA,Men,100M Breaststroke,Gold
+1976,Montreal,Aquatics,Swimming,"WILKIE, David Andrew",GBR,Men,100M Breaststroke,Silver
+1976,Montreal,Aquatics,Swimming,"KOSHEVAYA, Marina",URS,Women,100M Breaststroke,Bronze
+1976,Montreal,Aquatics,Swimming,"ANKE, Hannelore",GDR,Women,100M Breaststroke,Gold
+1976,Montreal,Aquatics,Swimming,"RUSANOVA, Lyubov",URS,Women,100M Breaststroke,Silver
+1976,Montreal,Aquatics,Swimming,"HALL, Gary Wayne",USA,Men,100M Butterfly,Bronze
+1976,Montreal,Aquatics,Swimming,"VOGEL, Matthew Haynes",USA,Men,100M Butterfly,Gold
+1976,Montreal,Aquatics,Swimming,"BOTTOM, Joseph Stuart",USA,Men,100M Butterfly,Silver
+1976,Montreal,Aquatics,Swimming,"BOGLIOLI, Wendy Lansbach",USA,Women,100M Butterfly,Bronze
+1976,Montreal,Aquatics,Swimming,"ENDER, Kornelia",GDR,Women,100M Butterfly,Gold
+1976,Montreal,Aquatics,Swimming,"POLLACK, Andrea",GDR,Women,100M Butterfly,Silver
+1976,Montreal,Aquatics,Swimming,"NOCKE, Peter",FRG,Men,100M Freestyle,Bronze
+1976,Montreal,Aquatics,Swimming,"MONTGOMERY, James Paul",USA,Men,100M Freestyle,Gold
+1976,Montreal,Aquatics,Swimming,"BABASHOFF, Jack, Jr.",USA,Men,100M Freestyle,Silver
+1976,Montreal,Aquatics,Swimming,"BRIGITHA, Enith",NED,Women,100M Freestyle,Bronze
+1976,Montreal,Aquatics,Swimming,"ENDER, Kornelia",GDR,Women,100M Freestyle,Gold
+1976,Montreal,Aquatics,Swimming,"PRIEMER, Petra",GDR,Women,100M Freestyle,Silver
+1976,Montreal,Aquatics,Swimming,"HOLLAND, Stephen",AUS,Men,1500M Freestyle,Bronze
+1976,Montreal,Aquatics,Swimming,"GOODELL, Brian Stuart",USA,Men,1500M Freestyle,Gold
+1976,Montreal,Aquatics,Swimming,"HACKETT, Robert William",USA,Men,1500M Freestyle,Silver
+1976,Montreal,Aquatics,Swimming,"HARRIGAN, Daniel Lee",USA,Men,200M Backstroke,Bronze
+1976,Montreal,Aquatics,Swimming,"NABER, John Phillips",USA,Men,200M Backstroke,Gold
+1976,Montreal,Aquatics,Swimming,"ROCCA, Peter Drake",USA,Men,200M Backstroke,Silver
+1976,Montreal,Aquatics,Swimming,"GARAPICK, Nancy Ellen",CAN,Women,200M Backstroke,Bronze
+1976,Montreal,Aquatics,Swimming,"RICHTER, Ulrike",GDR,Women,200M Backstroke,Gold
+1976,Montreal,Aquatics,Swimming,"TREIBER, Birgit",GDR,Women,200M Backstroke,Silver
+1976,Montreal,Aquatics,Swimming,"COLELLA, Richard Phillip Jr.",USA,Men,200M Breaststroke,Bronze
+1976,Montreal,Aquatics,Swimming,"WILKIE, David Andrew",GBR,Men,200M Breaststroke,Gold
+1976,Montreal,Aquatics,Swimming,"HENCKEN, John Frederick",USA,Men,200M Breaststroke,Silver
+1976,Montreal,Aquatics,Swimming,"RUSANOVA, Lyubov",URS,Women,200M Breaststroke,Bronze
+1976,Montreal,Aquatics,Swimming,"KOSHEVAYA, Marina",URS,Women,200M Breaststroke,Gold
+1976,Montreal,Aquatics,Swimming,"YURCHENYA, Marina",URS,Women,200M Breaststroke,Silver
+1976,Montreal,Aquatics,Swimming,"FORRESTER, William Ronald, Jr.",USA,Men,200M Butterfly,Bronze
+1976,Montreal,Aquatics,Swimming,"BRUNER, Michael Lee",USA,Men,200M Butterfly,Gold
+1976,Montreal,Aquatics,Swimming,"GREGG, Steven Garrett",USA,Men,200M Butterfly,Silver
+1976,Montreal,Aquatics,Swimming,"KOTHER-GABRIEL, Rosemarie",GDR,Women,200M Butterfly,Bronze
+1976,Montreal,Aquatics,Swimming,"POLLACK, Andrea",GDR,Women,200M Butterfly,Gold
+1976,Montreal,Aquatics,Swimming,"TAUBER, Ulrike",GDR,Women,200M Butterfly,Silver
+1976,Montreal,Aquatics,Swimming,"MONTGOMERY, James Paul",USA,Men,200M Freestyle,Bronze
+1976,Montreal,Aquatics,Swimming,"FURNISS, Bruce Macfarlane",USA,Men,200M Freestyle,Gold
+1976,Montreal,Aquatics,Swimming,"NABER, John Phillips",USA,Men,200M Freestyle,Silver
+1976,Montreal,Aquatics,Swimming,"BRIGITHA, Enith",NED,Women,200M Freestyle,Bronze
+1976,Montreal,Aquatics,Swimming,"ENDER, Kornelia",GDR,Women,200M Freestyle,Gold
+1976,Montreal,Aquatics,Swimming,"BABASHOFF, Shirley Farber",USA,Women,200M Freestyle,Silver
+1976,Montreal,Aquatics,Swimming,"RASKATOV, Vladimir",URS,Men,400M Freestyle,Bronze
+1976,Montreal,Aquatics,Swimming,"GOODELL, Brian Stuart",USA,Men,400M Freestyle,Gold
+1976,Montreal,Aquatics,Swimming,"SHAW, Timothy Andrew",USA,Men,400M Freestyle,Silver
+1976,Montreal,Aquatics,Swimming,"SMITH, Shannon",CAN,Women,400M Freestyle,Bronze
+1976,Montreal,Aquatics,Swimming,"THÜMER, Petra",GDR,Women,400M Freestyle,Gold
+1976,Montreal,Aquatics,Swimming,"BABASHOFF, Shirley Farber",USA,Women,400M Freestyle,Silver
+1976,Montreal,Aquatics,Swimming,"SMIRNOV, Andrei",URS,Men,400M Individual Medley,Bronze
+1976,Montreal,Aquatics,Swimming,"STRACHAN, Rodney",USA,Men,400M Individual Medley,Gold
+1976,Montreal,Aquatics,Swimming,"MCKEE, Alexander Timothy",USA,Men,400M Individual Medley,Silver
+1976,Montreal,Aquatics,Swimming,"SMITH, Rebecca",CAN,Women,400M Individual Medley,Bronze
+1976,Montreal,Aquatics,Swimming,"TAUBER, Ulrike",GDR,Women,400M Individual Medley,Gold
+1976,Montreal,Aquatics,Swimming,"GIBSON, Cheryl",CAN,Women,400M Individual Medley,Silver
+1976,Montreal,Aquatics,Swimming,"AMUNDRUD, Gail",CAN,Women,4X100M Freestyle Relay,Bronze
+1976,Montreal,Aquatics,Swimming,"CLARK, Barbara Lynny",CAN,Women,4X100M Freestyle Relay,Bronze
+1976,Montreal,Aquatics,Swimming,"JARDIN, Anne Elizabeth",CAN,Women,4X100M Freestyle Relay,Bronze
+1976,Montreal,Aquatics,Swimming,"SMITH, Rebecca",CAN,Women,4X100M Freestyle Relay,Bronze
+1976,Montreal,Aquatics,Swimming,"BABASHOFF, Shirley Farber",USA,Women,4X100M Freestyle Relay,Gold
+1976,Montreal,Aquatics,Swimming,"BOGLIOLI, Wendy Lansbach",USA,Women,4X100M Freestyle Relay,Gold
+1976,Montreal,Aquatics,Swimming,"PEYTON, Kim Marie",USA,Women,4X100M Freestyle Relay,Gold
+1976,Montreal,Aquatics,Swimming,"STERKEL, Gillian Ann",USA,Women,4X100M Freestyle Relay,Gold
+1976,Montreal,Aquatics,Swimming,"ENDER, Kornelia",GDR,Women,4X100M Freestyle Relay,Silver
+1976,Montreal,Aquatics,Swimming,"HEMPEL, Claudia",GDR,Women,4X100M Freestyle Relay,Silver
+1976,Montreal,Aquatics,Swimming,"POLLACK, Andrea",GDR,Women,4X100M Freestyle Relay,Silver
+1976,Montreal,Aquatics,Swimming,"PRIEMER, Petra",GDR,Women,4X100M Freestyle Relay,Silver
+1976,Montreal,Aquatics,Swimming,"KRAUS, Michael",FRG,Men,4X100M Medley Relay,Bronze
+1976,Montreal,Aquatics,Swimming,"KUSCH, Walter",FRG,Men,4X100M Medley Relay,Bronze
+1976,Montreal,Aquatics,Swimming,"NOCKE, Peter",FRG,Men,4X100M Medley Relay,Bronze
+1976,Montreal,Aquatics,Swimming,"STEINBACH, Klaus",FRG,Men,4X100M Medley Relay,Bronze
+1976,Montreal,Aquatics,Swimming,"HENCKEN, John Frederick",USA,Men,4X100M Medley Relay,Gold
+1976,Montreal,Aquatics,Swimming,"MONTGOMERY, James Paul",USA,Men,4X100M Medley Relay,Gold
+1976,Montreal,Aquatics,Swimming,"NABER, John Phillips",USA,Men,4X100M Medley Relay,Gold
+1976,Montreal,Aquatics,Swimming,"VOGEL, Matthew Haynes",USA,Men,4X100M Medley Relay,Gold
+1976,Montreal,Aquatics,Swimming,"EVANS, Clayton",CAN,Men,4X100M Medley Relay,Silver
+1976,Montreal,Aquatics,Swimming,"MAC DONALD, Gary",CAN,Men,4X100M Medley Relay,Silver
+1976,Montreal,Aquatics,Swimming,"PICKELL, Stephen",CAN,Men,4X100M Medley Relay,Silver
+1976,Montreal,Aquatics,Swimming,"SMITH, Graham",CAN,Men,4X100M Medley Relay,Silver
+1976,Montreal,Aquatics,Swimming,"COOK-HOGG, Wendy",CAN,Women,4X100M Medley Relay,Bronze
+1976,Montreal,Aquatics,Swimming,"CORSIGLIA, Robin Marie",CAN,Women,4X100M Medley Relay,Bronze
+1976,Montreal,Aquatics,Swimming,"JARDIN, Anne Elizabeth",CAN,Women,4X100M Medley Relay,Bronze
+1976,Montreal,Aquatics,Swimming,"SMITH-SLOAN, Susan Estelle",CAN,Women,4X100M Medley Relay,Bronze
+1976,Montreal,Aquatics,Swimming,"ANKE, Hannelore",GDR,Women,4X100M Medley Relay,Gold
+1976,Montreal,Aquatics,Swimming,"ENDER, Kornelia",GDR,Women,4X100M Medley Relay,Gold
+1976,Montreal,Aquatics,Swimming,"POLLACK, Andrea",GDR,Women,4X100M Medley Relay,Gold
+1976,Montreal,Aquatics,Swimming,"RICHTER, Ulrike",GDR,Women,4X100M Medley Relay,Gold
+1976,Montreal,Aquatics,Swimming,"BABASHOFF, Shirley Farber",USA,Women,4X100M Medley Relay,Silver
+1976,Montreal,Aquatics,Swimming,"JEZEK, Linda Louise",USA,Women,4X100M Medley Relay,Silver
+1976,Montreal,Aquatics,Swimming,"SIERING, Laura Gail",USA,Women,4X100M Medley Relay,Silver
+1976,Montreal,Aquatics,Swimming,"WRIGHT, Camille",USA,Women,4X100M Medley Relay,Silver
+1976,Montreal,Aquatics,Swimming,"BRINKLEY, Brian",GBR,Men,4X200M Freestyle Relay,Bronze
+1976,Montreal,Aquatics,Swimming,"DOWNIE, Gordon Hunter",GBR,Men,4X200M Freestyle Relay,Bronze
+1976,Montreal,Aquatics,Swimming,"DUNNE, David Michael",GBR,Men,4X200M Freestyle Relay,Bronze
+1976,Montreal,Aquatics,Swimming,"MCCLATCHEY, Alan",GBR,Men,4X200M Freestyle Relay,Bronze
+1976,Montreal,Aquatics,Swimming,"BRUNER, Michael Lee",USA,Men,4X200M Freestyle Relay,Gold
+1976,Montreal,Aquatics,Swimming,"FURNISS, Bruce Macfarlane",USA,Men,4X200M Freestyle Relay,Gold
+1976,Montreal,Aquatics,Swimming,"MONTGOMERY, James Paul",USA,Men,4X200M Freestyle Relay,Gold
+1976,Montreal,Aquatics,Swimming,"NABER, John Phillips",USA,Men,4X200M Freestyle Relay,Gold
+1976,Montreal,Aquatics,Swimming,"BOGDANOV, Andrei",URS,Men,4X200M Freestyle Relay,Silver
+1976,Montreal,Aquatics,Swimming,"KOPLYAKOV, Sergei",URS,Men,4X200M Freestyle Relay,Silver
+1976,Montreal,Aquatics,Swimming,"KRYLOV, Andrei",URS,Men,4X200M Freestyle Relay,Silver
+1976,Montreal,Aquatics,Swimming,"RASKATOV, Vladimir",URS,Men,4X200M Freestyle Relay,Silver
+1976,Montreal,Aquatics,Swimming,"WEINBERG, Wendy Elizabeth",USA,Women,800M Freestyle,Bronze
+1976,Montreal,Aquatics,Swimming,"THÜMER, Petra",GDR,Women,800M Freestyle,Gold
+1976,Montreal,Aquatics,Swimming,"BABASHOFF, Shirley Farber",USA,Women,800M Freestyle,Silver
+1976,Montreal,Aquatics,Water polo,"BOEGSCHOTEN, Alexander",NED,Men,Water Polo,Bronze
+1976,Montreal,Aquatics,Water polo,"BUUNK, Antoon G.J.",NED,Men,Water Polo,Bronze
+1976,Montreal,Aquatics,Water polo,"DE ZWARTE, Pieter",NED,Men,Water Polo,Bronze
+1976,Montreal,Aquatics,Water polo,"HOEPELMAN, Andries",NED,Men,Water Polo,Bronze
+1976,Montreal,Aquatics,Water polo,"KROON, Evert Gerrit",NED,Men,Water Polo,Bronze
+1976,Montreal,Aquatics,Water polo,"LANDEWEERD, Nicolaas",NED,Men,Water Polo,Bronze
+1976,Montreal,Aquatics,Water polo,"SMITS, Hans",NED,Men,Water Polo,Bronze
+1976,Montreal,Aquatics,Water polo,"STROBOER, Gijsbert (Gijs)",NED,Men,Water Polo,Bronze
+1976,Montreal,Aquatics,Water polo,"TOONEN, Hendrik (Rik)",NED,Men,Water Polo,Bronze
+1976,Montreal,Aquatics,Water polo,"VAN ZEELAND, Hans",NED,Men,Water Polo,Bronze
+1976,Montreal,Aquatics,Water polo,"VEER, Jan Evert",NED,Men,Water Polo,Bronze
+1976,Montreal,Aquatics,Water polo,"CSAPO, Gabor",HUN,Men,Water Polo,Gold
+1976,Montreal,Aquatics,Water polo,"CSERVENYAK, Tibor",HUN,Men,Water Polo,Gold
+1976,Montreal,Aquatics,Water polo,"FARAGO, Tamas",HUN,Men,Water Polo,Gold
+1976,Montreal,Aquatics,Water polo,"GERENDAS, Gyorgy",HUN,Men,Water Polo,Gold
+1976,Montreal,Aquatics,Water polo,"HORKAI, Gyorgy",HUN,Men,Water Polo,Gold
+1976,Montreal,Aquatics,Water polo,"KENEZ, Gyorgy",HUN,Men,Water Polo,Gold
+1976,Montreal,Aquatics,Water polo,"KONRAD, Ferenc",HUN,Men,Water Polo,Gold
+1976,Montreal,Aquatics,Water polo,"MOLNAR, Endre",HUN,Men,Water Polo,Gold
+1976,Montreal,Aquatics,Water polo,"SAROSI, Laszlo",HUN,Men,Water Polo,Gold
+1976,Montreal,Aquatics,Water polo,"SUDAR, Attila",HUN,Men,Water Polo,Gold
+1976,Montreal,Aquatics,Water polo,"SZIVOS, Istvan",HUN,Men,Water Polo,Gold
+1976,Montreal,Aquatics,Water polo,"ALBERANI SAMARITANI, Alberto",ITA,Men,Water Polo,Silver
+1976,Montreal,Aquatics,Water polo,"BARACCHINI, Silvio",ITA,Men,Water Polo,Silver
+1976,Montreal,Aquatics,Water polo,"CASTAGNOLA, Luigi",ITA,Men,Water Polo,Silver
+1976,Montreal,Aquatics,Water polo,"D, Vincenzo",ITA,Men,Water Polo,Silver
+1976,Montreal,Aquatics,Water polo,"DE MAGISTRIS, Gianni",ITA,Men,Water Polo,Silver
+1976,Montreal,Aquatics,Water polo,"DE MAGISTRIS, Riccardo",ITA,Men,Water Polo,Silver
+1976,Montreal,Aquatics,Water polo,"DEL DUCA, Marcello",ITA,Men,Water Polo,Silver
+1976,Montreal,Aquatics,Water polo,"GHIBELLINI, Alessandro",ITA,Men,Water Polo,Silver
+1976,Montreal,Aquatics,Water polo,"MARSILI, Sante",ITA,Men,Water Polo,Silver
+1976,Montreal,Aquatics,Water polo,"PANERAI, Umberto",ITA,Men,Water Polo,Silver
+1976,Montreal,Aquatics,Water polo,"SIMEONI, Roldano",ITA,Men,Water Polo,Silver
+1976,Montreal,Archery,Archery,"FERRARI, Giancarlo",ITA,Men,Individual Fita Round,Bronze
+1976,Montreal,Archery,Archery,"PACE, Darrell Owen",USA,Men,Individual Fita Round,Gold
+1976,Montreal,Archery,Archery,"MICHINAGA, Hiroshi",JPN,Men,Individual Fita Round,Silver
+1976,Montreal,Archery,Archery,"RUSTAMOVA, Zebiniso",URS,Women,Individual Fita Round,Bronze
+1976,Montreal,Archery,Archery,"RYON, Luann Marie",USA,Women,Individual Fita Round,Gold
+1976,Montreal,Archery,Archery,"KOVPAN, Valentina",URS,Women,Individual Fita Round,Silver
+1976,Montreal,Athletics,Athletics,"FOSTER, Brendan",GBR,Men,10000M,Bronze
+1976,Montreal,Athletics,Athletics,"VIREN, Lasse",FIN,Men,10000M,Gold
+1976,Montreal,Athletics,Athletics,"LOPES, Carlos",POR,Men,10000M,Silver
+1976,Montreal,Athletics,Athletics,"BORZOV, Valery",URS,Men,100M,Bronze
+1976,Montreal,Athletics,Athletics,"CRAWFORD, Hasely",TRI,Men,100M,Gold
+1976,Montreal,Athletics,Athletics,"QUARRIE, Donald",JAM,Men,100M,Silver
+1976,Montreal,Athletics,Athletics,"HELTEN, Inge",FRG,Women,100M,Bronze
+1976,Montreal,Athletics,Athletics,"RICHTER-IRRGANG, Annegret",FRG,Women,100M,Gold
+1976,Montreal,Athletics,Athletics,"STECHER, Renate",GDR,Women,100M,Silver
+1976,Montreal,Athletics,Athletics,"LEBEDEVA, Natalya",URS,Women,100M Hurdles,Bronze
+1976,Montreal,Athletics,Athletics,"SCHALLER-KLIER, Johanna",GDR,Women,100M Hurdles,Gold
+1976,Montreal,Athletics,Athletics,"ANISIMOVA, Tatiana",URS,Women,100M Hurdles,Silver
+1976,Montreal,Athletics,Athletics,"DAVENPORT, Willie",USA,Men,110M Hurdles,Bronze
+1976,Montreal,Athletics,Athletics,"DRUT, Guy",FRA,Men,110M Hurdles,Gold
+1976,Montreal,Athletics,Athletics,"CASANAS RAMIREZ, Alejandro",CUB,Men,110M Hurdles,Silver
+1976,Montreal,Athletics,Athletics,"WELLMANN, Paul-Heinz",FRG,Men,1500M,Bronze
+1976,Montreal,Athletics,Athletics,"WALKER, John",NZL,Men,1500M,Gold
+1976,Montreal,Athletics,Athletics,"VAN DAMME, Ivo",BEL,Men,1500M,Silver
+1976,Montreal,Athletics,Athletics,"KLAPEZYNSKI-BRUNS, Ulrike",GDR,Women,1500M,Bronze
+1976,Montreal,Athletics,Athletics,"KAZANKINA, Tatiana",URS,Women,1500M,Gold
+1976,Montreal,Athletics,Athletics,"HOFFMEISTER, Gunhild",GDR,Women,1500M,Silver
+1976,Montreal,Athletics,Athletics,"EVANS, Dwayne Eugene",USA,Men,200M,Bronze
+1976,Montreal,Athletics,Athletics,"QUARRIE, Donald",JAM,Men,200M,Gold
+1976,Montreal,Athletics,Athletics,"HAMPTON, Millard Frank Jr.",USA,Men,200M,Silver
+1976,Montreal,Athletics,Athletics,"STECHER, Renate",GDR,Women,200M,Bronze
+1976,Montreal,Athletics,Athletics,"ECKERT-WÖCKEL, Bärbel",GDR,Women,200M,Gold
+1976,Montreal,Athletics,Athletics,"RICHTER-IRRGANG, Annegret",FRG,Women,200M,Silver
+1976,Montreal,Athletics,Athletics,"FRENKEL, Peter",GDR,Men,20KM Walk,Bronze
+1976,Montreal,Athletics,Athletics,"BAUTISTA ROCHA, Daniel",MEX,Men,20KM Walk,Gold
+1976,Montreal,Athletics,Athletics,"REIMANN, Hans",GDR,Men,20KM Walk,Silver
+1976,Montreal,Athletics,Athletics,"BAUMGARTL, Frank",GDR,Men,3000M Steeplechase,Bronze
+1976,Montreal,Athletics,Athletics,"GARDERUD, Anders",SWE,Men,3000M Steeplechase,Gold
+1976,Montreal,Athletics,Athletics,"MALINOWSKI, Bronislaw",POL,Men,3000M Steeplechase,Silver
+1976,Montreal,Athletics,Athletics,"FRAZIER, Herman Ronald",USA,Men,400M,Bronze
+1976,Montreal,Athletics,Athletics,"JUANTORENA, Alberto",CUB,Men,400M,Gold
+1976,Montreal,Athletics,Athletics,"NEWHOUSE, Frederick Vaughn",USA,Men,400M,Silver
+1976,Montreal,Athletics,Athletics,"STROPAHL-STREIDT, Ellen",GDR,Women,400M,Bronze
+1976,Montreal,Athletics,Athletics,"SZEWINSKA, Irena",POL,Women,400M,Gold
+1976,Montreal,Athletics,Athletics,"BREHMER-LATHAN, Christina",GDR,Women,400M,Silver
+1976,Montreal,Athletics,Athletics,"GAVRILENKO, Yevgeni",URS,Men,400M Hurdles,Bronze
+1976,Montreal,Athletics,Athletics,"MOSES, Edwin",USA,Men,400M Hurdles,Gold
+1976,Montreal,Athletics,Athletics,"SHINE, Michael Lyle",USA,Men,400M Hurdles,Silver
+1976,Montreal,Athletics,Athletics,"AKSININ, Aleksandr",URS,Men,4X100M Relay,Bronze
+1976,Montreal,Athletics,Athletics,"BORZOV, Valery",URS,Men,4X100M Relay,Bronze
+1976,Montreal,Athletics,Athletics,"KOLESNIKOV, Nikolai",URS,Men,4X100M Relay,Bronze
+1976,Montreal,Athletics,Athletics,"SILOVS, Yuris",URS,Men,4X100M Relay,Bronze
+1976,Montreal,Athletics,Athletics,"GLANCE, Harvey Edward",USA,Men,4X100M Relay,Gold
+1976,Montreal,Athletics,Athletics,"HAMPTON, Millard Frank Jr.",USA,Men,4X100M Relay,Gold
+1976,Montreal,Athletics,Athletics,"JONES, John Wesley",USA,Men,4X100M Relay,Gold
+1976,Montreal,Athletics,Athletics,"RIDDICK, Steven Earl",USA,Men,4X100M Relay,Gold
+1976,Montreal,Athletics,Athletics,"KOKOT, Manfred",GDR,Men,4X100M Relay,Silver
+1976,Montreal,Athletics,Athletics,"KURRAT, Klaus-Dieter",GDR,Men,4X100M Relay,Silver
+1976,Montreal,Athletics,Athletics,"PFEIFER, Jörg",GDR,Men,4X100M Relay,Silver
+1976,Montreal,Athletics,Athletics,"THIEME, Alexander",GDR,Men,4X100M Relay,Silver
+1976,Montreal,Athletics,Athletics,"ANISIMOVA, Vera",URS,Women,4X100M Relay,Bronze
+1976,Montreal,Athletics,Athletics,"BESFAMILNAYA, Nadezhda",URS,Women,4X100M Relay,Bronze
+1976,Montreal,Athletics,Athletics,"PROROCHENKO, Tatiana",URS,Women,4X100M Relay,Bronze
+1976,Montreal,Athletics,Athletics,"ZHARKOVA-MASLAKOVA, Liudmila",URS,Women,4X100M Relay,Bronze
+1976,Montreal,Athletics,Athletics,"BODENDORF, Carla",GDR,Women,4X100M Relay,Gold
+1976,Montreal,Athletics,Athletics,"ECKERT-WÖCKEL, Bärbel",GDR,Women,4X100M Relay,Gold
+1976,Montreal,Athletics,Athletics,"OELSNER-GÖHR, Marlies",GDR,Women,4X100M Relay,Gold
+1976,Montreal,Athletics,Athletics,"STECHER, Renate",GDR,Women,4X100M Relay,Gold
+1976,Montreal,Athletics,Athletics,"HELTEN, Inge",FRG,Women,4X100M Relay,Silver
+1976,Montreal,Athletics,Athletics,"KRONIGER, Annegret",FRG,Women,4X100M Relay,Silver
+1976,Montreal,Athletics,Athletics,"POSSEKEL, Elvira",FRG,Women,4X100M Relay,Silver
+1976,Montreal,Athletics,Athletics,"RICHTER-IRRGANG, Annegret",FRG,Women,4X100M Relay,Silver
+1976,Montreal,Athletics,Athletics,"HERRMANN, Bernd",FRG,Men,4X400M Relay,Bronze
+1976,Montreal,Athletics,Athletics,"HOFMEISTER, Franz-Peter",FRG,Men,4X400M Relay,Bronze
+1976,Montreal,Athletics,Athletics,"KRIEG, Lothar",FRG,Men,4X400M Relay,Bronze
+1976,Montreal,Athletics,Athletics,"SCHMID, Harald",FRG,Men,4X400M Relay,Bronze
+1976,Montreal,Athletics,Athletics,"BROWN, Benjamin Gene",USA,Men,4X400M Relay,Gold
+1976,Montreal,Athletics,Athletics,"FRAZIER, Herman Ronald",USA,Men,4X400M Relay,Gold
+1976,Montreal,Athletics,Athletics,"NEWHOUSE, Frederick Vaughn",USA,Men,4X400M Relay,Gold
+1976,Montreal,Athletics,Athletics,"PARKS, Maxwell Lander",USA,Men,4X400M Relay,Gold
+1976,Montreal,Athletics,Athletics,"JAREMSKI, Zbigniew",POL,Men,4X400M Relay,Silver
+1976,Montreal,Athletics,Athletics,"PIETRZYK, Jerzy",POL,Men,4X400M Relay,Silver
+1976,Montreal,Athletics,Athletics,"PODLAS, Ryszard",POL,Men,4X400M Relay,Silver
+1976,Montreal,Athletics,Athletics,"WERNER, Jan",POL,Men,4X400M Relay,Silver
+1976,Montreal,Athletics,Athletics,"AKSENOVA, Lyudmila",URS,Women,4X400M Relay,Bronze
+1976,Montreal,Athletics,Athletics,"CHISTYAKOVA-SOKOLOVA, Natalya",URS,Women,4X400M Relay,Bronze
+1976,Montreal,Athletics,Athletics,"KLIMOVOCHA, Inta",URS,Women,4X400M Relay,Bronze
+1976,Montreal,Athletics,Athletics,"KOLESNIKOVA-ILYINA, Nadezhda",URS,Women,4X400M Relay,Bronze
+1976,Montreal,Athletics,Athletics,"BREHMER-LATHAN, Christina",GDR,Women,4X400M Relay,Gold
+1976,Montreal,Athletics,Athletics,"MALETZKI, Doris",GDR,Women,4X400M Relay,Gold
+1976,Montreal,Athletics,Athletics,"ROHDE, Brigitte",GDR,Women,4X400M Relay,Gold
+1976,Montreal,Athletics,Athletics,"STROPAHL-STREIDT, Ellen",GDR,Women,4X400M Relay,Gold
+1976,Montreal,Athletics,Athletics,"BRYANT, Rosalyn Evette",USA,Women,4X400M Relay,Silver
+1976,Montreal,Athletics,Athletics,"GREENE-JILES, Pamela",USA,Women,4X400M Relay,Silver
+1976,Montreal,Athletics,Athletics,"INGRAM, Sheila Rena",USA,Women,4X400M Relay,Silver
+1976,Montreal,Athletics,Athletics,"SAPENTER, Deborah Elaine",USA,Women,4X400M Relay,Silver
+1976,Montreal,Athletics,Athletics,"HILDENBRAND, Klaus-Peter",FRG,Men,5000M,Bronze
+1976,Montreal,Athletics,Athletics,"VIREN, Lasse",FIN,Men,5000M,Gold
+1976,Montreal,Athletics,Athletics,"QUAX, Dick Theodorus",NZL,Men,5000M,Silver
+1976,Montreal,Athletics,Athletics,"WOHLHUTER, Richard Charles",USA,Men,800M,Bronze
+1976,Montreal,Athletics,Athletics,"JUANTORENA, Alberto",CUB,Men,800M,Gold
+1976,Montreal,Athletics,Athletics,"VAN DAMME, Ivo",BEL,Men,800M,Silver
+1976,Montreal,Athletics,Athletics,"ZINN, Elfi",GDR,Women,800M,Bronze
+1976,Montreal,Athletics,Athletics,"KAZANKINA, Tatiana",URS,Women,800M,Gold
+1976,Montreal,Athletics,Athletics,"CHTEREVA, Nikolina",BUL,Women,800M,Silver
+1976,Montreal,Athletics,Athletics,"AVILOV, Nikolai",URS,Men,Decathlon,Bronze
+1976,Montreal,Athletics,Athletics,"JENNER, William Bruce",USA,Men,Decathlon,Gold
+1976,Montreal,Athletics,Athletics,"KRATSCHMER, Guido",FRG,Men,Decathlon,Silver
+1976,Montreal,Athletics,Athletics,"POWELL, John Gates",USA,Men,Discus Throw,Bronze
+1976,Montreal,Athletics,Athletics,"WILKINS, Malcolm Maurice",USA,Men,Discus Throw,Gold
+1976,Montreal,Athletics,Athletics,"SCHMIDT, Wolfgang",GDR,Men,Discus Throw,Silver
+1976,Montreal,Athletics,Athletics,"HINZMANN, Gabriele",GDR,Women,Discus Throw,Bronze
+1976,Montreal,Athletics,Athletics,"SCHLAAK-JAHL, Evelin",GDR,Women,Discus Throw,Gold
+1976,Montreal,Athletics,Athletics,"VERGOVA-PETKOVA, Maria",BUL,Women,Discus Throw,Silver
+1976,Montreal,Athletics,Athletics,"BONDARCHUK, Anatoli",URS,Men,Hammer Throw,Bronze
+1976,Montreal,Athletics,Athletics,"SEDYKH, Yuri",URS,Men,Hammer Throw,Gold
+1976,Montreal,Athletics,Athletics,"SPIRIDONOV, Aleksei",URS,Men,Hammer Throw,Silver
+1976,Montreal,Athletics,Athletics,"STONES, Dwight Edwin",USA,Men,High Jump,Bronze
+1976,Montreal,Athletics,Athletics,"WSZOLA, Jacek",POL,Men,High Jump,Gold
+1976,Montreal,Athletics,Athletics,"JOY, Gregory",CAN,Men,High Jump,Silver
+1976,Montreal,Athletics,Athletics,"BLAGOEVA-DIMITROVA, Yordanka",BUL,Women,High Jump,Bronze
+1976,Montreal,Athletics,Athletics,"WITSCHAS-ACKERMANN, Rosemarie",GDR,Women,High Jump,Gold
+1976,Montreal,Athletics,Athletics,"SIMEONI, Sara",ITA,Women,High Jump,Silver
+1976,Montreal,Athletics,Athletics,"MEGELEA, Gheorghe",ROU,Men,Javelin Throw,Bronze
+1976,Montreal,Athletics,Athletics,"NEMETH, Miklos",HUN,Men,Javelin Throw,Gold
+1976,Montreal,Athletics,Athletics,"SIITONEN, Hannu Juhani",FIN,Men,Javelin Throw,Silver
+1976,Montreal,Athletics,Athletics,"SCHMIDT, Kathryn Joan",USA,Women,Javelin Throw,Bronze
+1976,Montreal,Athletics,Athletics,"FUCHS, Ruth",GDR,Women,Javelin Throw,Gold
+1976,Montreal,Athletics,Athletics,"BECKER-STEINER, Marion",FRG,Women,Javelin Throw,Silver
+1976,Montreal,Athletics,Athletics,"WARTENBERG, Frank",GDR,Men,Long Jump,Bronze
+1976,Montreal,Athletics,Athletics,"ROBINSON, Arnie",USA,Men,Long Jump,Gold
+1976,Montreal,Athletics,Athletics,"WILLIAMS, Randel Luvelle",USA,Men,Long Jump,Silver
+1976,Montreal,Athletics,Athletics,"ALFEEVA, Lidia",URS,Women,Long Jump,Bronze
+1976,Montreal,Athletics,Athletics,"VOIGT, Angela",GDR,Women,Long Jump,Gold
+1976,Montreal,Athletics,Athletics,"MCMILLAN, Catherine Laverne",USA,Women,Long Jump,Silver
+1976,Montreal,Athletics,Athletics,"LISMONT, Karel",BEL,Men,Marathon,Bronze
+1976,Montreal,Athletics,Athletics,"CIERPINSKI, Waldemar",GDR,Men,Marathon,Gold
+1976,Montreal,Athletics,Athletics,"SHORTER, Frank Charles",USA,Men,Marathon,Silver
+1976,Montreal,Athletics,Athletics,"POLLAK, Burglinde",GDR,Women,Pentathlon,Bronze
+1976,Montreal,Athletics,Athletics,"SIEGL, Siegrun",GDR,Women,Pentathlon,Gold
+1976,Montreal,Athletics,Athletics,"BODNER-LASER, Christine",GDR,Women,Pentathlon,Silver
+1976,Montreal,Athletics,Athletics,"ROBERTS, David Luther",USA,Men,Pole Vault,Bronze
+1976,Montreal,Athletics,Athletics,"SLUSARSKI, Tadeusz",POL,Men,Pole Vault,Gold
+1976,Montreal,Athletics,Athletics,"KALLIOMÄKI, Antti Tapani",FIN,Men,Pole Vault,Silver
+1976,Montreal,Athletics,Athletics,"BARYSHNIKOV, Aleksandr",URS,Men,Shot Put,Bronze
+1976,Montreal,Athletics,Athletics,"BEYER, Udo",GDR,Men,Shot Put,Gold
+1976,Montreal,Athletics,Athletics,"MIRONOV, Yevgeni",URS,Men,Shot Put,Silver
+1976,Montreal,Athletics,Athletics,"FIBINGEROVA, Helena",TCH,Women,Shot Put,Bronze
+1976,Montreal,Athletics,Athletics,"CHRISTOVA-TODOROVA, Ivanka Mikailova",BUL,Women,Shot Put,Gold
+1976,Montreal,Athletics,Athletics,"CHIZHOVA, Nadezhda",URS,Women,Shot Put,Silver
+1976,Montreal,Athletics,Athletics,"DE OLIVEIRA, Joao Carlos",BRA,Men,Triple Jump,Bronze
+1976,Montreal,Athletics,Athletics,"SANEEV, Viktor",URS,Men,Triple Jump,Gold
+1976,Montreal,Athletics,Athletics,"BUTTS, James A.",USA,Men,Triple Jump,Silver
+1976,Montreal,Basketball,Basketball,"ARZAMASKOV, Vladimir",URS,Men,Basketball,Bronze
+1976,Montreal,Basketball,Basketball,"BELOV, Aleksandr",URS,Men,Basketball,Bronze
+1976,Montreal,Basketball,Basketball,"BELOV, Sergei",URS,Men,Basketball,Bronze
+1976,Montreal,Basketball,Basketball,"EDESHKO, Ivan",URS,Men,Basketball,Bronze
+1976,Montreal,Basketball,Basketball,"KORKIYA, Mikhail",URS,Men,Basketball,Bronze
+1976,Montreal,Basketball,Basketball,"MAKEEV, Andrei",URS,Men,Basketball,Bronze
+1976,Montreal,Basketball,Basketball,"MILOSERDOV, Valeri",URS,Men,Basketball,Bronze
+1976,Montreal,Basketball,Basketball,"MYSHKIN, Anatoli",URS,Men,Basketball,Bronze
+1976,Montreal,Basketball,Basketball,"SALNIKOV, Aleksandr",URS,Men,Basketball,Bronze
+1976,Montreal,Basketball,Basketball,"TKACHENKO, Vladimir",URS,Men,Basketball,Bronze
+1976,Montreal,Basketball,Basketball,"ZHARMUKHAMEDOV, Alzhan",URS,Men,Basketball,Bronze
+1976,Montreal,Basketball,Basketball,"ZHIGILY, Vladimir",URS,Men,Basketball,Bronze
+1976,Montreal,Basketball,Basketball,"ARMSTRONG, Michael Taylor (Tate)",USA,Men,Basketball,Gold
+1976,Montreal,Basketball,Basketball,"BUCKNER, William Quinn",USA,Men,Basketball,Gold
+1976,Montreal,Basketball,Basketball,"CARR, Kenneth Alan",USA,Men,Basketball,Gold
+1976,Montreal,Basketball,Basketball,"DANTLEY, Adrian Delano",USA,Men,Basketball,Gold
+1976,Montreal,Basketball,Basketball,"DAVIS, Walter Paul",USA,Men,Basketball,Gold
+1976,Montreal,Basketball,Basketball,"FORD, Philip Jackson, Jr.",USA,Men,Basketball,Gold
+1976,Montreal,Basketball,Basketball,"GRUNFELD, Ernest",USA,Men,Basketball,Gold
+1976,Montreal,Basketball,Basketball,"HUBBARD, Phillip Gregory",USA,Men,Basketball,Gold
+1976,Montreal,Basketball,Basketball,"KUPCHAK, Mitchell",USA,Men,Basketball,Gold
+1976,Montreal,Basketball,Basketball,"LAGARDE, Thomas Joseph",USA,Men,Basketball,Gold
+1976,Montreal,Basketball,Basketball,"MAY, Scott Glenn",USA,Men,Basketball,Gold
+1976,Montreal,Basketball,Basketball,"SHEPPARD, Steven",USA,Men,Basketball,Gold
+1976,Montreal,Basketball,Basketball,"COSIC, Kresimir",YUG,Men,Basketball,Silver
+1976,Montreal,Basketball,Basketball,"DALIPAGIC, Drazen",YUG,Men,Basketball,Silver
+1976,Montreal,Basketball,Basketball,"DELIBASIC, Mirza",YUG,Men,Basketball,Silver
+1976,Montreal,Basketball,Basketball,"GEORGIJEVSKI, Blagoje",YUG,Men,Basketball,Silver
+1976,Montreal,Basketball,Basketball,"JELOVAC, Vinko",YUG,Men,Basketball,Silver
+1976,Montreal,Basketball,Basketball,"JERKOV, Zeljko",YUG,Men,Basketball,Silver
+1976,Montreal,Basketball,Basketball,"KICANOVIC, Dragan",YUG,Men,Basketball,Silver
+1976,Montreal,Basketball,Basketball,"KNEGO, Andro",YUG,Men,Basketball,Silver
+1976,Montreal,Basketball,Basketball,"SLAVNIC, Zoran",YUG,Men,Basketball,Silver
+1976,Montreal,Basketball,Basketball,"SOLMAN, Damir",YUG,Men,Basketball,Silver
+1976,Montreal,Basketball,Basketball,"VARAJIC, Zarko",YUG,Men,Basketball,Silver
+1976,Montreal,Basketball,Basketball,"ZIZIC, Rajko",YUG,Men,Basketball,Silver
+1976,Montreal,Basketball,Basketball,"BOGDANOVA, Krasimira",BUL,Women,Basketball,Bronze
+1976,Montreal,Basketball,Basketball,"CHTARKELOVA, Margarita",BUL,Women,Basketball,Bronze
+1976,Montreal,Basketball,Basketball,"DILOVA-BRAYNOVA, Diana",BUL,Women,Basketball,Bronze
+1976,Montreal,Basketball,Basketball,"GIUROVA, Krassimira",BUL,Women,Basketball,Bronze
+1976,Montreal,Basketball,Basketball,"GOLTCHEVA, Nadka",BUL,Women,Basketball,Bronze
+1976,Montreal,Basketball,Basketball,"MAKAVEEVA, Petkana",BUL,Women,Basketball,Bronze
+1976,Montreal,Basketball,Basketball,"METODIEVA, Penka",BUL,Women,Basketball,Bronze
+1976,Montreal,Basketball,Basketball,"MIKHAILOVA, Snezhana",BUL,Women,Basketball,Bronze
+1976,Montreal,Basketball,Basketball,"SKERLATOVA, Girgina",BUL,Women,Basketball,Bronze
+1976,Montreal,Basketball,Basketball,"STOYANOVA, Maria",BUL,Women,Basketball,Bronze
+1976,Montreal,Basketball,Basketball,"STOYANOVA, Penka",BUL,Women,Basketball,Bronze
+1976,Montreal,Basketball,Basketball,"YORDANOVA, Todorka",BUL,Women,Basketball,Bronze
+1976,Montreal,Basketball,Basketball,"BARISHEVA-KOROSTELEVA, Olga",URS,Women,Basketball,Gold
+1976,Montreal,Basketball,Basketball,"DAUNENE, Tamara",URS,Women,Basketball,Gold
+1976,Montreal,Basketball,Basketball,"FERYABNIKOVA, Nelli",URS,Women,Basketball,Gold
+1976,Montreal,Basketball,Basketball,"KLIMOVA, Natalya",URS,Women,Basketball,Gold
+1976,Montreal,Basketball,Basketball,"KURVYAKOVA, Raisa",URS,Women,Basketball,Gold
+1976,Montreal,Basketball,Basketball,"OVECHKINA, Tatiana",URS,Women,Basketball,Gold
+1976,Montreal,Basketball,Basketball,"RUPSHENE, Angelia",URS,Women,Basketball,Gold
+1976,Montreal,Basketball,Basketball,"SEMENOVA, Iuliana",URS,Women,Basketball,Gold
+1976,Montreal,Basketball,Basketball,"SHUVAEVA-OLKHOVA, Nadezhda",URS,Women,Basketball,Gold
+1976,Montreal,Basketball,Basketball,"SUKHARNOVA, Olga",URS,Women,Basketball,Gold
+1976,Montreal,Basketball,Basketball,"ZAKHAROVA, Nadezhda",URS,Women,Basketball,Gold
+1976,Montreal,Basketball,Basketball,"ZAKHAROVA-NADIROVA, Tatiana",URS,Women,Basketball,Gold
+1976,Montreal,Basketball,Basketball,"BROGDEN, Cinderella Jane",USA,Women,Basketball,Silver
+1976,Montreal,Basketball,Basketball,"DUNKLE, Nancy Lynn",USA,Women,Basketball,Silver
+1976,Montreal,Basketball,Basketball,"HARRIS, Lusia Mae",USA,Women,Basketball,Silver
+1976,Montreal,Basketball,Basketball,"HEAD, Patricia Sue",USA,Women,Basketball,Silver
+1976,Montreal,Basketball,Basketball,"LEWIS, Charlotte",USA,Women,Basketball,Silver
+1976,Montreal,Basketball,Basketball,"LIEBERMAN, Nancy Lizabeth",USA,Women,Basketball,Silver
+1976,Montreal,Basketball,Basketball,"MARQUIS, Gail Annette",USA,Women,Basketball,Silver
+1976,Montreal,Basketball,Basketball,"MEYERS, Ann Elizabeth",USA,Women,Basketball,Silver
+1976,Montreal,Basketball,Basketball,"O'CONNOR, Mary Anne",USA,Women,Basketball,Silver
+1976,Montreal,Basketball,Basketball,"ROBERTS, Patricia Ann",USA,Women,Basketball,Silver
+1976,Montreal,Basketball,Basketball,"ROJCEWICZ, Susan Marie",USA,Women,Basketball,Silver
+1976,Montreal,Basketball,Basketball,"SIMPSON, Julienne Brazinski",USA,Women,Basketball,Silver
+1976,Montreal,Boxing,Boxing,"MALDONADO, Orlando",PUR,Men,- 48KG (Light-Flyweight),Bronze
+1976,Montreal,Boxing,Boxing,"POOLTARAT, Payao",THA,Men,- 48KG (Light-Flyweight),Bronze
+1976,Montreal,Boxing,Boxing,"HERNANDEZ PADRON, Jorge",CUB,Men,- 48KG (Light-Flyweight),Gold
+1976,Montreal,Boxing,Boxing,"LI, Byong Uk",PRK,Men,- 48KG (Light-Flyweight),Silver
+1976,Montreal,Boxing,Boxing,"HILL, Clarence",BER,Men,+ 81KG (Heavyweight),Bronze
+1976,Montreal,Boxing,Boxing,"TATE, John",USA,Men,+ 81KG (Heavyweight),Bronze
+1976,Montreal,Boxing,Boxing,"STEVENSON, Teofilo",CUB,Men,+ 81KG (Heavyweight),Gold
+1976,Montreal,Boxing,Boxing,"SIMON, Mircea",ROU,Men,+ 81KG (Heavyweight),Silver
+1976,Montreal,Boxing,Boxing,"BLAZYNSKI, Leszek",POL,Men,48 - 51KG (Flyweight),Bronze
+1976,Montreal,Boxing,Boxing,"TOROSYAN, David",URS,Men,48 - 51KG (Flyweight),Bronze
+1976,Montreal,Boxing,Boxing,"RANDOLPH, Leonard",USA,Men,48 - 51KG (Flyweight),Gold
+1976,Montreal,Boxing,Boxing,"DUVALON CARRION, Ramon",CUB,Men,48 - 51KG (Flyweight),Silver
+1976,Montreal,Boxing,Boxing,"COWDELL, Patrick",GBR,Men,51 - 54KG (Bantamweight),Bronze
+1976,Montreal,Boxing,Boxing,"RYBAKOV, Viktor",URS,Men,51 - 54KG (Bantamweight),Bronze
+1976,Montreal,Boxing,Boxing,"GU, Young Jo",PRK,Men,51 - 54KG (Bantamweight),Gold
+1976,Montreal,Boxing,Boxing,"MOONEY, Charles Michael",USA,Men,51 - 54KG (Bantamweight),Silver
+1976,Montreal,Boxing,Boxing,"KOSEDOWSKI, Leszek",POL,Men,54 - 57KG (Featherweight),Bronze
+1976,Montreal,Boxing,Boxing,"PAREDES, Juan",MEX,Men,54 - 57KG (Featherweight),Bronze
+1976,Montreal,Boxing,Boxing,"HERRERA VERA, Angel",CUB,Men,54 - 57KG (Featherweight),Gold
+1976,Montreal,Boxing,Boxing,"NOWAKOWSKI, Richard",GDR,Men,54 - 57KG (Featherweight),Silver
+1976,Montreal,Boxing,Boxing,"RUSEVSKI, Ace",YUG,Men,57 - 60KG (Lightweight),Bronze
+1976,Montreal,Boxing,Boxing,"SOLOMIN, Vasili",URS,Men,57 - 60KG (Lightweight),Bronze
+1976,Montreal,Boxing,Boxing,"DAVIS, Howard Edward, Jr.",USA,Men,57 - 60KG (Lightweight),Gold
+1976,Montreal,Boxing,Boxing,"CUTOV, Simion",ROU,Men,57 - 60KG (Lightweight),Silver
+1976,Montreal,Boxing,Boxing,"KOLEV, Vladimir",BUL,Men,60 - 63.5KG (Light-Welterweight),Bronze
+1976,Montreal,Boxing,Boxing,"SZCZERBA, Kazimierz",POL,Men,60 - 63.5KG (Light-Welterweight),Bronze
+1976,Montreal,Boxing,Boxing,"LEONARD, Ray Charles",USA,Men,60 - 63.5KG (Light-Welterweight),Gold
+1976,Montreal,Boxing,Boxing,"ALDAMA CABRERA, Andres",CUB,Men,60 - 63.5KG (Light-Welterweight),Silver
+1976,Montreal,Boxing,Boxing,"SKRICEK, Reinhard",FRG,Men,63.5 - 67KG (Welterweight),Bronze
+1976,Montreal,Boxing,Boxing,"ZILBERMAN, Victor",ROU,Men,63.5 - 67KG (Welterweight),Bronze
+1976,Montreal,Boxing,Boxing,"BACHFELD, Jochen",GDR,Men,63.5 - 67KG (Welterweight),Gold
+1976,Montreal,Boxing,Boxing,"GAMARRO, Pedro José",VEN,Men,63.5 - 67KG (Welterweight),Silver
+1976,Montreal,Boxing,Boxing,"GARBEY, Rolando",CUB,Men,67 - 71KG (Light-Middleweight),Bronze
+1976,Montreal,Boxing,Boxing,"SAVCHENKO, Viktor",URS,Men,67 - 71KG (Light-Middleweight),Bronze
+1976,Montreal,Boxing,Boxing,"RYBICKI, Jerzy",POL,Men,67 - 71KG (Light-Middleweight),Gold
+1976,Montreal,Boxing,Boxing,"KACAR, Tadija",YUG,Men,67 - 71KG (Light-Middleweight),Silver
+1976,Montreal,Boxing,Boxing,"MARTINEZ SANCHEZ, Luis Felipe",CUB,Men,71-75KG,Bronze
+1976,Montreal,Boxing,Boxing,"NASTAC, Alexandru",ROU,Men,71-75KG,Bronze
+1976,Montreal,Boxing,Boxing,"SPINKS, Michael L.",USA,Men,71-75KG,Gold
+1976,Montreal,Boxing,Boxing,"RISKIEV, Rufat",URS,Men,71-75KG,Silver
+1976,Montreal,Boxing,Boxing,"DAFINOIU, Costica",ROU,Men,75 - 81KG (Light-Heavyweight),Bronze
+1976,Montreal,Boxing,Boxing,"GORTAT, Janusz",POL,Men,75 - 81KG (Light-Heavyweight),Bronze
+1976,Montreal,Boxing,Boxing,"SPINKS, Leonard, Jr.",USA,Men,75 - 81KG (Light-Heavyweight),Gold
+1976,Montreal,Boxing,Boxing,"SORIA CABRERA, Sixto",CUB,Men,75 - 81KG (Light-Heavyweight),Silver
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"WICHMANN, Tamas",HUN,Men,C-1 1000M (Canoe Single),Bronze
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"LJUBEK, Matija",YUG,Men,C-1 1000M (Canoe Single),Gold
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"YURCHENKO, Vasili",URS,Men,C-1 1000M (Canoe Single),Silver
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"LJUBEK, Matija",YUG,Men,C-1 500M (Canoe Single),Bronze
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"ROGOV, Aleksandr",URS,Men,C-1 500M (Canoe Single),Gold
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"WOOD, John",CAN,Men,C-1 500M (Canoe Single),Silver
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"BUDAY, Tamas",HUN,Men,C-2 1000M (Canoe Double),Bronze
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"FREY, Oszkar",HUN,Men,C-2 1000M (Canoe Double),Bronze
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"PETRENKO, Sergei",URS,Men,C-2 1000M (Canoe Double),Gold
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"VINOGRADOV, Aleksandr",URS,Men,C-2 1000M (Canoe Double),Gold
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"DANIELOV, Gheorghe",ROU,Men,C-2 1000M (Canoe Double),Silver
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"SIMIONOV, Gheorghe",ROU,Men,C-2 1000M (Canoe Double),Silver
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"BUDAY, Tamas",HUN,Men,C-2 500M (Canoe Double),Bronze
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"FREY, Oszkar",HUN,Men,C-2 500M (Canoe Double),Bronze
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"PETRENKO, Sergei",URS,Men,C-2 500M (Canoe Double),Gold
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"VINOGRADOV, Aleksandr",URS,Men,C-2 500M (Canoe Double),Gold
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"GRONOWICZ, Andrzej",POL,Men,C-2 500M (Canoe Double),Silver
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"OPARA, Jerzy",POL,Men,C-2 500M (Canoe Double),Silver
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"DIBA, Vasile",ROU,Men,K-1 1000M (Kayak Single),Bronze
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"HELM, Rüdiger",GDR,Men,K-1 1000M (Kayak Single),Gold
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"CSAPO, Geza",HUN,Men,K-1 1000M (Kayak Single),Silver
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"HELM, Rüdiger",GDR,Men,K-1 500M (Kayak Single),Bronze
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"DIBA, Vasile",ROU,Men,K-1 500M (Kayak Single),Gold
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"SZTANITY, Zoltan",HUN,Men,K-1 500M (Kayak Single),Silver
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"RAJNAI, Klara",HUN,Women,K-1 500M (Kayak Single),Bronze
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"ZIRZOW, Carola",GDR,Women,K-1 500M (Kayak Single),Gold
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"KORSHUNOVA, Tatyana",URS,Women,K-1 500M (Kayak Single),Silver
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"BAKO, Zoltan",HUN,Men,K-2 1000M (Kayak Double),Bronze
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"SZABO, Istvan",HUN,Men,K-2 1000M (Kayak Double),Bronze
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"NAGORNYI, Sergei",URS,Men,K-2 1000M (Kayak Double),Gold
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"ROMANOVSKY, Vladimir",URS,Men,K-2 1000M (Kayak Double),Gold
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"MATTERN, Joachim",GDR,Men,K-2 1000M (Kayak Double),Silver
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"OLBRICHT, Bernd",GDR,Men,K-2 1000M (Kayak Double),Silver
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"MALIHIN, Policarp",ROU,Men,K-2 500M (Kayak Double),Bronze
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"SERHEI, Larion",ROU,Men,K-2 500M (Kayak Double),Bronze
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"MATTERN, Joachim",GDR,Men,K-2 500M (Kayak Double),Gold
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"OLBRICHT, Bernd",GDR,Men,K-2 500M (Kayak Double),Gold
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"NAGORNYI, Sergei",URS,Men,K-2 500M (Kayak Double),Silver
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"ROMANOVSKY, Vladimir",URS,Men,K-2 500M (Kayak Double),Silver
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"KÖSTER, Bärbel",GDR,Women,K-2 500M (Kayak Double),Bronze
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"ZIRZOW, Carola",GDR,Women,K-2 500M (Kayak Double),Bronze
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"GOPOVA-TROFIMOVA, Nina",URS,Women,K-2 500M (Kayak Double),Gold
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"KREFT-ALEKSEEVA, Galina",URS,Women,K-2 500M (Kayak Double),Gold
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"PFEFFER, Anna",HUN,Women,K-2 500M (Kayak Double),Silver
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"RAJNAI, Klara",HUN,Women,K-2 500M (Kayak Double),Silver
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"BISCHOF, Frank-Peter",GDR,Men,K-4 1000M (Kayak Four),Bronze
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"DUVIGNEAU, Bernd",GDR,Men,K-4 1000M (Kayak Four),Bronze
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"HELM, Rüdiger",GDR,Men,K-4 1000M (Kayak Four),Bronze
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"LEHNERT, Jürgen",GDR,Men,K-4 1000M (Kayak Four),Bronze
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"CHUKHRAI, Sergei",URS,Men,K-4 1000M (Kayak Four),Gold
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"DEGTYAREV, Aleksandr",URS,Men,K-4 1000M (Kayak Four),Gold
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"FILATOV, Yuri",URS,Men,K-4 1000M (Kayak Four),Gold
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"MOROZOV, Vladimir",URS,Men,K-4 1000M (Kayak Four),Gold
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"ESTEBAN CELLORIO, Jose Maria",ESP,Men,K-4 1000M (Kayak Four),Silver
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"LOPEZ DIAZ FLOR, Jose Ramon",ESP,Men,K-4 1000M (Kayak Four),Silver
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"MENENDEZ RODRIGUEZ, Herminio",ESP,Men,K-4 1000M (Kayak Four),Silver
+1976,Montreal,Canoe / Kayak,Canoe / Kayak F,"RAMOS MISIONE, Luis Gregorio",ESP,Men,K-4 1000M (Kayak Four),Silver
+1976,Montreal,Cycling,Cycling Road,"NOWICKI, Mieczyslaw",POL,Men,Individual Road Race,Bronze
+1976,Montreal,Cycling,Cycling Road,"JOHANSSON, Bernt",SWE,Men,Individual Road Race,Gold
+1976,Montreal,Cycling,Cycling Road,"MARTINELLI, Giuseppe",ITA,Men,Individual Road Race,Silver
+1976,Montreal,Cycling,Cycling Road,"BLAUDZUN, Verner",DEN,Men,Team Time Trial,Bronze
+1976,Montreal,Cycling,Cycling Road,"FRANK, Gert",DEN,Men,Team Time Trial,Bronze
+1976,Montreal,Cycling,Cycling Road,"HANSEN, Jorgen Emil",DEN,Men,Team Time Trial,Bronze
+1976,Montreal,Cycling,Cycling Road,"LUND, Jorn",DEN,Men,Team Time Trial,Bronze
+1976,Montreal,Cycling,Cycling Road,"CHAPLYGIN, Valeri",URS,Men,Team Time Trial,Gold
+1976,Montreal,Cycling,Cycling Road,"CHUKANOV, Anatoli",URS,Men,Team Time Trial,Gold
+1976,Montreal,Cycling,Cycling Road,"KAMINSKY, Vladimir",URS,Men,Team Time Trial,Gold
+1976,Montreal,Cycling,Cycling Road,"PIKKUUS, Aavo",URS,Men,Team Time Trial,Gold
+1976,Montreal,Cycling,Cycling Road,"MYTNIK, Tadeusz",POL,Men,Team Time Trial,Silver
+1976,Montreal,Cycling,Cycling Road,"NOWICKI, Mieczyslaw",POL,Men,Team Time Trial,Silver
+1976,Montreal,Cycling,Cycling Road,"SZOZDA, Stanislaw",POL,Men,Team Time Trial,Silver
+1976,Montreal,Cycling,Cycling Road,"SZURKOWSKI, Ryszard",POL,Men,Team Time Trial,Silver
+1976,Montreal,Cycling,Cycling Track,"FREDBORG, Niels Christian",DEN,Men,1KM Time Trial,Bronze
+1976,Montreal,Cycling,Cycling Track,"GRÜNKE, Klaus-Jürgen",GDR,Men,1KM Time Trial,Gold
+1976,Montreal,Cycling,Cycling Track,"VAARTEN, Michel",BEL,Men,1KM Time Trial,Silver
+1976,Montreal,Cycling,Cycling Track,"HUSCHKE, Thomas",GDR,Men,Individual Pursuit,Bronze
+1976,Montreal,Cycling,Cycling Track,"BRAUN, Gregor",FRG,Men,Individual Pursuit,Gold
+1976,Montreal,Cycling,Cycling Track,"PONSTEEN, Herman",NED,Men,Individual Pursuit,Silver
+1976,Montreal,Cycling,Cycling Track,"GESCHKE, Hans-Jürgen",GDR,Men,Sprint Indivual,Bronze
+1976,Montreal,Cycling,Cycling Track,"TKAC, Anton",TCH,Men,Sprint Indivual,Gold
+1976,Montreal,Cycling,Cycling Track,"MORELON, Daniel",FRA,Men,Sprint Indivual,Silver
+1976,Montreal,Cycling,Cycling Track,"BANBURY, Ian",GBR,Men,Team Pursuit (4000M),Bronze
+1976,Montreal,Cycling,Cycling Track,"BENNETT, Michael John",GBR,Men,Team Pursuit (4000M),Bronze
+1976,Montreal,Cycling,Cycling Track,"CROKER, Robin",GBR,Men,Team Pursuit (4000M),Bronze
+1976,Montreal,Cycling,Cycling Track,"HALLAM, Ian",GBR,Men,Team Pursuit (4000M),Bronze
+1976,Montreal,Cycling,Cycling Track,"BRAUN, Gregor",FRG,Men,Team Pursuit (4000M),Gold
+1976,Montreal,Cycling,Cycling Track,"LUTZ, Hans",FRG,Men,Team Pursuit (4000M),Gold
+1976,Montreal,Cycling,Cycling Track,"SCHUHMACHER, Günther",FRG,Men,Team Pursuit (4000M),Gold
+1976,Montreal,Cycling,Cycling Track,"VONHOF, Peter",FRG,Men,Team Pursuit (4000M),Gold
+1976,Montreal,Cycling,Cycling Track,"OSOKIN, Vladimir",URS,Men,Team Pursuit (4000M),Silver
+1976,Montreal,Cycling,Cycling Track,"PEROV, Aleksandr",URS,Men,Team Pursuit (4000M),Silver
+1976,Montreal,Cycling,Cycling Track,"PETRAKOV, Vitali",URS,Men,Team Pursuit (4000M),Silver
+1976,Montreal,Cycling,Cycling Track,"SOKOLOV, Viktor",URS,Men,Team Pursuit (4000M),Silver
+1976,Montreal,Equestrian,Dressage,"KLIMKE, Reiner",FRG,Men,Individual,Bronze
+1976,Montreal,Equestrian,Dressage,"BOLDT, Harry",FRG,Men,Individual,Silver
+1976,Montreal,Equestrian,Dressage,"STUECKELBERGER, Christine",SUI,Women,Individual,Gold
+1976,Montreal,Equestrian,Dressage,"BOLDT, Harry",FRG,Men,Team,Gold
+1976,Montreal,Equestrian,Dressage,"KLIMKE, Reiner",FRG,Men,Team,Gold
+1976,Montreal,Equestrian,Dressage,"LEHMANN, Ulrich",SUI,Men,Team,Silver
+1976,Montreal,Equestrian,Dressage,"GURNEY, Hilda Carolyn",USA,Women,Team,Bronze
+1976,Montreal,Equestrian,Dressage,"MASTER, Edith Louise",USA,Women,Team,Bronze
+1976,Montreal,Equestrian,Dressage,"MORKIS, Dorothy Sarkis",USA,Women,Team,Bronze
+1976,Montreal,Equestrian,Dressage,"GRILLO, Gabriela",FRG,Women,Team,Gold
+1976,Montreal,Equestrian,Dressage,"RAMSEIER, Doris",SUI,Women,Team,Silver
+1976,Montreal,Equestrian,Dressage,"STUECKELBERGER, Christine",SUI,Women,Team,Silver
+1976,Montreal,Equestrian,Eventing,"SCHULTZ, Karl",FRG,Men,Individual,Bronze
+1976,Montreal,Equestrian,Eventing,"COFFIN, Edmund Sloane",USA,Men,Individual,Gold
+1976,Montreal,Equestrian,Eventing,"PLUMB, John Michael",USA,Men,Individual,Silver
+1976,Montreal,Equestrian,Eventing,"BENNETT, Mervyn",AUS,Men,Team,Bronze
+1976,Montreal,Equestrian,Eventing,"PIGOTT, Dennis",AUS,Men,Team,Bronze
+1976,Montreal,Equestrian,Eventing,"ROYCROFT, Wayne",AUS,Men,Team,Bronze
+1976,Montreal,Equestrian,Eventing,"ROYCROFT, William",AUS,Men,Team,Bronze
+1976,Montreal,Equestrian,Eventing,"COFFIN, Edmund Sloane",USA,Men,Team,Gold
+1976,Montreal,Equestrian,Eventing,"DAVIDSON, Bruce Oram",USA,Men,Team,Gold
+1976,Montreal,Equestrian,Eventing,"PLUMB, John Michael",USA,Men,Team,Gold
+1976,Montreal,Equestrian,Eventing,"AMMERMANN, Otto",FRG,Men,Team,Silver
+1976,Montreal,Equestrian,Eventing,"BLÖCKER, Herbert",FRG,Men,Team,Silver
+1976,Montreal,Equestrian,Eventing,"RETHEMEIER, Helmut",FRG,Men,Team,Silver
+1976,Montreal,Equestrian,Eventing,"SCHULTZ, Karl",FRG,Men,Team,Silver
+1976,Montreal,Equestrian,Eventing,"TAUSKEY, Mary Anne",USA,Women,Team,Gold
+1976,Montreal,Equestrian,Jumping,"MATHY, Francois",BEL,Men,Individual,Bronze
+1976,Montreal,Equestrian,Jumping,"SCHOCKEMÖHLE, Alwin",FRG,Men,Individual,Gold
+1976,Montreal,Equestrian,Jumping,"VAILLANCOURT, Michel",CAN,Men,Individual,Silver
+1976,Montreal,Equestrian,Jumping,"CUEPPER, Edgar-Henri",BEL,Men,Team,Bronze
+1976,Montreal,Equestrian,Jumping,"MATHY, Francois",BEL,Men,Team,Bronze
+1976,Montreal,Equestrian,Jumping,"VAN PAESSCHEN, Stanny",BEL,Men,Team,Bronze
+1976,Montreal,Equestrian,Jumping,"WAUTERS, Eric",BEL,Men,Team,Bronze
+1976,Montreal,Equestrian,Jumping,"PAROT, Hubert",FRA,Men,Team,Gold
+1976,Montreal,Equestrian,Jumping,"ROCHE, Michel",FRA,Men,Team,Gold
+1976,Montreal,Equestrian,Jumping,"ROGUET, Marc",FRA,Men,Team,Gold
+1976,Montreal,Equestrian,Jumping,"ROZIER, Jean Marcel",FRA,Men,Team,Gold
+1976,Montreal,Equestrian,Jumping,"SCHOCKEMÖHLE, Alwin",FRG,Men,Team,Silver
+1976,Montreal,Equestrian,Jumping,"SCHOCKEMÖHLE, Paul",FRG,Men,Team,Silver
+1976,Montreal,Equestrian,Jumping,"SÖNKSEN, Sönke",FRG,Men,Team,Silver
+1976,Montreal,Equestrian,Jumping,"WINKLER, Hans Günter",FRG,Men,Team,Silver
+1976,Montreal,Fencing,Fencing,"KULCSAR, Gyözö",HUN,Men,Épée Individual,Bronze
+1976,Montreal,Fencing,Fencing,"PUSCH, Alexander",FRG,Men,Épée Individual,Gold
+1976,Montreal,Fencing,Fencing,"HEHN, Hans-Jürgen",FRG,Men,Épée Individual,Silver
+1976,Montreal,Fencing,Fencing,"EVEQUOZ, Jean-Blaise",SUI,Men,Épée Team,Bronze
+1976,Montreal,Fencing,Fencing,"GIGER, Daniel",SUI,Men,Épée Team,Bronze
+1976,Montreal,Fencing,Fencing,"KAUTER, Christian",SUI,Men,Épée Team,Bronze
+1976,Montreal,Fencing,Fencing,"POFFET, Michel",SUI,Men,Épée Team,Bronze
+1976,Montreal,Fencing,Fencing,"SUCHANECKI, Francois",SUI,Men,Épée Team,Bronze
+1976,Montreal,Fencing,Fencing,"EDLING, Rolf",SWE,Men,Épée Team,Gold
+1976,Montreal,Fencing,Fencing,"FLODSTRÖM, Göran",SWE,Men,Épée Team,Gold
+1976,Montreal,Fencing,Fencing,"HÖGSTRÖM, Leif",SWE,Men,Épée Team,Gold
+1976,Montreal,Fencing,Fencing,"JACOBSON, Hans",SWE,Men,Épée Team,Gold
+1976,Montreal,Fencing,Fencing,"VON ESSEN, Carl",SWE,Men,Épée Team,Gold
+1976,Montreal,Fencing,Fencing,"BEHR, Reinhold",FRG,Men,Épée Team,Silver
+1976,Montreal,Fencing,Fencing,"FISCHER, Volker",FRG,Men,Épée Team,Silver
+1976,Montreal,Fencing,Fencing,"HEHN, Hans-Jürgen",FRG,Men,Épée Team,Silver
+1976,Montreal,Fencing,Fencing,"PUSCH, Alexander",FRG,Men,Épée Team,Silver
+1976,Montreal,Fencing,Fencing,"TALVARD, Bernard",FRA,Men,Foil Individual,Bronze
+1976,Montreal,Fencing,Fencing,"DAL ZOTTO, Fabio",ITA,Men,Foil Individual,Gold
+1976,Montreal,Fencing,Fencing,"ROMANKOV, Aleksander",URS,Men,Foil Individual,Silver
+1976,Montreal,Fencing,Fencing,"NOVIKOVA-BELOVA, Elena",URS,Women,Foil Individual,Bronze
+1976,Montreal,Fencing,Fencing,"SCHWARCZENBERGER, Ildiko",HUN,Women,Foil Individual,Gold
+1976,Montreal,Fencing,Fencing,"COLLINO, Maria Consolata",ITA,Women,Foil Individual,Silver
+1976,Montreal,Fencing,Fencing,"FLAMENT, Didier",FRA,Men,Foil Team,Bronze
+1976,Montreal,Fencing,Fencing,"NOËL, Christian",FRA,Men,Foil Team,Bronze
+1976,Montreal,Fencing,Fencing,"PIETRUSZKA, Frederic",FRA,Men,Foil Team,Bronze
+1976,Montreal,Fencing,Fencing,"REVENU, Daniel",FRA,Men,Foil Team,Bronze
+1976,Montreal,Fencing,Fencing,"TALVARD, Bernard",FRA,Men,Foil Team,Bronze
+1976,Montreal,Fencing,Fencing,"BACH, Thomas",FRG,Men,Foil Team,Gold
+1976,Montreal,Fencing,Fencing,"BEHR, Matthias",FRG,Men,Foil Team,Gold
+1976,Montreal,Fencing,Fencing,"HEIN, Harald",FRG,Men,Foil Team,Gold
+1976,Montreal,Fencing,Fencing,"REICHERT, Klaus",FRG,Men,Foil Team,Gold
+1976,Montreal,Fencing,Fencing,"SENS-GORIUS, Erk",FRG,Men,Foil Team,Gold
+1976,Montreal,Fencing,Fencing,"CALATRONI, Attilio",ITA,Men,Foil Team,Silver
+1976,Montreal,Fencing,Fencing,"COLETTI, Giovanni Battista",ITA,Men,Foil Team,Silver
+1976,Montreal,Fencing,Fencing,"DAL ZOTTO, Fabio",ITA,Men,Foil Team,Silver
+1976,Montreal,Fencing,Fencing,"MONTANO, Carlo",ITA,Men,Foil Team,Silver
+1976,Montreal,Fencing,Fencing,"SIMONCELLI, Stefano",ITA,Men,Foil Team,Silver
+1976,Montreal,Fencing,Fencing,"BOBIS-FERKASINSZKY, Ildiko",HUN,Women,Foil Team,Bronze
+1976,Montreal,Fencing,Fencing,"KOVACS, Edit",HUN,Women,Foil Team,Bronze
+1976,Montreal,Fencing,Fencing,"MAROS, Magda",HUN,Women,Foil Team,Bronze
+1976,Montreal,Fencing,Fencing,"REJTO-UJLAKI, Ildiko",HUN,Women,Foil Team,Bronze
+1976,Montreal,Fencing,Fencing,"SCHWARCZENBERGER, Ildiko",HUN,Women,Foil Team,Bronze
+1976,Montreal,Fencing,Fencing,"GILIAZOVA, Nailia",URS,Women,Foil Team,Gold
+1976,Montreal,Fencing,Fencing,"KNYAZEVA, Olga",URS,Women,Foil Team,Gold
+1976,Montreal,Fencing,Fencing,"NIKONOVA, Valentina",URS,Women,Foil Team,Gold
+1976,Montreal,Fencing,Fencing,"NOVIKOVA-BELOVA, Elena",URS,Women,Foil Team,Gold
+1976,Montreal,Fencing,Fencing,"SIDOROVA, Valentina",URS,Women,Foil Team,Gold
+1976,Montreal,Fencing,Fencing,"GAPAIS-DUMONT, Brigitte",FRA,Women,Foil Team,Silver
+1976,Montreal,Fencing,Fencing,"HERBSTER-JOSLAND, Claudette",FRA,Women,Foil Team,Silver
+1976,Montreal,Fencing,Fencing,"LATRILLE-GAUDIN, Brigitte",FRA,Women,Foil Team,Silver
+1976,Montreal,Fencing,Fencing,"MUZIO, Christine",FRA,Women,Foil Team,Silver
+1976,Montreal,Fencing,Fencing,"TRINQUET, Veronique",FRA,Women,Foil Team,Silver
+1976,Montreal,Fencing,Fencing,"SIDYAK, Viktor",URS,Men,Sabre Individual,Bronze
+1976,Montreal,Fencing,Fencing,"KROVOPUSKOV, Viktor",URS,Men,Sabre Individual,Gold
+1976,Montreal,Fencing,Fencing,"NAZLYMOV, Vladimir",URS,Men,Sabre Individual,Silver
+1976,Montreal,Fencing,Fencing,"IRIMICIUC, Daniel",ROU,Men,Sabre Team,Bronze
+1976,Montreal,Fencing,Fencing,"MARIN, Corneliu",ROU,Men,Sabre Team,Bronze
+1976,Montreal,Fencing,Fencing,"MUSTATA, Marin",ROU,Men,Sabre Team,Bronze
+1976,Montreal,Fencing,Fencing,"NILCA, Alexandru",ROU,Men,Sabre Team,Bronze
+1976,Montreal,Fencing,Fencing,"POP, Ioan",ROU,Men,Sabre Team,Bronze
+1976,Montreal,Fencing,Fencing,"BURTSEV, Mikhail",URS,Men,Sabre Team,Gold
+1976,Montreal,Fencing,Fencing,"KROVOPUSKOV, Viktor",URS,Men,Sabre Team,Gold
+1976,Montreal,Fencing,Fencing,"NAZLYMOV, Vladimir",URS,Men,Sabre Team,Gold
+1976,Montreal,Fencing,Fencing,"SIDYAK, Viktor",URS,Men,Sabre Team,Gold
+1976,Montreal,Fencing,Fencing,"VINOKUROV, Eduard",URS,Men,Sabre Team,Gold
+1976,Montreal,Fencing,Fencing,"ARCIDIACONO, Angelo",ITA,Men,Sabre Team,Silver
+1976,Montreal,Fencing,Fencing,"MAFFEI, Michele",ITA,Men,Sabre Team,Silver
+1976,Montreal,Fencing,Fencing,"MONTANO, Mario Aldo",ITA,Men,Sabre Team,Silver
+1976,Montreal,Fencing,Fencing,"MONTANO, Mario Tullio",ITA,Men,Sabre Team,Silver
+1976,Montreal,Fencing,Fencing,"MONTANO, Tommaso",ITA,Men,Sabre Team,Silver
+1976,Montreal,Football,Football,"ASTAPOVSKY, Vladimir",URS,Men,Football,Bronze
+1976,Montreal,Football,Football,"BLOKHIN, Oleg",URS,Men,Football,Bronze
+1976,Montreal,Football,Football,"BURYAK, Leonid",URS,Men,Football,Bronze
+1976,Montreal,Football,Football,"FEDOROV, Vladimir",URS,Men,Football,Bronze
+1976,Montreal,Football,Football,"FOMENKO, Mikhail",URS,Men,Football,Bronze
+1976,Montreal,Football,Football,"KIPIANI, David",URS,Men,Football,Bronze
+1976,Montreal,Football,Football,"KOLOTOV, Viktor",URS,Men,Football,Bronze
+1976,Montreal,Football,Football,"KONKOV, Anatoli",URS,Men,Football,Bronze
+1976,Montreal,Football,Football,"MATVIENKO, Viktor",URS,Men,Football,Bronze
+1976,Montreal,Football,Football,"MINAEV, Aleksandr",URS,Men,Football,Bronze
+1976,Montreal,Football,Football,"NAZARENKO, Leonid",URS,Men,Football,Bronze
+1976,Montreal,Football,Football,"ONISHCHENKO, Vladimir",URS,Men,Football,Bronze
+1976,Montreal,Football,Football,"PROKHOROV, Aleksandr",URS,Men,Football,Bronze
+1976,Montreal,Football,Football,"RESHKO, Stefan",URS,Men,Football,Bronze
+1976,Montreal,Football,Football,"TROSHKIN, Vladimir",URS,Men,Football,Bronze
+1976,Montreal,Football,Football,"VEREMEEV, Vladimir",URS,Men,Football,Bronze
+1976,Montreal,Football,Football,"ZVYAGINTSEV, Viktor",URS,Men,Football,Bronze
+1976,Montreal,Football,Football,"BRANSCH, Bernd",GDR,Men,Football,Gold
+1976,Montreal,Football,Football,"CROY, Jürgen",GDR,Men,Football,Gold
+1976,Montreal,Football,Football,"DÖRNER, Hans-Jürgen",GDR,Men,Football,Gold
+1976,Montreal,Football,Football,"GRAPENTHIN, Hans-Ulrich",GDR,Men,Football,Gold
+1976,Montreal,Football,Football,"GRÖBNER, Wilfried",GDR,Men,Football,Gold
+1976,Montreal,Football,Football,"HÄFNER, Reinhard",GDR,Men,Football,Gold
+1976,Montreal,Football,Football,"HEIDLER, Gerd",GDR,Men,Football,Gold
+1976,Montreal,Football,Football,"HOFFMANN, Martin",GDR,Men,Football,Gold
+1976,Montreal,Football,Football,"KISCHE, Gerd",GDR,Men,Football,Gold
+1976,Montreal,Football,Football,"KURBJUWEIT, Lothar",GDR,Men,Football,Gold
+1976,Montreal,Football,Football,"LAUCK, Reinhard",GDR,Men,Football,Gold
+1976,Montreal,Football,Football,"LÖWE, Wolfram",GDR,Men,Football,Gold
+1976,Montreal,Football,Football,"RIEDEL, Dieter",GDR,Men,Football,Gold
+1976,Montreal,Football,Football,"RIEDIGER, Hans-Jürgen",GDR,Men,Football,Gold
+1976,Montreal,Football,Football,"SCHADE, Hartmut",GDR,Men,Football,Gold
+1976,Montreal,Football,Football,"WEBER, Gerd",GDR,Men,Football,Gold
+1976,Montreal,Football,Football,"WEISE, Konrad",GDR,Men,Football,Gold
+1976,Montreal,Football,Football,"BENIGER, Jan",POL,Men,Football,Silver
+1976,Montreal,Football,Football,"CMIKIEWICZ, Leslaw",POL,Men,Football,Silver
+1976,Montreal,Football,Football,"DEYNA, Kazimierz",POL,Men,Football,Silver
+1976,Montreal,Football,Football,"GORGON, Jerzy",POL,Men,Football,Silver
+1976,Montreal,Football,Football,"KASPERCZAK, Henryk",POL,Men,Football,Silver
+1976,Montreal,Football,Football,"KMIECIK, Kazimierz",POL,Men,Football,Silver
+1976,Montreal,Football,Football,"LATO, Grzegorz",POL,Men,Football,Silver
+1976,Montreal,Football,Football,"MASZCZYK, Zygmunt",POL,Men,Football,Silver
+1976,Montreal,Football,Football,"MOWLIK, Piotr",POL,Men,Football,Silver
+1976,Montreal,Football,Football,"OGAZA, Roman",POL,Men,Football,Silver
+1976,Montreal,Football,Football,"RUDY, Wojciech",POL,Men,Football,Silver
+1976,Montreal,Football,Football,"SZARMACH, Andrzej",POL,Men,Football,Silver
+1976,Montreal,Football,Football,"SZYMANOWSKI, Antoni",POL,Men,Football,Silver
+1976,Montreal,Football,Football,"TOMASZEWSKI, Jan",POL,Men,Football,Silver
+1976,Montreal,Football,Football,"WAWROWSKI, Henryk",POL,Men,Football,Silver
+1976,Montreal,Football,Football,"WIECZOREK, Henryk",POL,Men,Football,Silver
+1976,Montreal,Football,Football,"ZMUDA, Wladyslaw",POL,Men,Football,Silver
+1976,Montreal,Gymnastics,Artistic G.,"UNGUREANU, Teodora",ROU,Women,Balance Beam,Bronze
+1976,Montreal,Gymnastics,Artistic G.,"COMANECI, Nadia",ROU,Women,Balance Beam,Gold
+1976,Montreal,Gymnastics,Artistic G.,"KORBUT, Olga",URS,Women,Balance Beam,Silver
+1976,Montreal,Gymnastics,Artistic G.,"KORMANN, Peter Martin",USA,Men,Floor Exercises,Bronze
+1976,Montreal,Gymnastics,Artistic G.,"ANDRIANOV, Nikolay",URS,Men,Floor Exercises,Gold
+1976,Montreal,Gymnastics,Artistic G.,"MARCHENKO, Vladimir",URS,Men,Floor Exercises,Silver
+1976,Montreal,Gymnastics,Artistic G.,"COMANECI, Nadia",ROU,Women,Floor Exercises,Bronze
+1976,Montreal,Gymnastics,Artistic G.,"KIM, Nelli",URS,Women,Floor Exercises,Gold
+1976,Montreal,Gymnastics,Artistic G.,"TURISCHEVA, Lyudmila",URS,Women,Floor Exercises,Silver
+1976,Montreal,Gymnastics,Artistic G.,"BOERIO, Henry",FRA,Men,Horizontal Bar,Bronze
+1976,Montreal,Gymnastics,Artistic G.,"GIENGER, Eberhard",FRG,Men,Horizontal Bar,Bronze
+1976,Montreal,Gymnastics,Artistic G.,"TSUKAHARA, Mitsuo",JPN,Men,Horizontal Bar,Gold
+1976,Montreal,Gymnastics,Artistic G.,"KENMOTSU, Eizo",JPN,Men,Horizontal Bar,Silver
+1976,Montreal,Gymnastics,Artistic G.,"TSUKAHARA, Mitsuo",JPN,Men,Individual All-Round,Bronze
+1976,Montreal,Gymnastics,Artistic G.,"ANDRIANOV, Nikolay",URS,Men,Individual All-Round,Gold
+1976,Montreal,Gymnastics,Artistic G.,"KATO, Sawao",JPN,Men,Individual All-Round,Silver
+1976,Montreal,Gymnastics,Artistic G.,"TURISCHEVA, Lyudmila",URS,Women,Individual All-Round,Bronze
+1976,Montreal,Gymnastics,Artistic G.,"COMANECI, Nadia",ROU,Women,Individual All-Round,Gold
+1976,Montreal,Gymnastics,Artistic G.,"KIM, Nelli",URS,Women,Individual All-Round,Silver
+1976,Montreal,Gymnastics,Artistic G.,"TSUKAHARA, Mitsuo",JPN,Men,Parallel Bars,Bronze
+1976,Montreal,Gymnastics,Artistic G.,"KATO, Sawao",JPN,Men,Parallel Bars,Gold
+1976,Montreal,Gymnastics,Artistic G.,"ANDRIANOV, Nikolay",URS,Men,Parallel Bars,Silver
+1976,Montreal,Gymnastics,Artistic G.,"ANDRIANOV, Nikolay",URS,Men,Pommel Horse,Bronze
+1976,Montreal,Gymnastics,Artistic G.,"NIKOLAY, Michael",GDR,Men,Pommel Horse,Bronze
+1976,Montreal,Gymnastics,Artistic G.,"MAGYAR, Zoltan",HUN,Men,Pommel Horse,Gold
+1976,Montreal,Gymnastics,Artistic G.,"KENMOTSU, Eizo",JPN,Men,Pommel Horse,Silver
+1976,Montreal,Gymnastics,Artistic G.,"GRECU, Danut",ROU,Men,Rings,Bronze
+1976,Montreal,Gymnastics,Artistic G.,"ANDRIANOV, Nikolay",URS,Men,Rings,Gold
+1976,Montreal,Gymnastics,Artistic G.,"DITYATIN, Aleksandr",URS,Men,Rings,Silver
+1976,Montreal,Gymnastics,Artistic G.,"BRÜCKNER, Roland",GDR,Men,Team Competition,Bronze
+1976,Montreal,Gymnastics,Artistic G.,"HANSCHKE, Rainer",GDR,Men,Team Competition,Bronze
+1976,Montreal,Gymnastics,Artistic G.,"JÄGER, Bernd",GDR,Men,Team Competition,Bronze
+1976,Montreal,Gymnastics,Artistic G.,"KLOTZ, Wolfgang",GDR,Men,Team Competition,Bronze
+1976,Montreal,Gymnastics,Artistic G.,"MACK, Lutz",GDR,Men,Team Competition,Bronze
+1976,Montreal,Gymnastics,Artistic G.,"NIKOLAY, Michael",GDR,Men,Team Competition,Bronze
+1976,Montreal,Gymnastics,Artistic G.,"FUJIMOTO, Shun",JPN,Men,Team Competition,Gold
+1976,Montreal,Gymnastics,Artistic G.,"IGARASHI, Hisato",JPN,Men,Team Competition,Gold
+1976,Montreal,Gymnastics,Artistic G.,"KAJIYAMA, Hiroshi",JPN,Men,Team Competition,Gold
+1976,Montreal,Gymnastics,Artistic G.,"KATO, Sawao",JPN,Men,Team Competition,Gold
+1976,Montreal,Gymnastics,Artistic G.,"KENMOTSU, Eizo",JPN,Men,Team Competition,Gold
+1976,Montreal,Gymnastics,Artistic G.,"TSUKAHARA, Mitsuo",JPN,Men,Team Competition,Gold
+1976,Montreal,Gymnastics,Artistic G.,"ANDRIANOV, Nikolay",URS,Men,Team Competition,Silver
+1976,Montreal,Gymnastics,Artistic G.,"DITYATIN, Aleksandr",URS,Men,Team Competition,Silver
+1976,Montreal,Gymnastics,Artistic G.,"KRYSSIN, Gennadi",URS,Men,Team Competition,Silver
+1976,Montreal,Gymnastics,Artistic G.,"MARCHENKO, Vladimir",URS,Men,Team Competition,Silver
+1976,Montreal,Gymnastics,Artistic G.,"MARKELOV, Vladimir",URS,Men,Team Competition,Silver
+1976,Montreal,Gymnastics,Artistic G.,"TIKHONOV, Vladimir",URS,Men,Team Competition,Silver
+1976,Montreal,Gymnastics,Artistic G.,"DOMBECK, Carola",GDR,Women,Team Competition,Bronze
+1976,Montreal,Gymnastics,Artistic G.,"ESCHER, Gitta",GDR,Women,Team Competition,Bronze
+1976,Montreal,Gymnastics,Artistic G.,"GERSCHAU, Kerstin",GDR,Women,Team Competition,Bronze
+1976,Montreal,Gymnastics,Artistic G.,"HELLMANN, Angelika",GDR,Women,Team Competition,Bronze
+1976,Montreal,Gymnastics,Artistic G.,"KISCHE, Marion",GDR,Women,Team Competition,Bronze
+1976,Montreal,Gymnastics,Artistic G.,"KRÄKER, Steffi",GDR,Women,Team Competition,Bronze
+1976,Montreal,Gymnastics,Artistic G.,"FILATOVA, Maria",URS,Women,Team Competition,Gold
+1976,Montreal,Gymnastics,Artistic G.,"GROZDOVA, Svetlana",URS,Women,Team Competition,Gold
+1976,Montreal,Gymnastics,Artistic G.,"KIM, Nelli",URS,Women,Team Competition,Gold
+1976,Montreal,Gymnastics,Artistic G.,"KORBUT, Olga",URS,Women,Team Competition,Gold
+1976,Montreal,Gymnastics,Artistic G.,"SAADI, Elvira",URS,Women,Team Competition,Gold
+1976,Montreal,Gymnastics,Artistic G.,"TURISCHEVA, Lyudmila",URS,Women,Team Competition,Gold
+1976,Montreal,Gymnastics,Artistic G.,"COMANECI, Nadia",ROU,Women,Team Competition,Silver
+1976,Montreal,Gymnastics,Artistic G.,"CONSTANTIN, Mariana",ROU,Women,Team Competition,Silver
+1976,Montreal,Gymnastics,Artistic G.,"GABOR, Georgeta",ROU,Women,Team Competition,Silver
+1976,Montreal,Gymnastics,Artistic G.,"GRIGORAS, Anca",ROU,Women,Team Competition,Silver
+1976,Montreal,Gymnastics,Artistic G.,"TRUSCA, Gabriela",ROU,Women,Team Competition,Silver
+1976,Montreal,Gymnastics,Artistic G.,"UNGUREANU, Teodora",ROU,Women,Team Competition,Silver
+1976,Montreal,Gymnastics,Artistic G.,"EGERVARY, Marta",HUN,Women,Uneven Bars,Bronze
+1976,Montreal,Gymnastics,Artistic G.,"COMANECI, Nadia",ROU,Women,Uneven Bars,Gold
+1976,Montreal,Gymnastics,Artistic G.,"UNGUREANU, Teodora",ROU,Women,Uneven Bars,Silver
+1976,Montreal,Gymnastics,Artistic G.,"KAJIYAMA, Hiroshi",JPN,Men,Vault,Bronze
+1976,Montreal,Gymnastics,Artistic G.,"ANDRIANOV, Nikolay",URS,Men,Vault,Gold
+1976,Montreal,Gymnastics,Artistic G.,"TSUKAHARA, Mitsuo",JPN,Men,Vault,Silver
+1976,Montreal,Gymnastics,Artistic G.,"KIM, Nelli",URS,Women,Vault,Gold
+1976,Montreal,Gymnastics,Artistic G.,"DOMBECK, Carola",GDR,Women,Vault,Silver
+1976,Montreal,Gymnastics,Artistic G.,"TURISCHEVA, Lyudmila",URS,Women,Vault,Silver
+1976,Montreal,Handball,Handball,"ANTCZAK, Zdzislaw",POL,Men,Handball,Bronze
+1976,Montreal,Handball,Handball,"BRZOZOWSKI, Janusz",POL,Men,Handball,Bronze
+1976,Montreal,Handball,Handball,"CIESLA, Piotr",POL,Men,Handball,Bronze
+1976,Montreal,Handball,Handball,"GMYREK, Jan",POL,Men,Handball,Bronze
+1976,Montreal,Handball,Handball,"KALUZINSKI, Alfred",POL,Men,Handball,Bronze
+1976,Montreal,Handball,Handball,"KLEMPEL, Jerzy",POL,Men,Handball,Bronze
+1976,Montreal,Handball,Handball,"KUCHTA, Zygfryd",POL,Men,Handball,Bronze
+1976,Montreal,Handball,Handball,"MELCER, Jerzy",POL,Men,Handball,Bronze
+1976,Montreal,Handball,Handball,"PRZYBYSZ, Ryszard",POL,Men,Handball,Bronze
+1976,Montreal,Handball,Handball,"ROZMIAREK, Henryk",POL,Men,Handball,Bronze
+1976,Montreal,Handball,Handball,"SOKOLOWSKI, Andrzej",POL,Men,Handball,Bronze
+1976,Montreal,Handball,Handball,"SZYMCZAK, Andrzej",POL,Men,Handball,Bronze
+1976,Montreal,Handball,Handball,"WOJCZAK, Mieczyslaw",POL,Men,Handball,Bronze
+1976,Montreal,Handball,Handball,"ZIELINSKI, Wlodzimierz",POL,Men,Handball,Bronze
+1976,Montreal,Handball,Handball,"ANPILOGOV, Aleksandr",URS,Men,Handball,Gold
+1976,Montreal,Handball,Handball,"CHERNYSHOV, Evgeni",URS,Men,Handball,Gold
+1976,Montreal,Handball,Handball,"FEDYUKIN, Anatoli",URS,Men,Handball,Gold
+1976,Montreal,Handball,Handball,"GASSY, Valeri",URS,Men,Handball,Gold
+1976,Montreal,Handball,Handball,"ILYIN, Vasili",URS,Men,Handball,Gold
+1976,Montreal,Handball,Handball,"ISHCHENKO, Mikhail",URS,Men,Handball,Gold
+1976,Montreal,Handball,Handball,"KIDYAEV, Yuri",URS,Men,Handball,Gold
+1976,Montreal,Handball,Handball,"KLIMOV, Yuri",URS,Men,Handball,Gold
+1976,Montreal,Handball,Handball,"KRAVTSOV, Vladimir",URS,Men,Handball,Gold
+1976,Montreal,Handball,Handball,"KUSHNIRYUK, Sergei",URS,Men,Handball,Gold
+1976,Montreal,Handball,Handball,"LAGUTIN, Yuri",URS,Men,Handball,Gold
+1976,Montreal,Handball,Handball,"MAKSIMOV, Vladimir",URS,Men,Handball,Gold
+1976,Montreal,Handball,Handball,"REZANOV, Aleksandr",URS,Men,Handball,Gold
+1976,Montreal,Handball,Handball,"TOMIN, Nikolai",URS,Men,Handball,Gold
+1976,Montreal,Handball,Handball,"BIRTALAN, Stefan",ROU,Men,Handball,Silver
+1976,Montreal,Handball,Handball,"COSMA, Adrian",ROU,Men,Handball,Silver
+1976,Montreal,Handball,Handball,"DRAGANITA, Cezar",ROU,Men,Handball,Silver
+1976,Montreal,Handball,Handball,"FOLKER, Alexandru",ROU,Men,Handball,Silver
+1976,Montreal,Handball,Handball,"GATU, Cristian",ROU,Men,Handball,Silver
+1976,Montreal,Handball,Handball,"GRABOVSCI, Mircea",ROU,Men,Handball,Silver
+1976,Montreal,Handball,Handball,"GUNES, Roland",ROU,Men,Handball,Silver
+1976,Montreal,Handball,Handball,"KICSID, Gabriel",ROU,Men,Handball,Silver
+1976,Montreal,Handball,Handball,"LICU, Ghita",ROU,Men,Handball,Silver
+1976,Montreal,Handball,Handball,"MUNTEANU, Nicolae",ROU,Men,Handball,Silver
+1976,Montreal,Handball,Handball,"PENU, Cornel",ROU,Men,Handball,Silver
+1976,Montreal,Handball,Handball,"STOCKL, Werner",ROU,Men,Handball,Silver
+1976,Montreal,Handball,Handball,"TUDOSIE, Constantin",ROU,Men,Handball,Silver
+1976,Montreal,Handball,Handball,"VOINEA, Radu",ROU,Men,Handball,Silver
+1976,Montreal,Handball,Handball,"ANGYAL, Eva",HUN,Women,Handball,Bronze
+1976,Montreal,Handball,Handball,"BERZSENYI, Maria",HUN,Women,Handball,Bronze
+1976,Montreal,Handball,Handball,"BUJDOSO, Agota",HUN,Women,Handball,Bronze
+1976,Montreal,Handball,Handball,"CSIK, Klara",HUN,Women,Handball,Bronze
+1976,Montreal,Handball,Handball,"KEZI, Zsuzsa",HUN,Women,Handball,Bronze
+1976,Montreal,Handball,Handball,"LAKI, Katalin",HUN,Women,Handball,Bronze
+1976,Montreal,Handball,Handball,"LELKES, Rozalia",HUN,Women,Handball,Bronze
+1976,Montreal,Handball,Handball,"MEGYERI, Marta",HUN,Women,Handball,Bronze
+1976,Montreal,Handball,Handball,"NAGY, Ilona",HUN,Women,Handball,Bronze
+1976,Montreal,Handball,Handball,"NAGY, Marianna",HUN,Women,Handball,Bronze
+1976,Montreal,Handball,Handball,"NEMETH, Erzsebet",HUN,Women,Handball,Bronze
+1976,Montreal,Handball,Handball,"STERBINSZKY, Amalia",HUN,Women,Handball,Bronze
+1976,Montreal,Handball,Handball,"TOTH-HARSANYI, Borbala",HUN,Women,Handball,Bronze
+1976,Montreal,Handball,Handball,"VADASZ, Maria",HUN,Women,Handball,Bronze
+1976,Montreal,Handball,Handball,"BEREZHNAYA-ODINOKOVA, Liubov",URS,Women,Handball,Gold
+1976,Montreal,Handball,Handball,"BOBRUS-PARADNIK, Liudmila",URS,Women,Handball,Gold
+1976,Montreal,Handball,Handball,"CHESAITITE-NENENENE, Aldona",URS,Women,Handball,Gold
+1976,Montreal,Handball,Handball,"GLUSHCHENKO, Tatyana",URS,Women,Handball,Gold
+1976,Montreal,Handball,Handball,"KARLOVA, Larisa",URS,Women,Handball,Gold
+1976,Montreal,Handball,Handball,"LITOSHCHENKO, Mariya",URS,Women,Handball,Gold
+1976,Montreal,Handball,Handball,"LOBOVA, Nina",URS,Women,Handball,Gold
+1976,Montreal,Handball,Handball,"MAKARETS-KOCHERGINA, Tatiana",URS,Women,Handball,Gold
+1976,Montreal,Handball,Handball,"PANCHUK, Lyudmila",URS,Women,Handball,Gold
+1976,Montreal,Handball,Handball,"SHABANOVA, Rafiga",URS,Women,Handball,Gold
+1976,Montreal,Handball,Handball,"SHERSTYUK-TIMOSHKINA, Natalia",URS,Women,Handball,Gold
+1976,Montreal,Handball,Handball,"SHUBINA, Lyudmila",URS,Women,Handball,Gold
+1976,Montreal,Handball,Handball,"TURCHINA, Zinaida",URS,Women,Handball,Gold
+1976,Montreal,Handball,Handball,"ZAKHAROVA, Galina",URS,Women,Handball,Gold
+1976,Montreal,Handball,Handball,"BADOREK, Gabriele",GDR,Women,Handball,Silver
+1976,Montreal,Handball,Handball,"BUROSCH, Hannelore",GDR,Women,Handball,Silver
+1976,Montreal,Handball,Handball,"KRAUSE, Roswitha",GDR,Women,Handball,Silver
+1976,Montreal,Handball,Handball,"KRETZSCHMAR, Waltraud",GDR,Women,Handball,Silver
+1976,Montreal,Handball,Handball,"MATZ, Evelyn",GDR,Women,Handball,Silver
+1976,Montreal,Handball,Handball,"MICHAELIS, Liane",GDR,Women,Handball,Silver
+1976,Montreal,Handball,Handball,"PASKUY, Eva",GDR,Women,Handball,Silver
+1976,Montreal,Handball,Handball,"RICHTER-HOCHMUT, Kristina",GDR,Women,Handball,Silver
+1976,Montreal,Handball,Handball,"ROST, Christina",GDR,Women,Handball,Silver
+1976,Montreal,Handball,Handball,"SIEFERT, Silvia",GDR,Women,Handball,Silver
+1976,Montreal,Handball,Handball,"TIETZ, Marion",GDR,Women,Handball,Silver
+1976,Montreal,Handball,Handball,"UHLIG, Petra",GDR,Women,Handball,Silver
+1976,Montreal,Handball,Handball,"VOSS, Christina",GDR,Women,Handball,Silver
+1976,Montreal,Handball,Handball,"ZOBER, Hannelore",GDR,Women,Handball,Silver
+1976,Montreal,Hockey,Hockey,"ABDUL, Rashid III",PAK,Men,Hockey,Bronze
+1976,Montreal,Hockey,Hockey,"AKHTAR, Rasool",PAK,Men,Hockey,Bronze
+1976,Montreal,Hockey,Hockey,"ARSHAD, Mahmood",PAK,Men,Hockey,Bronze
+1976,Montreal,Hockey,Hockey,"CHAUDHRY, Arshad Ali",PAK,Men,Hockey,Bronze
+1976,Montreal,Hockey,Hockey,"HANEEF, Khan",PAK,Men,Hockey,Bronze
+1976,Montreal,Hockey,Hockey,"ISLAH, Ud Din",PAK,Men,Hockey,Bronze
+1976,Montreal,Hockey,Hockey,"KHAN, Sami Ullah",PAK,Men,Hockey,Bronze
+1976,Montreal,Hockey,Hockey,"MANZOOR, Hassan",PAK,Men,Hockey,Bronze
+1976,Montreal,Hockey,Hockey,"MANZOOR, Hussain",PAK,Men,Hockey,Bronze
+1976,Montreal,Hockey,Hockey,"MUNAWAR, Uz-Zaman",PAK,Men,Hockey,Bronze
+1976,Montreal,Hockey,Hockey,"QAMAR, Zia",PAK,Men,Hockey,Bronze
+1976,Montreal,Hockey,Hockey,"SALIM, Nazim",PAK,Men,Hockey,Bronze
+1976,Montreal,Hockey,Hockey,"SHAIKH, Shahnaz",PAK,Men,Hockey,Bronze
+1976,Montreal,Hockey,Hockey,"SHERWANI, Saleem",PAK,Men,Hockey,Bronze
+1976,Montreal,Hockey,Hockey,"SYED, Iftikar Ahmed",PAK,Men,Hockey,Bronze
+1976,Montreal,Hockey,Hockey,"SYED, Mudassar Ashgar",PAK,Men,Hockey,Bronze
+1976,Montreal,Hockey,Hockey,"ACKERLEY, Paul",NZL,Men,Hockey,Gold
+1976,Montreal,Hockey,Hockey,"ARCHIBALD, Geoffrey",NZL,Men,Hockey,Gold
+1976,Montreal,Hockey,Hockey,"BORREN, Thurman",NZL,Men,Hockey,Gold
+1976,Montreal,Hockey,Hockey,"CHESNEY, Alan",NZL,Men,Hockey,Gold
+1976,Montreal,Hockey,Hockey,"CHRISTENSEN, John Hansen",NZL,Men,Hockey,Gold
+1976,Montreal,Hockey,Hockey,"DAMAN, Gregory",NZL,Men,Hockey,Gold
+1976,Montreal,Hockey,Hockey,"INESON, Tony",NZL,Men,Hockey,Gold
+1976,Montreal,Hockey,Hockey,"MAISTER, Barry John",NZL,Men,Hockey,Gold
+1976,Montreal,Hockey,Hockey,"MAISTER, Selwyn Gerald",NZL,Men,Hockey,Gold
+1976,Montreal,Hockey,Hockey,"MANNING, Trevor",NZL,Men,Hockey,Gold
+1976,Montreal,Hockey,Hockey,"MC INTYRE, Alan Lionel",NZL,Men,Hockey,Gold
+1976,Montreal,Hockey,Hockey,"MCLEOD, Neil",NZL,Men,Hockey,Gold
+1976,Montreal,Hockey,Hockey,"PARKIN, Arthur",NZL,Men,Hockey,Gold
+1976,Montreal,Hockey,Hockey,"PATEL, Mohan",NZL,Men,Hockey,Gold
+1976,Montreal,Hockey,Hockey,"PATEL, Ramesh",NZL,Men,Hockey,Gold
+1976,Montreal,Hockey,Hockey,"WILSON, Les",NZL,Men,Hockey,Gold
+1976,Montreal,Hockey,Hockey,"BELL, David",AUS,Men,Hockey,Silver
+1976,Montreal,Hockey,Hockey,"BROWNING, Gregory",AUS,Men,Hockey,Silver
+1976,Montreal,Hockey,Hockey,"CHARLESWORTH, Richard",AUS,Men,Hockey,Silver
+1976,Montreal,Hockey,Hockey,"COOKE, Ian",AUS,Men,Hockey,Silver
+1976,Montreal,Hockey,Hockey,"DANCER, Barry",AUS,Men,Hockey,Silver
+1976,Montreal,Hockey,Hockey,"GOLDER, Thomas Douglas",AUS,Men,Hockey,Silver
+1976,Montreal,Hockey,Hockey,"HAIGH, Robert",AUS,Men,Hockey,Silver
+1976,Montreal,Hockey,Hockey,"HAMMOND, Wayne",AUS,Men,Hockey,Silver
+1976,Montreal,Hockey,Hockey,"IRVINE, James",AUS,Men,Hockey,Silver
+1976,Montreal,Hockey,Hockey,"MARSHALL, Stephen",AUS,Men,Hockey,Silver
+1976,Montreal,Hockey,Hockey,"POOLE, Malcolm",AUS,Men,Hockey,Silver
+1976,Montreal,Hockey,Hockey,"PROCTOR, Robert",AUS,Men,Hockey,Silver
+1976,Montreal,Hockey,Hockey,"REID, Graham",AUS,Men,Hockey,Silver
+1976,Montreal,Hockey,Hockey,"RILEY, Ronald",AUS,Men,Hockey,Silver
+1976,Montreal,Hockey,Hockey,"SMITH, Trevor",AUS,Men,Hockey,Silver
+1976,Montreal,Hockey,Hockey,"WALSH, Terence",AUS,Men,Hockey,Silver
+1976,Montreal,Judo,Judo,"MARIANI, Felice",ITA,Men,- 63KG (Lightweight),Bronze
+1976,Montreal,Judo,Judo,"TUNCSIK, Jozsef",HUN,Men,- 63KG (Lightweight),Bronze
+1976,Montreal,Judo,Judo,"RODRIGUEZ TORRES, Hector",CUB,Men,- 63KG (Lightweight),Gold
+1976,Montreal,Judo,Judo,"CHANG, Eun-Kyung",KOR,Men,- 63KG (Lightweight),Silver
+1976,Montreal,Judo,Judo,"COAGE, Allen James",USA,Men,+ 93KG (Heavyweight),Bronze
+1976,Montreal,Judo,Judo,"ENDO, Sumio",JPN,Men,+ 93KG (Heavyweight),Bronze
+1976,Montreal,Judo,Judo,"NOVIKOV, Sergei",URS,Men,+ 93KG (Heavyweight),Gold
+1976,Montreal,Judo,Judo,"NEUREUTHER, Günther",FRG,Men,+ 93KG (Heavyweight),Silver
+1976,Montreal,Judo,Judo,"TALAJ, Marian",POL,Men,63 - 70KG (Half-Middleweight),Bronze
+1976,Montreal,Judo,Judo,"VIAL, Patrick",FRA,Men,63 - 70KG (Half-Middleweight),Bronze
+1976,Montreal,Judo,Judo,"NEVZOROV, Vladimir",URS,Men,63 - 70KG (Half-Middleweight),Gold
+1976,Montreal,Judo,Judo,"KURAMOTO, Koji",JPN,Men,63 - 70KG (Half-Middleweight),Silver
+1976,Montreal,Judo,Judo,"OBADOV, Slavko",YUG,Men,70 - 80KG (Middleweight),Bronze
+1976,Montreal,Judo,Judo,"PARK, Young-Chul",KOR,Men,70 - 80KG (Middleweight),Bronze
+1976,Montreal,Judo,Judo,"SONODA, Isamu",JPN,Men,70 - 80KG (Middleweight),Gold
+1976,Montreal,Judo,Judo,"DVOINIKOV, Valeri",URS,Men,70 - 80KG (Middleweight),Silver
+1976,Montreal,Judo,Judo,"RÖTHLISBERGER, Jürg",SUI,Men,80 - 93KG (Half-Heavyweight),Bronze
+1976,Montreal,Judo,Judo,"STARBROOK, David Colin",GBR,Men,80 - 93KG (Half-Heavyweight),Bronze
+1976,Montreal,Judo,Judo,"NINOMIYA, Kazuhiro",JPN,Men,80 - 93KG (Half-Heavyweight),Gold
+1976,Montreal,Judo,Judo,"KHARSHILADZE, Ramaz",URS,Men,80 - 93KG (Half-Heavyweight),Silver
+1976,Montreal,Judo,Judo,"CHO, Je-Aki",KOR,Men,Open Category,Bronze
+1976,Montreal,Judo,Judo,"CHOCHOSHVILI, Shota",URS,Men,Open Category,Bronze
+1976,Montreal,Judo,Judo,"UEMURA, Haruki",JPN,Men,Open Category,Gold
+1976,Montreal,Judo,Judo,"REMFRY, Keith",GBR,Men,Open Category,Silver
+1976,Montreal,Modern Pentathlon,Modern Pentath.,"BARTU, Jan",TCH,Men,Individual Competition,Bronze
+1976,Montreal,Modern Pentathlon,Modern Pentath.,"PYCIAK-PECIAK, Janusz",POL,Men,Individual Competition,Gold
+1976,Montreal,Modern Pentathlon,Modern Pentath.,"LEDNEV, Pavel",URS,Men,Individual Competition,Silver
+1976,Montreal,Modern Pentathlon,Modern Pentath.,"KANCSAL, Tamas",HUN,Men,Team Competition,Bronze
+1976,Montreal,Modern Pentathlon,Modern Pentath.,"MARACSKO, Tibor",HUN,Men,Team Competition,Bronze
+1976,Montreal,Modern Pentathlon,Modern Pentath.,"SASICS, Szvetiszlav",HUN,Men,Team Competition,Bronze
+1976,Montreal,Modern Pentathlon,Modern Pentath.,"FOX, Jeremy Robert",GBR,Men,Team Competition,Gold
+1976,Montreal,Modern Pentathlon,Modern Pentath.,"NIGHTINGALE, Robert",GBR,Men,Team Competition,Gold
+1976,Montreal,Modern Pentathlon,Modern Pentath.,"PARKER, Adrian Philip",GBR,Men,Team Competition,Gold
+1976,Montreal,Modern Pentathlon,Modern Pentath.,"ADAM, Jiri",TCH,Men,Team Competition,Silver
+1976,Montreal,Modern Pentathlon,Modern Pentath.,"BARTU, Jan",TCH,Men,Team Competition,Silver
+1976,Montreal,Modern Pentathlon,Modern Pentath.,"STARNOVSKY, Bohumil",TCH,Men,Team Competition,Silver
+1976,Montreal,Rowing,Rowing,"STRAUSS, Thomas",FRG,Men,Coxless Pair (2-),Bronze
+1976,Montreal,Rowing,Rowing,"VANROYE, Peter",FRG,Men,Coxless Pair (2-),Bronze
+1976,Montreal,Rowing,Rowing,"LANDVOIGT, Bernd",GDR,Men,Coxless Pair (2-),Gold
+1976,Montreal,Rowing,Rowing,"LANDVOIGT, Jörg",GDR,Men,Coxless Pair (2-),Gold
+1976,Montreal,Rowing,Rowing,"COFFEY, Calvin Thomas",USA,Men,Coxless Pair (2-),Silver
+1976,Montreal,Rowing,Rowing,"STAINES, Michael Laurence",USA,Men,Coxless Pair (2-),Silver
+1976,Montreal,Rowing,Rowing,"BERTOW, Jürgen",GDR,Men,Double Sculls (2X),Bronze
+1976,Montreal,Rowing,Rowing,"SCHMIED, Hans-Ulrich",GDR,Men,Double Sculls (2X),Bronze
+1976,Montreal,Rowing,Rowing,"HANSEN, Alf John",NOR,Men,Double Sculls (2X),Gold
+1976,Montreal,Rowing,Rowing,"HANSEN, Frank",NOR,Men,Double Sculls (2X),Gold
+1976,Montreal,Rowing,Rowing,"BAILLIEU, Christopher",GBR,Men,Double Sculls (2X),Silver
+1976,Montreal,Rowing,Rowing,"HART, Michael John",GBR,Men,Double Sculls (2X),Silver
+1976,Montreal,Rowing,Rowing,"KAMINSKAITE, Leonora",URS,Women,Double Sculls (2X),Bronze
+1976,Montreal,Rowing,Rowing,"RAMOSHKENE, Genovate",URS,Women,Double Sculls (2X),Bronze
+1976,Montreal,Rowing,Rowing,"OTZETOVA, Svetla",BUL,Women,Double Sculls (2X),Gold
+1976,Montreal,Rowing,Rowing,"YORDANOVA, Zdravka",BUL,Women,Double Sculls (2X),Gold
+1976,Montreal,Rowing,Rowing,"BOESLER, Petra",GDR,Women,Double Sculls (2X),Silver
+1976,Montreal,Rowing,Rowing,"JAHN, Sabine",GDR,Women,Double Sculls (2X),Silver
+1976,Montreal,Rowing,Rowing,"COKER, Trevor",NZL,Men,Eight With Coxswain (8+),Bronze
+1976,Montreal,Rowing,Rowing,"DICKIE, Simon Charles",NZL,Men,Eight With Coxswain (8+),Bronze
+1976,Montreal,Rowing,Rowing,"DIGMAN, Peter",NZL,Men,Eight With Coxswain (8+),Bronze
+1976,Montreal,Rowing,Rowing,"EARL, Athol",NZL,Men,Eight With Coxswain (8+),Bronze
+1976,Montreal,Rowing,Rowing,"HURT, Anthony",NZL,Men,Eight With Coxswain (8+),Bronze
+1976,Montreal,Rowing,Rowing,"MCLEAN, Alexander",NZL,Men,Eight With Coxswain (8+),Bronze
+1976,Montreal,Rowing,Rowing,"RODGER, David",NZL,Men,Eight With Coxswain (8+),Bronze
+1976,Montreal,Rowing,Rowing,"SUTHERLAND, Ivan",NZL,Men,Eight With Coxswain (8+),Bronze
+1976,Montreal,Rowing,Rowing,"WILSON, Lindsay",NZL,Men,Eight With Coxswain (8+),Bronze
+1976,Montreal,Rowing,Rowing,"BAUMGART, Bernd",GDR,Men,Eight With Coxswain (8+),Gold
+1976,Montreal,Rowing,Rowing,"DANIELOWSKI, Karl-Heinz",GDR,Men,Eight With Coxswain (8+),Gold
+1976,Montreal,Rowing,Rowing,"DÖHN, Gottfried",GDR,Men,Eight With Coxswain (8+),Gold
+1976,Montreal,Rowing,Rowing,"KARNATZ, Ulrich",GDR,Men,Eight With Coxswain (8+),Gold
+1976,Montreal,Rowing,Rowing,"KLATT, Werner",GDR,Men,Eight With Coxswain (8+),Gold
+1976,Montreal,Rowing,Rowing,"KOSTULSKI, Roland",GDR,Men,Eight With Coxswain (8+),Gold
+1976,Montreal,Rowing,Rowing,"LÜCK, Hans-Joachim",GDR,Men,Eight With Coxswain (8+),Gold
+1976,Montreal,Rowing,Rowing,"PRUDÖHL, Karl-Heinz",GDR,Men,Eight With Coxswain (8+),Gold
+1976,Montreal,Rowing,Rowing,"WENDISCH, Dieter",GDR,Men,Eight With Coxswain (8+),Gold
+1976,Montreal,Rowing,Rowing,"CLARK, Richard James Scott",GBR,Men,Eight With Coxswain (8+),Silver
+1976,Montreal,Rowing,Rowing,"CROOKS, Timothy John",GBR,Men,Eight With Coxswain (8+),Silver
+1976,Montreal,Rowing,Rowing,"LESTER, Richard C.",GBR,Men,Eight With Coxswain (8+),Silver
+1976,Montreal,Rowing,Rowing,"MATHESON, Hugh Patrick",GBR,Men,Eight With Coxswain (8+),Silver
+1976,Montreal,Rowing,Rowing,"MAXWELL, David Lindsay",GBR,Men,Eight With Coxswain (8+),Silver
+1976,Montreal,Rowing,Rowing,"ROBERTSON, Leonard David",GBR,Men,Eight With Coxswain (8+),Silver
+1976,Montreal,Rowing,Rowing,"SMALLBONE, Frederick John",GBR,Men,Eight With Coxswain (8+),Silver
+1976,Montreal,Rowing,Rowing,"SWEENEY, Patrick John",GBR,Men,Eight With Coxswain (8+),Silver
+1976,Montreal,Rowing,Rowing,"YALLOP, John C.",GBR,Men,Eight With Coxswain (8+),Silver
+1976,Montreal,Rowing,Rowing,"BROWN, Carol Page",USA,Women,Eight With Coxswain (8+),Bronze
+1976,Montreal,Rowing,Rowing,"DEFRANTZ, Anita Luceete",USA,Women,Eight With Coxswain (8+),Bronze
+1976,Montreal,Rowing,Rowing,"GRAVES, Carolyn Brand",USA,Women,Eight With Coxswain (8+),Bronze
+1976,Montreal,Rowing,Rowing,"GREIG, Marion",USA,Women,Eight With Coxswain (8+),Bronze
+1976,Montreal,Rowing,Rowing,"MCCARTHY, Margaret Ann",USA,Women,Eight With Coxswain (8+),Bronze
+1976,Montreal,Rowing,Rowing,"RICKETSON, Gail Susan",USA,Women,Eight With Coxswain (8+),Bronze
+1976,Montreal,Rowing,Rowing,"SILLIMAN, Lynn",USA,Women,Eight With Coxswain (8+),Bronze
+1976,Montreal,Rowing,Rowing,"WARNER, Anne Elizabeth",USA,Women,Eight With Coxswain (8+),Bronze
+1976,Montreal,Rowing,Rowing,"ZOCH, Jacqueline Jean",USA,Women,Eight With Coxswain (8+),Bronze
+1976,Montreal,Rowing,Rowing,"AHRENHOLZ, Brigitte",GDR,Women,Eight With Coxswain (8+),Gold
+1976,Montreal,Rowing,Rowing,"EBERT, Henrietta",GDR,Women,Eight With Coxswain (8+),Gold
+1976,Montreal,Rowing,Rowing,"GORETZKI, Viola",GDR,Women,Eight With Coxswain (8+),Gold
+1976,Montreal,Rowing,Rowing,"KALLIES, Monika",GDR,Women,Eight With Coxswain (8+),Gold
+1976,Montreal,Rowing,Rowing,"KNETSCH-KÖPKE, Christiane",GDR,Women,Eight With Coxswain (8+),Gold
+1976,Montreal,Rowing,Rowing,"LEHMANN, Helma",GDR,Women,Eight With Coxswain (8+),Gold
+1976,Montreal,Rowing,Rowing,"MÜLLER, Irina",GDR,Women,Eight With Coxswain (8+),Gold
+1976,Montreal,Rowing,Rowing,"RICHTER, Ilona",GDR,Women,Eight With Coxswain (8+),Gold
+1976,Montreal,Rowing,Rowing,"WILKE, Marina",GDR,Women,Eight With Coxswain (8+),Gold
+1976,Montreal,Rowing,Rowing,"GUZENKO, Olga",URS,Women,Eight With Coxswain (8+),Silver
+1976,Montreal,Rowing,Rowing,"KOLKOVA, Olga",URS,Women,Eight With Coxswain (8+),Silver
+1976,Montreal,Rowing,Rowing,"KOZENKOVA, Klavdiya",URS,Women,Eight With Coxswain (8+),Silver
+1976,Montreal,Rowing,Rowing,"PUGOVSKAYA, Olga",URS,Women,Eight With Coxswain (8+),Silver
+1976,Montreal,Rowing,Rowing,"ROSHCHINA, Nadezhda",URS,Women,Eight With Coxswain (8+),Silver
+1976,Montreal,Rowing,Rowing,"ROZGON, Nadezhda",URS,Women,Eight With Coxswain (8+),Silver
+1976,Montreal,Rowing,Rowing,"TALALAEVA, Lyubov",URS,Women,Eight With Coxswain (8+),Silver
+1976,Montreal,Rowing,Rowing,"TARAKANOVA, Nelli",URS,Women,Eight With Coxswain (8+),Silver
+1976,Montreal,Rowing,Rowing,"ZUBKO, Elena",URS,Women,Eight With Coxswain (8+),Silver
+1976,Montreal,Rowing,Rowing,"ARNEMANN, Raul",URS,Men,Four Without Coxswain (4-),Bronze
+1976,Montreal,Rowing,Rowing,"DOLININ, Valeri",URS,Men,Four Without Coxswain (4-),Bronze
+1976,Montreal,Rowing,Rowing,"GASAN-DZHALALOV, Anushavan",URS,Men,Four Without Coxswain (4-),Bronze
+1976,Montreal,Rowing,Rowing,"KUZNETSOV, Nikolai",URS,Men,Four Without Coxswain (4-),Bronze
+1976,Montreal,Rowing,Rowing,"BRIETZKE, Siegfried",GDR,Men,Four Without Coxswain (4-),Gold
+1976,Montreal,Rowing,Rowing,"DECKER, Andreas",GDR,Men,Four Without Coxswain (4-),Gold
+1976,Montreal,Rowing,Rowing,"MAGER, Wolfgang",GDR,Men,Four Without Coxswain (4-),Gold
+1976,Montreal,Rowing,Rowing,"SEMMLER, Stefan",GDR,Men,Four Without Coxswain (4-),Gold
+1976,Montreal,Rowing,Rowing,"ANDREASSEN, Rolf",NOR,Men,Four Without Coxswain (4-),Silver
+1976,Montreal,Rowing,Rowing,"BERGODD, Arne",NOR,Men,Four Without Coxswain (4-),Silver
+1976,Montreal,Rowing,Rowing,"NAFSTAD, Ole Sverre",NOR,Men,Four Without Coxswain (4-),Silver
+1976,Montreal,Rowing,Rowing,"TVETER, Finn Ivar",NOR,Men,Four Without Coxswain (4-),Silver
+1976,Montreal,Rowing,Rowing,"FÄRBER, Hans-Johann",FRG,Men,Four-Oared Shell With Coxswain (4-),Bronze
+1976,Montreal,Rowing,Rowing,"FRICKE, Siegfried",FRG,Men,Four-Oared Shell With Coxswain (4-),Bronze
+1976,Montreal,Rowing,Rowing,"KUBAIL, Ralph",FRG,Men,Four-Oared Shell With Coxswain (4-),Bronze
+1976,Montreal,Rowing,Rowing,"NIEHUSEN, Peter",FRG,Men,Four-Oared Shell With Coxswain (4-),Bronze
+1976,Montreal,Rowing,Rowing,"WENZEL, Hartmut",FRG,Men,Four-Oared Shell With Coxswain (4-),Bronze
+1976,Montreal,Rowing,Rowing,"ESHINOV, Vladimir",URS,Men,Four-Oared Shell With Coxswain (4-),Gold
+1976,Montreal,Rowing,Rowing,"IVANOV, Nikolai",URS,Men,Four-Oared Shell With Coxswain (4-),Gold
+1976,Montreal,Rowing,Rowing,"KLEPIKOV, Aleksandr",URS,Men,Four-Oared Shell With Coxswain (4-),Gold
+1976,Montreal,Rowing,Rowing,"KUZNETSOV, Mikhail",URS,Men,Four-Oared Shell With Coxswain (4-),Gold
+1976,Montreal,Rowing,Rowing,"LUKYANOV, Aleksandr",URS,Men,Four-Oared Shell With Coxswain (4-),Gold
+1976,Montreal,Rowing,Rowing,"DIESSNER, Ullrich",GDR,Men,Four-Oared Shell With Coxswain (4-),Silver
+1976,Montreal,Rowing,Rowing,"DIESSNER, Walter",GDR,Men,Four-Oared Shell With Coxswain (4-),Silver
+1976,Montreal,Rowing,Rowing,"KUNZE, Rüdiger",GDR,Men,Four-Oared Shell With Coxswain (4-),Silver
+1976,Montreal,Rowing,Rowing,"SCHULZ, Andreas",GDR,Men,Four-Oared Shell With Coxswain (4-),Silver
+1976,Montreal,Rowing,Rowing,"THOMAS, Johannes",GDR,Men,Four-Oared Shell With Coxswain (4-),Silver
+1976,Montreal,Rowing,Rowing,"KROKHINA, Lyudmila",URS,Women,Four-Oared Shell With Coxswain (4-),Bronze
+1976,Montreal,Rowing,Rowing,"KRYLOVA, Lidiya",URS,Women,Four-Oared Shell With Coxswain (4-),Bronze
+1976,Montreal,Rowing,Rowing,"MISHENINA, Galina",URS,Women,Four-Oared Shell With Coxswain (4-),Bronze
+1976,Montreal,Rowing,Rowing,"PASOKHA, Anna",URS,Women,Four-Oared Shell With Coxswain (4-),Bronze
+1976,Montreal,Rowing,Rowing,"SEVOSTYANOVA, Nadezhda",URS,Women,Four-Oared Shell With Coxswain (4-),Bronze
+1976,Montreal,Rowing,Rowing,"HESS, Sabine",GDR,Women,Four-Oared Shell With Coxswain (4-),Gold
+1976,Montreal,Rowing,Rowing,"KURTH, Andrea",GDR,Women,Four-Oared Shell With Coxswain (4-),Gold
+1976,Montreal,Rowing,Rowing,"LOHS-KUHN, Gabriele",GDR,Women,Four-Oared Shell With Coxswain (4-),Gold
+1976,Montreal,Rowing,Rowing,"METZE, Karin",GDR,Women,Four-Oared Shell With Coxswain (4-),Gold
+1976,Montreal,Rowing,Rowing,"SCHWEDE, Bianka",GDR,Women,Four-Oared Shell With Coxswain (4-),Gold
+1976,Montreal,Rowing,Rowing,"GEORGIEVA, Kapka",BUL,Women,Four-Oared Shell With Coxswain (4-),Silver
+1976,Montreal,Rowing,Rowing,"GUROVA, Ginka",BUL,Women,Four-Oared Shell With Coxswain (4-),Silver
+1976,Montreal,Rowing,Rowing,"MODEVA, Mariika",BUL,Women,Four-Oared Shell With Coxswain (4-),Silver
+1976,Montreal,Rowing,Rowing,"VASSEVA, Liliana",BUL,Women,Four-Oared Shell With Coxswain (4-),Silver
+1976,Montreal,Rowing,Rowing,"YORDANOVA, Reni",BUL,Women,Four-Oared Shell With Coxswain (4-),Silver
+1976,Montreal,Rowing,Rowing,"ECKBAUER-BAUMANN, Edith",FRG,Women,Pair Without Coxswain (2-),Bronze
+1976,Montreal,Rowing,Rowing,"EINÖDER-STRAUBE, Thea",FRG,Women,Pair Without Coxswain (2-),Bronze
+1976,Montreal,Rowing,Rowing,"GRUITCHEVA-KUBATOVA, Stoyanka",BUL,Women,Pair Without Coxswain (2-),Gold
+1976,Montreal,Rowing,Rowing,"KELBETCHEVA-BARBULOVA, Siika",BUL,Women,Pair Without Coxswain (2-),Gold
+1976,Montreal,Rowing,Rowing,"DÄHNE, Sabine",GDR,Women,Pair Without Coxswain (2-),Silver
+1976,Montreal,Rowing,Rowing,"NOACK, Angelika",GDR,Women,Pair Without Coxswain (2-),Silver
+1976,Montreal,Rowing,Rowing,"SVOJANOVSKY, Oldrich",TCH,Men,Pair-Oared Shell With Coxswain (2+),Bronze
+1976,Montreal,Rowing,Rowing,"SVOJANOVSKY, Pavel",TCH,Men,Pair-Oared Shell With Coxswain (2+),Bronze
+1976,Montreal,Rowing,Rowing,"VEBR, Ludvik",TCH,Men,Pair-Oared Shell With Coxswain (2+),Bronze
+1976,Montreal,Rowing,Rowing,"JÄHRLING, Harald",GDR,Men,Pair-Oared Shell With Coxswain (2+),Gold
+1976,Montreal,Rowing,Rowing,"SPOHR, Georg",GDR,Men,Pair-Oared Shell With Coxswain (2+),Gold
+1976,Montreal,Rowing,Rowing,"ULRICH, Friedrich-Wilhelm",GDR,Men,Pair-Oared Shell With Coxswain (2+),Gold
+1976,Montreal,Rowing,Rowing,"BEKHTEREV, Dmitri",URS,Men,Pair-Oared Shell With Coxswain (2+),Silver
+1976,Montreal,Rowing,Rowing,"LORENTSON, Yuri",URS,Men,Pair-Oared Shell With Coxswain (2+),Silver
+1976,Montreal,Rowing,Rowing,"SHURKALOV, Yuri",URS,Men,Pair-Oared Shell With Coxswain (2+),Silver
+1976,Montreal,Rowing,Rowing,"AFRASILOAIA, Felicia",ROU,Women,Quadruple Sculls With Coxswain (4X),Bronze
+1976,Montreal,Rowing,Rowing,"GIURCA, Elena",ROU,Women,Quadruple Sculls With Coxswain (4X),Bronze
+1976,Montreal,Rowing,Rowing,"LAZAR, Elisabeta",ROU,Women,Quadruple Sculls With Coxswain (4X),Bronze
+1976,Montreal,Rowing,Rowing,"MICSA-MACOVICIUC, Maria",ROU,Women,Quadruple Sculls With Coxswain (4X),Bronze
+1976,Montreal,Rowing,Rowing,"TUDORAN, Ioana",ROU,Women,Quadruple Sculls With Coxswain (4X),Bronze
+1976,Montreal,Rowing,Rowing,"BORCHMANN, Anke",GDR,Women,Quadruple Sculls With Coxswain (4X),Gold
+1976,Montreal,Rowing,Rowing,"LAU, Jutta",GDR,Women,Quadruple Sculls With Coxswain (4X),Gold
+1976,Montreal,Rowing,Rowing,"POLEY, Viola",GDR,Women,Quadruple Sculls With Coxswain (4X),Gold
+1976,Montreal,Rowing,Rowing,"WEIGELT-BUHR, Liane",GDR,Women,Quadruple Sculls With Coxswain (4X),Gold
+1976,Montreal,Rowing,Rowing,"ZOBELT, Roswietha",GDR,Women,Quadruple Sculls With Coxswain (4X),Gold
+1976,Montreal,Rowing,Rowing,"ALEXANDROVA-POPOVA, Larissa",URS,Women,Quadruple Sculls With Coxswain (4X),Silver
+1976,Montreal,Rowing,Rowing,"BRYUNINA, Mira",URS,Women,Quadruple Sculls With Coxswain (4X),Silver
+1976,Montreal,Rowing,Rowing,"CHERNYSHOVA, Nadezhda",URS,Women,Quadruple Sculls With Coxswain (4X),Silver
+1976,Montreal,Rowing,Rowing,"ERMOLAEVA, Galina",URS,Women,Quadruple Sculls With Coxswain (4X),Silver
+1976,Montreal,Rowing,Rowing,"KONDRASHINA, Anna",URS,Women,Quadruple Sculls With Coxswain (4X),Silver
+1976,Montreal,Rowing,Rowing,"HELLEBRAND, Jaroslav",TCH,Men,Quadruple Sculls Without Coxswain (4X),Bronze
+1976,Montreal,Rowing,Rowing,"LACINA, Vladek",TCH,Men,Quadruple Sculls Without Coxswain (4X),Bronze
+1976,Montreal,Rowing,Rowing,"PECKA, Zdenek",TCH,Men,Quadruple Sculls Without Coxswain (4X),Bronze
+1976,Montreal,Rowing,Rowing,"VOCHOSKA, Vaclav",TCH,Men,Quadruple Sculls Without Coxswain (4X),Bronze
+1976,Montreal,Rowing,Rowing,"BUSSERT, Karl-Heinz",GDR,Men,Quadruple Sculls Without Coxswain (4X),Gold
+1976,Montreal,Rowing,Rowing,"GÜLDENPFENNIG, Wolfgang",GDR,Men,Quadruple Sculls Without Coxswain (4X),Gold
+1976,Montreal,Rowing,Rowing,"REICHE, Rüdiger",GDR,Men,Quadruple Sculls Without Coxswain (4X),Gold
+1976,Montreal,Rowing,Rowing,"WOLFGRAMM, Michael",GDR,Men,Quadruple Sculls Without Coxswain (4X),Gold
+1976,Montreal,Rowing,Rowing,"BUTKUS, Vitautas",URS,Men,Quadruple Sculls Without Coxswain (4X),Silver
+1976,Montreal,Rowing,Rowing,"DULEEV, Evgeni",URS,Men,Quadruple Sculls Without Coxswain (4X),Silver
+1976,Montreal,Rowing,Rowing,"LAZDENIEKS, Aivar",URS,Men,Quadruple Sculls Without Coxswain (4X),Silver
+1976,Montreal,Rowing,Rowing,"YAKIMOV, Yuri",URS,Men,Quadruple Sculls Without Coxswain (4X),Silver
+1976,Montreal,Rowing,Rowing,"DREIFKE, Joachim",GDR,Men,Single Sculls (1X),Bronze
+1976,Montreal,Rowing,Rowing,"KARPPINEN, Pertti",FIN,Men,Single Sculls (1X),Gold
+1976,Montreal,Rowing,Rowing,"KOLBE, Peter-Michael",FRG,Men,Single Sculls (1X),Silver
+1976,Montreal,Rowing,Rowing,"ANTONOVA, Elena",URS,Women,Single Sculls (1X),Bronze
+1976,Montreal,Rowing,Rowing,"SCHEIBLICH, Christine",GDR,Women,Single Sculls (1X),Gold
+1976,Montreal,Rowing,Rowing,"LIND, Joan Louise",USA,Women,Single Sculls (1X),Silver
+1976,Montreal,Sailing,Sailing,"BROWN, Ian",AUS,Men,470 - Two Person Dinghy,Bronze
+1976,Montreal,Sailing,Sailing,"RUFF, Ian",AUS,Men,470 - Two Person Dinghy,Bronze
+1976,Montreal,Sailing,Sailing,"BODE, Harro",FRG,Men,470 - Two Person Dinghy,Gold
+1976,Montreal,Sailing,Sailing,"HÜBNER, Frank",FRG,Men,470 - Two Person Dinghy,Gold
+1976,Montreal,Sailing,Sailing,"GOROSTEGUI CEBALLOS, Antonio",ESP,Men,470 - Two Person Dinghy,Silver
+1976,Montreal,Sailing,Sailing,"MILLET SOLER, Pedro Luis",ESP,Men,470 - Two Person Dinghy,Silver
+1976,Montreal,Sailing,Sailing,"BELOW, Dieter",GDR,Men,Fleet/Match Race Keelboat Open (Soling),Bronze
+1976,Montreal,Sailing,Sailing,"ENGELHARDT, Olaf",GDR,Men,Fleet/Match Race Keelboat Open (Soling),Bronze
+1976,Montreal,Sailing,Sailing,"ZACHRIES, Michael",GDR,Men,Fleet/Match Race Keelboat Open (Soling),Bronze
+1976,Montreal,Sailing,Sailing,"BANDOLOWSKI, Valdemar",DEN,Men,Fleet/Match Race Keelboat Open (Soling),Gold
+1976,Montreal,Sailing,Sailing,"HANSEN, Erik Hermann",DEN,Men,Fleet/Match Race Keelboat Open (Soling),Gold
+1976,Montreal,Sailing,Sailing,"JENSEN, Poul Richard Hoj",DEN,Men,Fleet/Match Race Keelboat Open (Soling),Gold
+1976,Montreal,Sailing,Sailing,"GLASGOW, Walter Merrill, Jr.",USA,Men,Fleet/Match Race Keelboat Open (Soling),Silver
+1976,Montreal,Sailing,Sailing,"HOEPFNER, Richard H.",USA,Men,Fleet/Match Race Keelboat Open (Soling),Silver
+1976,Montreal,Sailing,Sailing,"KOLIUS, John Waldrip",USA,Men,Fleet/Match Race Keelboat Open (Soling),Silver
+1976,Montreal,Sailing,Sailing,"CONRAD, Reinaldo",BRA,Men,Flying Dutchman,Bronze
+1976,Montreal,Sailing,Sailing,"FICKER, Peter",BRA,Men,Flying Dutchman,Bronze
+1976,Montreal,Sailing,Sailing,"DIESCH, Eckart",FRG,Men,Flying Dutchman,Gold
+1976,Montreal,Sailing,Sailing,"DIESCH, Jörg",FRG,Men,Flying Dutchman,Gold
+1976,Montreal,Sailing,Sailing,"BROOKE-HOUGHTON, Julian",GBR,Men,Flying Dutchman,Silver
+1976,Montreal,Sailing,Sailing,"PATTISSON, Rodney Stuart",GBR,Men,Flying Dutchman,Silver
+1976,Montreal,Sailing,Sailing,"BERTRAND, John Edwin",AUS,Men,Single-Handed Dinghy (Finn),Bronze
+1976,Montreal,Sailing,Sailing,"SCHÜMANN, Jochen",GDR,Men,Single-Handed Dinghy (Finn),Gold
+1976,Montreal,Sailing,Sailing,"BALASHOV, Andrei",URS,Men,Single-Handed Dinghy (Finn),Silver
+1976,Montreal,Sailing,Sailing,"CONNER, Dennis Walter",USA,Men,Tempest,Bronze
+1976,Montreal,Sailing,Sailing,"FINDLAY, Conrad Francis",USA,Men,Tempest,Bronze
+1976,Montreal,Sailing,Sailing,"ALBRECHTSON, John",SWE,Men,Tempest,Gold
+1976,Montreal,Sailing,Sailing,"HANSSON, Ingvar",SWE,Men,Tempest,Gold
+1976,Montreal,Sailing,Sailing,"AKIMENKO, Vladislav",URS,Men,Tempest,Silver
+1976,Montreal,Sailing,Sailing,"MANKIN, Valentyn",URS,Men,Tempest,Silver
+1976,Montreal,Sailing,Sailing,"SCHMALL, Jörg",FRG,Men,Tornado - Multihull,Bronze
+1976,Montreal,Sailing,Sailing,"SPENGLER, Jörg",FRG,Men,Tornado - Multihull,Bronze
+1976,Montreal,Sailing,Sailing,"OSBORN, John",GBR,Men,Tornado - Multihull,Gold
+1976,Montreal,Sailing,Sailing,"WHITE, Reginald J.",GBR,Men,Tornado - Multihull,Gold
+1976,Montreal,Sailing,Sailing,"MCFAULL, David Rockwell",USA,Men,Tornado - Multihull,Silver
+1976,Montreal,Sailing,Sailing,"ROTHWELL, Michael Jon",USA,Men,Tornado - Multihull,Silver
+1976,Montreal,Shooting,Shooting,"FERRARIS, Roberto",ITA,Men,25M Rapid Fire Pistol (60 Shots),Bronze
+1976,Montreal,Shooting,Shooting,"KLAAR, Norbert",GDR,Men,25M Rapid Fire Pistol (60 Shots),Gold
+1976,Montreal,Shooting,Shooting,"WIEFEL, Jürgen",GDR,Men,25M Rapid Fire Pistol (60 Shots),Silver
+1976,Montreal,Shooting,Shooting,"DOLLINGER, Rudolf",AUT,Men,50M Pistol (60 Shots),Bronze
+1976,Montreal,Shooting,Shooting,"POTTECK, Uwe",GDR,Men,50M Pistol (60 Shots),Gold
+1976,Montreal,Shooting,Shooting,"VOLLMAR, Harald",GDR,Men,50M Pistol (60 Shots),Silver
+1976,Montreal,Shooting,Shooting,"SEIBOLD, Werner",FRG,Men,50M Rifle 3 Positions (3X40 Shots),Bronze
+1976,Montreal,Shooting,Shooting,"BASSHAM, Lance Robert",USA,Men,50M Rifle 3 Positions (3X40 Shots),Gold
+1976,Montreal,Shooting,Shooting,"THOMPSON-MURDOCK, Margaret",USA,Women,50M Rifle 3 Positions (3X40 Shots),Silver
+1976,Montreal,Shooting,Shooting,"LUSHCHIKOV, Gennadi",URS,Men,50M Rifle Prone (60 Shots),Bronze
+1976,Montreal,Shooting,Shooting,"SMIESZEK, Karlheinz",FRG,Men,50M Rifle Prone (60 Shots),Gold
+1976,Montreal,Shooting,Shooting,"LIND, Ulrich",FRG,Men,50M Rifle Prone (60 Shots),Silver
+1976,Montreal,Shooting,Shooting,"GRESZKIEWICZ, Jerzy",POL,Men,50M Running Target (30+30 Shots),Bronze
+1976,Montreal,Shooting,Shooting,"GAZOV, Aleksandr",URS,Men,50M Running Target (30+30 Shots),Gold
+1976,Montreal,Shooting,Shooting,"KEDYAROV, Aleksandr",URS,Men,50M Running Target (30+30 Shots),Silver
+1976,Montreal,Shooting,Shooting,"GAWLIKOWSKI, Wieslaw",POL,Men,Skeet (125 Targets),Bronze
+1976,Montreal,Shooting,Shooting,"PANACEK, Josef",TCH,Men,Skeet (125 Targets),Gold
+1976,Montreal,Shooting,Shooting,"SWINKELS, Eric",NED,Men,Skeet (125 Targets),Silver
+1976,Montreal,Shooting,Shooting,"BALDI, Ubaldesco",ITA,Men,Trap (125 Targets),Bronze
+1976,Montreal,Shooting,Shooting,"HALDEMAN, Donald Stanley",USA,Men,Trap (125 Targets),Gold
+1976,Montreal,Shooting,Shooting,"MARQUES, Armando Da Silva",POR,Men,Trap (125 Targets),Silver
+1976,Montreal,Volleyball,Volleyball,"FIGUEREDO RICARDO, Alfredo",CUB,Men,Volleyball,Bronze
+1976,Montreal,Volleyball,Volleyball,"GARCIA CAMPOS, Victor",CUB,Men,Volleyball,Bronze
+1976,Montreal,Volleyball,Volleyball,"LAPERA SOTOLONGO, Diego",CUB,Men,Volleyball,Bronze
+1976,Montreal,Volleyball,Volleyball,"MARSHALL STEWARD, Leonel",CUB,Men,Volleyball,Bronze
+1976,Montreal,Volleyball,Volleyball,"MARTINEZ CORDERO, Lorenzo",CUB,Men,Volleyball,Bronze
+1976,Montreal,Volleyball,Volleyball,"MARTINEZ HERNANDEZ, Ernesto",CUB,Men,Volleyball,Bronze
+1976,Montreal,Volleyball,Volleyball,"PEREZ VENTO MACHADO, Jorge",CUB,Men,Volleyball,Bronze
+1976,Montreal,Volleyball,Volleyball,"RODRIGUEZ AGUIRRE, Antonio",CUB,Men,Volleyball,Bronze
+1976,Montreal,Volleyball,Volleyball,"SALAS PEREZ, Carlos",CUB,Men,Volleyball,Bronze
+1976,Montreal,Volleyball,Volleyball,"SARMIENTOS BIOS, Victoriano",CUB,Men,Volleyball,Bronze
+1976,Montreal,Volleyball,Volleyball,"SAVIGNE SAVIGNE, Jesus",CUB,Men,Volleyball,Bronze
+1976,Montreal,Volleyball,Volleyball,"VILCHES MORE, Raul",CUB,Men,Volleyball,Bronze
+1976,Montreal,Volleyball,Volleyball,"BEBEL, Bronislaw",POL,Men,Volleyball,Gold
+1976,Montreal,Volleyball,Volleyball,"BOSEK, Ryszard",POL,Men,Volleyball,Gold
+1976,Montreal,Volleyball,Volleyball,"GAWLOWSKI, Wieslaw",POL,Men,Volleyball,Gold
+1976,Montreal,Volleyball,Volleyball,"KARBARZ, Marek",POL,Men,Volleyball,Gold
+1976,Montreal,Volleyball,Volleyball,"LASKO, Lech",POL,Men,Volleyball,Gold
+1976,Montreal,Volleyball,Volleyball,"LUBIEJEWSKI, Zbigniew",POL,Men,Volleyball,Gold
+1976,Montreal,Volleyball,Volleyball,"RYBACZEWSKI, Miroslaw",POL,Men,Volleyball,Gold
+1976,Montreal,Volleyball,Volleyball,"SADALSKI, Wlodzimierz",POL,Men,Volleyball,Gold
+1976,Montreal,Volleyball,Volleyball,"SKOREK, Edward",POL,Men,Volleyball,Gold
+1976,Montreal,Volleyball,Volleyball,"STEFANSKI, Wlodzimierz",POL,Men,Volleyball,Gold
+1976,Montreal,Volleyball,Volleyball,"WOJTOWICZ, Tomasz",POL,Men,Volleyball,Gold
+1976,Montreal,Volleyball,Volleyball,"ZARZYCKI, Zbigniew",POL,Men,Volleyball,Gold
+1976,Montreal,Volleyball,Volleyball,"CHERNYSHEV, Vladimir",URS,Men,Volleyball,Silver
+1976,Montreal,Volleyball,Volleyball,"CHULAK, Yefim",URS,Men,Volleyball,Silver
+1976,Montreal,Volleyball,Volleyball,"DOROKHOV, Vladimir",URS,Men,Volleyball,Silver
+1976,Montreal,Volleyball,Volleyball,"ERMILOV, Aleksandr",URS,Men,Volleyball,Silver
+1976,Montreal,Volleyball,Volleyball,"KONDRA, Vladimir",URS,Men,Volleyball,Silver
+1976,Montreal,Volleyball,Volleyball,"MOLIBOGA, Oleg",URS,Men,Volleyball,Silver
+1976,Montreal,Volleyball,Volleyball,"POLISHCHUK, Anatoli",URS,Men,Volleyball,Silver
+1976,Montreal,Volleyball,Volleyball,"SAVIN, Aleksandr",URS,Men,Volleyball,Silver
+1976,Montreal,Volleyball,Volleyball,"SELIVANOV, Pavel",URS,Men,Volleyball,Silver
+1976,Montreal,Volleyball,Volleyball,"STARUNSKY, Yuri",URS,Men,Volleyball,Silver
+1976,Montreal,Volleyball,Volleyball,"ULANOV, Vladimir",URS,Men,Volleyball,Silver
+1976,Montreal,Volleyball,Volleyball,"ZAITSEV, Viacheslav",URS,Men,Volleyball,Silver
+1976,Montreal,Volleyball,Volleyball,"BAIK, Myung-Sun",KOR,Women,Volleyball,Bronze
+1976,Montreal,Volleyball,Volleyball,"BYON, Kyung-Ja",KOR,Women,Volleyball,Bronze
+1976,Montreal,Volleyball,Volleyball,"CHANG, Hee-Sook",KOR,Women,Volleyball,Bronze
+1976,Montreal,Volleyball,Volleyball,"JO, Hae-Chung",KOR,Women,Volleyball,Bronze
+1976,Montreal,Volleyball,Volleyball,"JUNG, Soon-Ok",KOR,Women,Volleyball,Bronze
+1976,Montreal,Volleyball,Volleyball,"LEE, Soon-Bok",KOR,Women,Volleyball,Bronze
+1976,Montreal,Volleyball,Volleyball,"LEE, Soon-Ok",KOR,Women,Volleyball,Bronze
+1976,Montreal,Volleyball,Volleyball,"MA, Kum-Ja",KOR,Women,Volleyball,Bronze
+1976,Montreal,Volleyball,Volleyball,"PARK, Mi-Kum",KOR,Women,Volleyball,Bronze
+1976,Montreal,Volleyball,Volleyball,"YOON, Young-Nae",KOR,Women,Volleyball,Bronze
+1976,Montreal,Volleyball,Volleyball,"YU, Jung-Hyae",KOR,Women,Volleyball,Bronze
+1976,Montreal,Volleyball,Volleyball,"YU, Kyung-Hwa",KOR,Women,Volleyball,Bronze
+1976,Montreal,Volleyball,Volleyball,"ARAKIDA, Yuko",JPN,Women,Volleyball,Gold
+1976,Montreal,Volleyball,Volleyball,"IIDA, Takako",JPN,Women,Volleyball,Gold
+1976,Montreal,Volleyball,Volleyball,"KANESAKA, Katsuko",JPN,Women,Volleyball,Gold
+1976,Montreal,Volleyball,Volleyball,"KATO, Kiyomi",JPN,Women,Volleyball,Gold
+1976,Montreal,Volleyball,Volleyball,"MAEDA, Echiko",JPN,Women,Volleyball,Gold
+1976,Montreal,Volleyball,Volleyball,"MATSUDA, Noriko",JPN,Women,Volleyball,Gold
+1976,Montreal,Volleyball,Volleyball,"OKAMOTO, Mariko",JPN,Women,Volleyball,Gold
+1976,Montreal,Volleyball,Volleyball,"SHIRAI, Takako",JPN,Women,Volleyball,Gold
+1976,Montreal,Volleyball,Volleyball,"TAKAYANAGI, Shoko",JPN,Women,Volleyball,Gold
+1976,Montreal,Volleyball,Volleyball,"YANO, Hiromi",JPN,Women,Volleyball,Gold
+1976,Montreal,Volleyball,Volleyball,"YOKOYAMA, Juri",JPN,Women,Volleyball,Gold
+1976,Montreal,Volleyball,Volleyball,"YOSHIDA, Mariko",JPN,Women,Volleyball,Gold
+1976,Montreal,Volleyball,Volleyball,"BERGEN, Larisa",URS,Women,Volleyball,Silver
+1976,Montreal,Volleyball,Volleyball,"CHERNYSHOVA, Liudmila",URS,Women,Volleyball,Silver
+1976,Montreal,Volleyball,Volleyball,"KOZAKOVA, Olga",URS,Women,Volleyball,Silver
+1976,Montreal,Volleyball,Volleyball,"KUSHNIR, Natalya",URS,Women,Volleyball,Silver
+1976,Montreal,Volleyball,Volleyball,"MURADYAN, Nina",URS,Women,Volleyball,Silver
+1976,Montreal,Volleyball,Volleyball,"OSADCHAYA, Liliya",URS,Women,Volleyball,Silver
+1976,Montreal,Volleyball,Volleyball,"ROSTOVA, Anna",URS,Women,Volleyball,Silver
+1976,Montreal,Volleyball,Volleyball,"RUDOVSKAYA, Lyubov",URS,Women,Volleyball,Silver
+1976,Montreal,Volleyball,Volleyball,"RYSKAL, Inna",URS,Women,Volleyball,Silver
+1976,Montreal,Volleyball,Volleyball,"SHCHETININA, Lyudmila",URS,Women,Volleyball,Silver
+1976,Montreal,Volleyball,Volleyball,"SMOLEEVA, Nina",URS,Women,Volleyball,Silver
+1976,Montreal,Volleyball,Volleyball,"YUSOVA, Zoya",URS,Women,Volleyball,Silver
+1976,Montreal,Weightlifting,Weightlifting,"NASSIRI-SERESHT, Mohammad",IRI,Men,"- 52KG, Total (Flyweight)",Bronze
+1976,Montreal,Weightlifting,Weightlifting,"VORONIN, Aleksandr",URS,Men,"- 52KG, Total (Flyweight)",Gold
+1976,Montreal,Weightlifting,Weightlifting,"KÖSZEGI, György",HUN,Men,"- 52KG, Total (Flyweight)",Silver
+1976,Montreal,Weightlifting,Weightlifting,"ANDO, Kenkichi",JPN,Men,"- 56KG, Total (Bantamweight)",Bronze
+1976,Montreal,Weightlifting,Weightlifting,"NURIKIAN, Norair",BUL,Men,"- 56KG, Total (Bantamweight)",Gold
+1976,Montreal,Weightlifting,Weightlifting,"CZIURA, Grzegorz",POL,Men,"- 56KG, Total (Bantamweight)",Silver
+1976,Montreal,Weightlifting,Weightlifting,"LOSCH, Helmut",GDR,Men,"+ 110KG, Total (Super Heavyweight)",Bronze
+1976,Montreal,Weightlifting,Weightlifting,"ALEKSEYEV, Vasily",URS,Men,"+ 110KG, Total (Super Heavyweight)",Gold
+1976,Montreal,Weightlifting,Weightlifting,"BONK, Gerd",GDR,Men,"+ 110KG, Total (Super Heavyweight)",Silver
+1976,Montreal,Weightlifting,Weightlifting,"HIRAI, Kazumasa",JPN,Men,"56 - 60KG, Total (Featherweight)",Bronze
+1976,Montreal,Weightlifting,Weightlifting,"KOLESNIKOV, Nikolai",URS,Men,"56 - 60KG, Total (Featherweight)",Gold
+1976,Montreal,Weightlifting,Weightlifting,"TODOROV, Georghi",BUL,Men,"56 - 60KG, Total (Featherweight)",Silver
+1976,Montreal,Weightlifting,Weightlifting,"CZARNECKI, Kazimierz",POL,Men,"60 - 67.5KG, Total (Lightweight)",Bronze
+1976,Montreal,Weightlifting,Weightlifting,"KOROL, Pyotr",URS,Men,"60 - 67.5KG, Total (Lightweight)",Gold
+1976,Montreal,Weightlifting,Weightlifting,"SENET, Daniel",FRA,Men,"60 - 67.5KG, Total (Lightweight)",Silver
+1976,Montreal,Weightlifting,Weightlifting,"WENZEL, Peter",GDR,Men,"67.5 - 75KG, Total (Middleweight)",Bronze
+1976,Montreal,Weightlifting,Weightlifting,"MITKOV, Yordan",BUL,Men,"67.5 - 75KG, Total (Middleweight)",Gold
+1976,Montreal,Weightlifting,Weightlifting,"MILITOSYAN, Vartan",URS,Men,"67.5 - 75KG, Total (Middleweight)",Silver
+1976,Montreal,Weightlifting,Weightlifting,"BACZAKO, Peter",HUN,Men,"75 - 82.5KG, Total (Light-Heavyweight)",Bronze
+1976,Montreal,Weightlifting,Weightlifting,"SHARY, Valeri",URS,Men,"75 - 82.5KG, Total (Light-Heavyweight)",Gold
+1976,Montreal,Weightlifting,Weightlifting,"STOITCHEV, Trendafil",BUL,Men,"75 - 82.5KG, Total (Light-Heavyweight)",Silver
+1976,Montreal,Weightlifting,Weightlifting,"SHOPOV, Atanas",BUL,Men,"82.5 - 90KG, Total (Middle-Heavyweight)",Bronze
+1976,Montreal,Weightlifting,Weightlifting,"RIGERT, David",URS,Men,"82.5 - 90KG, Total (Middle-Heavyweight)",Gold
+1976,Montreal,Weightlifting,Weightlifting,"JAMES, Lee Roy, Jr.",USA,Men,"82.5 - 90KG, Total (Middle-Heavyweight)",Silver
+1976,Montreal,Weightlifting,Weightlifting,"RUTKOWSKI, Tadeusz",POL,Men,"91 - 110KG, Total (Heavyweight)",Bronze
+1976,Montreal,Weightlifting,Weightlifting,"ZAITSEV, Yuri",URS,Men,"91 - 110KG, Total (Heavyweight)",Gold
+1976,Montreal,Weightlifting,Weightlifting,"SEMERDJIEV, Krastio",BUL,Men,"91 - 110KG, Total (Heavyweight)",Silver
+1976,Montreal,Wrestling,Wrestling Free.,"KUDO, Akira",JPN,Men,- 48KG (Light-Flyweight),Bronze
+1976,Montreal,Wrestling,Wrestling Free.,"MURSELOV, Khassan Issaiev",BUL,Men,- 48KG (Light-Flyweight),Gold
+1976,Montreal,Wrestling,Wrestling Free.,"DMITRIEV, Roman",URS,Men,- 48KG (Light-Flyweight),Silver
+1976,Montreal,Wrestling,Wrestling Free.,"SIMON, Ladislau",ROU,Men,+ 100KG (Super Heavyweight),Bronze
+1976,Montreal,Wrestling,Wrestling Free.,"ANDIEV, Soslan",URS,Men,+ 100KG (Super Heavyweight),Gold
+1976,Montreal,Wrestling,Wrestling Free.,"BALLA, Jozsef",HUN,Men,+ 100KG (Super Heavyweight),Silver
+1976,Montreal,Wrestling,Wrestling Free.,"JEON, Hae-Sup",KOR,Men,48 - 52KG (Flyweight),Bronze
+1976,Montreal,Wrestling,Wrestling Free.,"TAKADA, Yuji",JPN,Men,48 - 52KG (Flyweight),Gold
+1976,Montreal,Wrestling,Wrestling Free.,"IVANOV, Aleksandr",URS,Men,48 - 52KG (Flyweight),Silver
+1976,Montreal,Wrestling,Wrestling Free.,"ARAI, Masao",JPN,Men,52 - 57KG (Bantamweight),Bronze
+1976,Montreal,Wrestling,Wrestling Free.,"YUMIN, Vladimir",URS,Men,52 - 57KG (Bantamweight),Gold
+1976,Montreal,Wrestling,Wrestling Free.,"BRÜCHERT, Hans-Dieter",GDR,Men,52 - 57KG (Bantamweight),Silver
+1976,Montreal,Wrestling,Wrestling Free.,"DAVIS, Eugene Lee",USA,Men,57 - 62KG (Featherweight),Bronze
+1976,Montreal,Wrestling,Wrestling Free.,"YANG, Jung-Mo",KOR,Men,57 - 62KG (Featherweight),Gold
+1976,Montreal,Wrestling,Wrestling Free.,"OIDOV, Zevegying",MGL,Men,57 - 62KG (Featherweight),Silver
+1976,Montreal,Wrestling,Wrestling Free.,"SUGAWARA, Yasaburo",JPN,Men,62 - 68KG (Lightweight),Bronze
+1976,Montreal,Wrestling,Wrestling Free.,"PINIGIN, Pavel",URS,Men,62 - 68KG (Lightweight),Gold
+1976,Montreal,Wrestling,Wrestling Free.,"KEASER, Lloyd Weldon",USA,Men,62 - 68KG (Lightweight),Silver
+1976,Montreal,Wrestling,Wrestling Free.,"DZIEDZIC, Stanley Joseph, Jr.",USA,Men,68 - 74KG (Welterweight),Bronze
+1976,Montreal,Wrestling,Wrestling Free.,"DATE, Jiichiro",JPN,Men,68 - 74KG (Welterweight),Gold
+1976,Montreal,Wrestling,Wrestling Free.,"BARZEGAR, Mansour",IRI,Men,68 - 74KG (Welterweight),Silver
+1976,Montreal,Wrestling,Wrestling Free.,"SEGER, Adolf",FRG,Men,74 - 82KG (Middleweight),Bronze
+1976,Montreal,Wrestling,Wrestling Free.,"PETERSON, John Allan",USA,Men,74 - 82KG (Middleweight),Gold
+1976,Montreal,Wrestling,Wrestling Free.,"NOVOZHILOV, Viktor",URS,Men,74 - 82KG (Middleweight),Silver
+1976,Montreal,Wrestling,Wrestling Free.,"MORCOV, Stelica",ROU,Men,82 - 90KG (Light-Heavyweight),Bronze
+1976,Montreal,Wrestling,Wrestling Free.,"TEDIASHVILI, Levan",URS,Men,82 - 90KG (Light-Heavyweight),Gold
+1976,Montreal,Wrestling,Wrestling Free.,"PETERSON, Benjamin Lee",USA,Men,82 - 90KG (Light-Heavyweight),Silver
+1976,Montreal,Wrestling,Wrestling Free.,"KOSTOV, Dimov",BUL,Men,90 - 100KG (Heavyweight),Bronze
+1976,Montreal,Wrestling,Wrestling Free.,"YARYGIN, Ivan",URS,Men,90 - 100KG (Heavyweight),Gold
+1976,Montreal,Wrestling,Wrestling Free.,"HELLICKSON, Russell Owen",USA,Men,90 - 100KG (Heavyweight),Silver
+1976,Montreal,Wrestling,Wrestling Gre-R,"ANGELOV, Stefan",BUL,Men,- 48KG (Light-Flyweight),Bronze
+1976,Montreal,Wrestling,Wrestling Gre-R,"SHUMAKOV, Aleksei",URS,Men,- 48KG (Light-Flyweight),Gold
+1976,Montreal,Wrestling,Wrestling Gre-R,"BERCEANU, Gheorghe",ROU,Men,- 48KG (Light-Flyweight),Silver
+1976,Montreal,Wrestling,Wrestling Gre-R,"CODREANU, Roman",ROU,Men,+ 100KG (Super Heavyweight),Bronze
+1976,Montreal,Wrestling,Wrestling Gre-R,"KOLCHINSKY, Aleksandr",URS,Men,+ 100KG (Super Heavyweight),Gold
+1976,Montreal,Wrestling,Wrestling Gre-R,"TOMOV, Aleksandr",BUL,Men,+ 100KG (Super Heavyweight),Silver
+1976,Montreal,Wrestling,Wrestling Gre-R,"HIRAYAMA, Koichiro",JPN,Men,48 - 52KG (Flyweight),Bronze
+1976,Montreal,Wrestling,Wrestling Gre-R,"KONSTANTINOV, Vitali",URS,Men,48 - 52KG (Flyweight),Gold
+1976,Montreal,Wrestling,Wrestling Gre-R,"GINGA, Nicu",ROU,Men,48 - 52KG (Flyweight),Silver
+1976,Montreal,Wrestling,Wrestling Gre-R,"MUSTAFIN, Farkhad",URS,Men,52 - 57KG (Bantamweight),Bronze
+1976,Montreal,Wrestling,Wrestling Gre-R,"UKKOLA, Pertti Olavi",FIN,Men,52 - 57KG (Bantamweight),Gold
+1976,Montreal,Wrestling,Wrestling Gre-R,"FRGIC, Ivan",YUG,Men,52 - 57KG (Bantamweight),Silver
+1976,Montreal,Wrestling,Wrestling Gre-R,"RECZI, Laszlo",HUN,Men,57 - 62KG (Featherweight),Bronze
+1976,Montreal,Wrestling,Wrestling Gre-R,"LIPIEN, Kazimierz",POL,Men,57 - 62KG (Featherweight),Gold
+1976,Montreal,Wrestling,Wrestling Gre-R,"DAVIDYAN, Nelson",URS,Men,57 - 62KG (Featherweight),Silver
+1976,Montreal,Wrestling,Wrestling Gre-R,"WEHLING, Heinz-Helmut",GDR,Men,62 - 68KG (Lightweight),Bronze
+1976,Montreal,Wrestling,Wrestling Gre-R,"NALBANDYAN, Suren",URS,Men,62 - 68KG (Lightweight),Gold
+1976,Montreal,Wrestling,Wrestling Gre-R,"RUSU, Stefan",ROU,Men,62 - 68KG (Lightweight),Silver
+1976,Montreal,Wrestling,Wrestling Gre-R,"HELBING, Karl-Heinz",FRG,Men,68 - 74KG (Welterweight),Bronze
+1976,Montreal,Wrestling,Wrestling Gre-R,"BYKOV, Anatoli",URS,Men,68 - 74KG (Welterweight),Gold
+1976,Montreal,Wrestling,Wrestling Gre-R,"MACHA, Vitezslav",TCH,Men,68 - 74KG (Welterweight),Silver
+1976,Montreal,Wrestling,Wrestling Gre-R,"KOLEV, Ivan",BUL,Men,74 - 82KG (Middleweight),Bronze
+1976,Montreal,Wrestling,Wrestling Gre-R,"PETKOVIC, Momir",YUG,Men,74 - 82KG (Middleweight),Gold
+1976,Montreal,Wrestling,Wrestling Gre-R,"CHEBOKSAROV, Vladimir",URS,Men,74 - 82KG (Middleweight),Silver
+1976,Montreal,Wrestling,Wrestling Gre-R,"KWIECINSKI, Czeslaw",POL,Men,82 - 90KG (Light-Heavyweight),Bronze
+1976,Montreal,Wrestling,Wrestling Gre-R,"REZANTSEV, Valeri",URS,Men,82 - 90KG (Light-Heavyweight),Gold
+1976,Montreal,Wrestling,Wrestling Gre-R,"IVANOV, Stoyan",BUL,Men,82 - 90KG (Light-Heavyweight),Silver
+1976,Montreal,Wrestling,Wrestling Gre-R,"SKRZYDLEWSKI, Andrzej",POL,Men,90 - 100KG (Heavyweight),Bronze
+1976,Montreal,Wrestling,Wrestling Gre-R,"BALBOSHIN, Nikolai",URS,Men,90 - 100KG (Heavyweight),Gold
+1976,Montreal,Wrestling,Wrestling Gre-R,"GORANOV, Kamen",BUL,Men,90 - 100KG (Heavyweight),Silver

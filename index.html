@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta content="utf-8" http-equiv="encoding">
+    <title>CSE457: Final Project</title>
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+
+    <link rel="stylesheet" href="css/style.css"/>
+    <script type="text/javascript" src="bower_components/d3-tip/index.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.8/d3.min.js"></script>
+
+    <link href="https://fonts.googleapis.com/css?family=Arvo" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>    
+<link href="https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@200&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Work+Sans:ital,wght@0,200;0,300;0,700;1,100;1,400;1,500&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div id="header">
+        <!-- <img src="images/olympicsring.png" alt="" id="ring"> -->
+        <h1 class="titletext noselect">124 Years of Summer Olympics</h1>
+    </div>
+    <div id="toolbar">
+        <a href="#gender-over-time">Gender Distribution Over Time</a>
+        <a href="#year-chart" title="Scroll to Chart showing countries participating">Breakdown of Each Olympics</a>
+        <a href="#compareLine">Comparison between Olympics</a>
+        <a href = "https://csex57.github.io/120yearsofolympics/processbooks/processbook1"> Process Book</a>
+        <a href = "https://youtu.be/C5ZNpRxJmVE"> Video </a>
+        <!-- <a href="#gender-chart">Gender Distribution</a>
+        <a href="#medal-rankings">Medal Rankings</a> -->
+    </div>
+
+    <div id="gender-over-time"></div>
+    
+    <div id="year-chart" class="view">
+        <h2>Breakdown of Each Summer Olympics</h2>
+        <h4>Click on a square to know the details for that Olympic year. </h4>
+        <h4>Scroll down further for the gender distribution and medal rankings for that Summer Olympic year.</h>
+    </div>
+    <div class="float">
+        <div id="country-map" class="view float-child1" >
+            
+        </div>
+    
+        <div id="country-info" class="view float-child2" style="visibility: hidden">
+            <br></br>
+            <h2>Medal Count for:</h2>
+        </div>
+    </div>
+    <hr id="compareLine">
+    <div id ="compare" style=" visibility: hidden">
+    </div>
+
+    <div class ="bottom-chart">
+        <div id="gender-chart" style="visibility: hidden">
+            <div id="originalGender">
+            </div>
+            <div id="comparedGender">
+            </div>
+        </div>
+        
+        <div id="medal-rankings" style="visibility: hidden">
+            <div id="originalMedal">
+            </div>
+            <div id="comparedMedal">
+            </div>
+        </div>
+    </div>
+
+
+    
+
+<script src="js/jquery.min.js"></script>
+<script type="application/javascript" src="js/d3.min.v6.js"></script>
+<script type="text/javascript" src="js/genderDistOverTime.js"></script>
+<script type="text/javascript" src="js/compareWithOtherOlympics.js"></script>
+<script type="text/javascript" src="js/genderDistEachOlympic.js"></script>
+<script type="text/javascript" src="js/medalCountPerOlympic.js"></script>
+<script type="text/javascript" src="js/countryInfo.js"></script> 
+<script type="text/javascript" src="js/countryMapChart.js"></script>
+<script type="text/javascript" src="js/yearCitiesChart.js"></script>
+<script type="text/javascript" src="js/main.js"></script></script>
+</body>
+</html>

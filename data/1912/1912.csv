@@ -1,0 +1,886 @@
+Year,City,Sport,Discipline,Athlete,Country,Gender,Event,Medal
+1912,Stockholm,Aquatics,Diving,"BLOMGREN, Gustaf",SWE,Men,10M Platform,Bronze
+1912,Stockholm,Aquatics,Diving,"ADLERZ, Erik",SWE,Men,10M Platform,Gold
+1912,Stockholm,Aquatics,Diving,"ZÜRNER, Albert",GER,Men,10M Platform,Silver
+1912,Stockholm,Aquatics,Diving,"WHITE, Isabella Mary",GBR,Women,10M Platform,Bronze
+1912,Stockholm,Aquatics,Diving,"JOHANSSON, Greta",SWE,Women,10M Platform,Gold
+1912,Stockholm,Aquatics,Diving,"REGNELL, Lisa",SWE,Women,10M Platform,Silver
+1912,Stockholm,Aquatics,Diving,"BEHRENS, Kurt",GER,Men,3M Springboard,Bronze
+1912,Stockholm,Aquatics,Diving,"GÜNTHER, Paul",GER,Men,3M Springboard,Gold
+1912,Stockholm,Aquatics,Diving,"LUBER, Hans",GER,Men,3M Springboard,Silver
+1912,Stockholm,Aquatics,Diving,"JANSSON, John",SWE,Men,Plain High Diving,Bronze
+1912,Stockholm,Aquatics,Diving,"ADLERZ, Erik",SWE,Men,Plain High Diving,Gold
+1912,Stockholm,Aquatics,Diving,"JOHANSSON, Hjalmar",SWE,Men,Plain High Diving,Silver
+1912,Stockholm,Aquatics,Swimming,"KELLNER, Paul",GER,Men,100M Backstroke,Bronze
+1912,Stockholm,Aquatics,Swimming,"HEBNER, Harry J.",USA,Men,100M Backstroke,Gold
+1912,Stockholm,Aquatics,Swimming,"FAHR, Otto",GER,Men,100M Backstroke,Silver
+1912,Stockholm,Aquatics,Swimming,"HUSZAGH, Kenneth",USA,Men,100M Freestyle,Bronze
+1912,Stockholm,Aquatics,Swimming,"KAHANAMOKU, Duke Paoa",USA,Men,100M Freestyle,Gold
+1912,Stockholm,Aquatics,Swimming,"HEALY, Cecil",ANZ,Men,100M Freestyle,Silver
+1912,Stockholm,Aquatics,Swimming,"FLETCHER, Jennie",GBR,Women,100M Freestyle,Bronze
+1912,Stockholm,Aquatics,Swimming,"DURACK, Fanny",ANZ,Women,100M Freestyle,Gold
+1912,Stockholm,Aquatics,Swimming,"WYLIE, Wilhelmina",ANZ,Women,100M Freestyle,Silver
+1912,Stockholm,Aquatics,Swimming,"HARDWICK, Harold H.",ANZ,Men,1500M Freestyle,Bronze
+1912,Stockholm,Aquatics,Swimming,"HODGSON, George Ritchie",CAN,Men,1500M Freestyle,Gold
+1912,Stockholm,Aquatics,Swimming,"HATFIELD, John Gatenby",GBR,Men,1500M Freestyle,Silver
+1912,Stockholm,Aquatics,Swimming,"MALISCH, Kurt Paul",GER,Men,200M Breaststroke,Bronze
+1912,Stockholm,Aquatics,Swimming,"BATHE, Walter",GER,Men,200M Breaststroke,Gold
+1912,Stockholm,Aquatics,Swimming,"LÜTZOW, Willy",GER,Men,200M Breaststroke,Silver
+1912,Stockholm,Aquatics,Swimming,"COURTMAN, Percy",GBR,Men,400M Breaststroke,Bronze
+1912,Stockholm,Aquatics,Swimming,"BATHE, Walter",GER,Men,400M Breaststroke,Gold
+1912,Stockholm,Aquatics,Swimming,"HENNING, Tor",SWE,Men,400M Breaststroke,Silver
+1912,Stockholm,Aquatics,Swimming,"HARDWICK, Harold H.",ANZ,Men,400M Freestyle,Bronze
+1912,Stockholm,Aquatics,Swimming,"HODGSON, George Ritchie",CAN,Men,400M Freestyle,Gold
+1912,Stockholm,Aquatics,Swimming,"HATFIELD, John Gatenby",GBR,Men,400M Freestyle,Silver
+1912,Stockholm,Aquatics,Swimming,"ADLER, Margarete",AUT,Women,4X100M Freestyle Relay,Bronze
+1912,Stockholm,Aquatics,Swimming,"MILCH, Klara",AUT,Women,4X100M Freestyle Relay,Bronze
+1912,Stockholm,Aquatics,Swimming,"STICKER, Josephine",AUT,Women,4X100M Freestyle Relay,Bronze
+1912,Stockholm,Aquatics,Swimming,"ZAHOUREK, Bertha",AUT,Women,4X100M Freestyle Relay,Bronze
+1912,Stockholm,Aquatics,Swimming,"FLETCHER, Jennie",GBR,Women,4X100M Freestyle Relay,Gold
+1912,Stockholm,Aquatics,Swimming,"MOORE, Isabella Mary",GBR,Women,4X100M Freestyle Relay,Gold
+1912,Stockholm,Aquatics,Swimming,"SPEIRS, Annie",GBR,Women,4X100M Freestyle Relay,Gold
+1912,Stockholm,Aquatics,Swimming,"STEER, Irene",GBR,Women,4X100M Freestyle Relay,Gold
+1912,Stockholm,Aquatics,Swimming,"DRESSEL, Wally",GER,Women,4X100M Freestyle Relay,Silver
+1912,Stockholm,Aquatics,Swimming,"OTTO, Louise",GER,Women,4X100M Freestyle Relay,Silver
+1912,Stockholm,Aquatics,Swimming,"ROSENBERG, Grete",GER,Women,4X100M Freestyle Relay,Silver
+1912,Stockholm,Aquatics,Swimming,"STINDT, Hermine",GER,Women,4X100M Freestyle Relay,Silver
+1912,Stockholm,Aquatics,Swimming,"BATTERSBY, Thomas Sidney",GBR,Men,4X200M Freestyle Relay,Bronze
+1912,Stockholm,Aquatics,Swimming,"FOSTER, William",GBR,Men,4X200M Freestyle Relay,Bronze
+1912,Stockholm,Aquatics,Swimming,"HATFIELD, John Gatenby",GBR,Men,4X200M Freestyle Relay,Bronze
+1912,Stockholm,Aquatics,Swimming,"TAYLOR, Henry",GBR,Men,4X200M Freestyle Relay,Bronze
+1912,Stockholm,Aquatics,Swimming,"BOARDMAN, Leslie",ANZ,Men,4X200M Freestyle Relay,Gold
+1912,Stockholm,Aquatics,Swimming,"CHAMPION, Malcolm",ANZ,Men,4X200M Freestyle Relay,Gold
+1912,Stockholm,Aquatics,Swimming,"HARDWICK, Harold H.",ANZ,Men,4X200M Freestyle Relay,Gold
+1912,Stockholm,Aquatics,Swimming,"HEALY, Cecil",ANZ,Men,4X200M Freestyle Relay,Gold
+1912,Stockholm,Aquatics,Swimming,"HEBNER, Harry J.",USA,Men,4X200M Freestyle Relay,Silver
+1912,Stockholm,Aquatics,Swimming,"HUSZAGH, Kenneth",USA,Men,4X200M Freestyle Relay,Silver
+1912,Stockholm,Aquatics,Swimming,"KAHANAMOKU, Duke Paoa",USA,Men,4X200M Freestyle Relay,Silver
+1912,Stockholm,Aquatics,Swimming,"MCGILLIVRAY, Perry",USA,Men,4X200M Freestyle Relay,Silver
+1912,Stockholm,Aquatics,Water polo,"BOIN, Victor",BEL,Men,Water Polo,Bronze
+1912,Stockholm,Aquatics,Water polo,"COURBET, Félicien",BEL,Men,Water Polo,Bronze
+1912,Stockholm,Aquatics,Water polo,"DONNERS, Hermann",BEL,Men,Water Polo,Bronze
+1912,Stockholm,Aquatics,Water polo,"DURANT, Albert",BEL,Men,Water Polo,Bronze
+1912,Stockholm,Aquatics,Water polo,"GREGOIRE, Oscar",BEL,Men,Water Polo,Bronze
+1912,Stockholm,Aquatics,Water polo,"MEYBOOM, Herman",BEL,Men,Water Polo,Bronze
+1912,Stockholm,Aquatics,Water polo,"PLETINCX, Joseph",BEL,Men,Water Polo,Bronze
+1912,Stockholm,Aquatics,Water polo,"BENTHAM, Isaac",GBR,Men,Water Polo,Gold
+1912,Stockholm,Aquatics,Water polo,"BUGBEE, Charles",GBR,Men,Water Polo,Gold
+1912,Stockholm,Aquatics,Water polo,"CORNET, George Thomson",GBR,Men,Water Polo,Gold
+1912,Stockholm,Aquatics,Water polo,"HILL, Arthur Edwin",GBR,Men,Water Polo,Gold
+1912,Stockholm,Aquatics,Water polo,"RADMILOVIC, Paul",GBR,Men,Water Polo,Gold
+1912,Stockholm,Aquatics,Water polo,"SMITH, Charles Sydney",GBR,Men,Water Polo,Gold
+1912,Stockholm,Aquatics,Water polo,"WILKINSON, George",GBR,Men,Water Polo,Gold
+1912,Stockholm,Aquatics,Water polo,"ANDERSSON, Robert T.",SWE,Men,Water Polo,Silver
+1912,Stockholm,Aquatics,Water polo,"ANDERSSON, Vilhelm",SWE,Men,Water Polo,Silver
+1912,Stockholm,Aquatics,Water polo,"BERGQVIST, Erik",SWE,Men,Water Polo,Silver
+1912,Stockholm,Aquatics,Water polo,"GUMPEL, Max",SWE,Men,Water Polo,Silver
+1912,Stockholm,Aquatics,Water polo,"HANSSON, Pontus",SWE,Men,Water Polo,Silver
+1912,Stockholm,Aquatics,Water polo,"JULIN, Harald S.A.",SWE,Men,Water Polo,Silver
+1912,Stockholm,Aquatics,Water polo,"KUMFELDT, K. Torsten",SWE,Men,Water Polo,Silver
+1912,Stockholm,Athletics,Athletics,"STENROOS, Albin Oskar",FIN,Men,10000M,Bronze
+1912,Stockholm,Athletics,Athletics,"KOLEHMAINEN, Hannes",FIN,Men,10000M,Gold
+1912,Stockholm,Athletics,Athletics,"TEWANINA, Lewis",USA,Men,10000M,Silver
+1912,Stockholm,Athletics,Athletics,"ALTIMANI, Fernando",ITA,Men,10000M Walk,Bronze
+1912,Stockholm,Athletics,Athletics,"GOULDING, George",CAN,Men,10000M Walk,Gold
+1912,Stockholm,Athletics,Athletics,"WEBB, Ernest",GBR,Men,10000M Walk,Silver
+1912,Stockholm,Athletics,Athletics,"LIPPINCOTT, Donald",USA,Men,100M,Bronze
+1912,Stockholm,Athletics,Athletics,"CRAIG, Ralph",USA,Men,100M,Gold
+1912,Stockholm,Athletics,Athletics,"MEYER, I. Alvah",USA,Men,100M,Silver
+1912,Stockholm,Athletics,Athletics,"HAWKINS, Martin",USA,Men,110M Hurdles,Bronze
+1912,Stockholm,Athletics,Athletics,"KELLY, Frederick",USA,Men,110M Hurdles,Gold
+1912,Stockholm,Athletics,Athletics,"WENDELL, James",USA,Men,110M Hurdles,Silver
+1912,Stockholm,Athletics,Athletics,"TABER, Norman",USA,Men,1500M,Bronze
+1912,Stockholm,Athletics,Athletics,"JACKSON, Arnold",GBR,Men,1500M,Gold
+1912,Stockholm,Athletics,Athletics,"KIVIAT, Abel",USA,Men,1500M,Silver
+1912,Stockholm,Athletics,Athletics,"APPLEGARTH, William",GBR,Men,200M,Bronze
+1912,Stockholm,Athletics,Athletics,"CRAIG, Ralph",USA,Men,200M,Gold
+1912,Stockholm,Athletics,Athletics,"LIPPINCOTT, Donald",USA,Men,200M,Silver
+1912,Stockholm,Athletics,Athletics,"COTTRILL, William",GBR,Men,3000M Team,Bronze
+1912,Stockholm,Athletics,Athletics,"HUTSON, George William",GBR,Men,3000M Team,Bronze
+1912,Stockholm,Athletics,Athletics,"MOORE, Frank W.",GBR,Men,3000M Team,Bronze
+1912,Stockholm,Athletics,Athletics,"OWEN, Edward",GBR,Men,3000M Team,Bronze
+1912,Stockholm,Athletics,Athletics,"PORTER, Cyril Henry Atwell",GBR,Men,3000M Team,Bronze
+1912,Stockholm,Athletics,Athletics,"BERNA, Tell Schirnding",USA,Men,3000M Team,Gold
+1912,Stockholm,Athletics,Athletics,"BONHAG, George V.",USA,Men,3000M Team,Gold
+1912,Stockholm,Athletics,Athletics,"KIVIAT, Abel",USA,Men,3000M Team,Gold
+1912,Stockholm,Athletics,Athletics,"SCOTT, Henry Louis",USA,Men,3000M Team,Gold
+1912,Stockholm,Athletics,Athletics,"TABER, Norman",USA,Men,3000M Team,Gold
+1912,Stockholm,Athletics,Athletics,"FOCK, Bror",SWE,Men,3000M Team,Silver
+1912,Stockholm,Athletics,Athletics,"FRYKBERG, Nils",SWE,Men,3000M Team,Silver
+1912,Stockholm,Athletics,Athletics,"OHLSSON, Thorild",SWE,Men,3000M Team,Silver
+1912,Stockholm,Athletics,Athletics,"WIDE, Ernest",SWE,Men,3000M Team,Silver
+1912,Stockholm,Athletics,Athletics,"ZANDER, John",SWE,Men,3000M Team,Silver
+1912,Stockholm,Athletics,Athletics,"LINDBERG, Edward F.",USA,Men,400M,Bronze
+1912,Stockholm,Athletics,Athletics,"REIDPATH, Charles Decker",USA,Men,400M,Gold
+1912,Stockholm,Athletics,Athletics,"BRAUN, Hans",GER,Men,400M,Silver
+1912,Stockholm,Athletics,Athletics,"APPLEGARTH, William",GBR,Men,4X100M Relay,Gold
+1912,Stockholm,Athletics,Athletics,"D'ARCY, Victor Henry Augustus",GBR,Men,4X100M Relay,Gold
+1912,Stockholm,Athletics,Athletics,"JACOBS, David Henry",GBR,Men,4X100M Relay,Gold
+1912,Stockholm,Athletics,Athletics,"MACKINTOSH, Henry Maitland",GBR,Men,4X100M Relay,Gold
+1912,Stockholm,Athletics,Athletics,"LINDBERG, Knut",SWE,Men,4X100M Relay,Silver
+1912,Stockholm,Athletics,Athletics,"LUTHER, Karl August",SWE,Men,4X100M Relay,Silver
+1912,Stockholm,Athletics,Athletics,"MÖLLER, Ivan",SWE,Men,4X100M Relay,Silver
+1912,Stockholm,Athletics,Athletics,"PERSSON, Ture",SWE,Men,4X100M Relay,Silver
+1912,Stockholm,Athletics,Athletics,"HENLEY, Ernest John",GBR,Men,4X400M Relay,Bronze
+1912,Stockholm,Athletics,Athletics,"NICOL, George",GBR,Men,4X400M Relay,Bronze
+1912,Stockholm,Athletics,Athletics,"SEEDHOUSE, Cyril Norman",GBR,Men,4X400M Relay,Bronze
+1912,Stockholm,Athletics,Athletics,"SOUTTER, James Tindal",GBR,Men,4X400M Relay,Bronze
+1912,Stockholm,Athletics,Athletics,"LINDBERG, Edward F.",USA,Men,4X400M Relay,Gold
+1912,Stockholm,Athletics,Athletics,"MEREDITH, James Edwin",USA,Men,4X400M Relay,Gold
+1912,Stockholm,Athletics,Athletics,"REIDPATH, Charles Decker",USA,Men,4X400M Relay,Gold
+1912,Stockholm,Athletics,Athletics,"SHEPPARD, Melvin",USA,Men,4X400M Relay,Gold
+1912,Stockholm,Athletics,Athletics,"FAILLIOT, Pierre",FRA,Men,4X400M Relay,Silver
+1912,Stockholm,Athletics,Athletics,"LELONG, Charles Louis",FRA,Men,4X400M Relay,Silver
+1912,Stockholm,Athletics,Athletics,"POULENARD, Charles Alexandre Casimir",FRA,Men,4X400M Relay,Silver
+1912,Stockholm,Athletics,Athletics,"SCHURRER, Robert",FRA,Men,4X400M Relay,Silver
+1912,Stockholm,Athletics,Athletics,"HUTSON, George William",GBR,Men,5000M,Bronze
+1912,Stockholm,Athletics,Athletics,"KOLEHMAINEN, Hannes",FIN,Men,5000M,Gold
+1912,Stockholm,Athletics,Athletics,"BOUIN, Jean",FRA,Men,5000M,Silver
+1912,Stockholm,Athletics,Athletics,"DAVENPORT, Ira Nelson",USA,Men,800M,Bronze
+1912,Stockholm,Athletics,Athletics,"MEREDITH, James Edwin",USA,Men,800M,Gold
+1912,Stockholm,Athletics,Athletics,"SHEPPARD, Melvin",USA,Men,800M,Silver
+1912,Stockholm,Athletics,Athletics,"EKE, John",SWE,Men,Cross Country Individual,Bronze
+1912,Stockholm,Athletics,Athletics,"KOLEHMAINEN, Hannes",FIN,Men,Cross Country Individual,Gold
+1912,Stockholm,Athletics,Athletics,"ANDERSSON, Hjalmar",SWE,Men,Cross Country Individual,Silver
+1912,Stockholm,Athletics,Athletics,"GLOVER, Ernest",GBR,Men,Cross Country Team,Bronze
+1912,Stockholm,Athletics,Athletics,"HIBBINS, Frederick Newton",GBR,Men,Cross Country Team,Bronze
+1912,Stockholm,Athletics,Athletics,"HUMPHREYS, Frederick Harkness",GBR,Men,Cross Country Team,Bronze
+1912,Stockholm,Athletics,Athletics,"ANDERSSON, Hjalmar",SWE,Men,Cross Country Team,Gold
+1912,Stockholm,Athletics,Athletics,"EKE, John",SWE,Men,Cross Country Team,Gold
+1912,Stockholm,Athletics,Athletics,"TERNSTRÖM, Josef",SWE,Men,Cross Country Team,Gold
+1912,Stockholm,Athletics,Athletics,"ESKOLA, Jalmari",FIN,Men,Cross Country Team,Silver
+1912,Stockholm,Athletics,Athletics,"KOLEHMAINEN, Hannes",FIN,Men,Cross Country Team,Silver
+1912,Stockholm,Athletics,Athletics,"STENROOS, Albin Oskar",FIN,Men,Cross Country Team,Silver
+1912,Stockholm,Athletics,Athletics,"HOLMER, Gösta",SWE,Men,Decathlon,Bronze
+1912,Stockholm,Athletics,Athletics,"THORPE, Jim",USA,Men,Decathlon,Gold
+1912,Stockholm,Athletics,Athletics,"WIESLANDER, Hugo K.",SWE,Men,Decathlon,Gold
+1912,Stockholm,Athletics,Athletics,"LOMBERG, Charles",SWE,Men,Decathlon,Silver
+1912,Stockholm,Athletics,Athletics,"DUNCAN, James Henry",USA,Men,Discus Throw,Bronze
+1912,Stockholm,Athletics,Athletics,"TAIPALE, Armas Rudolf",FIN,Men,Discus Throw,Gold
+1912,Stockholm,Athletics,Athletics,"BYRD, Richard Leslie",USA,Men,Discus Throw,Silver
+1912,Stockholm,Athletics,Athletics,"MAGNUSSON, Emil",SWE,Men,"Discus Throw, Both Hands",Bronze
+1912,Stockholm,Athletics,Athletics,"TAIPALE, Armas Rudolf",FIN,Men,"Discus Throw, Both Hands",Gold
+1912,Stockholm,Athletics,Athletics,"NIKLANDER, Elmer Konstantin",FIN,Men,"Discus Throw, Both Hands",Silver
+1912,Stockholm,Athletics,Athletics,"CHILDS, Clarence Chester",USA,Men,Hammer Throw,Bronze
+1912,Stockholm,Athletics,Athletics,"MCGRATH, Matthew J.",USA,Men,Hammer Throw,Gold
+1912,Stockholm,Athletics,Athletics,"GILLIS, Duncan",CAN,Men,Hammer Throw,Silver
+1912,Stockholm,Athletics,Athletics,"HORINE, George Leslie",USA,Men,High Jump,Bronze
+1912,Stockholm,Athletics,Athletics,"RICHARDS, Alma Wilfred",USA,Men,High Jump,Gold
+1912,Stockholm,Athletics,Athletics,"LIESCHE, Hans",GER,Men,High Jump,Silver
+1912,Stockholm,Athletics,Athletics,"TSICLITIRAS, Konstantinos",GRE,Men,"High Jump, Standing",Bronze
+1912,Stockholm,Athletics,Athletics,"ADAMS, Platt",USA,Men,"High Jump, Standing",Gold
+1912,Stockholm,Athletics,Athletics,"ADAMS, Benjamin W.",USA,Men,"High Jump, Standing",Silver
+1912,Stockholm,Athletics,Athletics,"KOVACS, Mor",HUN,Men,Javelin Throw,Bronze
+1912,Stockholm,Athletics,Athletics,"LEMMING, Eric",SWE,Men,Javelin Throw,Gold
+1912,Stockholm,Athletics,Athletics,"SAARISTO, Juho Julius",FIN,Men,Javelin Throw,Silver
+1912,Stockholm,Athletics,Athletics,"PELTONEN, Urho Pellervo",FIN,Men,"Javelin Throw, Both Hands",Bronze
+1912,Stockholm,Athletics,Athletics,"SAARISTO, Juho Julius",FIN,Men,"Javelin Throw, Both Hands",Gold
+1912,Stockholm,Athletics,Athletics,"SIIKANIEMI, Väinö",FIN,Men,"Javelin Throw, Both Hands",Silver
+1912,Stockholm,Athletics,Athletics,"ABERG, Georg",SWE,Men,Long Jump,Bronze
+1912,Stockholm,Athletics,Athletics,"GUTTERSON, Albert Lovejoy",USA,Men,Long Jump,Gold
+1912,Stockholm,Athletics,Athletics,"BRICKER, Calvin David",CAN,Men,Long Jump,Silver
+1912,Stockholm,Athletics,Athletics,"ADAMS, Benjamin W.",USA,Men,"Long Jump, Standing",Bronze
+1912,Stockholm,Athletics,Athletics,"TSICLITIRAS, Konstantinos",GRE,Men,"Long Jump, Standing",Gold
+1912,Stockholm,Athletics,Athletics,"ADAMS, Platt",USA,Men,"Long Jump, Standing",Silver
+1912,Stockholm,Athletics,Athletics,"STROBINO, Gaston",USA,Men,Marathon,Bronze
+1912,Stockholm,Athletics,Athletics,"MCARTHUR, Kennedy Kane",RSA,Men,Marathon,Gold
+1912,Stockholm,Athletics,Athletics,"GITSHAM, Christian W.",RSA,Men,Marathon,Silver
+1912,Stockholm,Athletics,Athletics,"LUKEMAN, Frank",CAN,Men,Pentathlon,Bronze
+1912,Stockholm,Athletics,Athletics,"BIE, Ferdinand Reinhardt",NOR,Men,Pentathlon,Gold
+1912,Stockholm,Athletics,Athletics,"THORPE, Jim",USA,Men,Pentathlon,Gold
+1912,Stockholm,Athletics,Athletics,"DONAHUE, James Joseph",USA,Men,Pentathlon,Silver
+1912,Stockholm,Athletics,Athletics,"HAPPENNY, William",CAN,Men,Pole Vault,Bronze
+1912,Stockholm,Athletics,Athletics,"MURPHY, Frank Dwyer",USA,Men,Pole Vault,Bronze
+1912,Stockholm,Athletics,Athletics,"UGGLA, Bertil",SWE,Men,Pole Vault,Bronze
+1912,Stockholm,Athletics,Athletics,"BABCOCK, Harry Stoddard",USA,Men,Pole Vault,Gold
+1912,Stockholm,Athletics,Athletics,"NELSON, Frank Thayer",USA,Men,Pole Vault,Silver
+1912,Stockholm,Athletics,Athletics,"WRIGHT, Marc Snowell",USA,Men,Pole Vault,Silver
+1912,Stockholm,Athletics,Athletics,"WHITNEY, Laurence Atwood",USA,Men,Shot Put,Bronze
+1912,Stockholm,Athletics,Athletics,"MCDONALD, Patrick",USA,Men,Shot Put,Gold
+1912,Stockholm,Athletics,Athletics,"ROSE, Ralph",USA,Men,Shot Put,Silver
+1912,Stockholm,Athletics,Athletics,"NIKLANDER, Elmer Konstantin",FIN,Men,"Shot Put, Both Hands",Bronze
+1912,Stockholm,Athletics,Athletics,"ROSE, Ralph",USA,Men,"Shot Put, Both Hands",Gold
+1912,Stockholm,Athletics,Athletics,"MCDONALD, Patrick",USA,Men,"Shot Put, Both Hands",Silver
+1912,Stockholm,Athletics,Athletics,"ALMLÖF, Erik",SWE,Men,Triple Jump,Bronze
+1912,Stockholm,Athletics,Athletics,"LINDBLOM, Gustav",SWE,Men,Triple Jump,Gold
+1912,Stockholm,Athletics,Athletics,"ABERG, Georg",SWE,Men,Triple Jump,Silver
+1912,Stockholm,Cycling,Cycling Road,"SCHUTTE, Carl Otto",USA,Men,Individual Time Trial,Bronze
+1912,Stockholm,Cycling,Cycling Road,"LEWIS, Rudolph",RSA,Men,Individual Time Trial,Gold
+1912,Stockholm,Cycling,Cycling Road,"GRUBB, Frederick Henry",GBR,Men,Individual Time Trial,Silver
+1912,Stockholm,Cycling,Cycling Road,"KRUSHEL, Albert",USA,Men,Team Time Trial,Bronze
+1912,Stockholm,Cycling,Cycling Road,"LOFTES, Alvin Hjalmar",USA,Men,Team Time Trial,Bronze
+1912,Stockholm,Cycling,Cycling Road,"MARTIN, Walter C.",USA,Men,Team Time Trial,Bronze
+1912,Stockholm,Cycling,Cycling Road,"SCHUTTE, Carl Otto",USA,Men,Team Time Trial,Bronze
+1912,Stockholm,Cycling,Cycling Road,"FRIBORG, Erik",SWE,Men,Team Time Trial,Gold
+1912,Stockholm,Cycling,Cycling Road,"LÖNN, Algot",SWE,Men,Team Time Trial,Gold
+1912,Stockholm,Cycling,Cycling Road,"MALM, Ragnar",SWE,Men,Team Time Trial,Gold
+1912,Stockholm,Cycling,Cycling Road,"PERSSON, Axel Wilhelm",SWE,Men,Team Time Trial,Gold
+1912,Stockholm,Cycling,Cycling Road,"GRUBB, Frederick Henry",GBR,Men,Team Time Trial,Silver
+1912,Stockholm,Cycling,Cycling Road,"HAMMOND, William Robert",GBR,Men,Team Time Trial,Silver
+1912,Stockholm,Cycling,Cycling Road,"MEREDITH, Leonard Lewis",GBR,Men,Team Time Trial,Silver
+1912,Stockholm,Cycling,Cycling Road,"MOSS, Charles",GBR,Men,Team Time Trial,Silver
+1912,Stockholm,Equestrian,Dressage,"VON BLIXEN-FINECKE, Hans",SWE,Men,Individual,Bronze
+1912,Stockholm,Equestrian,Dressage,"BONDE, Carl",SWE,Men,Individual,Gold
+1912,Stockholm,Equestrian,Dressage,"BOLTENSTERN, Gustaf-Adolf",SWE,Men,Individual,Silver
+1912,Stockholm,Equestrian,Eventing,"CARIOU, J",FRA,Men,Individual,Bronze
+1912,Stockholm,Equestrian,Eventing,"NORDLANDER, Axel",SWE,Men,Individual,Gold
+1912,Stockholm,Equestrian,Eventing,"VON ROCHOW, Friedrich Leopold Harry",GER,Men,Individual,Silver
+1912,Stockholm,Equestrian,Eventing,"GRAHAM, Ephraim Foster",USA,Men,Team,Bronze
+1912,Stockholm,Equestrian,Eventing,"HENRY, Guy Verner",USA,Men,Team,Bronze
+1912,Stockholm,Equestrian,Eventing,"LEAR, Benjamin",USA,Men,Team,Bronze
+1912,Stockholm,Equestrian,Eventing,"MONTGOMERY, John Carter",USA,Men,Team,Bronze
+1912,Stockholm,Equestrian,Eventing,"ADLERCREUTZ, Nils",SWE,Men,Team,Gold
+1912,Stockholm,Equestrian,Eventing,"CASPARSSON, Ernst",SWE,Men,Team,Gold
+1912,Stockholm,Equestrian,Eventing,"HORN AF AMINNE, Henric",SWE,Men,Team,Gold
+1912,Stockholm,Equestrian,Eventing,"NORDLANDER, Axel",SWE,Men,Team,Gold
+1912,Stockholm,Equestrian,Eventing,"VON LÜTSCKEN, Eduard",GER,Men,Team,Silver
+1912,Stockholm,Equestrian,Eventing,"VON MOERS, Henrich",GER,Men,Team,Silver
+1912,Stockholm,Equestrian,Eventing,"VON ROCHOW, Friedrich Leopold Harry",GER,Men,Team,Silver
+1912,Stockholm,Equestrian,Eventing,"VON SCHAESBERG-TANNHEIM, Rudolf Graf",GER,Men,Team,Silver
+1912,Stockholm,Equestrian,Jumping,"DE BLOMMAERT DE SOYE, Emmanuel",BEL,Men,Individual,Bronze
+1912,Stockholm,Equestrian,Jumping,"CARIOU, J",FRA,Men,Individual,Gold
+1912,Stockholm,Equestrian,Jumping,"VON KRÖCHER, Rabod Wilhelm",GER,Men,Individual,Silver
+1912,Stockholm,Equestrian,Jumping,"DELOCH, Ernst Hubertus",GER,Men,Team,Bronze
+1912,Stockholm,Equestrian,Jumping,"FREYER, Sigismund",GER,Men,Team,Bronze
+1912,Stockholm,Equestrian,Jumping,"VON HOHENAU, Wilhelm",GER,Men,Team,Bronze
+1912,Stockholm,Equestrian,Jumping,"VON PREUSSEN, Friedrich Karl",GER,Men,Team,Bronze
+1912,Stockholm,Equestrian,Jumping,"KILMAN, Gustaf",SWE,Men,Team,Gold
+1912,Stockholm,Equestrian,Jumping,"LEWENHAUPT, Carl Gustaf",SWE,Men,Team,Gold
+1912,Stockholm,Equestrian,Jumping,"ROSENCRANTZ, Frederik",SWE,Men,Team,Gold
+1912,Stockholm,Equestrian,Jumping,"VON ROSEN, Hans",SWE,Men,Team,Gold
+1912,Stockholm,Equestrian,Jumping,"CARIOU, J",FRA,Men,Team,Silver
+1912,Stockholm,Equestrian,Jumping,"DUFOURT D'ASTAFORT, Michel",FRA,Men,Team,Silver
+1912,Stockholm,Equestrian,Jumping,"MEYER, Bernard",FRA,Men,Team,Silver
+1912,Stockholm,Equestrian,Jumping,"SEIGNER, Albert",FRA,Men,Team,Silver
+1912,Stockholm,Fencing,Fencing,"LE HARDY DE BEAULIEU, Philippe",BEL,Men,Épée Individual,Bronze
+1912,Stockholm,Fencing,Fencing,"ANSPACH, Paul",BEL,Men,Épée Individual,Gold
+1912,Stockholm,Fencing,Fencing,"OSIIER, Ivan Joseph Martin",DEN,Men,Épée Individual,Silver
+1912,Stockholm,Fencing,Fencing,"DE JONG, Adrianus Egbertus Willem",NED,Men,Épée Team,Bronze
+1912,Stockholm,Fencing,Fencing,"DOORMAN, Jetze",NED,Men,Épée Team,Bronze
+1912,Stockholm,Fencing,Fencing,"SALOMONSON, Leonardus",NED,Men,Épée Team,Bronze
+1912,Stockholm,Fencing,Fencing,"VAN BLIJENBURGH, Willem Peter Hubert",NED,Men,Épée Team,Bronze
+1912,Stockholm,Fencing,Fencing,"VAN ROSSEM, George",NED,Men,Épée Team,Bronze
+1912,Stockholm,Fencing,Fencing,"ANSPACH, Henri",BEL,Men,Épée Team,Gold
+1912,Stockholm,Fencing,Fencing,"ANSPACH, Paul",BEL,Men,Épée Team,Gold
+1912,Stockholm,Fencing,Fencing,"DE MONTIGNY, Fernand",BEL,Men,Épée Team,Gold
+1912,Stockholm,Fencing,Fencing,"HENNET, Robert",BEL,Men,Épée Team,Gold
+1912,Stockholm,Fencing,Fencing,"OCHS, Jacques",BEL,Men,Épée Team,Gold
+1912,Stockholm,Fencing,Fencing,"ROM, François",BEL,Men,Épée Team,Gold
+1912,Stockholm,Fencing,Fencing,"SALMON, Gaston C.J.M.",BEL,Men,Épée Team,Gold
+1912,Stockholm,Fencing,Fencing,"WILLEMS, Victor",BEL,Men,Épée Team,Gold
+1912,Stockholm,Fencing,Fencing,"AMPHLETT, Edgar Montague",GBR,Men,Épée Team,Silver
+1912,Stockholm,Fencing,Fencing,"BLAKE, John Percy",GBR,Men,Épée Team,Silver
+1912,Stockholm,Fencing,Fencing,"DAWSON, Percival May",GBR,Men,Épée Team,Silver
+1912,Stockholm,Fencing,Fencing,"EVERITT, Arthur Francis G.",GBR,Men,Épée Team,Silver
+1912,Stockholm,Fencing,Fencing,"HOLT, Martin Drummond",GBR,Men,Épée Team,Silver
+1912,Stockholm,Fencing,Fencing,"MARTINEAU, Sydney",GBR,Men,Épée Team,Silver
+1912,Stockholm,Fencing,Fencing,"MONTGOMERIE, Robert Cecil",GBR,Men,Épée Team,Silver
+1912,Stockholm,Fencing,Fencing,"SELIGMAN, Edgar Isaac",GBR,Men,Épée Team,Silver
+1912,Stockholm,Fencing,Fencing,"VERDERBER, Richard",AUT,Men,Foil Individual,Bronze
+1912,Stockholm,Fencing,Fencing,"NADI, Nedo",ITA,Men,Foil Individual,Gold
+1912,Stockholm,Fencing,Fencing,"SPECIALE, Pietro",ITA,Men,Foil Individual,Silver
+1912,Stockholm,Fencing,Fencing,"MESZAROS, Ervin",HUN,Men,Sabre Individual,Bronze
+1912,Stockholm,Fencing,Fencing,"FUCHS, Jenö",HUN,Men,Sabre Individual,Gold
+1912,Stockholm,Fencing,Fencing,"BEKESSY, Béla",HUN,Men,Sabre Individual,Silver
+1912,Stockholm,Fencing,Fencing,"DE JONG, Adrianus Egbertus Willem",NED,Men,Sabre Team,Bronze
+1912,Stockholm,Fencing,Fencing,"DE JONGH, Hendrik Egb. Willem",NED,Men,Sabre Team,Bronze
+1912,Stockholm,Fencing,Fencing,"DOORMAN, Jetze",NED,Men,Sabre Team,Bronze
+1912,Stockholm,Fencing,Fencing,"SCALONGNE, Dirk",NED,Men,Sabre Team,Bronze
+1912,Stockholm,Fencing,Fencing,"VAN BLIJENBURGH, Willem Peter Hubert",NED,Men,Sabre Team,Bronze
+1912,Stockholm,Fencing,Fencing,"VAN ROSSEM, George",NED,Men,Sabre Team,Bronze
+1912,Stockholm,Fencing,Fencing,"BERTI, Laszlo",HUN,Men,Sabre Team,Gold
+1912,Stockholm,Fencing,Fencing,"FÖLDES, Deszö",HUN,Men,Sabre Team,Gold
+1912,Stockholm,Fencing,Fencing,"FUCHS, Jenö",HUN,Men,Sabre Team,Gold
+1912,Stockholm,Fencing,Fencing,"GERDE, Oskar",HUN,Men,Sabre Team,Gold
+1912,Stockholm,Fencing,Fencing,"MESZAROS, Ervin",HUN,Men,Sabre Team,Gold
+1912,Stockholm,Fencing,Fencing,"SCHENKER, Zoltan",HUN,Men,Sabre Team,Gold
+1912,Stockholm,Fencing,Fencing,"TOTH, Peter",HUN,Men,Sabre Team,Gold
+1912,Stockholm,Fencing,Fencing,"WERKNER, Lajos",HUN,Men,Sabre Team,Gold
+1912,Stockholm,Fencing,Fencing,"BOGEN, Albert",AUT,Men,Sabre Team,Silver
+1912,Stockholm,Fencing,Fencing,"CVETKO, Rudolf",AUT,Men,Sabre Team,Silver
+1912,Stockholm,Fencing,Fencing,"GOLLING, Friedrich",AUT,Men,Sabre Team,Silver
+1912,Stockholm,Fencing,Fencing,"HERSCHMANN, Otto",AUT,Men,Sabre Team,Silver
+1912,Stockholm,Fencing,Fencing,"SUTTNER, Andreas",AUT,Men,Sabre Team,Silver
+1912,Stockholm,Fencing,Fencing,"TRAMPLER, Reinhold",AUT,Men,Sabre Team,Silver
+1912,Stockholm,Fencing,Fencing,"VERDERBER, Richard",AUT,Men,Sabre Team,Silver
+1912,Stockholm,Football,Football,"BOUVY, Nicolaas Jan Jerome",NED,Men,Football,Bronze
+1912,Stockholm,Football,Football,"DE GROOT, Henri Franciscus",NED,Men,Football,Bronze
+1912,Stockholm,Football,Football,"DE KORVER, Johannes Marius",NED,Men,Football,Bronze
+1912,Stockholm,Football,Football,"DE WOLF, Nicolaas",NED,Men,Football,Bronze
+1912,Stockholm,Football,Football,"FEITH, Constant Willem",NED,Men,Football,Bronze
+1912,Stockholm,Football,Football,"GÖBEL, Marius Just",NED,Men,Football,Bronze
+1912,Stockholm,Football,Football,"LOTSY, Dirk Nicolaas",NED,Men,Football,Bronze
+1912,Stockholm,Football,Football,"TEN CATE, Caesar Herman",NED,Men,Football,Bronze
+1912,Stockholm,Football,Football,"VAN BREDA KOLFF, Jan Gualtherus",NED,Men,Football,Bronze
+1912,Stockholm,Football,Football,"VOS, Jan",NED,Men,Football,Bronze
+1912,Stockholm,Football,Football,"WIJNVELDT, David",NED,Men,Football,Bronze
+1912,Stockholm,Football,Football,"BERRY, Arthur",GBR,Men,Football,Gold
+1912,Stockholm,Football,Football,"BREBNER, Ronald Gilchrist",GBR,Men,Football,Gold
+1912,Stockholm,Football,Football,"BURN, Thomas Christopher",GBR,Men,Football,Gold
+1912,Stockholm,Football,Football,"DINES, James",GBR,Men,Football,Gold
+1912,Stockholm,Football,Football,"HANNEY, Edward T.",GBR,Men,Football,Gold
+1912,Stockholm,Football,Football,"HOARE, Gordon Rahere",GBR,Men,Football,Gold
+1912,Stockholm,Football,Football,"KNIGHT, Arthur Egerton",GBR,Men,Football,Gold
+1912,Stockholm,Football,Football,"LITTLEWORT, Henry Charles",GBR,Men,Football,Gold
+1912,Stockholm,Football,Football,"SHARPE, Ivor Gordon",GBR,Men,Football,Gold
+1912,Stockholm,Football,Football,"WALDEN, Harold Adrian",GBR,Men,Football,Gold
+1912,Stockholm,Football,Football,"WOODWARD, Vivian John",GBR,Men,Football,Gold
+1912,Stockholm,Football,Football,"BERTH, Paul Ludvig Laurits",DEN,Men,Football,Silver
+1912,Stockholm,Football,Football,"BUCHWALD, Charles",DEN,Men,Football,Silver
+1912,Stockholm,Football,Football,"CHRISTOFFERSEN, Hjalmar Johan",DEN,Men,Football,Silver
+1912,Stockholm,Football,Football,"HANSEN, Harald",DEN,Men,Football,Silver
+1912,Stockholm,Football,Football,"HANSEN, Sophus",DEN,Men,Football,Silver
+1912,Stockholm,Football,Football,"MIDDELBOE, Niels",DEN,Men,Football,Silver
+1912,Stockholm,Football,Football,"NIELSEN, Sofus Erhard",DEN,Men,Football,Silver
+1912,Stockholm,Football,Football,"OLSEN, Anton",DEN,Men,Football,Silver
+1912,Stockholm,Football,Football,"PETERSEN, Axel Karl",DEN,Men,Football,Silver
+1912,Stockholm,Football,Football,"SEIDELIN-NIELSEN, Ivar Likke",DEN,Men,Football,Silver
+1912,Stockholm,Football,Football,"WOLFHAGEN, Vilhelm",DEN,Men,Football,Silver
+1912,Stockholm,Gymnastics,Artistic G.,"TUNESI, Adolfo",ITA,Men,Individual All-Round,Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"BRAGLIA, G. Alberto",ITA,Men,Individual All-Round,Gold
+1912,Stockholm,Gymnastics,Artistic G.,"SEGURA, B. Louis",FRA,Men,Individual All-Round,Silver
+1912,Stockholm,Gymnastics,Artistic G.,"BETTS, Albert Edward",GBR,Men,Team Competition,Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"COWHIG, William",GBR,Men,Team Competition,Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"CROSS, Sidney",GBR,Men,Team Competition,Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"DICKASON, Harry",GBR,Men,Team Competition,Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"DRURY, Herbert James",GBR,Men,Team Competition,Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"FRANKLIN, Bernard Wallis",GBR,Men,Team Competition,Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"HANSON, Leonard",GBR,Men,Team Competition,Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"HODGETTS, Samuel",GBR,Men,Team Competition,Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"LUCK, Charles James",GBR,Men,Team Competition,Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"MAC KUNE, William",GBR,Men,Team Competition,Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"MCLEAN, Ronald Gordon",GBR,Men,Team Competition,Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"MESSENGER, Alfred William",GBR,Men,Team Competition,Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"OBERHOLZER, Henry Arthur",GBR,Men,Team Competition,Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"PEPPER, Edward Ernest",GBR,Men,Team Competition,Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"POTTS, Edward William",GBR,Men,Team Competition,Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"POTTS, Reginald Hubert",GBR,Men,Team Competition,Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"ROSS, George James",GBR,Men,Team Competition,Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"SIMMONS, Charles",GBR,Men,Team Competition,Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"SOUTHERN, Arthur George Heron",GBR,Men,Team Competition,Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"TITT, William",GBR,Men,Team Competition,Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"VIGURS, Charles Alfred",GBR,Men,Team Competition,Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"WALKER, Samuel John",GBR,Men,Team Competition,Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"WEST, Charles Joseph",GBR,Men,Team Competition,Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"WHITAKER, John T.",GBR,Men,Team Competition,Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"BIANCHI, Pietro",ITA,Men,Team Competition,Gold
+1912,Stockholm,Gymnastics,Artistic G.,"BONI, Guido",ITA,Men,Team Competition,Gold
+1912,Stockholm,Gymnastics,Artistic G.,"BRAGLIA, G. Alberto",ITA,Men,Team Competition,Gold
+1912,Stockholm,Gymnastics,Artistic G.,"DOMENICHELLI, Guiseppe",ITA,Men,Team Competition,Gold
+1912,Stockholm,Gymnastics,Artistic G.,"FREGOSI, Carlo",ITA,Men,Team Competition,Gold
+1912,Stockholm,Gymnastics,Artistic G.,"GOLLINI, Alfredo",ITA,Men,Team Competition,Gold
+1912,Stockholm,Gymnastics,Artistic G.,"LOI, Francesco",ITA,Men,Team Competition,Gold
+1912,Stockholm,Gymnastics,Artistic G.,"MANGIANTE, Giovanni",ITA,Men,Team Competition,Gold
+1912,Stockholm,Gymnastics,Artistic G.,"MANGIANTE, Lorenzo",ITA,Men,Team Competition,Gold
+1912,Stockholm,Gymnastics,Artistic G.,"MAZZAROCHI, Serafino",ITA,Men,Team Competition,Gold
+1912,Stockholm,Gymnastics,Artistic G.,"ROMANO, Guido",ITA,Men,Team Competition,Gold
+1912,Stockholm,Gymnastics,Artistic G.,"SALVI, Paolo",ITA,Men,Team Competition,Gold
+1912,Stockholm,Gymnastics,Artistic G.,"SAVORINI, Luciano",ITA,Men,Team Competition,Gold
+1912,Stockholm,Gymnastics,Artistic G.,"TUNESI, Adolfo",ITA,Men,Team Competition,Gold
+1912,Stockholm,Gymnastics,Artistic G.,"ZAMPORI, Giorgio",ITA,Men,Team Competition,Gold
+1912,Stockholm,Gymnastics,Artistic G.,"ZORZI, Angelo",ITA,Men,Team Competition,Gold
+1912,Stockholm,Gymnastics,Artistic G.,"ARADI, Lajos",HUN,Men,Team Competition,Silver
+1912,Stockholm,Gymnastics,Artistic G.,"BERKES, Jozsef",HUN,Men,Team Competition,Silver
+1912,Stockholm,Gymnastics,Artistic G.,"ERDÖDY, Imre",HUN,Men,Team Competition,Silver
+1912,Stockholm,Gymnastics,Artistic G.,"FOTI, Samu",HUN,Men,Team Competition,Silver
+1912,Stockholm,Gymnastics,Artistic G.,"GELLERT, Imre",HUN,Men,Team Competition,Silver
+1912,Stockholm,Gymnastics,Artistic G.,"HALMOS, Gyözö",HUN,Men,Team Competition,Silver
+1912,Stockholm,Gymnastics,Artistic G.,"HELLMICH, Otto",HUN,Men,Team Competition,Silver
+1912,Stockholm,Gymnastics,Artistic G.,"HERCZEG, Istvan",HUN,Men,Team Competition,Silver
+1912,Stockholm,Gymnastics,Artistic G.,"KERESZTESSY, Jozsef",HUN,Men,Team Competition,Silver
+1912,Stockholm,Gymnastics,Artistic G.,"KORPONAI, Janos",HUN,Men,Team Competition,Silver
+1912,Stockholm,Gymnastics,Artistic G.,"PASZTY, Elemer",HUN,Men,Team Competition,Silver
+1912,Stockholm,Gymnastics,Artistic G.,"PEDERY, Arpad",HUN,Men,Team Competition,Silver
+1912,Stockholm,Gymnastics,Artistic G.,"RETI, Jenö",HUN,Men,Team Competition,Silver
+1912,Stockholm,Gymnastics,Artistic G.,"SZÜTS, Ferenc",HUN,Men,Team Competition,Silver
+1912,Stockholm,Gymnastics,Artistic G.,"TERY, Ödön",HUN,Men,Team Competition,Silver
+1912,Stockholm,Gymnastics,Artistic G.,"TULI, Géza",HUN,Men,Team Competition,Silver
+1912,Stockholm,Gymnastics,Artistic G.,"ANDERSEN, Axel Sigurd",DEN,Men,"Team, Free System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"ANDERSEN, Hjalmart Nörregaard",DEN,Men,"Team, Free System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"BIRCH, Halvor",DEN,Men,"Team, Free System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"GRIMMELMANN, Hermann Johan",DEN,Men,"Team, Free System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"HANSEN, Aage Marius",DEN,Men,"Team, Free System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"HANSEN, Arvor",DEN,Men,"Team, Free System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"HANSEN, Christian Marius",DEN,Men,"Team, Free System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"JENSEN, Charles Christopher",DEN,Men,"Team, Free System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"JOHANSEN, Hjalmar Peter Martin",DEN,Men,"Team, Free System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"JÖRGENSEN, Poul Preben",DEN,Men,"Team, Free System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"JUUL-PETERSEN, Carl Julius",DEN,Men,"Team, Free System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"KREBS, Carl Immanuel",DEN,Men,"Team, Free System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"MADSEN, Svend Meulengracht",DEN,Men,"Team, Free System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"MÖLGAARD, Thomas Fredrik Hannibal",DEN,Men,"Team, Free System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"NIELSEN, Lukas Frederick Christian",DEN,Men,"Team, Free System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"NORDSTRÖM, Rikard Hannibal Wilhelm",DEN,Men,"Team, Free System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"OLSEN, Oluf",DEN,Men,"Team, Free System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"OLSEN, Steen Lerche",DEN,Men,"Team, Free System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"PETERSEN, Christian Edvin Oluf",DEN,Men,"Team, Free System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"PETERSEN, Niels Knudsen",DEN,Men,"Team, Free System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"SVENDSEN, Christian Valdemar",DEN,Men,"Team, Free System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"ABRAHAMSEN, Isak",NOR,Men,"Team, Free System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"BEYER, Hans",NOR,Men,"Team, Free System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"BJÖRNSSON, Hartmann",NOR,Men,"Team, Free System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"DAHL, John",NOR,Men,"Team, Free System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"ENGELSEN, Alfred",NOR,Men,"Team, Free System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"JOHNSEN, Bjarne",NOR,Men,"Team, Free System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"JÖRGENSEN, Sigurd",NOR,Men,"Team, Free System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"KNUDSEN, Knud Leonard",NOR,Men,"Team, Free System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"LIE, Alf",NOR,Men,"Team, Free System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"LIE, Rolf",NOR,Men,"Team, Free System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"LUND, Tor",NOR,Men,"Team, Free System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"MARTINSEN, Petter",NOR,Men,"Team, Free System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"MATHIESEN, Per Anton",NOR,Men,"Team, Free System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"OPDAHL, Jacob",NOR,Men,"Team, Free System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"OPDAHL, Nils",NOR,Men,"Team, Free System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"PETTERSEN, Bjarne Viktor",NOR,Men,"Team, Free System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"SAELEN, Frithjof",NOR,Men,"Team, Free System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"SCHIRMER, Öistein",NOR,Men,"Team, Free System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"SELENIUS, Georg",NOR,Men,"Team, Free System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"SIVERTSEN, Sigvard",NOR,Men,"Team, Free System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"SJURSEN, Robert",NOR,Men,"Team, Free System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"STRÖM, Einar",NOR,Men,"Team, Free System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"THORSTENSEN, Gabriel",NOR,Men,"Team, Free System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"THORSTENSEN, Thomas",NOR,Men,"Team, Free System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"VOSS, Nils",NOR,Men,"Team, Free System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"EKHOLM, Kaarlo Väinö",FIN,Men,"Team, Free System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"FORSSTRÖM, Eino Vilho",FIN,Men,"Team, Free System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"HYVÄRINEN, Eero",FIN,Men,"Team, Free System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"HYVÄRINEN, Mikko",FIN,Men,"Team, Free System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"ILMONIEMI, Tauno",FIN,Men,"Team, Free System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"KEINÄNEN, Ilmari",FIN,Men,"Team, Free System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"KIVENHEIMO, Hjalmari",FIN,Men,"Team, Free System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"LUND, Karl Fredrik",FIN,Men,"Team, Free System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"PELKONEN, Aarne",FIN,Men,"Team, Free System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"PERNAJA, Ilmari",FIN,Men,"Team, Free System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"RYDMAN, Arvid",FIN,Men,"Team, Free System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"SAASTAMOINEN, Eino",FIN,Men,"Team, Free System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"SALOVAARA, Aarne",FIN,Men,"Team, Free System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"SAMMALLAHTI, Heikki",FIN,Men,"Team, Free System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"SIROLA, Hannes",FIN,Men,"Team, Free System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"SUOMELA, Klaus Unno",FIN,Men,"Team, Free System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"TANNER, Lauri Arvo",FIN,Men,"Team, Free System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"TIIRI, Väinö Edvard",FIN,Men,"Team, Free System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"VÄHÄMÄKI, Kaarlo",FIN,Men,"Team, Free System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"VARTIA, Arvo",FIN,Men,"Team, Free System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"VASAMA, Kaarlo Jalmari",FIN,Men,"Team, Free System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"AMUNDSEN, Arthur M.",NOR,Men,"Team, Swedish System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"ANDERSEN, Jörgen Marius",NOR,Men,"Team, Swedish System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"BOYESEN, Trygve Carlsen",NOR,Men,"Team, Swedish System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"BRUSTAD, Georg",NOR,Men,"Team, Swedish System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"CHRISTENSEN, Conrad",NOR,Men,"Team, Swedish System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"ENGEBRETSEN, Eugene",NOR,Men,"Team, Swedish System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"ENGELSTAD, Oscar",NOR,Men,"Team, Swedish System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"ERIKSEN, Marius",NOR,Men,"Team, Swedish System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"HANSEN, Axel Henry",NOR,Men,"Team, Swedish System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"HOL, Peter",NOR,Men,"Team, Swedish System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"INGEBRETSEN, Olaf",NOR,Men,"Team, Swedish System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"JACOBSEN, Olof",NOR,Men,"Team, Swedish System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"JENSEN, Erling",NOR,Men,"Team, Swedish System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"JENSEN, Thor",NOR,Men,"Team, Swedish System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"OLSEN, Fritjof",NOR,Men,"Team, Swedish System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"OLSTAD, Oscar",NOR,Men,"Team, Swedish System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"PAULSEN, Edvin",NOR,Men,"Team, Swedish System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"PEDERSEN, Carl Alfred",NOR,Men,"Team, Swedish System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"PEDERSEN, Paul",NOR,Men,"Team, Swedish System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"ROBACK, Rolf",NOR,Men,"Team, Swedish System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"SMEBYE, Sigurd",NOR,Men,"Team, Swedish System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"THORKILDSEN, Thorleif",NOR,Men,"Team, Swedish System",Bronze
+1912,Stockholm,Gymnastics,Artistic G.,"BERTILSSON, Per Daniel",SWE,Men,"Team, Swedish System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"CARLBERG, Carl-Ehrenfried",SWE,Men,"Team, Swedish System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"GRANFELDT, Nils Daniel",SWE,Men,"Team, Swedish System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"HARTZELL, Curt",SWE,Men,"Team, Swedish System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"HOLMBERG, Osvald",SWE,Men,"Team, Swedish System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"HYLLANDER, Anders",SWE,Men,"Team, Swedish System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"JANSE, Axel Johan",SWE,Men,"Team, Swedish System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"KULLBERG, Anders Boo",SWE,Men,"Team, Swedish System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"LANDBERG, Sven",SWE,Men,"Team, Swedish System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"NILSSON, Per Einar",SWE,Men,"Team, Swedish System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"NORELIUS, Bengt Rudolf",SWE,Men,"Team, Swedish System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"NORLING, Axel",SWE,Men,"Team, Swedish System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"NORLING, Lars Daniel",SWE,Men,"Team, Swedish System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"ROSEN, Sven",SWE,Men,"Team, Swedish System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"SILFVERSKIÖLD, Nils",SWE,Men,"Team, Swedish System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"SILFVERSTRAND, Carl",SWE,Men,"Team, Swedish System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"SÖRENSON, John Emil",SWE,Men,"Team, Swedish System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"STIERNSPETZ, Yngve",SWE,Men,"Team, Swedish System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"SVENSSON, Carl-Erik",SWE,Men,"Team, Swedish System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"SVENSSON, Karl Johan",SWE,Men,"Team, Swedish System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"TORELL, Knut E.",SWE,Men,"Team, Swedish System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"WENNERHOLM, O. Edward",SWE,Men,"Team, Swedish System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"WERSÄLL, Claës A.",SWE,Men,"Team, Swedish System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"WIMAN, David",SWE,Men,"Team, Swedish System",Gold
+1912,Stockholm,Gymnastics,Artistic G.,"CHRISTENSEN, Sören Peter",DEN,Men,"Team, Swedish System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"ERIKSEN, Ingvald",DEN,Men,"Team, Swedish System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"FALCHE, George",DEN,Men,"Team, Swedish System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"GARP, Torkild",DEN,Men,"Team, Swedish System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"HANSEN, G. Rasmus E.",DEN,Men,"Team, Swedish System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"HANSEN, Hans Trier",DEN,Men,"Team, Swedish System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"HANSEN, Johannes",DEN,Men,"Team, Swedish System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"JENSEN, Jens Kristian",DEN,Men,"Team, Swedish System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"JENSEN, Sören Alfred",DEN,Men,"Team, Swedish System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"JENSEN, Valdemar",DEN,Men,"Team, Swedish System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"KIRK, Karl",DEN,Men,"Team, Swedish System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"KIRKEGAARD, Jens",DEN,Men,"Team, Swedish System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"KJEMS, Olaf Nielsen",DEN,Men,"Team, Swedish System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"LARSEN, Carl Otto Lauritz",DEN,Men,"Team, Swedish System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"LAURSEN, Jens Peter Martinus",DEN,Men,"Team, Swedish System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"LEFEVRE, Marius Ludvig",DEN,Men,"Team, Swedish System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"MARK, Poul Sörensen",DEN,Men,"Team, Swedish System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"OLSEN, Ejnar",DEN,Men,"Team, Swedish System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"PEDERSEN, Hans",DEN,Men,"Team, Swedish System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"PEDERSEN, Hans Ejler",DEN,Men,"Team, Swedish System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"PEDERSEN, Olaf",DEN,Men,"Team, Swedish System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"PEDERSEN, Peder Larsen",DEN,Men,"Team, Swedish System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"SÖRENSEN, Aksel",DEN,Men,"Team, Swedish System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"THAU, Martin Hansen",DEN,Men,"Team, Swedish System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"THORBORG, Sören Frederik",DEN,Men,"Team, Swedish System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"VADGAARD, Kristen Möller",DEN,Men,"Team, Swedish System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"VILLEMOES, Peder",DEN,Men,"Team, Swedish System",Silver
+1912,Stockholm,Gymnastics,Artistic G.,"VINTHER, Johannes Larsen",DEN,Men,"Team, Swedish System",Silver
+1912,Stockholm,Modern Pentathlon,Modern Pentath.,"DE LAVAL, Georg",SWE,Men,Individual Competition,Bronze
+1912,Stockholm,Modern Pentathlon,Modern Pentath.,"LILLIEHOOK, Gosta",SWE,Men,Individual Competition,Gold
+1912,Stockholm,Modern Pentathlon,Modern Pentath.,"ASBRINK, Gosta",SWE,Men,Individual Competition,Silver
+1912,Stockholm,Rowing,Rowing,"BJÖRNSTAD, Olaf",NOR,Men,Coxed Fours Jugriggers,Bronze
+1912,Stockholm,Rowing,Rowing,"HERSETH, Magnus",NOR,Men,Coxed Fours Jugriggers,Bronze
+1912,Stockholm,Rowing,Rowing,"HOLTER, Reidar Durie",NOR,Men,Coxed Fours Jugriggers,Bronze
+1912,Stockholm,Rowing,Rowing,"HÖYER, Claus",NOR,Men,Coxed Fours Jugriggers,Bronze
+1912,Stockholm,Rowing,Rowing,"OLSTAD, Frithiof",NOR,Men,Coxed Fours Jugriggers,Bronze
+1912,Stockholm,Rowing,Rowing,"ALLERT, Ejlert Arild Emil",DEN,Men,Coxed Fours Jugriggers,Gold
+1912,Stockholm,Rowing,Rowing,"HANSEN, Jörgen Christian",DEN,Men,Coxed Fours Jugriggers,Gold
+1912,Stockholm,Rowing,Rowing,"HARTMAN, Poul Richard",DEN,Men,Coxed Fours Jugriggers,Gold
+1912,Stockholm,Rowing,Rowing,"MÖLLER, Carl Martin August",DEN,Men,Coxed Fours Jugriggers,Gold
+1912,Stockholm,Rowing,Rowing,"PETERSEN, Carl Frederik",DEN,Men,Coxed Fours Jugriggers,Gold
+1912,Stockholm,Rowing,Rowing,"BRUHN-MÖLLER, William",SWE,Men,Coxed Fours Jugriggers,Silver
+1912,Stockholm,Rowing,Rowing,"BRUNKMAN, Conrad",SWE,Men,Coxed Fours Jugriggers,Silver
+1912,Stockholm,Rowing,Rowing,"DAHLBÄCK, Herman",SWE,Men,Coxed Fours Jugriggers,Silver
+1912,Stockholm,Rowing,Rowing,"ROSVALL, Ture",SWE,Men,Coxed Fours Jugriggers,Silver
+1912,Stockholm,Rowing,Rowing,"WILKENS, Wilhelm",SWE,Men,Coxed Fours Jugriggers,Silver
+1912,Stockholm,Rowing,Rowing,"BARTHOLOMAE, Fritz",GER,Men,Eight With Coxswain (8+),Bronze
+1912,Stockholm,Rowing,Rowing,"BARTHOLOMAE, Willi",GER,Men,Eight With Coxswain (8+),Bronze
+1912,Stockholm,Rowing,Rowing,"BROESKE, Max",GER,Men,Eight With Coxswain (8+),Bronze
+1912,Stockholm,Rowing,Rowing,"DEHN, Werner",GER,Men,Eight With Coxswain (8+),Bronze
+1912,Stockholm,Rowing,Rowing,"LIEBING, Otto",GER,Men,Eight With Coxswain (8+),Bronze
+1912,Stockholm,Rowing,Rowing,"MATHIAE, Hans",GER,Men,Eight With Coxswain (8+),Bronze
+1912,Stockholm,Rowing,Rowing,"REICHELT, Rudolf",GER,Men,Eight With Coxswain (8+),Bronze
+1912,Stockholm,Rowing,Rowing,"RUNGE, Kurt",GER,Men,Eight With Coxswain (8+),Bronze
+1912,Stockholm,Rowing,Rowing,"VETTER, Max",GER,Men,Eight With Coxswain (8+),Bronze
+1912,Stockholm,Rowing,Rowing,"BURGESS, Edgar Richard",GBR,Men,Eight With Coxswain (8+),Gold
+1912,Stockholm,Rowing,Rowing,"FLEMING, Philip",GBR,Men,Eight With Coxswain (8+),Gold
+1912,Stockholm,Rowing,Rowing,"GARTON, Arthur Stanley",GBR,Men,Eight With Coxswain (8+),Gold
+1912,Stockholm,Rowing,Rowing,"GILLAN, James Angus",GBR,Men,Eight With Coxswain (8+),Gold
+1912,Stockholm,Rowing,Rowing,"HORSFALL, Ewart Douglas",GBR,Men,Eight With Coxswain (8+),Gold
+1912,Stockholm,Rowing,Rowing,"KIRBY, Alister Graham",GBR,Men,Eight With Coxswain (8+),Gold
+1912,Stockholm,Rowing,Rowing,"SWANN, Sidney Ernest",GBR,Men,Eight With Coxswain (8+),Gold
+1912,Stockholm,Rowing,Rowing,"WELLS, Henry Bensley",GBR,Men,Eight With Coxswain (8+),Gold
+1912,Stockholm,Rowing,Rowing,"WORMALD, Leslie Graham",GBR,Men,Eight With Coxswain (8+),Gold
+1912,Stockholm,Rowing,Rowing,"BOURNE, Robert Croft",GBR,Men,Eight With Coxswain (8+),Silver
+1912,Stockholm,Rowing,Rowing,"BURDEKIN, Beaufort",GBR,Men,Eight With Coxswain (8+),Silver
+1912,Stockholm,Rowing,Rowing,"FISON, William Guy",GBR,Men,Eight With Coxswain (8+),Silver
+1912,Stockholm,Rowing,Rowing,"GILLESPIE, Thomas Cunningham",GBR,Men,Eight With Coxswain (8+),Silver
+1912,Stockholm,Rowing,Rowing,"LITTLEJOHN, Charles William Berry",GBR,Men,Eight With Coxswain (8+),Silver
+1912,Stockholm,Rowing,Rowing,"PARKER, William Lorenzo",GBR,Men,Eight With Coxswain (8+),Silver
+1912,Stockholm,Rowing,Rowing,"PITMAN, Frederick Archibald Hugo",GBR,Men,Eight With Coxswain (8+),Silver
+1912,Stockholm,Rowing,Rowing,"WALKER, John Drummond",GBR,Men,Eight With Coxswain (8+),Silver
+1912,Stockholm,Rowing,Rowing,"WIGGINS, Arthur Frederick Reginald",GBR,Men,Eight With Coxswain (8+),Silver
+1912,Stockholm,Rowing,Rowing,"BISGAARD, Erik",DEN,Men,Four-Oared Shell With Coxswain (4-),Bronze
+1912,Stockholm,Rowing,Rowing,"CLEMMENSEN, Eigil",DEN,Men,Four-Oared Shell With Coxswain (4-),Bronze
+1912,Stockholm,Rowing,Rowing,"FRANDSEN, Rasmus Peter",DEN,Men,Four-Oared Shell With Coxswain (4-),Bronze
+1912,Stockholm,Rowing,Rowing,"SIMONSEN, Mikael",DEN,Men,Four-Oared Shell With Coxswain (4-),Bronze
+1912,Stockholm,Rowing,Rowing,"THYMANN, Poul",DEN,Men,Four-Oared Shell With Coxswain (4-),Bronze
+1912,Stockholm,Rowing,Rowing,"ARNHEITER, Albert",GER,Men,Four-Oared Shell With Coxswain (4-),Gold
+1912,Stockholm,Rowing,Rowing,"FICKEISEN, Otto",GER,Men,Four-Oared Shell With Coxswain (4-),Gold
+1912,Stockholm,Rowing,Rowing,"FICKEISEN, Rudolf",GER,Men,Four-Oared Shell With Coxswain (4-),Gold
+1912,Stockholm,Rowing,Rowing,"LEISTER, Karl",GER,Men,Four-Oared Shell With Coxswain (4-),Gold
+1912,Stockholm,Rowing,Rowing,"WILKER, Hermann",GER,Men,Four-Oared Shell With Coxswain (4-),Gold
+1912,Stockholm,Rowing,Rowing,"BERESFORD, Julius",GBR,Men,Four-Oared Shell With Coxswain (4-),Silver
+1912,Stockholm,Rowing,Rowing,"CARR, Geoffrey",GBR,Men,Four-Oared Shell With Coxswain (4-),Silver
+1912,Stockholm,Rowing,Rowing,"LOGAN, Herbert Bruce",GBR,Men,Four-Oared Shell With Coxswain (4-),Silver
+1912,Stockholm,Rowing,Rowing,"ROUGHT, Charles Gardner",GBR,Men,Four-Oared Shell With Coxswain (4-),Silver
+1912,Stockholm,Rowing,Rowing,"VERNON, Karl",GBR,Men,Four-Oared Shell With Coxswain (4-),Silver
+1912,Stockholm,Rowing,Rowing,"BUTLER, Everard Burnside",CAN,Men,Single Sculls (1X),Bronze
+1912,Stockholm,Rowing,Rowing,"KUSIK, Mikhaïl Maksimilian",RU1,Men,Single Sculls (1X),Bronze
+1912,Stockholm,Rowing,Rowing,"KINNEAR, William Duthie",GBR,Men,Single Sculls (1X),Gold
+1912,Stockholm,Rowing,Rowing,"VEIRMAN, Polydore",BEL,Men,Single Sculls (1X),Silver
+1912,Stockholm,Sailing,Sailing,"Beloselsky-Belozersky, Esper Konstantinovich",RU1,Men,10M,Bronze
+1912,Stockholm,Sailing,Sailing,"BRASCHE, Ernest",RU1,Men,10M,Bronze
+1912,Stockholm,Sailing,Sailing,"LINDBLOM, Karl",RU1,Men,10M,Bronze
+1912,Stockholm,Sailing,Sailing,"PUSCHNITSKY, Nikolaï",RU1,Men,10M,Bronze
+1912,Stockholm,Sailing,Sailing,"RODIONOV, Aleksandr",RU1,Men,10M,Bronze
+1912,Stockholm,Sailing,Sailing,"SCHOMAKER, Iossif",RU1,Men,10M,Bronze
+1912,Stockholm,Sailing,Sailing,"STRAUCH, Filip",RU1,Men,10M,Bronze
+1912,Stockholm,Sailing,Sailing,"ERICSSON, Filip",SWE,Men,10M,Gold
+1912,Stockholm,Sailing,Sailing,"HELLSTRÖM, Carl Ludwig",SWE,Men,10M,Gold
+1912,Stockholm,Sailing,Sailing,"ISBERG, Paul",SWE,Men,10M,Gold
+1912,Stockholm,Sailing,Sailing,"LUNDEN, Humbert",SWE,Men,10M,Gold
+1912,Stockholm,Sailing,Sailing,"NYBERG, Herman",SWE,Men,10M,Gold
+1912,Stockholm,Sailing,Sailing,"ROSENWÄRD, Harry",SWE,Men,10M,Gold
+1912,Stockholm,Sailing,Sailing,"WALLERIUS, Eric G.",SWE,Men,10M,Gold
+1912,Stockholm,Sailing,Sailing,"WALLIN, Harald",SWE,Men,10M,Gold
+1912,Stockholm,Sailing,Sailing,"BJÖRKSTEN, Waldemar",FIN,Men,10M,Silver
+1912,Stockholm,Sailing,Sailing,"BJÖRNSTRÖM, Jacob Karl",FIN,Men,10M,Silver
+1912,Stockholm,Sailing,Sailing,"BRENNER, Bror Benedikt",FIN,Men,10M,Silver
+1912,Stockholm,Sailing,Sailing,"FRANCK, Allan",FIN,Men,10M,Silver
+1912,Stockholm,Sailing,Sailing,"LINDH, Erik",FIN,Men,10M,Silver
+1912,Stockholm,Sailing,Sailing,"PEKKALAINEN, Adolf Aarne",FIN,Men,10M,Silver
+1912,Stockholm,Sailing,Sailing,"WAHL, Harry",FIN,Men,10M,Silver
+1912,Stockholm,Sailing,Sailing,"ALFTHAN, Max",FIN,Men,12M,Bronze
+1912,Stockholm,Sailing,Sailing,"HARTVALL, Erik",FIN,Men,12M,Bronze
+1912,Stockholm,Sailing,Sailing,"HULLDEN, Jarl",FIN,Men,12M,Bronze
+1912,Stockholm,Sailing,Sailing,"JUSLEN, Sigurd",FIN,Men,12M,Bronze
+1912,Stockholm,Sailing,Sailing,"KROGIUS, Ernest Edvard",FIN,Men,12M,Bronze
+1912,Stockholm,Sailing,Sailing,"SANDELIN, Eino",FIN,Men,12M,Bronze
+1912,Stockholm,Sailing,Sailing,"SILEN, John",FIN,Men,12M,Bronze
+1912,Stockholm,Sailing,Sailing,"ANKER, Johan August",NOR,Men,12M,Gold
+1912,Stockholm,Sailing,Sailing,"BERTELSEN, Nils",NOR,Men,12M,Gold
+1912,Stockholm,Sailing,Sailing,"FALCH-LUND, Eilert",NOR,Men,12M,Gold
+1912,Stockholm,Sailing,Sailing,"HANSEN, Halfdan",NOR,Men,12M,Gold
+1912,Stockholm,Sailing,Sailing,"HEJE, Arnfinn Kolbjörn",NOR,Men,12M,Gold
+1912,Stockholm,Sailing,Sailing,"KONOW, Magnus",NOR,Men,12M,Gold
+1912,Stockholm,Sailing,Sailing,"LARSEN, Alfred",NOR,Men,12M,Gold
+1912,Stockholm,Sailing,Sailing,"LARSEN, Petter Andreas",NOR,Men,12M,Gold
+1912,Stockholm,Sailing,Sailing,"STAIB, Christian Frederik",NOR,Men,12M,Gold
+1912,Stockholm,Sailing,Sailing,"THAULOW, Carl Gustav",NOR,Men,12M,Gold
+1912,Stockholm,Sailing,Sailing,"BERGMAN, Per",SWE,Men,12M,Silver
+1912,Stockholm,Sailing,Sailing,"BERGSTRÖM, Dick",SWE,Men,12M,Silver
+1912,Stockholm,Sailing,Sailing,"BERGSTRÖM, Kurt",SWE,Men,12M,Silver
+1912,Stockholm,Sailing,Sailing,"CLASON, Hugo",SWE,Men,12M,Silver
+1912,Stockholm,Sailing,Sailing,"JOHNSON, Folke",SWE,Men,12M,Silver
+1912,Stockholm,Sailing,Sailing,"KANDER, Sigurd",SWE,Men,12M,Silver
+1912,Stockholm,Sailing,Sailing,"LAMBY, Nils",SWE,Men,12M,Silver
+1912,Stockholm,Sailing,Sailing,"LINDQVIST, Erik",SWE,Men,12M,Silver
+1912,Stockholm,Sailing,Sailing,"PERSSON, Nils",SWE,Men,12M,Silver
+1912,Stockholm,Sailing,Sailing,"SÄLLSTRÖM, Richard",SWE,Men,12M,Silver
+1912,Stockholm,Sailing,Sailing,"AUST, Otto",SWE,Men,6M,Bronze
+1912,Stockholm,Sailing,Sailing,"SANDBERG, Erik",SWE,Men,6M,Bronze
+1912,Stockholm,Sailing,Sailing,"SANDBERG, Harald",SWE,Men,6M,Bronze
+1912,Stockholm,Sailing,Sailing,"THUBE, Amédé",FRA,Men,6M,Gold
+1912,Stockholm,Sailing,Sailing,"THUBE, Gaston",FRA,Men,6M,Gold
+1912,Stockholm,Sailing,Sailing,"THUBE, Jacques",FRA,Men,6M,Gold
+1912,Stockholm,Sailing,Sailing,"HERSCHEND, Steen",DEN,Men,6M,Silver
+1912,Stockholm,Sailing,Sailing,"MEULENGRACHT-MADSEN, Hans",DEN,Men,6M,Silver
+1912,Stockholm,Sailing,Sailing,"THOMSEN, Sven Bernth",DEN,Men,6M,Silver
+1912,Stockholm,Sailing,Sailing,"AHNGER, Arthur",FIN,Men,8M,Bronze
+1912,Stockholm,Sailing,Sailing,"LINDH, Emil",FIN,Men,8M,Bronze
+1912,Stockholm,Sailing,Sailing,"TALLBERG, Bertil",FIN,Men,8M,Bronze
+1912,Stockholm,Sailing,Sailing,"TALLBERG, Gunnar",FIN,Men,8M,Bronze
+1912,Stockholm,Sailing,Sailing,"WESTLING, Georg",FIN,Men,8M,Bronze
+1912,Stockholm,Sailing,Sailing,"AAS, Thomas Valentin",NOR,Men,8M,Gold
+1912,Stockholm,Sailing,Sailing,"BRECKE, Andreas Bang",NOR,Men,8M,Gold
+1912,Stockholm,Sailing,Sailing,"CORNELIUS, Torleiv Schibsted",NOR,Men,8M,Gold
+1912,Stockholm,Sailing,Sailing,"GLAD, Thoralf",NOR,Men,8M,Gold
+1912,Stockholm,Sailing,Sailing,"JEBE, Christian Fredrik",NOR,Men,8M,Gold
+1912,Stockholm,Sailing,Sailing,"HENRIQUES, Emil",SWE,Men,8M,Silver
+1912,Stockholm,Sailing,Sailing,"HEYMAN, Bengt",SWE,Men,8M,Silver
+1912,Stockholm,Sailing,Sailing,"THIEL, Alvar",SWE,Men,8M,Silver
+1912,Stockholm,Sailing,Sailing,"WESTERMARK, Herbert",SWE,Men,8M,Silver
+1912,Stockholm,Sailing,Sailing,"WESTERMARK, Nils",SWE,Men,8M,Silver
+1912,Stockholm,Shooting,Shooting,"SWAHN, Oscar",SWE,Men,"100M Running Deer, Double Shots",Bronze
+1912,Stockholm,Shooting,Shooting,"LUNDEBERG, Ake",SWE,Men,"100M Running Deer, Double Shots",Gold
+1912,Stockholm,Shooting,Shooting,"BENEDICKS, Edward",SWE,Men,"100M Running Deer, Double Shots",Silver
+1912,Stockholm,Shooting,Shooting,"TOIVONEN, Nestori",FIN,Men,"100M Running Deer, Single Shots",Bronze
+1912,Stockholm,Shooting,Shooting,"SWAHN, Alfred",SWE,Men,"100M Running Deer, Single Shots",Gold
+1912,Stockholm,Shooting,Shooting,"LUNDEBERG, Ake",SWE,Men,"100M Running Deer, Single Shots",Silver
+1912,Stockholm,Shooting,Shooting,"LONDEN, Axel Fredrik",FIN,Men,"100M Running Deer, Single Shots, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"ROSENQUIST, Ernst Edvard",FIN,Men,"100M Running Deer, Single Shots, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"TOIVONEN, Nestori",FIN,Men,"100M Running Deer, Single Shots, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"WÄÄNÄNEN, Tivo",FIN,Men,"100M Running Deer, Single Shots, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"ARVIDSSON, Per Olof",SWE,Men,"100M Running Deer, Single Shots, Team",Gold
+1912,Stockholm,Shooting,Shooting,"LUNDEBERG, Ake",SWE,Men,"100M Running Deer, Single Shots, Team",Gold
+1912,Stockholm,Shooting,Shooting,"SWAHN, Alfred",SWE,Men,"100M Running Deer, Single Shots, Team",Gold
+1912,Stockholm,Shooting,Shooting,"SWAHN, Oscar",SWE,Men,"100M Running Deer, Single Shots, Team",Gold
+1912,Stockholm,Shooting,Shooting,"LEUSHNER, William F.",USA,Men,"100M Running Deer, Single Shots, Team",Silver
+1912,Stockholm,Shooting,Shooting,"LIBBEY, William",USA,Men,"100M Running Deer, Single Shots, Team",Silver
+1912,Stockholm,Shooting,Shooting,"MCDONNELL, William Neil",USA,Men,"100M Running Deer, Single Shots, Team",Silver
+1912,Stockholm,Shooting,Shooting,"WINANS, Walter",USA,Men,"100M Running Deer, Single Shots, Team",Silver
+1912,Stockholm,Shooting,Shooting,"VON HOLST, Johan Hübner",SWE,Men,25M Rapid Fire Pistol (60 Shots),Bronze
+1912,Stockholm,Shooting,Shooting,"LANE, Alfred P.",USA,Men,25M Rapid Fire Pistol (60 Shots),Gold
+1912,Stockholm,Shooting,Shooting,"PALEN, Paul",SWE,Men,25M Rapid Fire Pistol (60 Shots),Silver
+1912,Stockholm,Shooting,Shooting,"HIRD, Frederick S.",USA,Men,"25M Small Bore Rifle, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"LEUSHNER, William F.",USA,Men,"25M Small Bore Rifle, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"MCDONNELL, William Neil",USA,Men,"25M Small Bore Rifle, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"SPROUT, Warren A.",USA,Men,"25M Small Bore Rifle, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"BOIVIE, Gustav",SWE,Men,"25M Small Bore Rifle, Team",Gold
+1912,Stockholm,Shooting,Shooting,"CARLBERG, Eric",SWE,Men,"25M Small Bore Rifle, Team",Gold
+1912,Stockholm,Shooting,Shooting,"CARLBERG, G. Vilhelm",SWE,Men,"25M Small Bore Rifle, Team",Gold
+1912,Stockholm,Shooting,Shooting,"VON HOLST, Johan Hübner",SWE,Men,"25M Small Bore Rifle, Team",Gold
+1912,Stockholm,Shooting,Shooting,"MILNE, William",GBR,Men,"25M Small Bore Rifle, Team",Silver
+1912,Stockholm,Shooting,Shooting,"PEPE, Joseph",GBR,Men,"25M Small Bore Rifle, Team",Silver
+1912,Stockholm,Shooting,Shooting,"PIMM, William Edwin",GBR,Men,"25M Small Bore Rifle, Team",Silver
+1912,Stockholm,Shooting,Shooting,"STYLES, William Kensett",GBR,Men,"25M Small Bore Rifle, Team",Silver
+1912,Stockholm,Shooting,Shooting,"ERICSSON, Gideon",SWE,Men,25M Small Rifle,Bronze
+1912,Stockholm,Shooting,Shooting,"CARLBERG, G. Vilhelm",SWE,Men,25M Small Rifle,Gold
+1912,Stockholm,Shooting,Shooting,"VON HOLST, Johan Hübner",SWE,Men,25M Small Rifle,Silver
+1912,Stockholm,Shooting,Shooting,"LARSEN, Niels Hansen Ditlev",DEN,Men,300M Free Rifle 3 Positions (3X40 Shots),Bronze
+1912,Stockholm,Shooting,Shooting,"COLAS, Paul René",FRA,Men,300M Free Rifle 3 Positions (3X40 Shots),Gold
+1912,Stockholm,Shooting,Shooting,"MADSEN, Lars Jörgen",DEN,Men,300M Free Rifle 3 Positions (3X40 Shots),Silver
+1912,Stockholm,Shooting,Shooting,"DURANT, Hugh",GBR,Men,"30M Army Pistol, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"KEMPSTER, Albert Joseph",GBR,Men,"30M Army Pistol, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"POULTER, Horatio Orlando",GBR,Men,"30M Army Pistol, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"STEWART, Charles Edward",GBR,Men,"30M Army Pistol, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"CARLBERG, Eric",SWE,Men,"30M Army Pistol, Team",Gold
+1912,Stockholm,Shooting,Shooting,"CARLBERG, G. Vilhelm",SWE,Men,"30M Army Pistol, Team",Gold
+1912,Stockholm,Shooting,Shooting,"PALEN, Paul",SWE,Men,"30M Army Pistol, Team",Gold
+1912,Stockholm,Shooting,Shooting,"VON HOLST, Johan Hübner",SWE,Men,"30M Army Pistol, Team",Gold
+1912,Stockholm,Shooting,Shooting,"DE KACHE, Amos",RU1,Men,"30M Army Pistol, Team",Silver
+1912,Stockholm,Shooting,Shooting,"DE MELNITSKY, Nikolaï",RU1,Men,"30M Army Pistol, Team",Silver
+1912,Stockholm,Shooting,Shooting,"DE PANTELEYMONOFF, Georgi",RU1,Men,"30M Army Pistol, Team",Silver
+1912,Stockholm,Shooting,Shooting,"DE WEYLOCHNIKOFF, Pavel",RU1,Men,"30M Army Pistol, Team",Silver
+1912,Stockholm,Shooting,Shooting,"DURANT, Hugh",GBR,Men,"50M Army Pistol, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"KEMPSTER, Albert Joseph",GBR,Men,"50M Army Pistol, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"POULTER, Horatio Orlando",GBR,Men,"50M Army Pistol, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"STEWART, Charles Edward",GBR,Men,"50M Army Pistol, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"DIETZ, John A.",USA,Men,"50M Army Pistol, Team",Gold
+1912,Stockholm,Shooting,Shooting,"DOLFEN, Peter J.",USA,Men,"50M Army Pistol, Team",Gold
+1912,Stockholm,Shooting,Shooting,"LANE, Alfred P.",USA,Men,"50M Army Pistol, Team",Gold
+1912,Stockholm,Shooting,Shooting,"SEARS, Henry Francis",USA,Men,"50M Army Pistol, Team",Gold
+1912,Stockholm,Shooting,Shooting,"BOSTRÖM, Erik",SWE,Men,"50M Army Pistol, Team",Silver
+1912,Stockholm,Shooting,Shooting,"CARLBERG, Eric",SWE,Men,"50M Army Pistol, Team",Silver
+1912,Stockholm,Shooting,Shooting,"CARLBERG, G. Vilhelm",SWE,Men,"50M Army Pistol, Team",Silver
+1912,Stockholm,Shooting,Shooting,"DE LAVAL, Georg",SWE,Men,"50M Army Pistol, Team",Silver
+1912,Stockholm,Shooting,Shooting,"STEWART, Charles Edward",GBR,Men,50M Pistol (60 Shots),Bronze
+1912,Stockholm,Shooting,Shooting,"LANE, Alfred P.",USA,Men,50M Pistol (60 Shots),Gold
+1912,Stockholm,Shooting,Shooting,"DOLFEN, Peter J.",USA,Men,50M Pistol (60 Shots),Silver
+1912,Stockholm,Shooting,Shooting,"BURT, Harold",GBR,Men,50M Rifle Prone (60 Shots),Bronze
+1912,Stockholm,Shooting,Shooting,"HIRD, Frederick S.",USA,Men,50M Rifle Prone (60 Shots),Gold
+1912,Stockholm,Shooting,Shooting,"MILNE, William",GBR,Men,50M Rifle Prone (60 Shots),Silver
+1912,Stockholm,Shooting,Shooting,"HIRD, Frederick S.",USA,Men,"50M Small Bore Rifle, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"LEUSHNER, William F.",USA,Men,"50M Small Bore Rifle, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"OSBURN, Carl Townsend",USA,Men,"50M Small Bore Rifle, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"SPROUT, Warren A.",USA,Men,"50M Small Bore Rifle, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"LESSIMORE, Edward John",GBR,Men,"50M Small Bore Rifle, Team",Gold
+1912,Stockholm,Shooting,Shooting,"MURRAY, Robert Cook",GBR,Men,"50M Small Bore Rifle, Team",Gold
+1912,Stockholm,Shooting,Shooting,"PEPE, Joseph",GBR,Men,"50M Small Bore Rifle, Team",Gold
+1912,Stockholm,Shooting,Shooting,"PIMM, William Edwin",GBR,Men,"50M Small Bore Rifle, Team",Gold
+1912,Stockholm,Shooting,Shooting,"CARLBERG, Eric",SWE,Men,"50M Small Bore Rifle, Team",Silver
+1912,Stockholm,Shooting,Shooting,"CARLBERG, G. Vilhelm",SWE,Men,"50M Small Bore Rifle, Team",Silver
+1912,Stockholm,Shooting,Shooting,"NORDENSWAN, Arthur",SWE,Men,"50M Small Bore Rifle, Team",Silver
+1912,Stockholm,Shooting,Shooting,"ÖRTEGREN, Ruben",SWE,Men,"50M Small Bore Rifle, Team",Silver
+1912,Stockholm,Shooting,Shooting,"JACKSON, John E.",USA,Men,600M Free Rifle,Bronze
+1912,Stockholm,Shooting,Shooting,"COLAS, Paul René",FRA,Men,600M Free Rifle,Gold
+1912,Stockholm,Shooting,Shooting,"OSBURN, Carl Townsend",USA,Men,600M Free Rifle,Silver
+1912,Stockholm,Shooting,Shooting,"SKOGEN, Engebret",NOR,Men,"Army Rifle, 300M, 3 Positions",Bronze
+1912,Stockholm,Shooting,Shooting,"PROKOPP, Sandor",HUN,Men,"Army Rifle, 300M, 3 Positions",Gold
+1912,Stockholm,Shooting,Shooting,"OSBURN, Carl Townsend",USA,Men,"Army Rifle, 300M, 3 Positions",Silver
+1912,Stockholm,Shooting,Shooting,"GOELDEL, Alfred",GER,Men,"Clay Pigeons, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"GOELDEL, Horst",GER,Men,"Clay Pigeons, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"GRAF VON BERNSTORFF, Erich",GER,Men,"Clay Pigeons, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"KOCH, Erland",GER,Men,"Clay Pigeons, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"PREUSS, Albert",GER,Men,"Clay Pigeons, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"VON ZEIDLITZ UND LEIPE, Franz Freiherr",GER,Men,"Clay Pigeons, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"BILLINGS, Charles W.",USA,Men,"Clay Pigeons, Team",Gold
+1912,Stockholm,Shooting,Shooting,"GLEASON, Edward Francis",USA,Men,"Clay Pigeons, Team",Gold
+1912,Stockholm,Shooting,Shooting,"GRAHAM, James R.",USA,Men,"Clay Pigeons, Team",Gold
+1912,Stockholm,Shooting,Shooting,"HALL, Frank",USA,Men,"Clay Pigeons, Team",Gold
+1912,Stockholm,Shooting,Shooting,"HENDRICKSON, John H.",USA,Men,"Clay Pigeons, Team",Gold
+1912,Stockholm,Shooting,Shooting,"SPOTTS, Ralph Lewis",USA,Men,"Clay Pigeons, Team",Gold
+1912,Stockholm,Shooting,Shooting,"BUTT, John Hurst",GBR,Men,"Clay Pigeons, Team",Silver
+1912,Stockholm,Shooting,Shooting,"GROSVENOR, William Percy",GBR,Men,"Clay Pigeons, Team",Silver
+1912,Stockholm,Shooting,Shooting,"HUMBY, Harry Robinson",GBR,Men,"Clay Pigeons, Team",Silver
+1912,Stockholm,Shooting,Shooting,"MAUNDER, Alexander",GBR,Men,"Clay Pigeons, Team",Silver
+1912,Stockholm,Shooting,Shooting,"PALMER, Charles",GBR,Men,"Clay Pigeons, Team",Silver
+1912,Stockholm,Shooting,Shooting,"WHITAKER, George",GBR,Men,"Clay Pigeons, Team",Silver
+1912,Stockholm,Shooting,Shooting,"ANDERSEN, Niels",DEN,Men,"Free Rifle, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"HAJSLUND, Jens Madsen",DEN,Men,"Free Rifle, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"LARSEN, Laurits Teodor Christian",DEN,Men,"Free Rifle, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"LARSEN, Niels Hansen Ditlev",DEN,Men,"Free Rifle, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"MADSEN, Lars Jörgen",DEN,Men,"Free Rifle, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"OLSEN, Ole",DEN,Men,"Free Rifle, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"BJÖRKMAN, Carl",SWE,Men,"Free Rifle, Team",Gold
+1912,Stockholm,Shooting,Shooting,"BLOMQVIST, Erik",SWE,Men,"Free Rifle, Team",Gold
+1912,Stockholm,Shooting,Shooting,"ERIKSSON, Mauritz",SWE,Men,"Free Rifle, Team",Gold
+1912,Stockholm,Shooting,Shooting,"JOHANSSON, Carl Hugo",SWE,Men,"Free Rifle, Team",Gold
+1912,Stockholm,Shooting,Shooting,"JONSSON, Gustaf Adolf",SWE,Men,"Free Rifle, Team",Gold
+1912,Stockholm,Shooting,Shooting,"LARSSON, Bernhard",SWE,Men,"Free Rifle, Team",Gold
+1912,Stockholm,Shooting,Shooting,"HELGERUD, Albert",NOR,Men,"Free Rifle, Team",Silver
+1912,Stockholm,Shooting,Shooting,"LIBERG, Einar",NOR,Men,"Free Rifle, Team",Silver
+1912,Stockholm,Shooting,Shooting,"ÖSTENSEN, Östen",NOR,Men,"Free Rifle, Team",Silver
+1912,Stockholm,Shooting,Shooting,"SAETHER, Olaf",NOR,Men,"Free Rifle, Team",Silver
+1912,Stockholm,Shooting,Shooting,"SAETHER, Ole Andreas",NOR,Men,"Free Rifle, Team",Silver
+1912,Stockholm,Shooting,Shooting,"SKATTEBOE, Gudbrand Gudbrandsen",NOR,Men,"Free Rifle, Team",Silver
+1912,Stockholm,Shooting,Shooting,"BJÖRKMAN, Carl",SWE,Men,"Rifle, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"BJÖRKMAN, Tönnes",SWE,Men,"Rifle, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"ERIKSSON, Mauritz",SWE,Men,"Rifle, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"JERNSTRÖM, Verner",SWE,Men,"Rifle, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"JOHANSSON, Carl Hugo",SWE,Men,"Rifle, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"LARSSON, Bernhard",SWE,Men,"Rifle, Team",Bronze
+1912,Stockholm,Shooting,Shooting,"ADAMS, Harry Loren",USA,Men,"Rifle, Team",Gold
+1912,Stockholm,Shooting,Shooting,"BRIGGS, Allan Lindsay",USA,Men,"Rifle, Team",Gold
+1912,Stockholm,Shooting,Shooting,"BURDETTE, Cornelius L.",USA,Men,"Rifle, Team",Gold
+1912,Stockholm,Shooting,Shooting,"JACKSON, John E.",USA,Men,"Rifle, Team",Gold
+1912,Stockholm,Shooting,Shooting,"OSBURN, Carl Townsend",USA,Men,"Rifle, Team",Gold
+1912,Stockholm,Shooting,Shooting,"SPROUT, Warren A.",USA,Men,"Rifle, Team",Gold
+1912,Stockholm,Shooting,Shooting,"BURR, Henry Goerge",GBR,Men,"Rifle, Team",Silver
+1912,Stockholm,Shooting,Shooting,"FULTON, Arthur George",GBR,Men,"Rifle, Team",Silver
+1912,Stockholm,Shooting,Shooting,"OMMUNDSEN, Harcourt",GBR,Men,"Rifle, Team",Silver
+1912,Stockholm,Shooting,Shooting,"PARNELL, Edward Louis",GBR,Men,"Rifle, Team",Silver
+1912,Stockholm,Shooting,Shooting,"REID, James",GBR,Men,"Rifle, Team",Silver
+1912,Stockholm,Shooting,Shooting,"SKILTON, Edward",GBR,Men,"Rifle, Team",Silver
+1912,Stockholm,Shooting,Shooting,"BLAU, Harry",RU1,Men,Trap (125 Targets),Bronze
+1912,Stockholm,Shooting,Shooting,"GRAHAM, James R.",USA,Men,Trap (125 Targets),Gold
+1912,Stockholm,Shooting,Shooting,"GOELDEL, Alfred",GER,Men,Trap (125 Targets),Silver
+1912,Stockholm,Tennis,Tennis,"CANET, Albert Henri",FRA,Men,Doubles,Bronze
+1912,Stockholm,Tennis,Tennis,"MENY DE MARANGUE, Edouard Marie Marc",FRA,Men,Doubles,Bronze
+1912,Stockholm,Tennis,Tennis,"KITSON, Harry Austin",RSA,Men,Doubles,Gold
+1912,Stockholm,Tennis,Tennis,"WINSLOW, Charles Lyndhurst",RSA,Men,Doubles,Gold
+1912,Stockholm,Tennis,Tennis,"PIPES, Fritz Felix",AUT,Men,Doubles,Silver
+1912,Stockholm,Tennis,Tennis,"ZBORZIL, Arthur",AUT,Men,Doubles,Silver
+1912,Stockholm,Tennis,Tennis,"BEAMISH, Alfred Ernest",GBR,Men,Doubles Indoor,Bronze
+1912,Stockholm,Tennis,Tennis,"DIXON, Charles Percy",GBR,Men,Doubles Indoor,Bronze
+1912,Stockholm,Tennis,Tennis,"GERMOT, Maurice",FRA,Men,Doubles Indoor,Gold
+1912,Stockholm,Tennis,Tennis,"GOBERT, André Henri",FRA,Men,Doubles Indoor,Gold
+1912,Stockholm,Tennis,Tennis,"KEMPE, Carl",SWE,Men,Doubles Indoor,Silver
+1912,Stockholm,Tennis,Tennis,"SETTERWALL, Gunnar",SWE,Men,Doubles Indoor,Silver
+1912,Stockholm,Tennis,Tennis,"CANET, Albert Henri",FRA,Men,Mixed Doubles,Bronze
+1912,Stockholm,Tennis,Tennis,"SCHOMBURGK, Heinrich",GER,Men,Mixed Doubles,Gold
+1912,Stockholm,Tennis,Tennis,"SETTERWALL, Gunnar",SWE,Men,Mixed Doubles,Silver
+1912,Stockholm,Tennis,Tennis,"BROQUEDIS, Marguerite",FRA,Women,Mixed Doubles,Bronze
+1912,Stockholm,Tennis,Tennis,"KÖRING, Dora",GER,Women,Mixed Doubles,Gold
+1912,Stockholm,Tennis,Tennis,"FICK, Sigrid",SWE,Women,Mixed Doubles,Silver
+1912,Stockholm,Tennis,Tennis,"SETTERWALL, Gunnar",SWE,Men,Mixed Doubles Indoor,Bronze
+1912,Stockholm,Tennis,Tennis,"DIXON, Charles Percy",GBR,Men,Mixed Doubles Indoor,Gold
+1912,Stockholm,Tennis,Tennis,"BARRETT, Herbert Roper",GBR,Men,Mixed Doubles Indoor,Silver
+1912,Stockholm,Tennis,Tennis,"FICK, Sigrid",SWE,Women,Mixed Doubles Indoor,Bronze
+1912,Stockholm,Tennis,Tennis,"HANNAM, Edith Margaret",GBR,Women,Mixed Doubles Indoor,Gold
+1912,Stockholm,Tennis,Tennis,"AITCHISON, Francis Helen",GBR,Women,Mixed Doubles Indoor,Silver
+1912,Stockholm,Tennis,Tennis,"KREUZER, Oscar",GER,Men,Singles,Bronze
+1912,Stockholm,Tennis,Tennis,"WINSLOW, Charles Lyndhurst",RSA,Men,Singles,Gold
+1912,Stockholm,Tennis,Tennis,"KITSON, Harry Austin",RSA,Men,Singles,Silver
+1912,Stockholm,Tennis,Tennis,"BJURSTEDT, Anne Margrethe",NOR,Women,Singles,Bronze
+1912,Stockholm,Tennis,Tennis,"BROQUEDIS, Marguerite",FRA,Women,Singles,Gold
+1912,Stockholm,Tennis,Tennis,"KÖRING, Dora",GER,Women,Singles,Silver
+1912,Stockholm,Tennis,Tennis,"WILDING, Anthony Frederick",ANZ,Men,Singles Indoor,Bronze
+1912,Stockholm,Tennis,Tennis,"GOBERT, André Henri",FRA,Men,Singles Indoor,Gold
+1912,Stockholm,Tennis,Tennis,"DIXON, Charles Percy",GBR,Men,Singles Indoor,Silver
+1912,Stockholm,Tennis,Tennis,"PARTON, Mabel Branwell",GBR,Women,Singles Indoor,Bronze
+1912,Stockholm,Tennis,Tennis,"HANNAM, Edith Margaret",GBR,Women,Singles Indoor,Gold
+1912,Stockholm,Tennis,Tennis,"CASTENSCHIOLD, Thora Gerda Sophie",DEN,Women,Singles Indoor,Silver
+1912,Stockholm,Tug of War,Tug of War,"ANDERSSON, Arvid Leander",SWE,Men,Tug Of War,Gold
+1912,Stockholm,Tug of War,Tug of War,"BERGMAN, Adolf",SWE,Men,Tug Of War,Gold
+1912,Stockholm,Tug of War,Tug of War,"EDMAN, Johan Victor",SWE,Men,Tug Of War,Gold
+1912,Stockholm,Tug of War,Tug of War,"FREDRIKSSON, Erik Algot",SWE,Men,Tug Of War,Gold
+1912,Stockholm,Tug of War,Tug of War,"GUSTAFSSON, August",SWE,Men,Tug Of War,Gold
+1912,Stockholm,Tug of War,Tug of War,"JONSSON, Carl",SWE,Men,Tug Of War,Gold
+1912,Stockholm,Tug of War,Tug of War,"LARSSON, Eric Victor",SWE,Men,Tug Of War,Gold
+1912,Stockholm,Tug of War,Tug of War,"LINDSTRÖM, Carl Herbert",SWE,Men,Tug Of War,Gold
+1912,Stockholm,Tug of War,Tug of War,"CHAFFE, Walter",GBR,Men,Tug Of War,Silver
+1912,Stockholm,Tug of War,Tug of War,"DOWLER, Joseph",GBR,Men,Tug Of War,Silver
+1912,Stockholm,Tug of War,Tug of War,"HUMPHREYS, Frederick Harkness",GBR,Men,Tug Of War,Silver
+1912,Stockholm,Tug of War,Tug of War,"HYNES, Mathias",GBR,Men,Tug Of War,Silver
+1912,Stockholm,Tug of War,Tug of War,"MILLS, Edwin Archer",GBR,Men,Tug Of War,Silver
+1912,Stockholm,Tug of War,Tug of War,"MUNRO, Alexander",GBR,Men,Tug Of War,Silver
+1912,Stockholm,Tug of War,Tug of War,"SEWELL, John",GBR,Men,Tug Of War,Silver
+1912,Stockholm,Tug of War,Tug of War,"SHEPHERD, James",GBR,Men,Tug Of War,Silver
+1912,Stockholm,Wrestling,Wrestling Gre-R,"LASANEN, Otto",FIN,Men,- 60KG (Featherweight),Bronze
+1912,Stockholm,Wrestling,Wrestling Gre-R,"KOSKELO, Kaarlo",FIN,Men,- 60KG (Featherweight),Gold
+1912,Stockholm,Wrestling,Wrestling Gre-R,"GERSTÄCKER, Georg",GER,Men,- 60KG (Featherweight),Silver
+1912,Stockholm,Wrestling,Wrestling Gre-R,"JENSEN, Sören Marius",DEN,Men,+ 82.5KG (Super Heavyweight),Bronze
+1912,Stockholm,Wrestling,Wrestling Gre-R,"SAARELA, Urjö Erik Mikael",FIN,Men,+ 82.5KG (Super Heavyweight),Gold
+1912,Stockholm,Wrestling,Wrestling Gre-R,"OLIN, Johan Fredrik",FIN,Men,+ 82.5KG (Super Heavyweight),Silver
+1912,Stockholm,Wrestling,Wrestling Gre-R,"MATIASSON, Edvin",SWE,Men,60 - 67.5KG (Lightweight),Bronze
+1912,Stockholm,Wrestling,Wrestling Gre-R,"VÄRE, Eemil Ernesti",FIN,Men,60 - 67.5KG (Lightweight),Gold
+1912,Stockholm,Wrestling,Wrestling Gre-R,"MALMSTRÖM, Gustaf H.",SWE,Men,60 - 67.5KG (Lightweight),Silver
+1912,Stockholm,Wrestling,Wrestling Gre-R,"ASIKAINEN, Alfred",FIN,Men,67.5 - 75KG (Middleweight),Bronze
+1912,Stockholm,Wrestling,Wrestling Gre-R,"JOHANSSON, Claes",SWE,Men,67.5 - 75KG (Middleweight),Gold
+1912,Stockholm,Wrestling,Wrestling Gre-R,"KLEIN, Martin",RU1,Men,67.5 - 75KG (Middleweight),Silver
+1912,Stockholm,Wrestling,Wrestling Gre-R,"VARGA, Béla",HUN,Men,75 - 82.5KG (Light-Heavyweight),Bronze
+1912,Stockholm,Wrestling,Wrestling Gre-R,"AHLGREN, Anders",SWE,Men,75 - 82.5KG (Light-Heavyweight),Silver
+1912,Stockholm,Wrestling,Wrestling Gre-R,"BÖHLING, Ivar Theodor",FIN,Men,75 - 82.5KG (Light-Heavyweight),Silver
